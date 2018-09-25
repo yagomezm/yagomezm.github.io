@@ -7,7 +7,7 @@ body{
 }
 path {  stroke: #fff; }
 path:hover {  opacity:0.9; }
-rect:hover {  fill:blue; }
+rect:hover {  fill:dodgerblue; }
 .axis {  font: 10px sans-serif; }
 .legend tr{    border-bottom:1px solid grey; }
 .legend tr:first-child{    border-top:1px solid grey; }
@@ -34,16 +34,19 @@ rect:hover {  fill:blue; }
     align:right;
     width:50px;
 }
-
+H1.titulo {text-align: center;}
+H2.subtitulo {text-align: center;}
 </style>
 <body>
+<h1 class= titulo>Cultivos en Colombia Años 2011 - 2015</h1>
+<h2 class=subtitulo>Producción en millones de pesos</h2>
 <div id='dashboard'>
 </div>
 <script src="https://d3js.org/d3.v5.min.js"></script>
 <script>
 function dashboard(id, fData){
     var barColor = 'steelblue';
-    function segColor(c){ return {Algodon:"#807dba", Arroz:"#e08214", Frijol:"#41ab5d", Habichuela:"#407ab0", Maiz:"#308055", Melon:"#450050", Patilla:"#e58214", Pepino:"#45abdd"}[c]; }
+    function segColor(c){ return {Algodon:"#807dba", Arroz:"#F5BCA9", Frijol:"#FA58F4", Habichuela:"#E2A9F3", Maiz:"#308055", Melon:"#450050", Patilla:"#e58214", Pepino:"#45abdd"}[c]; }
     
     // compute total for each anio.
     fData.forEach(function(d){d.total=d.prod.Algodon+d.prod.Arroz+d.prod.Frijol+d.prod.Habichuela+d.prod.Maiz+d.prod.Melon+d.prod.Patilla+d.prod.Pepino;});
