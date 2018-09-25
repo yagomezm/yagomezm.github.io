@@ -7,7 +7,7 @@ body{
 }
 path {  stroke: #fff; }
 path:hover {  opacity:0.9; }
-rect:hover {  fill:blue; }
+rect:hover {  fill:dodgerblue; }
 .axis {  font: 10px sans-serif; }
 .legend tr{    border-bottom:1px solid grey; }
 .legend tr:first-child{    border-top:1px solid grey; }
@@ -34,16 +34,20 @@ rect:hover {  fill:blue; }
     align:right;
     width:50px;
 }
-
+H1.titulo {text-align: center;}
 </style>
 <body>
+<h1 class= titulo>Cultivos Departamento Sucre - Colombia Años 2011 - 2015</h1>
+<h4>Esta visualización permite resumir cómo ha evolucionado la producción de cultivos (millones de pesos) en el departamento de Sucre entre los años 2011 y 2015 y su respectiva distribución. En el bar chart se presenta el valor total de la producción en un año específico, al desplazarse con el mouse sobre estos, en la parte derecha se despliega un pie chart donde se encuentra la distribución de cada cultivo y sobre el pie chart se da click en un cultivo específico y se observará en el barchart cómo ha sido el comportamiento en cada año de dicho cultivo.
+
+</h4>
 <div id='dashboard'>
 </div>
 <script src="https://d3js.org/d3.v5.min.js"></script>
 <script>
 function dashboard(id, fData){
     var barColor = 'steelblue';
-    function segColor(c){ return {Algodon:"#807dba", Arroz:"#e08214", Frijol:"#41ab5d", Habichuela:"#407ab0", Maiz:"#308055", Melon:"#450050", Patilla:"#e58214", Pepino:"#45abdd"}[c]; }
+    function segColor(c){ return {Algodon:"#807dba", Arroz:"#e58214", Frijol:"#FA58F4", Habichuela:"#E2A9F3", Maiz:"#308055", Melon:"#450050", Patilla:"#F5BCA9", Pepino:"#45abdd"}[c]; }
     
     // compute total for each anio.
     fData.forEach(function(d){d.total=d.prod.Algodon+d.prod.Arroz+d.prod.Frijol+d.prod.Habichuela+d.prod.Maiz+d.prod.Melon+d.prod.Patilla+d.prod.Pepino;});
@@ -98,7 +102,7 @@ function dashboard(id, fData){
             .attr("x", function(d) { return x(d[0]); })
             .attr("y", function(d) { return y(d[1]); })
             //.attr("width", x.rangeBand()) //cambiado
-			.attr("width", x.bandwidth()-10) //Al gusto de Yenny
+			.attr("width", x.bandwidth()-10) 
             .attr("height", function(d) { return hGDim.h - y(d[1]); })
             .attr('fill',barColor)
             .on("mouseover",mouseover)// mouseover is defined below.
