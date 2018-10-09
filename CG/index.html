@@ -1,0 +1,187 @@
+<html>
+	<head>
+		<meta charset="utf-8">
+		<script src="https://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+		<script src="https://d3js.org/d3-color.v1.min.js"></script>
+		<script src="https://d3js.org/d3-interpolate.v1.min.js"></script>
+		<script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+		<link href="http://fonts.googleapis.com/css?family=Bevan|Cardo" rel="stylesheet" type="text/css">
+		<link rel="stylesheet" href="style.css" />
+	</head>
+	<body >
+		<div id="main-wrapper">
+			<div id="content">
+				<h1>Anomal&iacute;as en el Cambio Climático por Calentamiento Global</h1>
+				<p>El cambio climático hace tiempo que dejó de ser una curiosidad científica y ya no es solo una de las muchas preocupaciones ambientales y regulatorias. Como ha dicho el Secretario General de las Naciones Unidas, es el problema ambiental más importante y primordial de nuestro tiempo y el mayor desafío que enfrentan los reguladores ambientales. Es una crisis creciente con aspectos económicos, de salud, seguridad, producción de alimentos y otras dimensiones. <a href="https://na.unep.net/geas/climate-change.php">Continuar Leyendo...</a></p>
+				<p style="color:#087181">Mueva el mouse en el grafico de la derecha para comenzar a explorar datos.</p>
+				<h2></h2>
+				<div id="vis">
+					<svg id="main-plot"></svg>
+				</div>
+				<div id="cite">Proyecto bajo <a href="https://opensource.org/licenses/MIT">licencia MIT.</a> Fuente de datos :  <a href="http://data.giss.nasa.gov/gistemp/">NASA</a>; Graficado por: <a href="http://github.com/yagomezm">Yenny Gomez</a> como parte de bonificación de primer parcial del<a href="https://uniandes.edu.co/"> curso de Visual Analytics de los Andes</a> ; Inspirado en <a href="http://projects.flowingdata.com/life-expectancy/">Nathan Yau</a>; 2018</div>
+			</div> 
+		</div>
+		<script src="app.js"></script>
+		<div style = "margin-left:200;margin-right:200;padding:10" class=WordSection1>
+		   <p class=MsoNormal><span style='color:black'>En la visualización interactiva, el
+			line chart de la parte derecha muestra la tendencia del comportamiento del
+			calentamiento global anual desde 1880 hasta 2017 y en la parte izquierda se
+			muestra un bar chart que representa el comportamiento de las temperaturas en un
+			año específico.<o:p></o:p></span></p>
+
+			<p class=MsoNormal><span style='color:black'>La caracterización de esta visualización
+			teniendo en cuenta el Framework de Tamara <span class=SpellE>Munzner</span> es:<o:p></o:p></span></p>
+
+			<p class=MsoNormal><span class=SpellE><span style='color:black'><b>What</b></span></span><span
+			style='color:black'><o:p></o:p></span></p>
+
+			<p class=MsoListParagraphCxSpFirst style='text-indent:-18.0pt;mso-list:l1 level1 lfo6'><![if !supportLists]><span
+			style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+			Symbol;color:black'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			</span></span></span><![endif]><span style='color:black'>Tipo de datos: <span
+			class=SpellE>Items</span> (Registro por año, con la temperatura global, por
+			meses y hemisferio norte y sur)) y atributos<o:p></o:p></span></p>
+
+			<p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt;mso-list:l1 level1 lfo6'><![if !supportLists]><span
+			style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+			Symbol;color:black'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			</span></span></span><![endif]><span class=SpellE><span style='color:black'>Dataset</span></span><span
+			style='color:black'>: Tabla que contiene 33 atributos de los cuales se
+			utilizaron:<o:p></o:p></span></p>
+
+			<p class=MsoListParagraphCxSpMiddle style='margin-left:72.0pt;mso-add-space:
+			auto;text-indent:-18.0pt;mso-list:l1 level2 lfo6'><![if !supportLists]><span
+			style='font-family:"Courier New";mso-fareast-font-family:"Courier New";
+			color:black'><span style='mso-list:Ignore'>o<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
+			</span></span></span><![endif]><span class=SpellE><span style='color:black'>Year</span></span><span
+			style='color:black'>: año en que fueron tomadas las mediciones de temperatura.
+			Atributo Ordenado-Ordinal- Secuencial<o:p></o:p></span></p>
+
+			<p class=MsoListParagraphCxSpMiddle style='margin-left:72.0pt;mso-add-space:
+			auto;text-indent:-18.0pt;mso-list:l1 level2 lfo6'><![if !supportLists]><span
+			style='font-family:"Courier New";mso-fareast-font-family:"Courier New";
+			color:black'><span style='mso-list:Ignore'>o<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
+			</span></span></span><![endif]><span style='color:black'>Temperatura: <span
+			style='mso-spacerun:yes'> </span>atributo <span class=SpellE><span class=GramE>temporal,Ordenado</span></span>
+			– Cuantitativo – Divergente.<o:p></o:p></span></p>
+
+			<p class=MsoListParagraphCxSpLast style='margin-left:72.0pt;mso-add-space:auto;
+			text-indent:-18.0pt;mso-list:l1 level2 lfo6'><![if !supportLists]><span
+			style='font-family:"Courier New";mso-fareast-font-family:"Courier New";
+			color:black'><span style='mso-list:Ignore'>o<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
+			</span></span></span><![endif]><span style='color:black'>Meses: atributo
+			ordenado – cuantitativo - cíclico<o:p></o:p></span></p>
+
+			<p class=MsoNormal><span style='color:black'><o:p>&nbsp;</o:p></span></p>
+
+			<p class=MsoNormal><span class=SpellE><span style='color:black'><b>Why</b></span></span><span
+			style='color:black'><o:p></o:p></span></p>
+
+			<p class=MsoListParagraphCxSpFirst style='text-indent:-18.0pt;mso-list:l7 level1 lfo7'><![if !supportLists]><span
+			style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+			Symbol;color:black'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			</span></span></span><![endif]><span style='color:black'>Tarea principal:
+			Identificar la tendencia en los cambios de temperatura entre los años 1880 a
+			2017. (Framework Tamara: <span class=SpellE>Identify</span> - <span
+			class=SpellE>Trends</span>)<o:p></o:p></span></p>
+
+			<p class=MsoListParagraphCxSpLast style='text-indent:-18.0pt;mso-list:l7 level1 lfo7'><![if !supportLists]><span
+			style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+			Symbol;color:black'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			</span></span></span><![endif]><span style='color:black'>Tarea secundaria: Comparar
+			las tendencias de aumento en la temperatura en los diferentes <span
+			class=GramE>años.(</span> Framework Tamara: Compare -<span class=SpellE>Trends</span>)</span><o:p></o:p></span></p>
+
+			<p class=MsoNormal><span style='color:black'><o:p>&nbsp;</o:p></span></p>
+
+			<p class=MsoNormal><span class=SpellE><span style='color:black'><b>How</b></span></span><span
+			style='color:black'><o:p></o:p></span></p>
+
+			<p class=MsoListParagraphCxSpFirst style='text-indent:-18.0pt;mso-list:l5 level1 lfo8'><![if !supportLists]><span
+			style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+			Symbol;color:black'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			</span></span></span><![endif]><span style='color:black'>Marcas: Líneas<o:p></o:p></span></p>
+
+			<p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt;mso-list:l5 level1 lfo8'><![if !supportLists]><span
+			style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+			Symbol;color:black'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			</span></span></span><![endif]><span style='color:black'>Canales:<o:p></o:p></span></p>
+
+			<p class=MsoListParagraphCxSpMiddle style='margin-left:72.0pt;mso-add-space:
+			auto;text-indent:-18.0pt;mso-list:l5 level2 lfo8'><![if !supportLists]><span
+			style='font-family:"Courier New";mso-fareast-font-family:"Courier New";
+			color:black'><span style='mso-list:Ignore'>o<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
+			</span></span></span><![endif]><span style='color:black'>Posición vertical para
+			el atributo temperatura en cada uno de los meses (Bar chart)<o:p></o:p></span></p>
+
+			<p class=MsoListParagraphCxSpMiddle style='margin-left:72.0pt;mso-add-space:
+			auto;text-indent:-18.0pt;mso-list:l5 level2 lfo8'><![if !supportLists]><span
+			style='font-family:"Courier New";mso-fareast-font-family:"Courier New";
+			color:black'><span style='mso-list:Ignore'>o<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
+			</span></span></span><![endif]><span style='color:black'>Posición horizontal
+			para los años (Line chart)<o:p></o:p></span></p>
+
+			<p class=MsoListParagraphCxSpMiddle style='margin-left:72.0pt;mso-add-space:
+			auto;text-indent:-18.0pt;mso-list:l5 level2 lfo8'><![if !supportLists]><span
+			style='font-family:"Courier New";mso-fareast-font-family:"Courier New";
+			color:black'><span style='mso-list:Ignore'>o<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
+			</span></span></span><![endif]><span style='color:black'>Saturación de color.<o:p></o:p></span></p>
+
+			<p class=MsoListParagraphCxSpLast style='margin-left:72.0pt;mso-add-space:auto;
+			text-indent:-18.0pt;mso-list:l5 level2 lfo8'><![if !supportLists]><span
+			style='font-family:"Courier New";mso-fareast-font-family:"Courier New";
+			color:black'><span style='mso-list:Ignore'>o<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
+			</span></span></span><![endif]><span style='color:black'>Longitud de las barras
+			(bar chart) delta de temperatura.<o:p></o:p></span></p>
+
+			<p class=MsoNormal><span style='color:black'>Interacciones: <o:p></o:p></span></p>
+
+			<p class=MsoNormal><span style='color:black'>El usuario se ubica en un año
+			específico en el Line chart y se muestra la temperatura global, la temperatura
+			en el hemisferio norte y la temperatura en el hemisferio sur, adicionalmente en
+			la parte izquierda (bar chart) se podrá observar los valores de la temperatura por
+			mes global y para cada hemisferio para el año seleccionado.<o:p></o:p></span></p>
+
+			<p class=MsoNormal><span style='color:black'><o:p>&nbsp;</o:p></span></p>
+
+			<p class=MsoNormal><span class=SpellE><span style='color:black'><b>Insights</b></span></span><span
+			style='color:black'>:<o:p></o:p></span></p>
+
+			<p class=MsoListParagraphCxSpFirst style='text-indent:-18.0pt;mso-list:l4 level1 lfo9'><![if !supportLists]><span
+			style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+			Symbol;color:black'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			</span></span></span><![endif]><span style='color:black'>En el Line chart se
+			puede observar que de manera global la temperatura tiene tendencia al
+			crecimiento, pero del año 1880 al <span class=GramE>1980 <span
+			style='mso-spacerun:yes'> </span>(</span>1 siglo) se observa un crecimiento
+			gradual de 0.75 grados centígrados, pero de 1980 al presente la tierra ha
+			subido aproximadamente 1 grado centígrado, en tan solo 37 años, que se nota con
+			el crecimiento abrupto en la curva de crecimiento anual.<o:p></o:p></span></p>
+
+			<p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt;mso-list:l4 level1 lfo9'><![if !supportLists]><span
+			style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+			Symbol;color:black'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			</span></span></span><![endif]><span style='color:black'>Se observa que el
+			hemisferio norte hasta 1920 se conservó por debajo del promedio o en el
+			promedio de la temperatura global, pero de ahí en adelante el hemisferio norte
+			muestra una fuerte tendencia de crecimiento en la temperatura por encima del
+			promedio global de la tierra, como se puede ver en el año 2016 el incremento o
+			delta del hemisferio norte es de 1.64 duplicando el promedio del hemisferio sur
+			0.88 grados centígrados.<o:p></o:p></span></p>
+
+			<p class=MsoListParagraphCxSpLast style='text-indent:-18.0pt;mso-list:l4 level1 lfo9'><![if !supportLists]><span
+			style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+			Symbol;color:black'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			</span></span></span><![endif]><span style='color:black'>Al seleccionar el año
+			2016 en el line chart, se puede observar en el bar chart que la temperatura en
+			el hemisferio norte tiene unos cambios muy altos hasta en los meses fríos
+			indicando esto que los países ubicados en ese hemisferio están afectando en
+			gran medida el cambio climático debido al calentamiento global influenciado por
+			ellos.<o:p></o:p></span></p>
+
+			<a href = https://github.com/yagomezm/CalentamientoGlobal>Ver código en GitHub</a>
+
+		</div>
+
+	</body>
+</html>
