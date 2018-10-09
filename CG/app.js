@@ -17,10 +17,10 @@
     var datasetS;
 
     d3.csv('./HNorte.csv', parseInts, function (csvN) {datasetN = csvN;});
-    setTimeout(function(){console.log(datasetN);},200);
+    setTimeout(function(){console.log(datasetN);},2000);
 
     d3.csv('./HSUR.csv', parseInts, function (csvS) {datasetS = csvS;});
-    setTimeout(function(){console.log(datasetS);},200);
+    setTimeout(function(){console.log(datasetS);},2000);
 
     d3.csv('./data.csv', parseInts, function (csv) {
         var chart1 = svg.append('g')
