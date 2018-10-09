@@ -19,7 +19,7 @@
     d3.csv('./HNorte.csv', parseInts, function (csvN) {datasetN = csvN;});
     setTimeout(function(){console.log(datasetN);},200);
 
-    d3.csv('./HSur.csv', parseInts, function (csvS) {datasetS = csvS;});
+    d3.csv('./HSUR.csv', parseInts, function (csvS) {datasetS = csvS;});
     setTimeout(function(){console.log(datasetS);},200);
 
     d3.csv('./data.csv', parseInts, function (csv) {
