@@ -44,15 +44,15 @@ text {
 }
 #temp-label {
 	font-size: 15pt;
-	stroke: #999;
+	stroke: #666;
 }
 #temp-labelS {
 	font-size: 15pt;
-	stroke: #559;
+	stroke: #05A557;
 }
 #temp-labelN {
 	font-size: 15pt;
-	stroke: #a55;
+	stroke: #A117F0;
 }
 .axis-legend {
 	font-size: 12pt;
