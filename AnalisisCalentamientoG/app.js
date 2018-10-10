@@ -176,7 +176,9 @@
             var lineData = [];
 			lineData.push([0, tempScale(0)]);
 			lineData.push([chart1Width, tempScale(0)]);
-			
+	    var lineDatay = [];
+			lineDatay.push([0, tempScale(0)]);
+			lineDatay.push([chart2Width, tempScale(0)]);
             var lineFunction = d3.svg.line()
                          .x(function(d) { return d[0]; })
                          .y(function(d) { return d[1]; })
@@ -186,7 +188,15 @@
                             .attr("d", lineFunction(lineData))
                             .attr("stroke", "black")
                             .attr("stroke-width", 1)
-                            .attr("fill", "none");
+                            .attr("fill", "none")
+	    		    .style('Stroke-dasharray','5 5');
+		
+	    var line0y = chart2.append('path')
+                            .attr('d', lineFunction(lineDatay))
+                            .attr('stroke', '#CDCDCD')
+                            .attr('stroke-width', 1)
+                            .attr('fill', 'none')
+                            .style('Stroke-dasharray','10 10');
 			
             var labelt = chart1.selectAll('text.lt').data(months);
             labelt.enter().append('svg:text').attr('class', 'lt');
