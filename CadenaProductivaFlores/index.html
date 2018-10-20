@@ -1,0 +1,259 @@
+<html>
+	<head>
+		<meta charset="utf-8">
+        <!--<script type="text/javascript" src="js/d3.js"></script>-->
+        <script src="https://d3js.org/d3.v5.min.js"></script>
+		<script src="https://d3js.org/d3-color.v1.min.js"></script>
+		<script src="https://d3js.org/d3-interpolate.v1.min.js"></script>
+		<script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+		<script src="https://d3js.org/d3-dispatch.v1.min.js"></script>
+<script src="https://d3js.org/d3-ease.v1.min.js"></script>
+<script src="https://d3js.org/d3-selection.v1.min.js"></script>
+<script src="https://d3js.org/d3-timer.v1.min.js"></script>
+<script src="https://d3js.org/d3-transition.v1.min.js"></script>
+		<link href="http://fonts.googleapis.com/css?family=Bevan|Cardo" rel="stylesheet" type="text/css">
+		<link rel="stylesheet" href="style.css" />
+	</head>
+	<body >
+		<div id="main-wrapper">
+			<div id="content">
+				<h1 align="center">Exportación de Productos que hacen parte de la cadena productiva de Flores</h1>
+				<p>El sector floricultor de Colombia es uno de los más importantes en la economía del país, a continuación podremos observar cómo ha sido  el comportamiento de las exportaciones de bulbos en reposo vegetativo, musgos- líquenes y plantas vivas que son productos de la cadena productiva de flores. <a href="https://www.datos.gov.co/Agricultura-y-Desarrollo-Rural/Cadena-Productiva-Flores-Exportaciones/hieb-cqrb">Continuar Leyendo...</a></p>
+				<h3 style="color:#087181">Mueva el mouse en el grafico de la derecha para comenzar a explorar datos.</h3>
+				<div>
+					<svg>
+					<g transform="translate(0,0)">
+						<rect class="rd1" x="0" y="0" rx="2" ry="2" width="200" height="10" fill='orange'>
+						</rect>
+						<svg width="200px" height="30px"> 
+							<text x="50%" y="70%" alignment-baseline="middle" text-anchor="middle" fill="black" stroke="none">Datos de exportación de plantas vivas
+							</text>	
+						 </svg> 			
+					</g>
+					<g transform="translate(0,30)">
+						<rect class="rd1" x="0" y="0" rx="2" ry="2" width="200" height="10" fill='#A117F0'>
+						</rect>
+						<svg width="200px" height="30px"> 
+							<text x="50%" y="70%" alignment-baseline="middle" text-anchor="middle" fill="black" stroke="none">Datos de exportación de Bulbos
+							</text>	
+						 </svg> 			
+					</g>
+					<g transform="translate(0,60)">
+						<rect class="rd3" x="0" y="0" rx="2" ry="2" width="200" height="10" fill='#05A557'>
+						</rect>
+						<svg width="200px" height="30px"> 
+							<text x="50%" y="70%" alignment-baseline="middle" text-anchor="middle" fill="black" stroke="none">Datos de Musgos y Liquenes
+							</text>	
+						 </svg> 			
+					</g>
+				</svg>
+				</div>			
+				<div id="vis">
+					<svg id="main-plot"></svg>
+				</div>
+				<div id="cite">Proyecto bajo <a href="https://opensource.org/licenses/MIT">licencia MIT.</a> Fuente de datos :  <a href="https://www.datos.gov.co/Agricultura-y-Desarrollo-Rural/Cadena-Productiva-Flores-Exportaciones/hieb-cqrb">Datos Abiertos Gobierno Digital</a>; Graficado por: <a href="http://github.com/yagomezm">Yenny Gomez</a> como tarea No 4 del <a href="https://uniandes.edu.co/"> curso de Visual Analytics de los Andes</a> ; 2018</div>
+			</div> 
+		</div>
+		<script src="app.js"></script>
+		<div id=content2>
+		  
+
+				<p class=MsoNormal style='text-align:justify'>Fuente de datos para desarrollar
+				la <span class=SpellE>viz</span>: <a
+				href="https://www.datos.gov.co/Agricultura-y-Desarrollo-Rural/Cadena-Productiva-Flores-Exportaciones/hieb-cqrb">https://www.datos.gov.co/Agricultura-y-Desarrollo-Rural/Cadena-Productiva-Flores-Exportaciones/hieb-cqrb</a></p>
+
+				<p class=MsoNormal style='text-align:justify'><o:p>&nbsp;</o:p></p>
+
+				<p class=MsoNormal style='text-align:justify'>Para lograr esta visualización se
+				trabajó con el Framework de Tamara <span class=SpellE>Munzner</span> y a
+				continuación se describen los pasos realizados:<o:p></o:p></p>
+
+				<p class=MsoNormal style='text-align:justify'><o:p>&nbsp;</o:p></p>
+
+				<h3 class=MsoNormal style='text-align:justify'> Abstracción de datos (<span
+				class=SpellE>What</span>)<o:p></o:p></h3>
+
+				<p class=MsoNormal style='text-align:justify'>El <span class=SpellE>dataset</span>
+				utilizado es de tipo <span class=SpellE><span class=GramE>Temporal,contiene</span></span>
+				79.772 (<span class=SpellE>items</span>) y 18 <span class=SpellE>atributos,para</span>
+				la realización del proyecto se tomaron los atributos:<o:p></o:p></p>
+
+				<p class=MsoNormal style='text-align:justify'>- <span class=SpellE>Anio</span>(<span
+				class=SpellE>Year</span><span class=GramE>) :</span> Ordenado - cuantitativo -
+				secuencial<o:p></o:p></p>
+
+				<p class=MsoNormal style='text-align:justify'>- Mes (<span class=SpellE>Months</span>):
+				Ordinal - Cíclico<o:p></o:p></p>
+
+				<p class=MsoNormal style='text-align:justify'>- <span class=SpellE>PaísDestino</span>
+				(<span class=SpellE>Countries</span>): Categórico<o:p></o:p></p>
+
+				<p class=MsoNormal style='text-align:justify'>- Toneladas (por mes<span
+				class=GramE>):Ordenado</span> - cuantitativo -secuencial<o:p></o:p></p>
+
+				<p class=MsoNormal style='text-align:justify'>- Producto: Categórica<o:p></o:p></p>
+
+				<p class=MsoNormal style='text-align:justify'><o:p>&nbsp;</o:p></p>
+
+				<p class=MsoNormal style='text-align:justify'>Se derivaron atributos como:<o:p></o:p></p>
+
+				<p class=MsoNormal style='text-align:justify'>- Promedio de toneladas
+				exportadas por año<o:p></o:p></p>
+
+				<p class=MsoNormal style='text-align:justify'>- Total de toneladas exportadas
+				por año y país.<o:p></o:p></p>
+
+				<p class=MsoNormal style='text-align:justify'><o:p>&nbsp;</o:p></p>
+
+				<h3 class=MsoNormal style='text-align:justify'> Abstracción de Tareas (<span
+				class=SpellE>Why</span>)<o:p></o:p></h3>
+
+				<p class=MsoNormal style='text-align:justify'><o:p>&nbsp;</o:p></p>
+
+				<p class=MsoNormal style='text-align:justify'>Tarea Principal<o:p></o:p></p>
+
+				<p class=MsoNormal style='text-align:justify'><o:p>&nbsp;</o:p></p>
+
+				<p class=MsoNormal style='text-align:justify'>Compare - <span class=SpellE>Trends</span>,
+				de las exportaciones de los tres productos que hacen parte de la cadena
+				productiva de flores. <o:p></o:p></p>
+
+				<p class=MsoNormal style='text-align:justify'><o:p>&nbsp;</o:p></p>
+
+				<p class=MsoNormal style='text-align:justify'>Tareas secundarias:<o:p></o:p></p>
+
+				<p class=MsoNormal style='text-align:justify'><o:p>&nbsp;</o:p></p>
+
+				<p class=MsoNormal style='text-align:justify'>1. Derive - <span class=SpellE>Features</span>,
+				se deriva el atributo promedio de toneladas exportadas por año, utilizada en el
+				line chart, al igual que el atributo total toneladas exportadas por año a un
+				país.<o:p></o:p></p>
+
+				<p class=MsoNormal style='text-align:justify'>2. <span class=SpellE>Identify</span>
+				- <span class=SpellE>Trends</span>, permite identificar un producto y su
+				comportamiento en el tiempo.<o:p></o:p></p>
+
+				<p class=MsoNormal style='text-align:justify'>3. <span class=SpellE>Summarize</span>
+				- <span class=SpellE>Features</span>, para ver el comportamiento global de las
+				exportaciones por producto y toneladas en un determinado año para un país
+				destino.<o:p></o:p></p>
+
+				<p class=MsoNormal style='text-align:justify'>4. Compare- <span class=SpellE><span
+				class=GramE>Distribution,Compara</span></span> las toneladas exportadas por año
+				a cada país por producto versus el total de exportaciones del año y en el bar
+				chart compara las toneladas exportadas por mes en un determinado año.<o:p></o:p></p>
+
+				<p class=MsoNormal style='text-align:justify'><o:p>&nbsp;</o:p></p>
+
+				<h3 class=MsoNormal style='text-align:justify'> Marcas y Canales (<span
+				class=SpellE>How</span>)<o:p></o:p></h3>
+
+				<p class=MsoNormal style='text-align:justify'><o:p>&nbsp;</o:p></p>
+
+				<p class=MsoNormal style='text-align:justify'>Para la tarea principal y la
+				tarea secundaria 2 se utiliza el <span class=SpellE>idiom</span>: <span
+				class=SpellE>multi</span> series line chart<o:p></o:p></p>
+
+				<p class=MsoNormal style='text-align:justify'>Marcas: líneas<o:p></o:p></p>
+
+				<p class=MsoNormal style='text-align:justify'>Canales: <o:p></o:p></p>
+
+				<p class=MsoNormal style='text-align:justify'>- Posición horizontal <span
+				class=SpellE>express</span>, para la variable años. <o:p></o:p></p>
+
+				<p class=MsoNormal style='text-align:justify'>- Posición Vertical <span
+				class=SpellE>express</span>, para representar las toneladas promedio por año
+				exportadas.<o:p></o:p></p>
+
+				<p class=MsoNormal style='text-align:justify'>- Color <span class=SpellE>hue</span>
+				para representar el producto.<o:p></o:p></p>
+
+				<p class=MsoNormal style='text-align:justify'>El <span class=SpellE>multi</span>
+				line chart permite hacer <span class=SpellE>juxtapose</span>.<o:p></o:p></p>
+
+				<p class=MsoNormal style='text-align:justify'><o:p>&nbsp;</o:p></p>
+
+				<p class=MsoNormal style='text-align:justify'>Para las tareas secundarias 3 y
+				4, se utiliza el <span class=SpellE>idiom</span>: bar chart<o:p></o:p></p>
+
+				<p class=MsoNormal style='text-align:justify'>Marcas: líneas<o:p></o:p></p>
+
+				<p class=MsoNormal style='text-align:justify'>Canales:<o:p></o:p></p>
+
+				<p class=MsoNormal style='text-align:justify'>Para el bar chart donde se
+				muestran los meses los canales son:<o:p></o:p></p>
+
+				<p class=MsoNormal style='text-align:justify'>- Posición vertical <span
+				class=SpellE>express</span>, para las toneladas exportadas por mes<o:p></o:p></p>
+
+				<p class=MsoNormal style='text-align:justify'>- Posición horizontal <span
+				class=SpellE>separate</span>, <span class=SpellE>order</span>, para mostrar los
+				meses.<o:p></o:p></p>
+
+				<p class=MsoNormal style='text-align:justify'>- Longitud <span class=SpellE>express</span>,
+				toneladas exportadas por mes y producto.<o:p></o:p></p>
+
+				<p class=MsoNormal style='text-align:justify'><o:p>&nbsp;</o:p></p>
+
+				<p class=MsoNormal style='text-align:justify'>Para el <span class=SpellE>barchart</span>
+				donde se muestran los países los canales son:<o:p></o:p></p>
+
+				<p class=MsoNormal style='text-align:justify'>- Posición vertical <span
+				class=SpellE>express</span>, para las toneladas exportadas por año<o:p></o:p></p>
+
+				<p class=MsoNormal style='text-align:justify'>- Posición horizontal <span
+				class=SpellE>separate</span>, <span class=SpellE>order</span>, para mostrar los
+				países.<o:p></o:p></p>
+
+				<p class=MsoNormal style='text-align:justify'>- Longitud <span class=SpellE>express</span>,
+				toneladas exportadas por año y producto.<o:p></o:p></p>
+
+				<p class=MsoNormal style='text-align:justify'><o:p>&nbsp;</o:p></p>
+
+				<h3 class=MsoNormal style='text-align:justify'> Interacciones<o:p></o:p></h3>
+
+				<p class=MsoNormal style='text-align:justify'>En el <span class=SpellE>multi</span>-line
+				chart se observa la tendencia de exportaciones por producto y toneladas
+				promedio en el período 2009 a 2017, al elegir un año, en el bar chart de la
+				izquierda se podrá observar cómo fue la distribución de toneladas exportadas
+				por mes y en el bar chart de la parte inferior se observarán los países a donde
+				se realizaron las mayores importaciones en el año filtrado distribuidas por
+				producto. <o:p></o:p></p>
+
+				<p class=MsoNormal style='text-align:justify'><o:p>&nbsp;</o:p></p>
+
+				<h3 class=MsoNormal style='text-align:justify'> <span class=SpellE>Insights</span><o:p></o:p></h3>
+
+				<p class=MsoNormal style='text-align:justify'><o:p>&nbsp;</o:p></p>
+
+				<p class=MsoNormal style='text-align:justify'>- Observando las distribuciones
+				de exportaciones a los países se observa que la mayoría de países que importan
+				estos follajes son de América, siendo que las flores tienen gran acogida en los
+				países <span class=GramE>Europeos</span> y asiáticos.<o:p></o:p></p>
+
+				<p class=MsoNormal style='text-align:justify'>- En las distribuciones por
+				países se puede ver como Curazao presentó un importante crecimiento en la
+				importación de musgos y líquenes del año 2016 con 71.76 toneladas pasó a 2017
+				con 314.08 toneladas.<o:p></o:p></p>
+
+				<p class=MsoNormal style='text-align:justify'>- Observando la tendencia en el <span
+				class=SpellE>multi</span> line chart por producto podemos ver cómo a partir del
+				año 2013 el producto de musgos y líquenes ha presentado mayor crecimiento que
+				las plantas vivas y los bulbos en reposo vegetativo.<o:p></o:p></p>
+
+				<p class=MsoNormal style='text-align:justify'>- En el bar chart donde se muestra
+				la información por meses se observa que de la serie de años 2009-2017 el mes de
+				marzo del año 2009 fue el mes donde mayores exportaciones de musgo y líquenes
+				se hicieron (820.94) de las cuales fue Curazao el país destino con mayores
+				importaciones 747.17 toneladas.</p>
+
+				<p class=MsoNormal style='text-align:justify'><o:p>&nbsp;</o:p></p>
+
+	
+
+			<a href = https://github.com/yagomezm/CadenaProductivaFlores>Ver código en GitHub</a>
+
+		</div>
+
+	</body>
+</html>

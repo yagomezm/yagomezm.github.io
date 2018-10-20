@@ -1,4 +1,5 @@
-(function init() {
+//(function init() {
+(async function init() {
     'use strict';
 
     var margin = {top: 50, right: 40, bottom: 50, left: 40},
@@ -13,16 +14,31 @@
         .attr('height', chartHeight + margin.top + margin.bottom);
 
     var months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
-    var datasetN;
-    var datasetS;
+    //var datasetN;
+    //var datasetS;
 
+/*
     d3.csv('./HNorte.csv', parseInts, function (csvN) {datasetN = csvN;});
     setTimeout(function(){console.log(datasetN);},200);
+*/
+//    d3.csv('./HNorte.csv', parseInts).then(function (csvN) {datasetN = csvN;});
+    const datasetN = await d3.csv("./HNorte.csv", parseInts);
+//   console.log(datasetN);
+//setTimeout(function(){console.log(datasetN);},200);
 
-    d3.csv('./HSur.csv', parseInts, function (csvS) {datasetS = csvS;});
+/*
+    d3.csv('./HSUR.csv', parseInts, function (csvS) {datasetS = csvS;});
     setTimeout(function(){console.log(datasetS);},200);
+*/
+//    d3.csv('./HSUR.csv', parseInts).then(function (csvS) {datasetS = csvS;});
+    const datasetS = await d3.csv("./HSUR.csv", parseInts);
+//    console.log(datasetS);
 
-    d3.csv('./data.csv', parseInts, function (csv) {
+//    d3.csv('./data.csv', parseInts, function (csv) {
+    d3.csv('./data.csv', parseInts).then(function (csv) {
+//    const csv = await d3.csv("./data.csv", parseInts);
+//    console.log(csv);
+
         var chart1 = svg.append('g')
             .attr('id', 'montly-chart')
             .attr('class', 'chart')
@@ -36,10 +52,12 @@
             .attr('width', chart2Width)
             .attr('height', chartHeight);
 
-        var monthScale = d3.scale.ordinal().domain(months).rangeBands([0, chart1Width], 0.1);
+//        var monthScale = d3.scale.ordinal().domain(months).rangeBands([0, chart1Width], 0.1);
+        var monthScale = d3.scaleBand().domain(months).range([0, chart1Width], 0.1);
         var minYear = d3.min(csv, function(row) {return row['Year']});
         var maxYear = d3.max(csv, function(row) {return row['Year']});
-        var yearScale = d3.scale.linear().domain([minYear, maxYear]).range([0, chart2Width]);
+//        var yearScale = d3.scale.linear().domain([minYear, maxYear]).range([0, chart2Width]);
+        var yearScale = d3.scaleLinear().domain([minYear, maxYear]).range([0, chart2Width]);
         var minTemp = d3.min(csv, function(row) {return row['Glob']});
 		var minTempN = d3.min(csv, function(row) {return row['NHem']});
 		var minTempS = d3.min(csv, function(row) {return row['SHem']});
@@ -48,19 +66,31 @@
         var maxTempN = d3.max(csv, function(row) {return row['NHem']});
         var maxTempS = d3.max(csv, function(row) {return row['SHem']});
 		maxTemp = Math.max(maxTemp, maxTempN, maxTempS);
-		
-        var tempScale = d3.scale.linear().domain([minTemp - 30, maxTemp + 20]).range([chartHeight, 0]);
-        var colorScale = d3.scale.linear().domain([minTemp, maxTemp]).range([0, 195]);
+        console.log(minTemp);
+        console.log(maxTemp);
+
+//        var tempScale = d3.scale.linear().domain([minTemp - 30, maxTemp + 20]).range([chartHeight, 0]);
+        var tempScale = d3.scaleLinear().domain([minTemp - 30, maxTemp + 20]).range([chartHeight, 0]);
+//        console.log(tempScale(0));
+
+//        var colorScale = d3.scale.linear().domain([minTemp, maxTemp]).range([0, 195]);
+        var colorScale = d3.scaleLinear().domain([minTemp, maxTemp]).range([0, 195]);
 		var maxAbsTemp = Math.max(Math.abs(minTemp), Math.abs(maxTemp));		
-        var colorScale2 = d3.scale.linear().domain([-maxAbsTemp, maxAbsTemp]).range([0.85, -0.05]);
+//        var colorScale2 = d3.scale.linear().domain([-maxAbsTemp, maxAbsTemp]).range([0.85, -0.05]);
+        var colorScale2 = d3.scaleLinear().domain([-maxAbsTemp, maxAbsTemp]).range([0.85, -0.05]);
 	  
         var doubleFormatter = d3.format('.2f');
         var tempFormatter = function tempFormatter(d) {return doubleFormatter(d / 100) + ' \u00B0C';}
-        var xAxis1 = d3.svg.axis().scale(monthScale).orient('bottom').outerTickSize(0);
-        var xAxis2 = d3.svg.axis().scale(yearScale).orient('bottom').outerTickSize(0).tickFormat(function (d) {return d;});
-        var yAxisLeft1 = d3.svg.axis().scale(tempScale).orient('left').tickSize(0, 0).tickPadding(20).tickFormat(tempFormatter);
-        var yAxisRight1 = d3.svg.axis().scale(tempScale).orient('right').ticks(0).outerTickSize(0);
-        var yAxisEmpty = d3.svg.axis().scale(tempScale).orient('right').ticks(0).outerTickSize(0);
+//        var xAxis1 = d3.svg.axis().scale(monthScale).orient('bottom').outerTickSize(0);
+        var xAxis1 = d3.axisBottom(monthScale).tickSizeOuter(0);
+//        var xAxis2 = d3.svg.axis().scale(yearScale).orient('bottom').outerTickSize(0).tickFormat(function (d) {return d;});
+        var xAxis2 = d3.axisBottom(yearScale).tickSizeOuter(0).tickFormat(function (d) {return d;});
+//        var yAxisLeft1 = d3.svg.axis().scale(tempScale).orient('left').tickSize(0, 0).tickPadding(20).tickFormat(tempFormatter);
+        var yAxisLeft1 = d3.axisLeft(tempScale).tickSize(0, 0).tickPadding(20).tickFormat(tempFormatter);
+//        var yAxisRight1 = d3.svg.axis().scale(tempScale).orient('right').ticks(0).outerTickSize(0);
+        var yAxisRight1 = d3.axisRight(tempScale).tickSizeOuter(0).ticks(0);
+//        var yAxisEmpty = d3.svg.axis().scale(tempScale).orient('right').ticks(0).outerTickSize(0);
+        var yAxisEmpty = d3.axisRight(tempScale).tickSizeOuter(0).ticks(0);
 
         chart1.append('g').attr('class', 'axis x-axis month-axis').attr('transform', 'translate(0, ' + chartHeight + ')').call(xAxis1);
         chart1.append('g').attr('class', 'axis y-axis temp-axis').call(yAxisEmpty);
@@ -71,42 +101,69 @@
         chart2.append('g').attr('class', 'axis y-axis temp-axis').attr('transform', 'translate(' + chart2Width + ', 0)').call(yAxisEmpty);
 
         var avgLine = chart1.append('svg:line').attr('class', 'line').attr('id', 'avg-line');
-        var graph2 = chart2.append('svg:path').attr('class', 'line graph');
-        var graphSH = chart2.append('svg:path').attr('class', 'line graphSH').attr('id','linegraphS');
-        var graphNH = chart2.append('svg:path').attr('class', 'line graphNH').attr('id','linegraphN');
-		
+//        var graph2 = chart2.append('svg:path').attr('class', 'line graph');
+        var line2 = d3.line()
+                .x(function(d) {console.log(yearScale(+d['Year']));return yearScale(+d['Year']);})
+                .y(function(d) {console.log(tempScale(+d['Glob']));return tempScale(+d['Glob']);});
+//                .curve(d3.monotone);
+        var graph2 = chart2.append('path').attr('class', 'line graph').data(csv)
+                    .attr('d', line2(csv));
+
+//        var graphSH = chart2.append('svg:path').attr('class', 'line graphSH').attr('id','linegraphS');
+        var lineSH = d3.line()
+                .x(function(d) {return yearScale(+d['Year']);})
+                .y(function(d) {return tempScale(+d['SHem']);});
+        var graphSH = chart2.append('path').attr('class', 'line graphSH').attr('id','linegraphS').data(csv)
+                    .attr('d', lineSH(csv));
+        
+//        var graphNH = chart2.append('svg:path').attr('class', 'line graphNH').attr('id','linegraphN');
+        var lineNH = d3.line()            
+                .x(function(d) {return yearScale(+d['Year']);})
+                .y(function(d) {return tempScale(+d['NHem']);});
+        var graphNH = chart2.append('path').attr('class', 'line graphNH').attr('id','linegraphN').data(csv)
+                    .attr('d', lineNH(csv));
+
         var sweepLine = chart2.append('svg:line').attr('class', 'line').attr('id', 'sweep-line');
         var tempLabel = chart2.append('svg:text').attr('class', 'label').attr('id', 'temp-label');
         var tempLabelS = chart2.append('svg:text').attr('class', 'label').attr('id', 'temp-labelS');
         var tempLabelN = chart2.append('svg:text').attr('class', 'label').attr('id', 'temp-labelN');
         var yearLabel = chart2.append('svg:text').attr('class', 'label').attr('id', 'year-label');
+
         var tempAxisLabel1 = chart1.append('svg:text').attr('class', 'axis-legend')
             .attr('transform', 'translate(' + (-margin.left / 2) + ',' + (chartHeight / 2) + ')rotate(-90)')
             .text('Delta de temperatura promedio Global en \u00B0C por mes.');
+
         var tempAxisLabel1 = chart2.append('svg:text').attr('class', 'axis-legend')
             .attr('transform', 'translate(' + (chart2Width + margin.right / 2) + ',' + (chartHeight / 2) + ')rotate(90)')
             .text('Promedio anual del delta de temperatura en \u00B0C');
-
+/*
         graph2.attr('d', function() {
-            return d3.svg.line()
-                .x(function(d) {return yearScale(+d['Year']);})
-                .y(function(d) {return tempScale(+d['Glob']);})
-                .interpolate('monotone')(csv);
+//            return d3.svg.line()
+            return d3.line()
+                .x(function(d) {console.log(yearScale(+d['Year']));return yearScale(+d['Year']);})
+                .y(function(d) {console.log(tempScale(+d['Glob']));return tempScale(+d['Glob']);})
+//                .interpolate('monotone')(csv);
+                .curve(d3.monotone)
         });
-
+*/
+/*
         graphSH.attr('d', function() {
-            return d3.svg.line()
+//            return d3.svg.line()
+            return d3.line()
                 .x(function(d) {return yearScale(+d['Year']);})
                 .y(function(d) {return tempScale(+d['SHem']);})
-                .interpolate('monotone')(csv);
+//                .interpolate('monotone')(csv);
+                .curve(d3.monotone);
         });
         graphNH.attr('d', function() {
-            return d3.svg.line()
+//            return d3.svg.line()
+            return d3.line()            
                 .x(function(d) {return yearScale(+d['Year']);})
                 .y(function(d) {return tempScale(+d['NHem']);})
-                .interpolate('monotone')(csv);
+//                .interpolate('monotone')(csv);
+                .curve(d3.monotone);
         });
-
+*/
         svg.on('mousemove', function() {
             var year = Math.round(yearScale.invert(d3.event.offsetX - (chart1Width + margin.left * 2 + margin.right)));
             showYear(Math.min(Math.max(0, year - csv[0]['Year']), csv.length - 1));
@@ -114,7 +171,7 @@
 
         showYear(32); /*llamado función indicando numero de columnas*/
 
-        function showYear(index) {
+        async function showYear(index) {
             var animationDuration = 100;
             var easingEffect = 'linear';
             var mainColor = 0;
@@ -124,64 +181,83 @@
             var yearData = csv[index];
             var year = yearData['Year'];
             var globalTemp = yearData['Glob'];
+//            console.log(tempScale(globalTemp));
             var globalTempSH = yearData['SHem'];
             var globalTempNH = yearData['NHem'];
             var c = colorScale(globalTemp);
             var color = d3.hsl(c >= 0 ? mainColor : mainColor + 180, Math.abs(c), 0.6);
-	  
+  
             graph2.transition()
                 .attr('stroke', color)
                 .duration(animationDuration)
-                .ease(easingEffect);
+//                .ease(easingEffect);
+                .ease(d3.easeElastic);
 			graphSH.transition()
                 .attr('stroke', color)
                 .duration(animationDuration)
-                .ease(easingEffect);
+//                .ease(easingEffect);
+                .ease(d3.easeElastic);
 			graphNH.transition()
                 .attr('stroke', color)
                 .duration(animationDuration)
-                .ease(easingEffect);
+//                .ease(easingEffect);
+                .ease(d3.easeElastic);
+
 			var t = chart1.selectAll('rect').data(months);
             t.enter().append('svg:rect');
             t.transition()
 				.attr('x', function(d){return monthScale(d);})
-                .attr('y', function(d) {return Math.min(tempScale(0), tempScale(yearData[d]));})
-                .attr('width', monthScale.rangeBand())
-                .attr('height', function(d) {return Math.abs(tempScale(0) - tempScale(yearData[d]));})
+                .attr('y', function(d){return Math.min(tempScale(0), tempScale(yearData[d]));})
+//                .attr('width', monthScale.rangeBand())
+                .attr('width', monthScale.bandwidth())
+//                .attr('height', function(d) {return Math.abs(tempScale(0) - tempScale(yearData[d]));})
+                .attr('height', function(d) {return Math.abs(Math.round(tempScale(0) - tempScale(yearData[d])));})
 				.style('fill', function(d) {return d3.interpolateRdBu(colorScale2(yearData[d]));})
 				.duration(animationDuration)
-                .ease(easingEffect);
+//                .ease(easingEffect);
+                .ease(d3.easeElastic);
             t.exit().remove();
+
             var tN = chart1.selectAll('rect#N').data(months);
             tN.enter().append('svg:rect').attr('id','N').attr('opacity','0.15');
             tN.transition()
 				.attr('x', function(d){return monthScale(d);})
                 .attr('y', function(d) {return Math.min(tempScale(0), tempScale(datasetN[index][d]));})
-                .attr('width', monthScale.rangeBand()/3)
-                .attr('height', function(d) {return Math.abs(tempScale(0) - tempScale(datasetN[index][d]));})
+//                .attr('width', monthScale.rangeBand()/3)
+                .attr('width', monthScale.bandwidth()/3)
+                .attr('height', function(d) {console.log(Math.abs(tempScale(0) - tempScale(datasetN[index][d])));return Math.abs(tempScale(0) - tempScale(datasetN[index][d]));})
+//                .style('fill', function(d) {return d3.interpolateRdBu(colorScale2(datasetN[index][d]));})
 				.duration(animationDuration)
-                .ease(easingEffect);
+//                .ease(easingEffect);
+                .ease(d3.easeElastic);
             tN.exit().remove();
+            
 			var tS = chart1.selectAll('rect#S').data(months);
             tS.enter().append('svg:rect').attr('id','S').attr('opacity','0.15');
             tS.transition()
-				.attr('x', function(d){return monthScale(d)+(monthScale.rangeBand()/2);})
+//				.attr('x', function(d){return monthScale(d)+(monthScale.rangeBand()/2);})
+              .attr('x', function(d){return monthScale(d)+(monthScale.bandwidth()/2);})
                 .attr('y', function(d) {return Math.min(tempScale(0), tempScale(datasetS[index][d]));})
-                .attr('width', monthScale.rangeBand()/3)
+//                .attr('width', monthScale.rangeBand()/3)
+                .attr('width', monthScale.bandwidth()/3)
                 .attr('height', function(d) {return Math.abs(tempScale(0) - tempScale(datasetS[index][d]));})
+//                .style('fill', function(d) {return d3.interpolateRdBu(colorScale2(datasetS[index][d]));})
 				.duration(animationDuration)
-                .ease(easingEffect);
+//                .ease(easingEffect);
+                .ease(d3.easeElastic);
             tS.exit().remove();
+
 			/* Line 0 Chart1 */
             var lineData = [];
 			lineData.push([0, tempScale(0)]);
 			lineData.push([chart1Width, tempScale(0)]);
-			
-            var lineFunction = d3.svg.line()
+
+//            var lineFunction = d3.svg.line()
+            var lineFunction = d3.line()
                          .x(function(d) { return d[0]; })
-                         .y(function(d) { return d[1]; })
-                         .interpolate("basis");
-						 
+                         .y(function(d) { return d[1]; });
+//                         .interpolate("basis");
+//                          .curve(d3.monotone);						 
             var line0 = chart1.append('path')
                             .attr("d", lineFunction(lineData))
                             .attr("stroke", "black")
@@ -197,7 +273,8 @@
                 .attr('y', function(d) {return tempScale(yearData[d])-5;})
                 .attr('text-anchor', 'left')
                 .duration(animationDuration)
-                .ease(easingEffect);
+//                .ease(easingEffect);
+                .ease(d3.easeElastic);
             labelt.exit().remove();
 
             avgLine.transition()
@@ -208,7 +285,8 @@
                     y2: tempScale(globalTemp)
                      })
                 .duration(animationDuration)
-                .ease(easingEffect);
+//                .ease(easingEffect);
+                .ease(d3.easeElastic);
             sweepLine.transition()
                 .attr({
                     x1: yearScale(year),
@@ -217,7 +295,8 @@
                     y2: tempScale.range()[1]
                     })
                 .duration(animationDuration)
-                .ease(easingEffect);
+//                .ease(easingEffect);
+                .ease(d3.easeElastic);
             tempLabel.transition()
                 .text("G: " + tempFormatter(globalTemp))
                 .attr('x', year < yearSeparator ? yearScale.range()[1] - labelMargin : yearScale.range()[0] + labelMargin)
@@ -225,7 +304,8 @@
                 .attr('fill', color)
                 .attr('text-anchor', year < yearSeparator ? 'end' : 'start')
                 .duration(animationDuration)
-                .ease(easingEffect);
+//                .ease(easingEffect);
+                .ease(d3.easeElastic);
 
 			tempLabelS.transition()
                 .text("SH:" + tempFormatter(globalTempSH))
@@ -234,7 +314,8 @@
                 .attr('fill', color)
                 .attr('text-anchor', year < yearSeparator ? 'end' : 'start')
                 .duration(animationDuration)
-                .ease(easingEffect);
+//                .ease(easingEffect);
+                .ease(d3.easeElastic);
 
 			tempLabelN.transition()
                 .text("NH: " + tempFormatter(globalTempNH))
@@ -243,7 +324,8 @@
                 .attr('fill', color)
                 .attr('text-anchor', year < yearSeparator ? 'end' : 'start')
                 .duration(animationDuration)
-                .ease(easingEffect);
+//                .ease(easingEffect);
+                .ease(d3.easeElastic);
 
             yearLabel.transition()
                 .text(year)
@@ -251,7 +333,8 @@
                 .attr('y', tempScale.range()[0] - labelMargin)
                 .attr('text-anchor', year < yearSeparator ? 'start' : 'end')
                 .duration(animationDuration)
-                .ease(easingEffect);
+//                .ease(easingEffect);
+                .ease(d3.easeElastic);
         } /*fin function showyear*/
     });  /*fin d3.csv*/
 
@@ -263,4 +346,5 @@
             }
         return row;
         } /*fin function parseInts*/
-})(); /*fin function init, autocall*/
+})
+(); /*fin function init, autocall*/

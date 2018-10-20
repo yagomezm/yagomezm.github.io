@@ -42,15 +42,15 @@ text {
 #year-label {
 	fill: #bbb;
 }
-#temp-label {
+#ton-label {
 	font-size: 15pt;
-	stroke: #666;
+	stroke: #FE780B;
 }
-#temp-labelS {
+#ton-labelS {
 	font-size: 15pt;
 	stroke: #05A557;
 }
-#temp-labelN {
+#ton-labelN {
 	font-size: 15pt;
 	stroke: #A117F0;
 }
@@ -63,21 +63,26 @@ text {
     stroke: #222;
 }
 .graph {
-	stroke-width: 3;
-	stroke: #666;
+	stroke-width: 1;
+	stroke: #FE780B;
 }
-.graphSH {
+.graphML {
 	stroke-width: 1;
 	stroke: #559;
 }
-.graphNH {
+.graphBulb {
 	stroke-width: 1;
 	stroke: #a55;
 }
-#sweep-line,
-#avg-line {
-	stroke: #bbb;
+#sweep-line {
+	stroke: #ccc!important;
 }
+#avg-line 
+{stroke: #FE780B;}
+#avg-lineML
+{;}
+#avg-lineB
+{;}
 #cite {
     font-size: 0.8em;
     text-align: right;
