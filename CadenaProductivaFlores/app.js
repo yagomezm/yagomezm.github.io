@@ -287,7 +287,7 @@
                 .style('stroke', "orange")
                 .attr('x', function(d){return countryScale(d);})
                 .attr('y', function(d) {return tonScaleCon(yearData[d]) + margin.top -5;})
-                .attr('text-anchor', 'middle')
+                .attr('text-anchor', 'start')
                 .duration(animationDuration)
                 .ease(d3.easeElastic);
 
