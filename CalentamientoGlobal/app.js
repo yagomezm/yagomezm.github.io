@@ -100,30 +100,30 @@
         chart2.append('g').attr('class', 'axis y-axis temp-axis').call(yAxisLeft1);
         chart2.append('g').attr('class', 'axis y-axis temp-axis').attr('transform', 'translate(' + chart2Width + ', 0)').call(yAxisEmpty);
 
-        var avgLine = chart1.append('svg:line').attr('class', 'line').attr('id', 'avg-line');
+        var avgLine = chart1.append('svg:line').attr('class', 'line').attr('id', 'avg-line').style("pointer-events", "none");
 //        var graph2 = chart2.append('svg:path').attr('class', 'line graph');
         var line2 = d3.line()
                 .x(function(d) {console.log(yearScale(+d['Year']));return yearScale(+d['Year']);})
                 .y(function(d) {console.log(tempScale(+d['Glob']));return tempScale(+d['Glob']);});
 //                .curve(d3.monotone);
         var graph2 = chart2.append('path').attr('class', 'line graph').data(csv)
-                    .attr('d', line2(csv));
+                    .attr('d', line2(csv)).style("pointer-events", "none");
 
 //        var graphSH = chart2.append('svg:path').attr('class', 'line graphSH').attr('id','linegraphS');
         var lineSH = d3.line()
                 .x(function(d) {return yearScale(+d['Year']);})
                 .y(function(d) {return tempScale(+d['SHem']);});
         var graphSH = chart2.append('path').attr('class', 'line graphSH').attr('id','linegraphS').data(csv)
-                    .attr('d', lineSH(csv));
+                    .attr('d', lineSH(csv)).style("pointer-events", "none");
         
 //        var graphNH = chart2.append('svg:path').attr('class', 'line graphNH').attr('id','linegraphN');
         var lineNH = d3.line()            
                 .x(function(d) {return yearScale(+d['Year']);})
                 .y(function(d) {return tempScale(+d['NHem']);});
         var graphNH = chart2.append('path').attr('class', 'line graphNH').attr('id','linegraphN').data(csv)
-                    .attr('d', lineNH(csv));
+                    .attr('d', lineNH(csv)).style("pointer-events", "none");
 
-        var sweepLine = chart2.append('svg:line').attr('class', 'line').attr('id', 'sweep-line');
+        var sweepLine = chart2.append('svg:line').attr('class', 'line').attr('id', 'sweep-line').style("pointer-events", "none");
         var tempLabel = chart2.append('svg:text').attr('class', 'label').attr('id', 'temp-label');
         var tempLabelS = chart2.append('svg:text').attr('class', 'label').attr('id', 'temp-labelS');
         var tempLabelN = chart2.append('svg:text').attr('class', 'label').attr('id', 'temp-labelN');
