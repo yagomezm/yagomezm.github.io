@@ -94,10 +94,10 @@
         chart3.append('g').attr('class', 'axis y-axis ton-axis').attr('transform', 'translate(0 , ' + margin.top + ' )').call(yAxisLeft1Con);
         chart3.append('g').attr('class', 'axis y-axis ton-axis').attr('transform', 'translate(' + (chart1Width + chart2Width + (margin.left + margin.right)) + ' , ' + margin.top + ' )').call(yAxisEmpty);
 
-        var avgLine = chart1.append('svg:line').attr('class', 'line').attr('id', 'avg-line');
-        var avgLineML = chart1.append('svg:line').attr('class', 'line').attr('id', 'avg-lineML');
-        var avgLineB = chart1.append('svg:line').attr('class', 'line').attr('id', 'avg-lineB');
-        var sweepLine = chart2.append('svg:line').attr('class', 'line').attr('id', 'sweep-line');
+        var avgLine = chart1.append('svg:line').attr('class', 'line').attr('id', 'avg-line').style("pointer-events", "none");
+        var avgLineML = chart1.append('svg:line').attr('class', 'line').attr('id', 'avg-lineML').style("pointer-events", "none");
+        var avgLineB = chart1.append('svg:line').attr('class', 'line').attr('id', 'avg-lineB').style("pointer-events", "none");
+        var sweepLine = chart2.append('svg:line').attr('class', 'line').attr('id', 'sweep-line').style("pointer-events", "none");
         
         var line2 = d3.line()
                 .x(function(d) {console.log(yearScale(+d['year']));return yearScale(+d['year']);})
@@ -105,20 +105,20 @@
                 .curve(d3.curveMonotoneX);
                 //.interpolate('monotone');  ----->  .curve(d3.curveMonotoneX) Version5
         var graph2 = chart2.append('path').attr('class', 'line graph').data(csv)
-                    .attr('d', line2(csv));
+                    .attr('d', line2(csv)).style("pointer-events", "none");
 
         var lineML = d3.line()
                 .x(function(d) {return yearScale(+d['year']);})
                 .y(function(d) {return tonScale(+d['promml']);});
         var graphML = chart2.append('path').attr('class', 'line graphML').attr('id','linegraphS').data(csv)
-                    .attr('d', lineML(csv));
+                    .attr('d', lineML(csv)).style("pointer-events", "none");
         
 	
         var lineBulb = d3.line()            
                 .x(function(d) {return yearScale(+d['year']);})
                 .y(function(d) {return tonScale(+d['promb']);});
         var graphBulb = chart2.append('path').attr('class', 'line graphBulb').attr('id','linegraphN').data(csv)
-                    .attr('d', lineBulb(csv));
+                    .attr('d', lineBulb(csv)).style("pointer-events", "none");
 
 
         var tonLabel = chart2.append('svg:text').attr('class', 'label').attr('id', 'ton-label');
