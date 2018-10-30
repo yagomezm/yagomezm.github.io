@@ -1,0 +1,6518 @@
+{
+nodes: [
+ {
+   "ID": 5001,
+   "NODO": "MEDELLIN",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 5045,
+   "NODO": "APARTADO",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 5079,
+   "NODO": "BARBOSA",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 5088,
+   "NODO": "BELLO",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 5154,
+   "NODO": "CAUCASIA",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 5266,
+   "NODO": "ENVIGADO",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 5360,
+   "NODO": "ITAGUI",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 5376,
+   "NODO": "LA CEJA",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 5579,
+   "NODO": "PUERTO BERRIO",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 5615,
+   "NODO": "RIO NEGRO",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 5631,
+   "NODO": "SABANETA",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 8001,
+   "NODO": "BARRANQUILLA",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 8296,
+   "NODO": "GALAPA",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 8433,
+   "NODO": "MALAMBO",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 8638,
+   "NODO": "SABANALARGA",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 8685,
+   "NODO": "SANTO TOMAS",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 8758,
+   "NODO": "SOLEDAD",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 11001,
+   "NODO": "BOGOTA  D C",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 11001,
+   "NODO": "BOGOTA DC",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 13001,
+   "NODO": "CARTAGENA",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 13052,
+   "NODO": "ARJONA",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 13244,
+   "NODO": "CARMEN DE BOLIVAR",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 13430,
+   "NODO": "MAGANGUE",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 13836,
+   "NODO": "TURBACO",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 15001,
+   "NODO": "TUNJA",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 15176,
+   "NODO": "CHIQUINQUIRA",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 15238,
+   "NODO": "DUITAMA",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 15516,
+   "NODO": "PAIPA",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 15632,
+   "NODO": "SABOYA",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 15759,
+   "NODO": "SOGAMOSO",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 17001,
+   "NODO": "MANIZALES",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 17174,
+   "NODO": "CHINCHINA",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 17380,
+   "NODO": "LA DORADA",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 17873,
+   "NODO": "VILLAMARIA",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 18001,
+   "NODO": "FLORENCIA",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 19001,
+   "NODO": "POPAYAN",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 19698,
+   "NODO": "SANTANDER DE QUILICHAO",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 20001,
+   "NODO": "VALLEDUPAR",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 20011,
+   "NODO": "AGUACHICA",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 20060,
+   "NODO": "BOSCONIA",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 20400,
+   "NODO": "LA JAGUA DE IBIRICO",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 23001,
+   "NODO": "MONTERIA",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 23555,
+   "NODO": "PLANETARICA",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 23660,
+   "NODO": "SAHAGUN",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 25126,
+   "NODO": "CAJICA",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 25175,
+   "NODO": "CHIA",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 25200,
+   "NODO": "COGUA",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 25214,
+   "NODO": "COTA",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 25269,
+   "NODO": "FACATATIVA",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 25286,
+   "NODO": "FUNZA",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 25290,
+   "NODO": "FUSAGASUGA",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 25307,
+   "NODO": "GIRARDOT",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 25320,
+   "NODO": "GUADUAS",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 25322,
+   "NODO": "GUASCA",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 25377,
+   "NODO": "LA CALERA",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 25386,
+   "NODO": "LA MESA",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 25430,
+   "NODO": "MADRID",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 25473,
+   "NODO": "MOSQUERA",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 25740,
+   "NODO": "SIBATE",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 25754,
+   "NODO": "SOACHA",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 25758,
+   "NODO": "SOPO",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 25843,
+   "NODO": "UBATE",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 25899,
+   "NODO": "ZIPAQUIRA",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 41001,
+   "NODO": "NEIVA",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 41298,
+   "NODO": "GARZON",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 41551,
+   "NODO": "PITALITO",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 41999,
+   "NODO": "CHICALA",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 44001,
+   "NODO": "RIOHACHA",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 44999,
+   "NODO": "CERREJON",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 47001,
+   "NODO": "SANTA MARTA",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 47189,
+   "NODO": "CIENEGA",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 50001,
+   "NODO": "VILLAVICENCIO",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 50006,
+   "NODO": "ACACIAS",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 50110,
+   "NODO": "BARRANCA DE UPIA",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 50223,
+   "NODO": "CUMARAL",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 50313,
+   "NODO": "GRANADA",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 50318,
+   "NODO": "GUAMAL",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 50573,
+   "NODO": "PUERTO LOPEZ",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 50689,
+   "NODO": "SAN MARTIN",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 63001,
+   "NODO": "ARMENIA",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 63130,
+   "NODO": "CALARCA",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 63401,
+   "NODO": "LA TEBAIDA",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 66001,
+   "NODO": "PEREIRA",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 66170,
+   "NODO": "DOS QUEBRADAS",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 66682,
+   "NODO": "DOS QUEBRADAS",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 66682,
+   "NODO": "STA ROSA DE CABAL",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 68001,
+   "NODO": "BUCARAMANGA",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 68077,
+   "NODO": "BARBOSA",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 68081,
+   "NODO": "BARRANCABERMEJA",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 68276,
+   "NODO": "FLORIDABLANCA",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 68307,
+   "NODO": "GIRON",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 68406,
+   "NODO": "LEBRIJA",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 68549,
+   "NODO": "PIEDECUESTA",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 68549,
+   "NODO": "PINCHOTE",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 70001,
+   "NODO": "SAN PEDRO",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 70001,
+   "NODO": "SINCELEJO",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 70215,
+   "NODO": "COROZAL",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 73001,
+   "NODO": "IBAGUE",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 73055,
+   "NODO": "ARMERO GUAYABAL",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 73268,
+   "NODO": "ESPINAL",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 73275,
+   "NODO": "FLANDES",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 73443,
+   "NODO": "MARIQUITA",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 73671,
+   "NODO": "SALDANA",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 73861,
+   "NODO": "VENADILLO",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 76001,
+   "NODO": "CALI",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 76109,
+   "NODO": "BUENAVENTURA",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 76113,
+   "NODO": "BUGA",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 76147,
+   "NODO": "CARTAGO",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 76364,
+   "NODO": "JAMUNDi",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 76520,
+   "NODO": "PALMIRA",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 76622,
+   "NODO": "ROLDANILLO",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 76834,
+   "NODO": "TULUA",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 76890,
+   "NODO": "YOTOCO",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 76892,
+   "NODO": "YUMBO",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 85001,
+   "NODO": "YOPAL",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 85010,
+   "NODO": "AGUAZUL",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 85440,
+   "NODO": "VILLANUEVA",
+   "TIPONODO": "Municipio"
+ },
+ {
+   "ID": 100001,
+   "NODO": "ABA CENTRAL DE COMBUSTIBLES Y LUBRICANTES CIA SEN C",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100002,
+   "NODO": "ADOLFO ENRIQUE GARCIA DELGADO",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100003,
+   "NODO": "ADRIANA CONCHA MENDOZA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100004,
+   "NODO": "ALBERTO CASTILLO Y CIA LTDA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100005,
+   "NODO": "ALBERTO TAMARA OLMOS  DISTRIBUIDORA DE COMBUSTIBLES LA MACARENA  GAZEL",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100006,
+   "NODO": "ALFA COMPRESION SA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100007,
+   "NODO": "ALONSO DE JESUS AGUIRRE CARVAJAL   GAZEL",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100008,
+   "NODO": "AMIGAS SA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100009,
+   "NODO": "ANIBAL BALADI GEDEON  GAZEL",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100010,
+   "NODO": "ARCAS TRADING SAS",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100011,
+   "NODO": "ARTURO ACERO FRANCO  GAZEL",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100012,
+   "NODO": "ASTRID ROCIO BLANCO E HIJOS SOCIEDAD LTDA  GAZEL",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100013,
+   "NODO": "AUTOCENTRO CAPRI LTDA  GUILLERMO FRANCO  GAZEL",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100014,
+   "NODO": "AUTOCENTRO MOBIL LA CORDIALIDAD - RL ELVIRA PATRICIA HENRIQUEZ ALVAREZ",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100015,
+   "NODO": "AUTOGAS DE COLOMBIA BREASCOL SA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100016,
+   "NODO": "AUTOJOL SAS - RL JORGE CASTRO",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100017,
+   "NODO": "AUTOSERVICIO LA PORTADA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100018,
+   "NODO": "AYN COMBUSTIBLES CIA LTDA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100019,
+   "NODO": "AZUL SA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100020,
+   "NODO": "BAVARIA SA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100021,
+   "NODO": "BIBIANA ROCIO GOMEZ JARAMILLO",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100022,
+   "NODO": "BISERTA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100023,
+   "NODO": "BRIO - LEMUZ BENITEZ Y CIA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100024,
+   "NODO": "BRIO DE COLOMBOA - BIOMAX",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100025,
+   "NODO": "BRIOGAS SA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100026,
+   "NODO": "BYG LTDA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100027,
+   "NODO": "CARLOS ALBERTO BARRAGAN  GAZEL",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100028,
+   "NODO": "CARLOS MARIO RIOS MAZO",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100029,
+   "NODO": "CARLOS QUIROZ GARCIA EU",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100030,
+   "NODO": "CARLOS ROMERO DUENAS  GAZEL",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100031,
+   "NODO": "CARMILE INVERSIONES LOPEZ Y CIA SCA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100032,
+   "NODO": "CASAMOTOR SA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100033,
+   "NODO": "CENCOSUD",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100034,
+   "NODO": "CENTROABASTOS",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100035,
+   "NODO": "CERVECERIA DEL VALLE SA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100036,
+   "NODO": "CERVECERiA UNION SA - RL JAVIER MARIN MONTEALEGRE",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100037,
+   "NODO": "CMMSA COMBUSTIBLES Y GASES DEL MAGDALENA SA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100038,
+   "NODO": "COEXITO SAS",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100039,
+   "NODO": "COLIGAS SA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100040,
+   "NODO": "COLOMBIANA DE GAS VEHICULAR  COVEGAS SA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100041,
+   "NODO": "COLOMBIANA DE HIDROCARBUROS",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100042,
+   "NODO": "COLTRANS Y CO LTDA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100043,
+   "NODO": "COMBUSTIBLES ALIADOS LTDA COMBAL",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100044,
+   "NODO": "COMBUSTIBLES BARBOSA LTDA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100045,
+   "NODO": "COMBUSTIBLES CAPITAL",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100046,
+   "NODO": "COMBUSTIBLES CAPITAL SAS",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100047,
+   "NODO": "COMBUSTIBLES DE COLOMBIA SA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100048,
+   "NODO": "COMBUSTIBLES DEL CAFE",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100049,
+   "NODO": "COMBUSTIBLES EL RANCHO BARANOA SAS",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100050,
+   "NODO": "COMBUSTIBLES LEON SAS",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100051,
+   "NODO": "COMBUSTIBLES LISER",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100052,
+   "NODO": "COMBUSTIBLES SAN MARTIN SA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100053,
+   "NODO": "COMBUSTIBLES UNIDOS SA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100054,
+   "NODO": "COMBUSTIBLES UNIGAS SAS",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100055,
+   "NODO": "COMBUSTIBLES UNION GOMEZ SAS",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100056,
+   "NODO": "COMBUSTIBLES VEHICULARES DE COLOMBIA SA - GASVEHICOL SA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100057,
+   "NODO": "COMBUSTIBLES Y GASES DE COLOMBIA SA - COMGASCOL",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100058,
+   "NODO": "COMBUSTIBLES Y SERVICIOS",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100059,
+   "NODO": "COMERCIALIZADORA DE BIENES Y SERVICIOS SA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100060,
+   "NODO": "COMERCIALIZADORA DE COMBUSTIBLES LA ESTRELLA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100061,
+   "NODO": "COMERCIALIZADORA HENAYGO SA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100062,
+   "NODO": "COMERCIALIZADORA INTERNACIONAL ARCAS SAS",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100063,
+   "NODO": "COMERCIALIZADORA PIE DE LA POPA SA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100064,
+   "NODO": "COMGASCO SA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100065,
+   "NODO": "COMPANiA DE NEGOCIOS INTERNACIONALES EU",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100066,
+   "NODO": "COMPRESSED NATURAL GAS COLOMBIA SA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100067,
+   "NODO": "COPEC Y CIA LTDA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100068,
+   "NODO": "CORALGAS LTDA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100069,
+   "NODO": "CRUZ DE MAYO LTDA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100070,
+   "NODO": "CURE CARRILLO S EN C S - RL MONICA PATRICIA CARRILLO FRAGOSO",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100071,
+   "NODO": "DAMPA SA GRUPO EMPRESARIAL",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100072,
+   "NODO": "DIALOGAR SA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100073,
+   "NODO": "DIEGO ALONSO GOMEZ GALINDO",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100074,
+   "NODO": "DIHEGO LTDA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100075,
+   "NODO": "DINAGAS",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100076,
+   "NODO": "DISCARBURANTES LTDA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100077,
+   "NODO": "DISCOMBUSTIBLES LIMITADA -  DISCOM LTDA  GAZEL",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100078,
+   "NODO": "DISENERCOM SA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100079,
+   "NODO": "DISTRACOM SA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100080,
+   "NODO": "DISTRIBUCIONES HERNANDEZ GOMEZ LTDA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100081,
+   "NODO": "DISTRIBUCOM LTDA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100082,
+   "NODO": "DISTRIBUIDORA \"EL VIADUCTO\"",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100083,
+   "NODO": "DISTRIBUIDORA COLOMBIANA DE COMBUSTIBLES  SAS -DISCCO SAS",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100084,
+   "NODO": "DISTRIBUIDORA DE CARBURANTES LTDA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100085,
+   "NODO": "DISTRIBUIDORA DE COMBUSTIBLES LOS ANGELES SA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100086,
+   "NODO": "DISTRIBUIDORA DE COMBUSTIBLES SA - DISCCO",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100087,
+   "NODO": "DISTRIBUIDORA DE COMBUSTIBLES SALCEDO HNOS LTDA  GAZEL",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100088,
+   "NODO": "DISTRIBUIDORA DE GNV LOS PITS LTDA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100089,
+   "NODO": "DISTRIBUIDORES DE COMBUSTIBLES LOS ANGELES",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100090,
+   "NODO": "DISTRILUB LTDA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100091,
+   "NODO": "DISTRIMETANO DE COLOMBIA LTDA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100092,
+   "NODO": "DOBLE 1 SAS NIT 900521998-5",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100093,
+   "NODO": "DOMINGO GERMAN BULA SOLANO  GAZEL",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100094,
+   "NODO": "DRUMMOND LTDA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100095,
+   "NODO": "DUAL COMPANY SA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100096,
+   "NODO": "DUARTECNICOS SAS",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100097,
+   "NODO": "DUVEL SA  GAZEL",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100098,
+   "NODO": "E - GAS",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100099,
+   "NODO": "ECHEVERRI OSSA-CIA DISTRIECHE S EN C  GAZEL",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100100,
+   "NODO": "ECOLOGICA CONSTRUCCIONES",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100101,
+   "NODO": "ECOSPETROLEO",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100102,
+   "NODO": "EDS AUTOMOTRIZ ATLANTICO",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100103,
+   "NODO": "EDS CALLE 22",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100104,
+   "NODO": "EDS COLISEO SA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100105,
+   "NODO": "EDS EL MILAGROSO SA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100106,
+   "NODO": "EDS EL SAMAN",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100107,
+   "NODO": "EDS EL TERMINAL",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100108,
+   "NODO": "EDS GASLLANOCOL",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100109,
+   "NODO": "EDS LA RIVIERA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100110,
+   "NODO": "EDS LAS BRISAS",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100111,
+   "NODO": "EDS LLANOGAS",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100112,
+   "NODO": "EDS LOS ANGELES",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100113,
+   "NODO": "EDS LOS NARANJOS",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100114,
+   "NODO": "EDS LOS SAUCES",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100115,
+   "NODO": "EDS MARBELLA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100116,
+   "NODO": "EDS MONARCA GNV",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100117,
+   "NODO": "EDS PENAS DEL RIO",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100118,
+   "NODO": "EDS REAL DE MINAS",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100119,
+   "NODO": "EDS SAN ANTONIO",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100120,
+   "NODO": "EDS SUPERAUTOCENTRO MOBIL EL LIDO SAS",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100121,
+   "NODO": "EDS TEXACO ESTELLA DEL SUR",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100122,
+   "NODO": "EDS TEXACO No 12  JOSE MANTILLA PUENTE BOLIVAR SAS",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100123,
+   "NODO": "EDS TEXACO SU JARDIN",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100124,
+   "NODO": "EDS TOTAL ENERGY SAS - CARLA LILIAN VILLA MONTOYA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100125,
+   "NODO": "EDS VIRGEN DEL CARMEN",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100126,
+   "NODO": "EDS ZEUSS LAS BRISAS",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100127,
+   "NODO": "EDUARDO BELLINI  BELAYA SA  GAZEL",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100128,
+   "NODO": "EDUARDO GOMEZ FONTALVO",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100129,
+   "NODO": "E-GAS SAS",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100130,
+   "NODO": "EL SOL OIL SA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100131,
+   "NODO": "EMPRESA ADMINISTRADORA DE SERVICIOS",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100132,
+   "NODO": "EMPRESA DE TRANSPORTES LEBRIJA LTDA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100133,
+   "NODO": "ENERCA SA ESP",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100134,
+   "NODO": "ENERGIA DE GAS SAS",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100135,
+   "NODO": "ENERGiA DEL GAS SAS",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100136,
+   "NODO": "EPM",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100137,
+   "NODO": "ESSAMA EU",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100138,
+   "NODO": "ESTACION DE SERVICIO A GAS LAS FLORES Y JAVIER LEYVA GONZALEZ",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100139,
+   "NODO": "ESTACION DE SERVICIO AVENIDA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100140,
+   "NODO": "ESTACION DE SERVICIO AVENIDA DEL RIO TEXACO",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100141,
+   "NODO": "ESTACION DE SERVICIO BOLiVAR TERPEL",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100142,
+   "NODO": "ESTACION DE SERVICIO EDS LA 20 GNV",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100143,
+   "NODO": "ESTACION DE SERVICIO EXPOSICIONES SA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100144,
+   "NODO": "ESTACION DE SERVICIO GNV MI ISLA SAS",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100145,
+   "NODO": "ESTACION DE SERVICIO HEROES DE ORIENTE SAS",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100146,
+   "NODO": "ESTACION DE SERVICIO LA GRAN MANZANA LTDA  ORLANDO RESTREPO VASQUES",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100147,
+   "NODO": "ESTACION DE SERVICIO LA METRO SA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100148,
+   "NODO": "ESTACION DE SERVICIO LA REYNA LTDA  DARIO VILLALOBOS  GAZEL",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100149,
+   "NODO": "ESTACION DE SERVICIO MARIA LUISA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100150,
+   "NODO": "ESTACION DE SERVICIO MAZ AUTOS LTDA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100151,
+   "NODO": "ESTACION DE SERVICIO SERVICENTRO BARRANQUILLA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100152,
+   "NODO": "ESTACION DE SERVICIO TODOGAS",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100153,
+   "NODO": "ESTACION DE SERVICIO ZONA FRANCA LTDA  GAZEL",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100154,
+   "NODO": "ESTACION LOS LAGARTOS",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100155,
+   "NODO": "ESTACION PLAN PAREJO TURBACO SA  GAZEL",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100156,
+   "NODO": "ESTACIONES DE SERVICIO MONTECARLOS LTDA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100157,
+   "NODO": "ESTANDAR ENERGY COMPANY SA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100158,
+   "NODO": "EXXON MOBIL COLOMBIA - AUTOMARKET LIMIT",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100159,
+   "NODO": "FERNANDO BERNAL NINO  GAZEL",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100160,
+   "NODO": "FERNANDO JIMENEZ GARCIA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100161,
+   "NODO": "FERNANDO RAMIREZ GONZALEZ  GAZEL",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100162,
+   "NODO": "FLORIAN POLANIA ROJAS  GAZEL",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100163,
+   "NODO": "FORERO FERNANDEZ JOSE DARiO",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100164,
+   "NODO": "FRANCISCO PUCHINI",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100165,
+   "NODO": "GABRIEL DIAGO  GAZEL",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100166,
+   "NODO": "GABRIEL OSORNO GIL  GAZEL",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100167,
+   "NODO": "GAETANO SCOLLO  GAZEL",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100168,
+   "NODO": "GANMEGAN SA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100169,
+   "NODO": "GAS CAUJARAL - GUSTAVO RINCON",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100170,
+   "NODO": "GAS CENTRAL DE LA SABANA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100171,
+   "NODO": "GAS COMPRIMIDO DE COLOMBIA GCC",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100172,
+   "NODO": "GAS COMPRIMIDO DE COLOMBIA SA ESP",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100173,
+   "NODO": "GAS MASIVO VEHICULAR LTDA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100174,
+   "NODO": "GAS NATURAL ANDINO SA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100175,
+   "NODO": "GAS NATURAL COMPRIMIDO DE COLOMBIA SA ESP",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100176,
+   "NODO": "GAS NATURAL COMPRIMIDO S A  O GNC S A  O GAZEL",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100177,
+   "NODO": "GAS NATURAL COMPRIMIDO SA O GNC SA O GAZEL",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100178,
+   "NODO": "GAS NATURAL DE PEREIRA SA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100179,
+   "NODO": "GAS NATURAL DEL ARIARI SA ESP",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100180,
+   "NODO": "GAS NATURAL FENOSA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100181,
+   "NODO": "GAS NATURAL SA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100182,
+   "NODO": "GAS NATURAL VEHICULAR",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100183,
+   "NODO": "GAS NATURAL VEHICULAR SAN BUENAVENTURA S A S",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100184,
+   "NODO": "GAS VEHICULAR COMPRIMIDO DE COLOMBIA SA  MILLER POMAR GARCIA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100185,
+   "NODO": "GAS VEHICULAR DE COLOMBIA SA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100186,
+   "NODO": "GAS Y COMBUSTIBLE VEHICULAR",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100187,
+   "NODO": "GASES DE OCCIDENTES SA EMPRESA DE SERVICIOS PUBLICOS",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100188,
+   "NODO": "GASES DEL CUSIANA - CUSIANAGAS SA ESP",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100189,
+   "NODO": "GASES JEMA Y O SA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100190,
+   "NODO": "GASES Y COMBUSTIBLES DEL CARIBE LTDA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100191,
+   "NODO": "GASES Y COMBUSTIBLES MERCOVIL LTDA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100192,
+   "NODO": "GASES Y LIQUIDOS LTDA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100193,
+   "NODO": "GASMOVIL LTDA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100194,
+   "NODO": "GASOLINERiA DEL CARIBE LTDA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100195,
+   "NODO": "GASORIENTE",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100196,
+   "NODO": "GASPETROIL SA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100197,
+   "NODO": "GASTRONG",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100198,
+   "NODO": "GASV SA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100199,
+   "NODO": "GAZEL",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100200,
+   "NODO": "GERARDO JAVIER ALVARADO CUBILLOS",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100201,
+   "NODO": "GERMAN ALONSO OSPINA CARDONA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100202,
+   "NODO": "GERMAN RODRIGUEZ  GAZEL",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100203,
+   "NODO": "GISENCO SAS",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100204,
+   "NODO": "GLORIA PALACIOS  GAZEL",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100205,
+   "NODO": "GNE SOLUCIONES SAS",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100206,
+   "NODO": "GNV COLIBRI SA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100207,
+   "NODO": "GNV CONSORCIO GRUPO DE NEGOCIOS VARIOS",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100208,
+   "NODO": "GNV SAN BUENAVENTURA BELLO SA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100209,
+   "NODO": "GRANDES SUPERFICIES DE COLOMBIA SA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100210,
+   "NODO": "GRUPO AUTOMOTRIZ EDS AUTOGAS SAS",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100211,
+   "NODO": "GRUPO DE EMPRESARIOS DE COMBUSTIBLES SA GREPACOL SA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100212,
+   "NODO": "GRUPO EDS AUTOGAS SAS",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100213,
+   "NODO": "GRUPO G5 SA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100214,
+   "NODO": "GRUPO LOMA LTDA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100215,
+   "NODO": "GUSTAVO CHAIN  GAZEL",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100216,
+   "NODO": "GUSTAVO SALGADO  GAZEL",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100217,
+   "NODO": "HECTOR JOSE DE VIVERO PEREZ",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100218,
+   "NODO": "HELENA REYES MONSALVE",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100219,
+   "NODO": "HELY MARTINEZ RODRIGUEZ",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100220,
+   "NODO": "HERMANOS SAAVEDRA LTDA  GAZEL",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100221,
+   "NODO": "HERNAN JESUS LOAIZA ACEVEDO",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100222,
+   "NODO": "HERNAN RODRIGUEZ CHAVEZ  GAZEL",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100223,
+   "NODO": "HERNANDEZ DE VASQUEZ ORFILIA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100224,
+   "NODO": "HERNANDO ARANGO VISBAL",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100225,
+   "NODO": "HUGO ALBERTO RIVEROS RESTREPO",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100226,
+   "NODO": "IBAGASES SAS",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100227,
+   "NODO": "IMPORGAS SA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100228,
+   "NODO": "IMPORTACIONES DOBERMAN LTDA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100229,
+   "NODO": "INCOMSA SA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100230,
+   "NODO": "INGO CONSTRUCTORES",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100231,
+   "NODO": "INSETRANSA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100232,
+   "NODO": "INVERSIONES ALDEMAR S EN C",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100233,
+   "NODO": "INVERSIONES ALTOVERO",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100234,
+   "NODO": "INVERSIONES AVANADE Y CIA SAS - RL CARLOS ALONSO HENAO G",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100235,
+   "NODO": "INVERSIONES BARRAGAN OSPINA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100236,
+   "NODO": "INVERSIONES CALO SA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100237,
+   "NODO": "INVERSIONES CARRENO GUTIERREZ LTDA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100238,
+   "NODO": "INVERSIONES COMBGAS SA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100239,
+   "NODO": "INVERSIONES COOPROCONAL SAS",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100240,
+   "NODO": "INVERSIONES CRIVASI",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100241,
+   "NODO": "INVERSIONES EL CAMINO",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100242,
+   "NODO": "INVERSIONES EL MOCHUELO SA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100243,
+   "NODO": "INVERSIONES EN COMBUSTIBLES Y TRANSPORTES SAS ICOTRANS",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100244,
+   "NODO": "INVERSIONES FESTIVAL SA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100245,
+   "NODO": "INVERSIONES FLORENCIA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100246,
+   "NODO": "INVERSIONES GOMEZ MONTANEZ LTDA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100247,
+   "NODO": "INVERSIONES HERMANOS COLL SAS",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100248,
+   "NODO": "INVERSIONES LA 27 SA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100249,
+   "NODO": "INVERSIONES LA BARONESA Y CIA S EN C",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100250,
+   "NODO": "INVERSIONES LA GLORIETA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100251,
+   "NODO": "INVERSIONES LA MILAGROSA SA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100252,
+   "NODO": "INVERSIONES LA PONDEROSA SA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100253,
+   "NODO": "INVERSIONES MANGA LTDA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100254,
+   "NODO": "INVERSIONES OIL GAS SAS",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100255,
+   "NODO": "INVERSIONES PARMALAT",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100256,
+   "NODO": "INVERSIONES QUIROGA Y CIA LTDA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100257,
+   "NODO": "INVERSIONES RENGIFO ROJAS Y CIA LTDA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100258,
+   "NODO": "INVERSIONES SILVERADO SAS",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100259,
+   "NODO": "INVERSIONES SUTAGAO SA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100260,
+   "NODO": "INVERSIONES VALENCIA RODRIGUEZ Y CIA LTDA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100261,
+   "NODO": "INVERSIONES Y COMBUSTIBLES LA MARIA S EN C",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100262,
+   "NODO": "INVERSIONES Y SERVICIOS NEAM",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100263,
+   "NODO": "JACINTO TORRES ARIAS",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100264,
+   "NODO": "JADER ALVAREZ GOMEZ",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100265,
+   "NODO": "JAIRO ANTONIO GOMEZ FONTALVO",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100266,
+   "NODO": "JAIRO ARMANDO LOVERA CAMPOS",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100267,
+   "NODO": "JAIRO AUGUSTO QUIJANO CARRILLO",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100268,
+   "NODO": "JAIRO GOMEZ",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100269,
+   "NODO": "JANETT ZUNIGA DIAZ  GAZEL",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100270,
+   "NODO": "JAVIER E SANCHEZ S",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100271,
+   "NODO": "JAVIER GARCIA MAYA  GAZEL",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100272,
+   "NODO": "JEMAY ALCIOME PARRA MOYANO  GAZEL",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100273,
+   "NODO": "JESUS AUGUSTO VIDALES D  GAZEL",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100274,
+   "NODO": "JIMENEZ Y MORALES INVERSIONES LTDA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100275,
+   "NODO": "JINZA SA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100276,
+   "NODO": "JORGE LUIS GOMEZ  COOP TRANSPORTADORES DE PALMIRA  GAZEL",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100277,
+   "NODO": "JORGE RICARDO NAVIA KLEMPERER  GAZEL",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100278,
+   "NODO": "JORGE SANDOVAL BARRERA  GAZEL",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100279,
+   "NODO": "JOSE CAMILO MANZUR  GAZEL",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100280,
+   "NODO": "JOSE FABIO PORTILLA MENESES",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100281,
+   "NODO": "JOSE FERNANDO BOTERO SANCHEZ",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100282,
+   "NODO": "JOSE HJ RIZO DELGADO",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100283,
+   "NODO": "JUAN MARTIN LTDA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100284,
+   "NODO": "JUANA RAQUEL ROSERO ZAMBRANO  GAZEL",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100285,
+   "NODO": "JULIO CESAR CARDONA  GAZEL",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100286,
+   "NODO": "JULIO GAVIRIA REPRESENTANTE LEGAL",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100287,
+   "NODO": "JULIO MORALES  T Y CIA LTDA  GAZEL",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100288,
+   "NODO": "JYP LTDA  JUAN GUILLERMO SANCHEZ OCAMPO  GAZEL",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100289,
+   "NODO": "LARRANAGA Y BOLANOS LTDA  GAZEL",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100290,
+   "NODO": "LEONARDO JACOBO  GAZEL",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100291,
+   "NODO": "LLANOGAS SA ESP ANTERIORMENTE PROPIEDAD DE COMGASCO SA ESP",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100292,
+   "NODO": "LOS MANGOS SA GASES Y COMBUSTIBLES",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100293,
+   "NODO": "LUBRICANTES Y COMBUSTIBLES DEL ORIENTE LTDA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100294,
+   "NODO": "LUBRICO Y CIA LTDA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100295,
+   "NODO": "LUCIA GIANNUZZI  GAZEL",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100296,
+   "NODO": "LUIS CARLOS HORMAZA  GAZEL",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100297,
+   "NODO": "LUIS FERNANDO GRAJALES RUIZ  GAZEL",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100298,
+   "NODO": "LUIS FERNANDO MARIN  GAZEL",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100299,
+   "NODO": "LUIS GAVIRIA  GAZEL",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100300,
+   "NODO": "LUIS MIGUEL BELLO  CREDI TRANSPORTES SA  GAZEL",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100301,
+   "NODO": "LUIS VICENTE GUTIERRES GUIZA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100302,
+   "NODO": "M JUAN MARTIN LTDA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100303,
+   "NODO": "MADIGAS HIDROCARBUROS SA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100304,
+   "NODO": "MAGIOTA LTDA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100305,
+   "NODO": "MANTILLA Y ROJAS SAS",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100306,
+   "NODO": "MARCO ANTONIO LONDONO SIERRA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100307,
+   "NODO": "MARiA ARNEDIS LOAIZA MARTINEZ",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100308,
+   "NODO": "MARIO AGRESSOT  GAZEL",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100309,
+   "NODO": "MARTIGO SAS",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100310,
+   "NODO": "MARTIN ALONSO TAVERA RODRIGUEZ",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100311,
+   "NODO": "MARTINEZ LTDA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100312,
+   "NODO": "MASGAS SA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100313,
+   "NODO": "MAURICIO FALLA TELLO  GAZEL",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100314,
+   "NODO": "MEGAGAS SAS",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100315,
+   "NODO": "METROPOLITA DE COMBUSTIBLE LTDA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100316,
+   "NODO": "METROPOLITANA DE COMBUSTIBLE LTDA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100317,
+   "NODO": "MOBIL GAS LTDA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100318,
+   "NODO": "MOVILGAS LTDA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100319,
+   "NODO": "MOVILGAS LTDA - GERARDO JAVIER ALVARADO CUBILLOS",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100320,
+   "NODO": "MULTICENTRO DE SERVICIOS AA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100321,
+   "NODO": "MULTISERVICIOS PANAMERICANA  SA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100322,
+   "NODO": "NESTOR GONZALEZ  GAZEL",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100323,
+   "NODO": "NORMAN GRAJALES VALENCIA- VELASQUEZ ASOCIADOS CIA LTDA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100324,
+   "NODO": "OMAR ARISTIZABAL  GAZEL",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100325,
+   "NODO": "OMEGAS LTDA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100326,
+   "NODO": "OPERACIONES Y SERVICIOS DE COMBUSTIBLES SAS-OPESE SAS",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100327,
+   "NODO": "OPERADORES DE ESTACIONES DE SERVICIO LTDA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100328,
+   "NODO": "OPERADORES TECNICOS DE ESTACIONES DE SERVICIO OTEDS SA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100329,
+   "NODO": "OPESE",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100330,
+   "NODO": "ORGANIZACION TERPEL SA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100331,
+   "NODO": "ORGANIZACION TERPEL SA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100332,
+   "NODO": "ORGANIZACION TERPEL SA  - OPESE",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100333,
+   "NODO": "ORGANZIACION TERPEL",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100334,
+   "NODO": "OTEDS SA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100335,
+   "NODO": "PARDO BOTERO Y CIA LTDA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100336,
+   "NODO": "PEDRO JOSE SANINT ARMEL",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100337,
+   "NODO": "PETROLMIL",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100338,
+   "NODO": "PLEXA SAS ESP",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100339,
+   "NODO": "PLINIO ARIAS JIMENEZ",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100340,
+   "NODO": "PLUS OIL SA  JORGE HERNAN MEDINA O  REPRESENTANTE LEGAL",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100341,
+   "NODO": "PRIMER TAX SA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100342,
+   "NODO": "PROCOLGAS GNV SA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100343,
+   "NODO": "PROMOTORES Y OPERADORES SA  GAZEL",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100344,
+   "NODO": "PUNTO GAS",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100345,
+   "NODO": "PUNTO VERDE CAQUETA SAS",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100346,
+   "NODO": "RAMIREZ ARISTIZABAL Y CIA LTDA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100347,
+   "NODO": "RAMIRO PERDOMO E Y CIA SAS",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100348,
+   "NODO": "RAMIRO PERDOMO Y CIA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100349,
+   "NODO": "RICARDO MARTINEZ ERAZO  ESTACION DE SERVICIO LAS CEIBAS CALI  EU  GAZEL",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100350,
+   "NODO": "RIZO ENERGY Y CIA LTDA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100351,
+   "NODO": "RODOLFO GOMEZ QUINTERO  GAZEL",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100352,
+   "NODO": "RODRIGO CARDONA  GAZEL",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100353,
+   "NODO": "ROSA ELENA MADRID ARISTIZABAL",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100354,
+   "NODO": "ROZO PINZON LILIANA - EDS AUTOMOTRIZ SAN ANTONIO",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100355,
+   "NODO": "RUGUELO LTDA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100356,
+   "NODO": "SALOMON SERRANO SUAREZ",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100357,
+   "NODO": "SEDETRASN SA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100358,
+   "NODO": "SERGIO ANTONIO RAMIREZ",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100359,
+   "NODO": "SERVICENTRO AUTOMOTRIZ",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100360,
+   "NODO": "SERVICENTRO CALIMAR ESSO No 136",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100361,
+   "NODO": "SERVICENTRO ESSO AVENIDA TERCERA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100362,
+   "NODO": "SERVICENTRO ESSO LA PRADERA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100363,
+   "NODO": "SERVICENTRO ESSO PLANETA RICA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100364,
+   "NODO": "SERVICENTRO FERROCARRIL SAS",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100365,
+   "NODO": "SERVICENTRO HERNANDEZ LTDA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100366,
+   "NODO": "SERVICENTRO LAS FLORES  GAZEL",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100367,
+   "NODO": "SERVICIOS DE GAS DEL LLANO SAS",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100368,
+   "NODO": "SERVICIOS GEIJE",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100369,
+   "NODO": "SERVIGAS DEL LLANO SAS",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100370,
+   "NODO": "SERVINGENIERIA SA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100371,
+   "NODO": "SERVISANTANDER LTDA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100372,
+   "NODO": "SERVITECA LA CEJA - RL LUIS COSME HENAO CORREA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100373,
+   "NODO": "SERVIYARIMA LTDA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100374,
+   "NODO": "SIEG SA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100375,
+   "NODO": "SIGA OIL SA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100376,
+   "NODO": "SIGURGAS",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100377,
+   "NODO": "SOCIEDAD DISTRIBUIDORA DE COMBUSTIBLES SODICOM SA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100378,
+   "NODO": "SODEN LTDA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100379,
+   "NODO": "SOLUCIONES INTEGRALES DE COMBUSTIBLES SAS",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100380,
+   "NODO": "STANDARD ENERGY COMPANY - SENERGYC",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100381,
+   "NODO": "SUMIENERGETICOS",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100382,
+   "NODO": "SUPERESTACIONES DE COLOMBIA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100383,
+   "NODO": "SUPERGAS RISARALDA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100384,
+   "NODO": "TBASCOMEU - EDS ENTRE RIOS",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100385,
+   "NODO": "TERCERO  GAZEL",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100386,
+   "NODO": "TERPEL",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100387,
+   "NODO": "TEXACO",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100388,
+   "NODO": "TOTALGAS SA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100389,
+   "NODO": "TRANSAGA SAS",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100390,
+   "NODO": "TRANSPORTES MARTIGONZA  TMG GRUPO EMPRESARIAL",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100391,
+   "NODO": "TRASNPORTES GLAMAR LTDA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100392,
+   "NODO": "TRES AM SA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100393,
+   "NODO": "TRILENIO SA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100394,
+   "NODO": "UNIGAS LTDA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100395,
+   "NODO": "UNIGAS SAS",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100396,
+   "NODO": "UNION TEMPORAL DE COMBUSTIBLES USME",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100397,
+   "NODO": "VANNET SA",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100398,
+   "NODO": "VELASQUEZ Y QUIRAMA CIA LTDA  GAZEL",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100399,
+   "NODO": "VICENTE ALFONSO RAMIREZ DUQUE  GAZEL",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100400,
+   "NODO": "VICTOR MANUEL MALAGON PINZON",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100401,
+   "NODO": "VIRAMO ASOCIADOS",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100402,
+   "NODO": "YESID GASCA DURAN",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100403,
+   "NODO": "YESID HERNANDEZ QUINTERO",
+   "TIPONODO": "Propietario"
+ },
+ {
+   "ID": 100404,
+   "NODO": "ZENCAR OCCIDENTE SA  JORGE CARRILLO REPRESENTANTE LEGAL",
+   "TIPONODO": "Propietario"
+ }
+]
+,
+links: [
+ {
+   "CODIGOMUNICIPIO": 5001,
+   "NOMBREMUNICIPIO": "MEDELLIN",
+   "IDPROPIETARIO": 100176,
+   "PROPIETARIO": "GAS NATURAL COMPRIMIDO S A  O GNC S A  O GAZEL",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 5001,
+   "NOMBREMUNICIPIO": "MEDELLIN",
+   "IDPROPIETARIO": 100233,
+   "PROPIETARIO": "INVERSIONES ALTOVERO",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 5360,
+   "NOMBREMUNICIPIO": "ITAGUI",
+   "IDPROPIETARIO": 100262,
+   "PROPIETARIO": "INVERSIONES Y SERVICIOS NEAM",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 5001,
+   "NOMBREMUNICIPIO": "MEDELLIN",
+   "IDPROPIETARIO": 100121,
+   "PROPIETARIO": "EDS TEXACO ESTELLA DEL SUR",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 5631,
+   "NOMBREMUNICIPIO": "SABANETA",
+   "IDPROPIETARIO": 100079,
+   "PROPIETARIO": "DISTRACOM SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 5154,
+   "NOMBREMUNICIPIO": "CAUCASIA",
+   "IDPROPIETARIO": 100079,
+   "PROPIETARIO": "DISTRACOM SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 5001,
+   "NOMBREMUNICIPIO": "MEDELLIN",
+   "IDPROPIETARIO": 100392,
+   "PROPIETARIO": "TRES AM SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 5001,
+   "NOMBREMUNICIPIO": "MEDELLIN",
+   "IDPROPIETARIO": 100338,
+   "PROPIETARIO": "PLEXA SAS ESP",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 5001,
+   "NOMBREMUNICIPIO": "MEDELLIN",
+   "IDPROPIETARIO": 100385,
+   "PROPIETARIO": "TERCERO  GAZEL",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 5376,
+   "NOMBREMUNICIPIO": "LA CEJA",
+   "IDPROPIETARIO": 100372,
+   "PROPIETARIO": "SERVITECA LA CEJA - RL LUIS COSME HENAO CORREA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 5615,
+   "NOMBREMUNICIPIO": "RIO NEGRO",
+   "IDPROPIETARIO": 100180,
+   "PROPIETARIO": "GAS NATURAL FENOSA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 8001,
+   "NOMBREMUNICIPIO": "BARRANQUILLA",
+   "IDPROPIETARIO": 100261,
+   "PROPIETARIO": "INVERSIONES Y COMBUSTIBLES LA MARIA S EN C",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 8001,
+   "NOMBREMUNICIPIO": "BARRANQUILLA",
+   "IDPROPIETARIO": 100238,
+   "PROPIETARIO": "INVERSIONES COMBGAS SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 8001,
+   "NOMBREMUNICIPIO": "BARRANQUILLA",
+   "IDPROPIETARIO": 100354,
+   "PROPIETARIO": "ROZO PINZON LILIANA - EDS AUTOMOTRIZ SAN ANTONIO",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 8001,
+   "NOMBREMUNICIPIO": "BARRANQUILLA",
+   "IDPROPIETARIO": 100209,
+   "PROPIETARIO": "GRANDES SUPERFICIES DE COLOMBIA SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 8758,
+   "NOMBREMUNICIPIO": "SOLEDAD",
+   "IDPROPIETARIO": 100177,
+   "PROPIETARIO": "GAS NATURAL COMPRIMIDO SA O GNC SA O GAZEL",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 8001,
+   "NOMBREMUNICIPIO": "BARRANQUILLA",
+   "IDPROPIETARIO": 100104,
+   "PROPIETARIO": "EDS COLISEO SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 8001,
+   "NOMBREMUNICIPIO": "BARRANQUILLA",
+   "IDPROPIETARIO": 100020,
+   "PROPIETARIO": "BAVARIA SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 8001,
+   "NOMBREMUNICIPIO": "BARRANQUILLA",
+   "IDPROPIETARIO": 100306,
+   "PROPIETARIO": "MARCO ANTONIO LONDONO SIERRA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 13001,
+   "NOMBREMUNICIPIO": "CARTAGENA",
+   "IDPROPIETARIO": 100177,
+   "PROPIETARIO": "GAS NATURAL COMPRIMIDO SA O GNC SA O GAZEL",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 13001,
+   "NOMBREMUNICIPIO": "CARTAGENA",
+   "IDPROPIETARIO": 100172,
+   "PROPIETARIO": "GAS COMPRIMIDO DE COLOMBIA SA ESP",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 13001,
+   "NOMBREMUNICIPIO": "CARTAGENA",
+   "IDPROPIETARIO": 100279,
+   "PROPIETARIO": "JOSE CAMILO MANZUR  GAZEL",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 13001,
+   "NOMBREMUNICIPIO": "CARTAGENA",
+   "IDPROPIETARIO": 100153,
+   "PROPIETARIO": "ESTACION DE SERVICIO ZONA FRANCA LTDA  GAZEL",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 17001,
+   "NOMBREMUNICIPIO": "MANIZALES",
+   "IDPROPIETARIO": 100330,
+   "PROPIETARIO": "ORGANIZACION TERPEL SA",
+   "ESTACIONES": 8
+ },
+ {
+   "CODIGOMUNICIPIO": 17001,
+   "NOMBREMUNICIPIO": "MANIZALES",
+   "IDPROPIETARIO": 100386,
+   "PROPIETARIO": "TERPEL",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 85010,
+   "NOMBREMUNICIPIO": "AGUAZUL",
+   "IDPROPIETARIO": 100133,
+   "PROPIETARIO": "ENERCA SA ESP",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 85001,
+   "NOMBREMUNICIPIO": "YOPAL",
+   "IDPROPIETARIO": 100303,
+   "PROPIETARIO": "MADIGAS HIDROCARBUROS SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 85001,
+   "NOMBREMUNICIPIO": "YOPAL",
+   "IDPROPIETARIO": 100395,
+   "PROPIETARIO": "UNIGAS SAS",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 19001,
+   "NOMBREMUNICIPIO": "POPAYAN",
+   "IDPROPIETARIO": 100307,
+   "PROPIETARIO": "MARiA ARNEDIS LOAIZA MARTINEZ",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 19001,
+   "NOMBREMUNICIPIO": "POPAYAN",
+   "IDPROPIETARIO": 100388,
+   "PROPIETARIO": "TOTALGAS SA",
+   "ESTACIONES": 2
+ },
+ {
+   "CODIGOMUNICIPIO": 23001,
+   "NOMBREMUNICIPIO": "MONTERIA",
+   "IDPROPIETARIO": 100216,
+   "PROPIETARIO": "GUSTAVO SALGADO  GAZEL",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 23001,
+   "NOMBREMUNICIPIO": "MONTERIA",
+   "IDPROPIETARIO": 100329,
+   "PROPIETARIO": "OPESE",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 23660,
+   "NOMBREMUNICIPIO": "SAHAGUN",
+   "IDPROPIETARIO": 100070,
+   "PROPIETARIO": "CURE CARRILLO S EN C S - RL MONICA PATRICIA CARRILLO FRAGOSO",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 11001,
+   "NOMBREMUNICIPIO": "BOGOTA  D C",
+   "IDPROPIETARIO": 100058,
+   "PROPIETARIO": "COMBUSTIBLES Y SERVICIOS",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 11001,
+   "NOMBREMUNICIPIO": "BOGOTA  D C",
+   "IDPROPIETARIO": 100242,
+   "PROPIETARIO": "INVERSIONES EL MOCHUELO SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 11001,
+   "NOMBREMUNICIPIO": "BOGOTA  D C",
+   "IDPROPIETARIO": 100266,
+   "PROPIETARIO": "JAIRO ARMANDO LOVERA CAMPOS",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 11001,
+   "NOMBREMUNICIPIO": "BOGOTA  D C",
+   "IDPROPIETARIO": 100157,
+   "PROPIETARIO": "ESTANDAR ENERGY COMPANY SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 25430,
+   "NOMBREMUNICIPIO": "MADRID",
+   "IDPROPIETARIO": 100180,
+   "PROPIETARIO": "GAS NATURAL FENOSA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 25843,
+   "NOMBREMUNICIPIO": "UBATE",
+   "IDPROPIETARIO": 100180,
+   "PROPIETARIO": "GAS NATURAL FENOSA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 11001,
+   "NOMBREMUNICIPIO": "BOGOTA  D C",
+   "IDPROPIETARIO": 100255,
+   "PROPIETARIO": "INVERSIONES PARMALAT",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 11001,
+   "NOMBREMUNICIPIO": "BOGOTA  D C",
+   "IDPROPIETARIO": 100385,
+   "PROPIETARIO": "TERCERO  GAZEL",
+   "ESTACIONES": 4
+ },
+ {
+   "CODIGOMUNICIPIO": 11001,
+   "NOMBREMUNICIPIO": "BOGOTA  D C",
+   "IDPROPIETARIO": 100170,
+   "PROPIETARIO": "GAS CENTRAL DE LA SABANA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 11001,
+   "NOMBREMUNICIPIO": "BOGOTA  D C",
+   "IDPROPIETARIO": 100293,
+   "PROPIETARIO": "LUBRICANTES Y COMBUSTIBLES DEL ORIENTE LTDA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 11001,
+   "NOMBREMUNICIPIO": "BOGOTA  D C",
+   "IDPROPIETARIO": 100209,
+   "PROPIETARIO": "GRANDES SUPERFICIES DE COLOMBIA SA",
+   "ESTACIONES": 5
+ },
+ {
+   "CODIGOMUNICIPIO": 11001,
+   "NOMBREMUNICIPIO": "BOGOTA  D C",
+   "IDPROPIETARIO": 100322,
+   "PROPIETARIO": "NESTOR GONZALEZ  GAZEL",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 11001,
+   "NOMBREMUNICIPIO": "BOGOTA  D C",
+   "IDPROPIETARIO": 100131,
+   "PROPIETARIO": "EMPRESA ADMINISTRADORA DE SERVICIOS",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 25740,
+   "NOMBREMUNICIPIO": "SIBATE",
+   "IDPROPIETARIO": 100135,
+   "PROPIETARIO": "ENERGiA DEL GAS SAS",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 25320,
+   "NOMBREMUNICIPIO": "GUADUAS",
+   "IDPROPIETARIO": 100314,
+   "PROPIETARIO": "MEGAGAS SAS",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 11001,
+   "NOMBREMUNICIPIO": "BOGOTA  D C",
+   "IDPROPIETARIO": 100380,
+   "PROPIETARIO": "STANDARD ENERGY COMPANY - SENERGYC",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 11001,
+   "NOMBREMUNICIPIO": "BOGOTA  D C",
+   "IDPROPIETARIO": 100046,
+   "PROPIETARIO": "COMBUSTIBLES CAPITAL SAS",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 44999,
+   "NOMBREMUNICIPIO": "CERREJON",
+   "IDPROPIETARIO": 100330,
+   "PROPIETARIO": "ORGANIZACION TERPEL SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 41001,
+   "NOMBREMUNICIPIO": "NEIVA",
+   "IDPROPIETARIO": 100330,
+   "PROPIETARIO": "ORGANIZACION TERPEL SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 41999,
+   "NOMBREMUNICIPIO": "CHICALA",
+   "IDPROPIETARIO": 100332,
+   "PROPIETARIO": "ORGANIZACION TERPEL SA  - OPESE",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 50006,
+   "NOMBREMUNICIPIO": "ACACIAS",
+   "IDPROPIETARIO": 100291,
+   "PROPIETARIO": "LLANOGAS SA ESP ANTERIORMENTE PROPIEDAD DE COMGASCO SA ESP",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 50001,
+   "NOMBREMUNICIPIO": "VILLAVICENCIO",
+   "IDPROPIETARIO": 100060,
+   "PROPIETARIO": "COMERCIALIZADORA DE COMBUSTIBLES LA ESTRELLA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 50001,
+   "NOMBREMUNICIPIO": "VILLAVICENCIO",
+   "IDPROPIETARIO": 100056,
+   "PROPIETARIO": "COMBUSTIBLES VEHICULARES DE COLOMBIA SA - GASVEHICOL SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 50006,
+   "NOMBREMUNICIPIO": "ACACIAS",
+   "IDPROPIETARIO": 100219,
+   "PROPIETARIO": "HELY MARTINEZ RODRIGUEZ",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 50001,
+   "NOMBREMUNICIPIO": "VILLAVICENCIO",
+   "IDPROPIETARIO": 100124,
+   "PROPIETARIO": "EDS TOTAL ENERGY SAS - CARLA LILIAN VILLA MONTOYA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 63001,
+   "NOMBREMUNICIPIO": "ARMENIA",
+   "IDPROPIETARIO": 100290,
+   "PROPIETARIO": "LEONARDO JACOBO  GAZEL",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 66170,
+   "NOMBREMUNICIPIO": "DOS QUEBRADAS",
+   "IDPROPIETARIO": 100082,
+   "PROPIETARIO": "DISTRIBUIDORA \"EL VIADUCTO\"",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 66001,
+   "NOMBREMUNICIPIO": "PEREIRA",
+   "IDPROPIETARIO": 100330,
+   "PROPIETARIO": "ORGANIZACION TERPEL SA",
+   "ESTACIONES": 3
+ },
+ {
+   "CODIGOMUNICIPIO": 66001,
+   "NOMBREMUNICIPIO": "PEREIRA",
+   "IDPROPIETARIO": 100099,
+   "PROPIETARIO": "ECHEVERRI OSSA-CIA DISTRIECHE S EN C  GAZEL",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 66001,
+   "NOMBREMUNICIPIO": "PEREIRA",
+   "IDPROPIETARIO": 100146,
+   "PROPIETARIO": "ESTACION DE SERVICIO LA GRAN MANZANA LTDA  ORLANDO RESTREPO VASQUES",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 68001,
+   "NOMBREMUNICIPIO": "BUCARAMANGA",
+   "IDPROPIETARIO": 100109,
+   "PROPIETARIO": "EDS LA RIVIERA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 68081,
+   "NOMBREMUNICIPIO": "BARRANCABERMEJA",
+   "IDPROPIETARIO": 100359,
+   "PROPIETARIO": "SERVICENTRO AUTOMOTRIZ",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 68001,
+   "NOMBREMUNICIPIO": "BUCARAMANGA",
+   "IDPROPIETARIO": 100118,
+   "PROPIETARIO": "EDS REAL DE MINAS",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 68001,
+   "NOMBREMUNICIPIO": "BUCARAMANGA",
+   "IDPROPIETARIO": 100371,
+   "PROPIETARIO": "SERVISANTANDER LTDA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 70001,
+   "NOMBREMUNICIPIO": "SINCELEJO",
+   "IDPROPIETARIO": 100069,
+   "PROPIETARIO": "CRUZ DE MAYO LTDA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 70001,
+   "NOMBREMUNICIPIO": "SINCELEJO",
+   "IDPROPIETARIO": 100002,
+   "PROPIETARIO": "ADOLFO ENRIQUE GARCIA DELGADO",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 73001,
+   "NOMBREMUNICIPIO": "IBAGUE",
+   "IDPROPIETARIO": 100263,
+   "PROPIETARIO": "JACINTO TORRES ARIAS",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 73275,
+   "NOMBREMUNICIPIO": "FLANDES",
+   "IDPROPIETARIO": 100056,
+   "PROPIETARIO": "COMBUSTIBLES VEHICULARES DE COLOMBIA SA - GASVEHICOL SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 73001,
+   "NOMBREMUNICIPIO": "IBAGUE",
+   "IDPROPIETARIO": 100139,
+   "PROPIETARIO": "ESTACION DE SERVICIO AVENIDA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 73443,
+   "NOMBREMUNICIPIO": "MARIQUITA",
+   "IDPROPIETARIO": 100057,
+   "PROPIETARIO": "COMBUSTIBLES Y GASES DE COLOMBIA SA - COMGASCOL",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 76001,
+   "NOMBREMUNICIPIO": "CALI",
+   "IDPROPIETARIO": 100300,
+   "PROPIETARIO": "LUIS MIGUEL BELLO  CREDI TRANSPORTES SA  GAZEL",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 76520,
+   "NOMBREMUNICIPIO": "PALMIRA",
+   "IDPROPIETARIO": 100276,
+   "PROPIETARIO": "JORGE LUIS GOMEZ  COOP TRANSPORTADORES DE PALMIRA  GAZEL",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 76001,
+   "NOMBREMUNICIPIO": "CALI",
+   "IDPROPIETARIO": 100338,
+   "PROPIETARIO": "PLEXA SAS ESP",
+   "ESTACIONES": 4
+ },
+ {
+   "CODIGOMUNICIPIO": 76834,
+   "NOMBREMUNICIPIO": "TULUA",
+   "IDPROPIETARIO": 100294,
+   "PROPIETARIO": "LUBRICO Y CIA LTDA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 76001,
+   "NOMBREMUNICIPIO": "CALI",
+   "IDPROPIETARIO": 100256,
+   "PROPIETARIO": "INVERSIONES QUIROGA Y CIA LTDA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 76001,
+   "NOMBREMUNICIPIO": "CALI",
+   "IDPROPIETARIO": 100149,
+   "PROPIETARIO": "ESTACION DE SERVICIO MARIA LUISA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 76520,
+   "NOMBREMUNICIPIO": "PALMIRA",
+   "IDPROPIETARIO": 100229,
+   "PROPIETARIO": "INCOMSA SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 76001,
+   "NOMBREMUNICIPIO": "CALI",
+   "IDPROPIETARIO": 100031,
+   "PROPIETARIO": "CARMILE INVERSIONES LOPEZ Y CIA SCA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 76892,
+   "NOMBREMUNICIPIO": "YUMBO",
+   "IDPROPIETARIO": 100390,
+   "PROPIETARIO": "TRANSPORTES MARTIGONZA  TMG GRUPO EMPRESARIAL",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 5001,
+   "NOMBREMUNICIPIO": "MEDELLIN",
+   "IDPROPIETARIO": 100136,
+   "PROPIETARIO": "EPM",
+   "ESTACIONES": 4
+ },
+ {
+   "CODIGOMUNICIPIO": 5088,
+   "NOMBREMUNICIPIO": "BELLO",
+   "IDPROPIETARIO": 100230,
+   "PROPIETARIO": "INGO CONSTRUCTORES",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 5001,
+   "NOMBREMUNICIPIO": "MEDELLIN",
+   "IDPROPIETARIO": 100158,
+   "PROPIETARIO": "EXXON MOBIL COLOMBIA - AUTOMARKET LIMIT",
+   "ESTACIONES": 2
+ },
+ {
+   "CODIGOMUNICIPIO": 5001,
+   "NOMBREMUNICIPIO": "MEDELLIN",
+   "IDPROPIETARIO": 100173,
+   "PROPIETARIO": "GAS MASIVO VEHICULAR LTDA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 5001,
+   "NOMBREMUNICIPIO": "MEDELLIN",
+   "IDPROPIETARIO": 100116,
+   "PROPIETARIO": "EDS MONARCA GNV",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 5360,
+   "NOMBREMUNICIPIO": "ITAGUI",
+   "IDPROPIETARIO": 100330,
+   "PROPIETARIO": "ORGANIZACION TERPEL SA",
+   "ESTACIONES": 2
+ },
+ {
+   "CODIGOMUNICIPIO": 5001,
+   "NOMBREMUNICIPIO": "MEDELLIN",
+   "IDPROPIETARIO": 100298,
+   "PROPIETARIO": "LUIS FERNANDO MARIN  GAZEL",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 5360,
+   "NOMBREMUNICIPIO": "ITAGUI",
+   "IDPROPIETARIO": 100036,
+   "PROPIETARIO": "CERVECERiA UNION SA - RL JAVIER MARIN MONTEALEGRE",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 5615,
+   "NOMBREMUNICIPIO": "RIO NEGRO",
+   "IDPROPIETARIO": 100203,
+   "PROPIETARIO": "GISENCO SAS",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 8001,
+   "NOMBREMUNICIPIO": "BARRANQUILLA",
+   "IDPROPIETARIO": 100222,
+   "PROPIETARIO": "HERNAN RODRIGUEZ CHAVEZ  GAZEL",
+   "ESTACIONES": 2
+ },
+ {
+   "CODIGOMUNICIPIO": 8001,
+   "NOMBREMUNICIPIO": "BARRANQUILLA",
+   "IDPROPIETARIO": 100344,
+   "PROPIETARIO": "PUNTO GAS",
+   "ESTACIONES": 3
+ },
+ {
+   "CODIGOMUNICIPIO": 8001,
+   "NOMBREMUNICIPIO": "BARRANQUILLA",
+   "IDPROPIETARIO": 100122,
+   "PROPIETARIO": "EDS TEXACO No 12  JOSE MANTILLA PUENTE BOLIVAR SAS",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 8001,
+   "NOMBREMUNICIPIO": "BARRANQUILLA",
+   "IDPROPIETARIO": 100101,
+   "PROPIETARIO": "ECOSPETROLEO",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 8001,
+   "NOMBREMUNICIPIO": "BARRANQUILLA",
+   "IDPROPIETARIO": 100012,
+   "PROPIETARIO": "ASTRID ROCIO BLANCO E HIJOS SOCIEDAD LTDA  GAZEL",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 8758,
+   "NOMBREMUNICIPIO": "SOLEDAD",
+   "IDPROPIETARIO": 100355,
+   "PROPIETARIO": "RUGUELO LTDA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 8001,
+   "NOMBREMUNICIPIO": "BARRANQUILLA",
+   "IDPROPIETARIO": 100079,
+   "PROPIETARIO": "DISTRACOM SA",
+   "ESTACIONES": 2
+ },
+ {
+   "CODIGOMUNICIPIO": 8001,
+   "NOMBREMUNICIPIO": "BARRANQUILLA",
+   "IDPROPIETARIO": 100055,
+   "PROPIETARIO": "COMBUSTIBLES UNION GOMEZ SAS",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 13001,
+   "NOMBREMUNICIPIO": "CARTAGENA",
+   "IDPROPIETARIO": 100287,
+   "PROPIETARIO": "JULIO MORALES  T Y CIA LTDA  GAZEL",
+   "ESTACIONES": 2
+ },
+ {
+   "CODIGOMUNICIPIO": 13001,
+   "NOMBREMUNICIPIO": "CARTAGENA",
+   "IDPROPIETARIO": 100273,
+   "PROPIETARIO": "JESUS AUGUSTO VIDALES D  GAZEL",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 13001,
+   "NOMBREMUNICIPIO": "CARTAGENA",
+   "IDPROPIETARIO": 100379,
+   "PROPIETARIO": "SOLUCIONES INTEGRALES DE COMBUSTIBLES SAS",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 15238,
+   "NOMBREMUNICIPIO": "DUITAMA",
+   "IDPROPIETARIO": 100394,
+   "PROPIETARIO": "UNIGAS LTDA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 15001,
+   "NOMBREMUNICIPIO": "TUNJA",
+   "IDPROPIETARIO": 100066,
+   "PROPIETARIO": "COMPRESSED NATURAL GAS COLOMBIA SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 17001,
+   "NOMBREMUNICIPIO": "MANIZALES",
+   "IDPROPIETARIO": 100137,
+   "PROPIETARIO": "ESSAMA EU",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 17174,
+   "NOMBREMUNICIPIO": "CHINCHINA",
+   "IDPROPIETARIO": 100160,
+   "PROPIETARIO": "FERNANDO JIMENEZ GARCIA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 85440,
+   "NOMBREMUNICIPIO": "VILLANUEVA",
+   "IDPROPIETARIO": 100188,
+   "PROPIETARIO": "GASES DEL CUSIANA - CUSIANAGAS SA ESP",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 19001,
+   "NOMBREMUNICIPIO": "POPAYAN",
+   "IDPROPIETARIO": 100330,
+   "PROPIETARIO": "ORGANIZACION TERPEL SA",
+   "ESTACIONES": 2
+ },
+ {
+   "CODIGOMUNICIPIO": 20001,
+   "NOMBREMUNICIPIO": "VALLEDUPAR",
+   "IDPROPIETARIO": 100244,
+   "PROPIETARIO": "INVERSIONES FESTIVAL SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 23001,
+   "NOMBREMUNICIPIO": "MONTERIA",
+   "IDPROPIETARIO": 100005,
+   "PROPIETARIO": "ALBERTO TAMARA OLMOS  DISTRIBUIDORA DE COMBUSTIBLES LA MACARENA  GAZEL",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 11001,
+   "NOMBREMUNICIPIO": "BOGOTA  D C",
+   "IDPROPIETARIO": 100047,
+   "PROPIETARIO": "COMBUSTIBLES DE COLOMBIA SA",
+   "ESTACIONES": 4
+ },
+ {
+   "CODIGOMUNICIPIO": 11001,
+   "NOMBREMUNICIPIO": "BOGOTA  D C",
+   "IDPROPIETARIO": 100330,
+   "PROPIETARIO": "ORGANIZACION TERPEL SA",
+   "ESTACIONES": 24
+ },
+ {
+   "CODIGOMUNICIPIO": 11001,
+   "NOMBREMUNICIPIO": "BOGOTA  D C",
+   "IDPROPIETARIO": 100342,
+   "PROPIETARIO": "PROCOLGAS GNV SA",
+   "ESTACIONES": 3
+ },
+ {
+   "CODIGOMUNICIPIO": 11001,
+   "NOMBREMUNICIPIO": "BOGOTA  D C",
+   "IDPROPIETARIO": 100025,
+   "PROPIETARIO": "BRIOGAS SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 25286,
+   "NOMBREMUNICIPIO": "FUNZA",
+   "IDPROPIETARIO": 100180,
+   "PROPIETARIO": "GAS NATURAL FENOSA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 25473,
+   "NOMBREMUNICIPIO": "MOSQUERA",
+   "IDPROPIETARIO": 100330,
+   "PROPIETARIO": "ORGANIZACION TERPEL SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 11001,
+   "NOMBREMUNICIPIO": "BOGOTA  D C",
+   "IDPROPIETARIO": 100205,
+   "PROPIETARIO": "GNE SOLUCIONES SAS",
+   "ESTACIONES": 4
+ },
+ {
+   "CODIGOMUNICIPIO": 11001,
+   "NOMBREMUNICIPIO": "BOGOTA  D C",
+   "IDPROPIETARIO": 100065,
+   "PROPIETARIO": "COMPANiA DE NEGOCIOS INTERNACIONALES EU",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 11001,
+   "NOMBREMUNICIPIO": "BOGOTA  D C",
+   "IDPROPIETARIO": 100403,
+   "PROPIETARIO": "YESID HERNANDEZ QUINTERO",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 25200,
+   "NOMBREMUNICIPIO": "COGUA",
+   "IDPROPIETARIO": 100380,
+   "PROPIETARIO": "STANDARD ENERGY COMPANY - SENERGYC",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 11001,
+   "NOMBREMUNICIPIO": "BOGOTA  D C",
+   "IDPROPIETARIO": 100302,
+   "PROPIETARIO": "M JUAN MARTIN LTDA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 11001,
+   "NOMBREMUNICIPIO": "BOGOTA  D C",
+   "IDPROPIETARIO": 100303,
+   "PROPIETARIO": "MADIGAS HIDROCARBUROS SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 11001,
+   "NOMBREMUNICIPIO": "BOGOTA  D C",
+   "IDPROPIETARIO": 100210,
+   "PROPIETARIO": "GRUPO AUTOMOTRIZ EDS AUTOGAS SAS",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 11001,
+   "NOMBREMUNICIPIO": "BOGOTA  D C",
+   "IDPROPIETARIO": 100134,
+   "PROPIETARIO": "ENERGIA DE GAS SAS",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 25386,
+   "NOMBREMUNICIPIO": "LA MESA",
+   "IDPROPIETARIO": 100080,
+   "PROPIETARIO": "DISTRIBUCIONES HERNANDEZ GOMEZ LTDA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 25290,
+   "NOMBREMUNICIPIO": "FUSAGASUGA",
+   "IDPROPIETARIO": 100259,
+   "PROPIETARIO": "INVERSIONES SUTAGAO SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 41001,
+   "NOMBREMUNICIPIO": "NEIVA",
+   "IDPROPIETARIO": 100356,
+   "PROPIETARIO": "SALOMON SERRANO SUAREZ",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 41298,
+   "NOMBREMUNICIPIO": "GARZON",
+   "IDPROPIETARIO": 100318,
+   "PROPIETARIO": "MOVILGAS LTDA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 41001,
+   "NOMBREMUNICIPIO": "NEIVA",
+   "IDPROPIETARIO": 100021,
+   "PROPIETARIO": "BIBIANA ROCIO GOMEZ JARAMILLO",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 50001,
+   "NOMBREMUNICIPIO": "VILLAVICENCIO",
+   "IDPROPIETARIO": 100318,
+   "PROPIETARIO": "MOVILGAS LTDA",
+   "ESTACIONES": 5
+ },
+ {
+   "CODIGOMUNICIPIO": 63001,
+   "NOMBREMUNICIPIO": "ARMENIA",
+   "IDPROPIETARIO": 100091,
+   "PROPIETARIO": "DISTRIMETANO DE COLOMBIA LTDA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 63401,
+   "NOMBREMUNICIPIO": "LA TEBAIDA",
+   "IDPROPIETARIO": 100083,
+   "PROPIETARIO": "DISTRIBUIDORA COLOMBIANA DE COMBUSTIBLES  SAS -DISCCO SAS",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 66001,
+   "NOMBREMUNICIPIO": "PEREIRA",
+   "IDPROPIETARIO": 100297,
+   "PROPIETARIO": "LUIS FERNANDO GRAJALES RUIZ  GAZEL",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 66001,
+   "NOMBREMUNICIPIO": "PEREIRA",
+   "IDPROPIETARIO": 100285,
+   "PROPIETARIO": "JULIO CESAR CARDONA  GAZEL",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 66001,
+   "NOMBREMUNICIPIO": "PEREIRA",
+   "IDPROPIETARIO": 100068,
+   "PROPIETARIO": "CORALGAS LTDA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 66001,
+   "NOMBREMUNICIPIO": "PEREIRA",
+   "IDPROPIETARIO": 100187,
+   "PROPIETARIO": "GASES DE OCCIDENTES SA EMPRESA DE SERVICIOS PUBLICOS",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 68001,
+   "NOMBREMUNICIPIO": "BUCARAMANGA",
+   "IDPROPIETARIO": 100034,
+   "PROPIETARIO": "CENTROABASTOS",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 73268,
+   "NOMBREMUNICIPIO": "ESPINAL",
+   "IDPROPIETARIO": 100192,
+   "PROPIETARIO": "GASES Y LIQUIDOS LTDA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 73001,
+   "NOMBREMUNICIPIO": "IBAGUE",
+   "IDPROPIETARIO": 100330,
+   "PROPIETARIO": "ORGANIZACION TERPEL SA",
+   "ESTACIONES": 2
+ },
+ {
+   "CODIGOMUNICIPIO": 73001,
+   "NOMBREMUNICIPIO": "IBAGUE",
+   "IDPROPIETARIO": 100056,
+   "PROPIETARIO": "COMBUSTIBLES VEHICULARES DE COLOMBIA SA - GASVEHICOL SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 76001,
+   "NOMBREMUNICIPIO": "CALI",
+   "IDPROPIETARIO": 100167,
+   "PROPIETARIO": "GAETANO SCOLLO  GAZEL",
+   "ESTACIONES": 2
+ },
+ {
+   "CODIGOMUNICIPIO": 76001,
+   "NOMBREMUNICIPIO": "CALI",
+   "IDPROPIETARIO": 100289,
+   "PROPIETARIO": "LARRANAGA Y BOLANOS LTDA  GAZEL",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 76834,
+   "NOMBREMUNICIPIO": "TULUA",
+   "IDPROPIETARIO": 100107,
+   "PROPIETARIO": "EDS EL TERMINAL",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 76001,
+   "NOMBREMUNICIPIO": "CALI",
+   "IDPROPIETARIO": 100346,
+   "PROPIETARIO": "RAMIREZ ARISTIZABAL Y CIA LTDA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 76001,
+   "NOMBREMUNICIPIO": "CALI",
+   "IDPROPIETARIO": 100018,
+   "PROPIETARIO": "AYN COMBUSTIBLES CIA LTDA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 76113,
+   "NOMBREMUNICIPIO": "BUGA",
+   "IDPROPIETARIO": 100148,
+   "PROPIETARIO": "ESTACION DE SERVICIO LA REYNA LTDA  DARIO VILLALOBOS  GAZEL",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 76113,
+   "NOMBREMUNICIPIO": "BUGA",
+   "IDPROPIETARIO": 100185,
+   "PROPIETARIO": "GAS VEHICULAR DE COLOMBIA SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 76001,
+   "NOMBREMUNICIPIO": "CALI",
+   "IDPROPIETARIO": 100343,
+   "PROPIETARIO": "PROMOTORES Y OPERADORES SA  GAZEL",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 76109,
+   "NOMBREMUNICIPIO": "BUENAVENTURA",
+   "IDPROPIETARIO": 100360,
+   "PROPIETARIO": "SERVICENTRO CALIMAR ESSO No 136",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 76001,
+   "NOMBREMUNICIPIO": "CALI",
+   "IDPROPIETARIO": 100136,
+   "PROPIETARIO": "EPM",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 76892,
+   "NOMBREMUNICIPIO": "YUMBO",
+   "IDPROPIETARIO": 100038,
+   "PROPIETARIO": "COEXITO SAS",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 5001,
+   "NOMBREMUNICIPIO": "MEDELLIN",
+   "IDPROPIETARIO": 100382,
+   "PROPIETARIO": "SUPERESTACIONES DE COLOMBIA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 5088,
+   "NOMBREMUNICIPIO": "BELLO",
+   "IDPROPIETARIO": 100112,
+   "PROPIETARIO": "EDS LOS ANGELES",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 5001,
+   "NOMBREMUNICIPIO": "MEDELLIN",
+   "IDPROPIETARIO": 100186,
+   "PROPIETARIO": "GAS Y COMBUSTIBLE VEHICULAR",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 5001,
+   "NOMBREMUNICIPIO": "MEDELLIN",
+   "IDPROPIETARIO": 100079,
+   "PROPIETARIO": "DISTRACOM SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 5001,
+   "NOMBREMUNICIPIO": "MEDELLIN",
+   "IDPROPIETARIO": 100209,
+   "PROPIETARIO": "GRANDES SUPERFICIES DE COLOMBIA SA",
+   "ESTACIONES": 2
+ },
+ {
+   "CODIGOMUNICIPIO": 5001,
+   "NOMBREMUNICIPIO": "MEDELLIN",
+   "IDPROPIETARIO": 100212,
+   "PROPIETARIO": "GRUPO EDS AUTOGAS SAS",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 5001,
+   "NOMBREMUNICIPIO": "MEDELLIN",
+   "IDPROPIETARIO": 100015,
+   "PROPIETARIO": "AUTOGAS DE COLOMBIA BREASCOL SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 8685,
+   "NOMBREMUNICIPIO": "SANTO TOMAS",
+   "IDPROPIETARIO": 100344,
+   "PROPIETARIO": "PUNTO GAS",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 8001,
+   "NOMBREMUNICIPIO": "BARRANQUILLA",
+   "IDPROPIETARIO": 100165,
+   "PROPIETARIO": "GABRIEL DIAGO  GAZEL",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 8758,
+   "NOMBREMUNICIPIO": "SOLEDAD",
+   "IDPROPIETARIO": 100252,
+   "PROPIETARIO": "INVERSIONES LA PONDEROSA SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 8758,
+   "NOMBREMUNICIPIO": "SOLEDAD",
+   "IDPROPIETARIO": 100328,
+   "PROPIETARIO": "OPERADORES TECNICOS DE ESTACIONES DE SERVICIO OTEDS SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 8433,
+   "NOMBREMUNICIPIO": "MALAMBO",
+   "IDPROPIETARIO": 100330,
+   "PROPIETARIO": "ORGANIZACION TERPEL SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 8001,
+   "NOMBREMUNICIPIO": "BARRANQUILLA",
+   "IDPROPIETARIO": 100247,
+   "PROPIETARIO": "INVERSIONES HERMANOS COLL SAS",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 15759,
+   "NOMBREMUNICIPIO": "SOGAMOSO",
+   "IDPROPIETARIO": 100066,
+   "PROPIETARIO": "COMPRESSED NATURAL GAS COLOMBIA SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 15759,
+   "NOMBREMUNICIPIO": "SOGAMOSO",
+   "IDPROPIETARIO": 100054,
+   "PROPIETARIO": "COMBUSTIBLES UNIGAS SAS",
+   "ESTACIONES": 2
+ },
+ {
+   "CODIGOMUNICIPIO": 15001,
+   "NOMBREMUNICIPIO": "TUNJA",
+   "IDPROPIETARIO": 100054,
+   "PROPIETARIO": "COMBUSTIBLES UNIGAS SAS",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 17174,
+   "NOMBREMUNICIPIO": "CHINCHINA",
+   "IDPROPIETARIO": 100072,
+   "PROPIETARIO": "DIALOGAR SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 20060,
+   "NOMBREMUNICIPIO": "BOSCONIA",
+   "IDPROPIETARIO": 100220,
+   "PROPIETARIO": "HERMANOS SAAVEDRA LTDA  GAZEL",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 23001,
+   "NOMBREMUNICIPIO": "MONTERIA",
+   "IDPROPIETARIO": 100308,
+   "PROPIETARIO": "MARIO AGRESSOT  GAZEL",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 23001,
+   "NOMBREMUNICIPIO": "MONTERIA",
+   "IDPROPIETARIO": 100377,
+   "PROPIETARIO": "SOCIEDAD DISTRIBUIDORA DE COMBUSTIBLES SODICOM SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 11001,
+   "NOMBREMUNICIPIO": "BOGOTA  D C",
+   "IDPROPIETARIO": 100067,
+   "PROPIETARIO": "COPEC Y CIA LTDA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 11001,
+   "NOMBREMUNICIPIO": "BOGOTA  D C",
+   "IDPROPIETARIO": 100154,
+   "PROPIETARIO": "ESTACION LOS LAGARTOS",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 11001,
+   "NOMBREMUNICIPIO": "BOGOTA  D C",
+   "IDPROPIETARIO": 100071,
+   "PROPIETARIO": "DAMPA SA GRUPO EMPRESARIAL",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 25175,
+   "NOMBREMUNICIPIO": "CHIA",
+   "IDPROPIETARIO": 100330,
+   "PROPIETARIO": "ORGANIZACION TERPEL SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 25473,
+   "NOMBREMUNICIPIO": "MOSQUERA",
+   "IDPROPIETARIO": 100180,
+   "PROPIETARIO": "GAS NATURAL FENOSA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 25754,
+   "NOMBREMUNICIPIO": "SOACHA",
+   "IDPROPIETARIO": 100312,
+   "PROPIETARIO": "MASGAS SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 11001,
+   "NOMBREMUNICIPIO": "BOGOTA  D C",
+   "IDPROPIETARIO": 100033,
+   "PROPIETARIO": "CENCOSUD",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 25269,
+   "NOMBREMUNICIPIO": "FACATATIVA",
+   "IDPROPIETARIO": 100003,
+   "PROPIETARIO": "ADRIANA CONCHA MENDOZA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 25214,
+   "NOMBREMUNICIPIO": "COTA",
+   "IDPROPIETARIO": 100395,
+   "PROPIETARIO": "UNIGAS SAS",
+   "ESTACIONES": 2
+ },
+ {
+   "CODIGOMUNICIPIO": 11001,
+   "NOMBREMUNICIPIO": "BOGOTA DC",
+   "IDPROPIETARIO": 100258,
+   "PROPIETARIO": "INVERSIONES SILVERADO SAS",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 11001,
+   "NOMBREMUNICIPIO": "BOGOTA DC",
+   "IDPROPIETARIO": 100079,
+   "PROPIETARIO": "DISTRACOM SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 47001,
+   "NOMBREMUNICIPIO": "SANTA MARTA",
+   "IDPROPIETARIO": 100079,
+   "PROPIETARIO": "DISTRACOM SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 47189,
+   "NOMBREMUNICIPIO": "CIENEGA",
+   "IDPROPIETARIO": 100091,
+   "PROPIETARIO": "DISTRIMETANO DE COLOMBIA LTDA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 50001,
+   "NOMBREMUNICIPIO": "VILLAVICENCIO",
+   "IDPROPIETARIO": 100380,
+   "PROPIETARIO": "STANDARD ENERGY COMPANY - SENERGYC",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 50689,
+   "NOMBREMUNICIPIO": "SAN MARTIN",
+   "IDPROPIETARIO": 100303,
+   "PROPIETARIO": "MADIGAS HIDROCARBUROS SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 50001,
+   "NOMBREMUNICIPIO": "VILLAVICENCIO",
+   "IDPROPIETARIO": 100074,
+   "PROPIETARIO": "DIHEGO LTDA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 50001,
+   "NOMBREMUNICIPIO": "VILLAVICENCIO",
+   "IDPROPIETARIO": 100091,
+   "PROPIETARIO": "DISTRIMETANO DE COLOMBIA LTDA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 50318,
+   "NOMBREMUNICIPIO": "GUAMAL",
+   "IDPROPIETARIO": 100369,
+   "PROPIETARIO": "SERVIGAS DEL LLANO SAS",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 63001,
+   "NOMBREMUNICIPIO": "ARMENIA",
+   "IDPROPIETARIO": 100330,
+   "PROPIETARIO": "ORGANIZACION TERPEL SA",
+   "ESTACIONES": 3
+ },
+ {
+   "CODIGOMUNICIPIO": 63001,
+   "NOMBREMUNICIPIO": "ARMENIA",
+   "IDPROPIETARIO": 100048,
+   "PROPIETARIO": "COMBUSTIBLES DEL CAFE",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 66001,
+   "NOMBREMUNICIPIO": "PEREIRA",
+   "IDPROPIETARIO": 100161,
+   "PROPIETARIO": "FERNANDO RAMIREZ GONZALEZ  GAZEL",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 66170,
+   "NOMBREMUNICIPIO": "DOS QUEBRADAS",
+   "IDPROPIETARIO": 100323,
+   "PROPIETARIO": "NORMAN GRAJALES VALENCIA- VELASQUEZ ASOCIADOS CIA LTDA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 66682,
+   "NOMBREMUNICIPIO": "STA ROSA DE CABAL",
+   "IDPROPIETARIO": 100091,
+   "PROPIETARIO": "DISTRIMETANO DE COLOMBIA LTDA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 68081,
+   "NOMBREMUNICIPIO": "BARRANCABERMEJA",
+   "IDPROPIETARIO": 100373,
+   "PROPIETARIO": "SERVIYARIMA LTDA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 68001,
+   "NOMBREMUNICIPIO": "BUCARAMANGA",
+   "IDPROPIETARIO": 100310,
+   "PROPIETARIO": "MARTIN ALONSO TAVERA RODRIGUEZ",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 68081,
+   "NOMBREMUNICIPIO": "BARRANCABERMEJA",
+   "IDPROPIETARIO": 100239,
+   "PROPIETARIO": "INVERSIONES COOPROCONAL SAS",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 68549,
+   "NOMBREMUNICIPIO": "PIEDECUESTA",
+   "IDPROPIETARIO": 100144,
+   "PROPIETARIO": "ESTACION DE SERVICIO GNV MI ISLA SAS",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 70001,
+   "NOMBREMUNICIPIO": "SINCELEJO",
+   "IDPROPIETARIO": 100386,
+   "PROPIETARIO": "TERPEL",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 70001,
+   "NOMBREMUNICIPIO": "SINCELEJO",
+   "IDPROPIETARIO": 100182,
+   "PROPIETARIO": "GAS NATURAL VEHICULAR",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 76834,
+   "NOMBREMUNICIPIO": "TULUA",
+   "IDPROPIETARIO": 100330,
+   "PROPIETARIO": "ORGANIZACION TERPEL SA",
+   "ESTACIONES": 3
+ },
+ {
+   "CODIGOMUNICIPIO": 76001,
+   "NOMBREMUNICIPIO": "CALI",
+   "IDPROPIETARIO": 100013,
+   "PROPIETARIO": "AUTOCENTRO CAPRI LTDA  GUILLERMO FRANCO  GAZEL",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 76147,
+   "NOMBREMUNICIPIO": "CARTAGO",
+   "IDPROPIETARIO": 100142,
+   "PROPIETARIO": "ESTACION DE SERVICIO EDS LA 20 GNV",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 76001,
+   "NOMBREMUNICIPIO": "CALI",
+   "IDPROPIETARIO": 100251,
+   "PROPIETARIO": "INVERSIONES LA MILAGROSA SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 76001,
+   "NOMBREMUNICIPIO": "CALI",
+   "IDPROPIETARIO": 100275,
+   "PROPIETARIO": "JINZA SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 76109,
+   "NOMBREMUNICIPIO": "BUENAVENTURA",
+   "IDPROPIETARIO": 100330,
+   "PROPIETARIO": "ORGANIZACION TERPEL SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 76001,
+   "NOMBREMUNICIPIO": "CALI",
+   "IDPROPIETARIO": 100073,
+   "PROPIETARIO": "DIEGO ALONSO GOMEZ GALINDO",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 76113,
+   "NOMBREMUNICIPIO": "BUGA",
+   "IDPROPIETARIO": 100209,
+   "PROPIETARIO": "GRANDES SUPERFICIES DE COLOMBIA SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 76001,
+   "NOMBREMUNICIPIO": "CALI",
+   "IDPROPIETARIO": 100385,
+   "PROPIETARIO": "TERCERO  GAZEL",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 76892,
+   "NOMBREMUNICIPIO": "YUMBO",
+   "IDPROPIETARIO": 100127,
+   "PROPIETARIO": "EDUARDO BELLINI  BELAYA SA  GAZEL",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 76001,
+   "NOMBREMUNICIPIO": "CALI",
+   "IDPROPIETARIO": 100388,
+   "PROPIETARIO": "TOTALGAS SA",
+   "ESTACIONES": 3
+ },
+ {
+   "CODIGOMUNICIPIO": 76892,
+   "NOMBREMUNICIPIO": "YUMBO",
+   "IDPROPIETARIO": 100388,
+   "PROPIETARIO": "TOTALGAS SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 76892,
+   "NOMBREMUNICIPIO": "YUMBO",
+   "IDPROPIETARIO": 100338,
+   "PROPIETARIO": "PLEXA SAS ESP",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 5001,
+   "NOMBREMUNICIPIO": "MEDELLIN",
+   "IDPROPIETARIO": 100292,
+   "PROPIETARIO": "LOS MANGOS SA GASES Y COMBUSTIBLES",
+   "ESTACIONES": 2
+ },
+ {
+   "CODIGOMUNICIPIO": 5266,
+   "NOMBREMUNICIPIO": "ENVIGADO",
+   "IDPROPIETARIO": 100015,
+   "PROPIETARIO": "AUTOGAS DE COLOMBIA BREASCOL SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 5088,
+   "NOMBREMUNICIPIO": "BELLO",
+   "IDPROPIETARIO": 100382,
+   "PROPIETARIO": "SUPERESTACIONES DE COLOMBIA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 5001,
+   "NOMBREMUNICIPIO": "MEDELLIN",
+   "IDPROPIETARIO": 100368,
+   "PROPIETARIO": "SERVICIOS GEIJE",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 5266,
+   "NOMBREMUNICIPIO": "ENVIGADO",
+   "IDPROPIETARIO": 100320,
+   "PROPIETARIO": "MULTICENTRO DE SERVICIOS AA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 5631,
+   "NOMBREMUNICIPIO": "SABANETA",
+   "IDPROPIETARIO": 100136,
+   "PROPIETARIO": "EPM",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 5360,
+   "NOMBREMUNICIPIO": "ITAGUI",
+   "IDPROPIETARIO": 100236,
+   "PROPIETARIO": "INVERSIONES CALO SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 5088,
+   "NOMBREMUNICIPIO": "BELLO",
+   "IDPROPIETARIO": 100209,
+   "PROPIETARIO": "GRANDES SUPERFICIES DE COLOMBIA SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 5579,
+   "NOMBREMUNICIPIO": "PUERTO BERRIO",
+   "IDPROPIETARIO": 100353,
+   "PROPIETARIO": "ROSA ELENA MADRID ARISTIZABAL",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 8001,
+   "NOMBREMUNICIPIO": "BARRANQUILLA",
+   "IDPROPIETARIO": 100301,
+   "PROPIETARIO": "LUIS VICENTE GUTIERRES GUIZA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 8001,
+   "NOMBREMUNICIPIO": "BARRANQUILLA",
+   "IDPROPIETARIO": 100253,
+   "PROPIETARIO": "INVERSIONES MANGA LTDA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 8001,
+   "NOMBREMUNICIPIO": "BARRANQUILLA",
+   "IDPROPIETARIO": 100163,
+   "PROPIETARIO": "FORERO FERNANDEZ JOSE DARiO",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 8001,
+   "NOMBREMUNICIPIO": "BARRANQUILLA",
+   "IDPROPIETARIO": 100194,
+   "PROPIETARIO": "GASOLINERiA DEL CARIBE LTDA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 8001,
+   "NOMBREMUNICIPIO": "BARRANQUILLA",
+   "IDPROPIETARIO": 100158,
+   "PROPIETARIO": "EXXON MOBIL COLOMBIA - AUTOMARKET LIMIT",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 8001,
+   "NOMBREMUNICIPIO": "BARRANQUILLA",
+   "IDPROPIETARIO": 100064,
+   "PROPIETARIO": "COMGASCO SA",
+   "ESTACIONES": 2
+ },
+ {
+   "CODIGOMUNICIPIO": 8001,
+   "NOMBREMUNICIPIO": "BARRANQUILLA",
+   "IDPROPIETARIO": 100128,
+   "PROPIETARIO": "EDUARDO GOMEZ FONTALVO",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 8001,
+   "NOMBREMUNICIPIO": "BARRANQUILLA",
+   "IDPROPIETARIO": 100362,
+   "PROPIETARIO": "SERVICENTRO ESSO LA PRADERA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 8296,
+   "NOMBREMUNICIPIO": "GALAPA",
+   "IDPROPIETARIO": 100333,
+   "PROPIETARIO": "ORGANZIACION TERPEL",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 13052,
+   "NOMBREMUNICIPIO": "ARJONA",
+   "IDPROPIETARIO": 100282,
+   "PROPIETARIO": "JOSE HJ RIZO DELGADO",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 13836,
+   "NOMBREMUNICIPIO": "TURBACO",
+   "IDPROPIETARIO": 100350,
+   "PROPIETARIO": "RIZO ENERGY Y CIA LTDA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 15001,
+   "NOMBREMUNICIPIO": "TUNJA",
+   "IDPROPIETARIO": 100394,
+   "PROPIETARIO": "UNIGAS LTDA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 17001,
+   "NOMBREMUNICIPIO": "MANIZALES",
+   "IDPROPIETARIO": 100072,
+   "PROPIETARIO": "DIALOGAR SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 17001,
+   "NOMBREMUNICIPIO": "MANIZALES",
+   "IDPROPIETARIO": 100336,
+   "PROPIETARIO": "PEDRO JOSE SANINT ARMEL",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 18001,
+   "NOMBREMUNICIPIO": "FLORENCIA",
+   "IDPROPIETARIO": 100318,
+   "PROPIETARIO": "MOVILGAS LTDA",
+   "ESTACIONES": 3
+ },
+ {
+   "CODIGOMUNICIPIO": 18001,
+   "NOMBREMUNICIPIO": "FLORENCIA",
+   "IDPROPIETARIO": 100317,
+   "PROPIETARIO": "MOBIL GAS LTDA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 23001,
+   "NOMBREMUNICIPIO": "MONTERIA",
+   "IDPROPIETARIO": 100204,
+   "PROPIETARIO": "GLORIA PALACIOS  GAZEL",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 23555,
+   "NOMBREMUNICIPIO": "PLANETARICA",
+   "IDPROPIETARIO": 100363,
+   "PROPIETARIO": "SERVICENTRO ESSO PLANETA RICA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 23660,
+   "NOMBREMUNICIPIO": "SAHAGUN",
+   "IDPROPIETARIO": 100093,
+   "PROPIETARIO": "DOMINGO GERMAN BULA SOLANO  GAZEL",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 25430,
+   "NOMBREMUNICIPIO": "MADRID",
+   "IDPROPIETARIO": 100175,
+   "PROPIETARIO": "GAS NATURAL COMPRIMIDO DE COLOMBIA SA ESP",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 11001,
+   "NOMBREMUNICIPIO": "BOGOTA  D C",
+   "IDPROPIETARIO": 100159,
+   "PROPIETARIO": "FERNANDO BERNAL NINO  GAZEL",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 11001,
+   "NOMBREMUNICIPIO": "BOGOTA  D C",
+   "IDPROPIETARIO": 100184,
+   "PROPIETARIO": "GAS VEHICULAR COMPRIMIDO DE COLOMBIA SA  MILLER POMAR GARCIA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 11001,
+   "NOMBREMUNICIPIO": "BOGOTA  D C",
+   "IDPROPIETARIO": 100045,
+   "PROPIETARIO": "COMBUSTIBLES CAPITAL",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 11001,
+   "NOMBREMUNICIPIO": "BOGOTA  D C",
+   "IDPROPIETARIO": 100158,
+   "PROPIETARIO": "EXXON MOBIL COLOMBIA - AUTOMARKET LIMIT",
+   "ESTACIONES": 15
+ },
+ {
+   "CODIGOMUNICIPIO": 11001,
+   "NOMBREMUNICIPIO": "BOGOTA  D C",
+   "IDPROPIETARIO": 100246,
+   "PROPIETARIO": "INVERSIONES GOMEZ MONTANEZ LTDA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 11001,
+   "NOMBREMUNICIPIO": "BOGOTA  D C",
+   "IDPROPIETARIO": 100387,
+   "PROPIETARIO": "TEXACO",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 25126,
+   "NOMBREMUNICIPIO": "CAJICA",
+   "IDPROPIETARIO": 100130,
+   "PROPIETARIO": "EL SOL OIL SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 11001,
+   "NOMBREMUNICIPIO": "BOGOTA  D C",
+   "IDPROPIETARIO": 100200,
+   "PROPIETARIO": "GERARDO JAVIER ALVARADO CUBILLOS",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 11001,
+   "NOMBREMUNICIPIO": "BOGOTA DC",
+   "IDPROPIETARIO": 100059,
+   "PROPIETARIO": "COMERCIALIZADORA DE BIENES Y SERVICIOS SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 41001,
+   "NOMBREMUNICIPIO": "NEIVA",
+   "IDPROPIETARIO": 100032,
+   "PROPIETARIO": "CASAMOTOR SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 41001,
+   "NOMBREMUNICIPIO": "NEIVA",
+   "IDPROPIETARIO": 100318,
+   "PROPIETARIO": "MOVILGAS LTDA",
+   "ESTACIONES": 2
+ },
+ {
+   "CODIGOMUNICIPIO": 47001,
+   "NOMBREMUNICIPIO": "SANTA MARTA",
+   "IDPROPIETARIO": 100196,
+   "PROPIETARIO": "GASPETROIL SA",
+   "ESTACIONES": 2
+ },
+ {
+   "CODIGOMUNICIPIO": 50001,
+   "NOMBREMUNICIPIO": "VILLAVICENCIO",
+   "IDPROPIETARIO": 100108,
+   "PROPIETARIO": "EDS GASLLANOCOL",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 50110,
+   "NOMBREMUNICIPIO": "BARRANCA DE UPIA",
+   "IDPROPIETARIO": 100391,
+   "PROPIETARIO": "TRASNPORTES GLAMAR LTDA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 63001,
+   "NOMBREMUNICIPIO": "ARMENIA",
+   "IDPROPIETARIO": 100324,
+   "PROPIETARIO": "OMAR ARISTIZABAL  GAZEL",
+   "ESTACIONES": 2
+ },
+ {
+   "CODIGOMUNICIPIO": 63001,
+   "NOMBREMUNICIPIO": "ARMENIA",
+   "IDPROPIETARIO": 100040,
+   "PROPIETARIO": "COLOMBIANA DE GAS VEHICULAR  COVEGAS SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 66682,
+   "NOMBREMUNICIPIO": "DOS QUEBRADAS",
+   "IDPROPIETARIO": 100171,
+   "PROPIETARIO": "GAS COMPRIMIDO DE COLOMBIA GCC",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 66001,
+   "NOMBREMUNICIPIO": "PEREIRA",
+   "IDPROPIETARIO": 100091,
+   "PROPIETARIO": "DISTRIMETANO DE COLOMBIA LTDA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 66001,
+   "NOMBREMUNICIPIO": "PEREIRA",
+   "IDPROPIETARIO": 100209,
+   "PROPIETARIO": "GRANDES SUPERFICIES DE COLOMBIA SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 66001,
+   "NOMBREMUNICIPIO": "PEREIRA",
+   "IDPROPIETARIO": 100383,
+   "PROPIETARIO": "SUPERGAS RISARALDA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 68001,
+   "NOMBREMUNICIPIO": "BUCARAMANGA",
+   "IDPROPIETARIO": 100330,
+   "PROPIETARIO": "ORGANIZACION TERPEL SA",
+   "ESTACIONES": 5
+ },
+ {
+   "CODIGOMUNICIPIO": 68276,
+   "NOMBREMUNICIPIO": "FLORIDABLANCA",
+   "IDPROPIETARIO": 100375,
+   "PROPIETARIO": "SIGA OIL SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 68077,
+   "NOMBREMUNICIPIO": "BARBOSA",
+   "IDPROPIETARIO": 100393,
+   "PROPIETARIO": "TRILENIO SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 68001,
+   "NOMBREMUNICIPIO": "BUCARAMANGA",
+   "IDPROPIETARIO": 100218,
+   "PROPIETARIO": "HELENA REYES MONSALVE",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 68001,
+   "NOMBREMUNICIPIO": "BUCARAMANGA",
+   "IDPROPIETARIO": 100020,
+   "PROPIETARIO": "BAVARIA SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 68077,
+   "NOMBREMUNICIPIO": "BARBOSA",
+   "IDPROPIETARIO": 100044,
+   "PROPIETARIO": "COMBUSTIBLES BARBOSA LTDA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 68549,
+   "NOMBREMUNICIPIO": "PINCHOTE",
+   "IDPROPIETARIO": 100305,
+   "PROPIETARIO": "MANTILLA Y ROJAS SAS",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 68001,
+   "NOMBREMUNICIPIO": "BUCARAMANGA",
+   "IDPROPIETARIO": 100141,
+   "PROPIETARIO": "ESTACION DE SERVICIO BOLiVAR TERPEL",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 73001,
+   "NOMBREMUNICIPIO": "IBAGUE",
+   "IDPROPIETARIO": 100197,
+   "PROPIETARIO": "GASTRONG",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 73001,
+   "NOMBREMUNICIPIO": "IBAGUE",
+   "IDPROPIETARIO": 100086,
+   "PROPIETARIO": "DISTRIBUIDORA DE COMBUSTIBLES SA - DISCCO",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 76001,
+   "NOMBREMUNICIPIO": "CALI",
+   "IDPROPIETARIO": 100162,
+   "PROPIETARIO": "FLORIAN POLANIA ROJAS  GAZEL",
+   "ESTACIONES": 2
+ },
+ {
+   "CODIGOMUNICIPIO": 76001,
+   "NOMBREMUNICIPIO": "CALI",
+   "IDPROPIETARIO": 100199,
+   "PROPIETARIO": "GAZEL",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 76622,
+   "NOMBREMUNICIPIO": "ROLDANILLO",
+   "IDPROPIETARIO": 100225,
+   "PROPIETARIO": "HUGO ALBERTO RIVEROS RESTREPO",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 76001,
+   "NOMBREMUNICIPIO": "CALI",
+   "IDPROPIETARIO": 100040,
+   "PROPIETARIO": "COLOMBIANA DE GAS VEHICULAR  COVEGAS SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 76001,
+   "NOMBREMUNICIPIO": "CALI",
+   "IDPROPIETARIO": 100151,
+   "PROPIETARIO": "ESTACION DE SERVICIO SERVICENTRO BARRANQUILLA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 76001,
+   "NOMBREMUNICIPIO": "CALI",
+   "IDPROPIETARIO": 100150,
+   "PROPIETARIO": "ESTACION DE SERVICIO MAZ AUTOS LTDA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 76892,
+   "NOMBREMUNICIPIO": "YUMBO",
+   "IDPROPIETARIO": 100209,
+   "PROPIETARIO": "GRANDES SUPERFICIES DE COLOMBIA SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 76001,
+   "NOMBREMUNICIPIO": "CALI",
+   "IDPROPIETARIO": 100211,
+   "PROPIETARIO": "GRUPO DE EMPRESARIOS DE COMBUSTIBLES SA GREPACOL SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 76892,
+   "NOMBREMUNICIPIO": "YUMBO",
+   "IDPROPIETARIO": 100330,
+   "PROPIETARIO": "ORGANIZACION TERPEL SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 76892,
+   "NOMBREMUNICIPIO": "YUMBO",
+   "IDPROPIETARIO": 100057,
+   "PROPIETARIO": "COMBUSTIBLES Y GASES DE COLOMBIA SA - COMGASCOL",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 76890,
+   "NOMBREMUNICIPIO": "YOTOCO",
+   "IDPROPIETARIO": 100388,
+   "PROPIETARIO": "TOTALGAS SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 5001,
+   "NOMBREMUNICIPIO": "MEDELLIN",
+   "IDPROPIETARIO": 100039,
+   "PROPIETARIO": "COLIGAS SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 5001,
+   "NOMBREMUNICIPIO": "MEDELLIN",
+   "IDPROPIETARIO": 100330,
+   "PROPIETARIO": "ORGANIZACION TERPEL SA",
+   "ESTACIONES": 12
+ },
+ {
+   "CODIGOMUNICIPIO": 5001,
+   "NOMBREMUNICIPIO": "MEDELLIN",
+   "IDPROPIETARIO": 100326,
+   "PROPIETARIO": "OPERACIONES Y SERVICIOS DE COMBUSTIBLES SAS-OPESE SAS",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 5631,
+   "NOMBREMUNICIPIO": "SABANETA",
+   "IDPROPIETARIO": 100061,
+   "PROPIETARIO": "COMERCIALIZADORA HENAYGO SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 5001,
+   "NOMBREMUNICIPIO": "MEDELLIN",
+   "IDPROPIETARIO": 100206,
+   "PROPIETARIO": "GNV COLIBRI SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 11001,
+   "NOMBREMUNICIPIO": "BOGOTA  D C",
+   "IDPROPIETARIO": 100389,
+   "PROPIETARIO": "TRANSAGA SAS",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 5001,
+   "NOMBREMUNICIPIO": "MEDELLIN",
+   "IDPROPIETARIO": 100123,
+   "PROPIETARIO": "EDS TEXACO SU JARDIN",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 5088,
+   "NOMBREMUNICIPIO": "BELLO",
+   "IDPROPIETARIO": 100330,
+   "PROPIETARIO": "ORGANIZACION TERPEL SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 5045,
+   "NOMBREMUNICIPIO": "APARTADO",
+   "IDPROPIETARIO": 100386,
+   "PROPIETARIO": "TERPEL",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 8001,
+   "NOMBREMUNICIPIO": "BARRANQUILLA",
+   "IDPROPIETARIO": 100299,
+   "PROPIETARIO": "LUIS GAVIRIA  GAZEL",
+   "ESTACIONES": 2
+ },
+ {
+   "CODIGOMUNICIPIO": 8001,
+   "NOMBREMUNICIPIO": "BARRANQUILLA",
+   "IDPROPIETARIO": 100169,
+   "PROPIETARIO": "GAS CAUJARAL - GUSTAVO RINCON",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 8638,
+   "NOMBREMUNICIPIO": "SABANALARGA",
+   "IDPROPIETARIO": 100335,
+   "PROPIETARIO": "PARDO BOTERO Y CIA LTDA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 8001,
+   "NOMBREMUNICIPIO": "BARRANQUILLA",
+   "IDPROPIETARIO": 100053,
+   "PROPIETARIO": "COMBUSTIBLES UNIDOS SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 8001,
+   "NOMBREMUNICIPIO": "BARRANQUILLA",
+   "IDPROPIETARIO": 100102,
+   "PROPIETARIO": "EDS AUTOMOTRIZ ATLANTICO",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 8001,
+   "NOMBREMUNICIPIO": "BARRANQUILLA",
+   "IDPROPIETARIO": 100014,
+   "PROPIETARIO": "AUTOCENTRO MOBIL LA CORDIALIDAD - RL ELVIRA PATRICIA HENRIQUEZ ALVAREZ",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 8001,
+   "NOMBREMUNICIPIO": "BARRANQUILLA",
+   "IDPROPIETARIO": 100098,
+   "PROPIETARIO": "E - GAS",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 13001,
+   "NOMBREMUNICIPIO": "CARTAGENA",
+   "IDPROPIETARIO": 100260,
+   "PROPIETARIO": "INVERSIONES VALENCIA RODRIGUEZ Y CIA LTDA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 13001,
+   "NOMBREMUNICIPIO": "CARTAGENA",
+   "IDPROPIETARIO": 100063,
+   "PROPIETARIO": "COMERCIALIZADORA PIE DE LA POPA SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 13001,
+   "NOMBREMUNICIPIO": "CARTAGENA",
+   "IDPROPIETARIO": 100029,
+   "PROPIETARIO": "CARLOS QUIROZ GARCIA EU",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 13001,
+   "NOMBREMUNICIPIO": "CARTAGENA",
+   "IDPROPIETARIO": 100309,
+   "PROPIETARIO": "MARTIGO SAS",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 15176,
+   "NOMBREMUNICIPIO": "CHIQUINQUIRA",
+   "IDPROPIETARIO": 100054,
+   "PROPIETARIO": "COMBUSTIBLES UNIGAS SAS",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 15001,
+   "NOMBREMUNICIPIO": "TUNJA",
+   "IDPROPIETARIO": 100330,
+   "PROPIETARIO": "ORGANIZACION TERPEL SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 85001,
+   "NOMBREMUNICIPIO": "YOPAL",
+   "IDPROPIETARIO": 100056,
+   "PROPIETARIO": "COMBUSTIBLES VEHICULARES DE COLOMBIA SA - GASVEHICOL SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 85001,
+   "NOMBREMUNICIPIO": "YOPAL",
+   "IDPROPIETARIO": 100188,
+   "PROPIETARIO": "GASES DEL CUSIANA - CUSIANAGAS SA ESP",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 20001,
+   "NOMBREMUNICIPIO": "VALLEDUPAR",
+   "IDPROPIETARIO": 100344,
+   "PROPIETARIO": "PUNTO GAS",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 20001,
+   "NOMBREMUNICIPIO": "VALLEDUPAR",
+   "IDPROPIETARIO": 100271,
+   "PROPIETARIO": "JAVIER GARCIA MAYA  GAZEL",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 20400,
+   "NOMBREMUNICIPIO": "LA JAGUA DE IBIRICO",
+   "IDPROPIETARIO": 100094,
+   "PROPIETARIO": "DRUMMOND LTDA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 23001,
+   "NOMBREMUNICIPIO": "MONTERIA",
+   "IDPROPIETARIO": 100085,
+   "PROPIETARIO": "DISTRIBUIDORA DE COMBUSTIBLES LOS ANGELES SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 11001,
+   "NOMBREMUNICIPIO": "BOGOTA  D C",
+   "IDPROPIETARIO": 100181,
+   "PROPIETARIO": "GAS NATURAL SA",
+   "ESTACIONES": 3
+ },
+ {
+   "CODIGOMUNICIPIO": 25899,
+   "NOMBREMUNICIPIO": "ZIPAQUIRA",
+   "IDPROPIETARIO": 100180,
+   "PROPIETARIO": "GAS NATURAL FENOSA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 11001,
+   "NOMBREMUNICIPIO": "BOGOTA  D C",
+   "IDPROPIETARIO": 100030,
+   "PROPIETARIO": "CARLOS ROMERO DUENAS  GAZEL",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 11001,
+   "NOMBREMUNICIPIO": "BOGOTA  D C",
+   "IDPROPIETARIO": 100174,
+   "PROPIETARIO": "GAS NATURAL ANDINO SA",
+   "ESTACIONES": 2
+ },
+ {
+   "CODIGOMUNICIPIO": 11001,
+   "NOMBREMUNICIPIO": "BOGOTA  D C",
+   "IDPROPIETARIO": 100183,
+   "PROPIETARIO": "GAS NATURAL VEHICULAR SAN BUENAVENTURA S A S",
+   "ESTACIONES": 2
+ },
+ {
+   "CODIGOMUNICIPIO": 11001,
+   "NOMBREMUNICIPIO": "BOGOTA  D C",
+   "IDPROPIETARIO": 100076,
+   "PROPIETARIO": "DISCARBURANTES LTDA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 11001,
+   "NOMBREMUNICIPIO": "BOGOTA  D C",
+   "IDPROPIETARIO": 100378,
+   "PROPIETARIO": "SODEN LTDA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 11001,
+   "NOMBREMUNICIPIO": "BOGOTA  D C",
+   "IDPROPIETARIO": 100078,
+   "PROPIETARIO": "DISENERCOM SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 11001,
+   "NOMBREMUNICIPIO": "BOGOTA  D C",
+   "IDPROPIETARIO": 100382,
+   "PROPIETARIO": "SUPERESTACIONES DE COLOMBIA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 25286,
+   "NOMBREMUNICIPIO": "FUNZA",
+   "IDPROPIETARIO": 100388,
+   "PROPIETARIO": "TOTALGAS SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 11001,
+   "NOMBREMUNICIPIO": "BOGOTA  D C",
+   "IDPROPIETARIO": 100227,
+   "PROPIETARIO": "IMPORGAS SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 25307,
+   "NOMBREMUNICIPIO": "GIRARDOT",
+   "IDPROPIETARIO": 100064,
+   "PROPIETARIO": "COMGASCO SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 11001,
+   "NOMBREMUNICIPIO": "BOGOTA  D C",
+   "IDPROPIETARIO": 100361,
+   "PROPIETARIO": "SERVICENTRO ESSO AVENIDA TERCERA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 25758,
+   "NOMBREMUNICIPIO": "SOPO",
+   "IDPROPIETARIO": 100135,
+   "PROPIETARIO": "ENERGiA DEL GAS SAS",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 11001,
+   "NOMBREMUNICIPIO": "BOGOTA  D C",
+   "IDPROPIETARIO": 100370,
+   "PROPIETARIO": "SERVINGENIERIA SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 11001,
+   "NOMBREMUNICIPIO": "BOGOTA  D C",
+   "IDPROPIETARIO": 100376,
+   "PROPIETARIO": "SIGURGAS",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 25377,
+   "NOMBREMUNICIPIO": "LA CALERA",
+   "IDPROPIETARIO": 100330,
+   "PROPIETARIO": "ORGANIZACION TERPEL SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 11001,
+   "NOMBREMUNICIPIO": "BOGOTA  D C",
+   "IDPROPIETARIO": 100337,
+   "PROPIETARIO": "PETROLMIL",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 41001,
+   "NOMBREMUNICIPIO": "NEIVA",
+   "IDPROPIETARIO": 100227,
+   "PROPIETARIO": "IMPORGAS SA",
+   "ESTACIONES": 2
+ },
+ {
+   "CODIGOMUNICIPIO": 47001,
+   "NOMBREMUNICIPIO": "SANTA MARTA",
+   "IDPROPIETARIO": 100177,
+   "PROPIETARIO": "GAS NATURAL COMPRIMIDO SA O GNC SA O GAZEL",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 47001,
+   "NOMBREMUNICIPIO": "SANTA MARTA",
+   "IDPROPIETARIO": 100062,
+   "PROPIETARIO": "COMERCIALIZADORA INTERNACIONAL ARCAS SAS",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 47001,
+   "NOMBREMUNICIPIO": "SANTA MARTA",
+   "IDPROPIETARIO": 100340,
+   "PROPIETARIO": "PLUS OIL SA  JORGE HERNAN MEDINA O  REPRESENTANTE LEGAL",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 50001,
+   "NOMBREMUNICIPIO": "VILLAVICENCIO",
+   "IDPROPIETARIO": 100198,
+   "PROPIETARIO": "GASV SA",
+   "ESTACIONES": 2
+ },
+ {
+   "CODIGOMUNICIPIO": 50318,
+   "NOMBREMUNICIPIO": "GUAMAL",
+   "IDPROPIETARIO": 100367,
+   "PROPIETARIO": "SERVICIOS DE GAS DEL LLANO SAS",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 66001,
+   "NOMBREMUNICIPIO": "PEREIRA",
+   "IDPROPIETARIO": 100189,
+   "PROPIETARIO": "GASES JEMA Y O SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 68307,
+   "NOMBREMUNICIPIO": "GIRON",
+   "IDPROPIETARIO": 100195,
+   "PROPIETARIO": "GASORIENTE",
+   "ESTACIONES": 2
+ },
+ {
+   "CODIGOMUNICIPIO": 68081,
+   "NOMBREMUNICIPIO": "BARRANCABERMEJA",
+   "IDPROPIETARIO": 100132,
+   "PROPIETARIO": "EMPRESA DE TRANSPORTES LEBRIJA LTDA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 68276,
+   "NOMBREMUNICIPIO": "FLORIDABLANCA",
+   "IDPROPIETARIO": 100385,
+   "PROPIETARIO": "TERCERO  GAZEL",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 70215,
+   "NOMBREMUNICIPIO": "COROZAL",
+   "IDPROPIETARIO": 100110,
+   "PROPIETARIO": "EDS LAS BRISAS",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 73001,
+   "NOMBREMUNICIPIO": "IBAGUE",
+   "IDPROPIETARIO": 100318,
+   "PROPIETARIO": "MOVILGAS LTDA",
+   "ESTACIONES": 3
+ },
+ {
+   "CODIGOMUNICIPIO": 73001,
+   "NOMBREMUNICIPIO": "IBAGUE",
+   "IDPROPIETARIO": 100348,
+   "PROPIETARIO": "RAMIRO PERDOMO Y CIA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 73268,
+   "NOMBREMUNICIPIO": "ESPINAL",
+   "IDPROPIETARIO": 100235,
+   "PROPIETARIO": "INVERSIONES BARRAGAN OSPINA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 73055,
+   "NOMBREMUNICIPIO": "ARMERO GUAYABAL",
+   "IDPROPIETARIO": 100057,
+   "PROPIETARIO": "COMBUSTIBLES Y GASES DE COLOMBIA SA - COMGASCOL",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 73001,
+   "NOMBREMUNICIPIO": "IBAGUE",
+   "IDPROPIETARIO": 100175,
+   "PROPIETARIO": "GAS NATURAL COMPRIMIDO DE COLOMBIA SA ESP",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 73001,
+   "NOMBREMUNICIPIO": "IBAGUE",
+   "IDPROPIETARIO": 100226,
+   "PROPIETARIO": "IBAGASES SAS",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 73861,
+   "NOMBREMUNICIPIO": "VENADILLO",
+   "IDPROPIETARIO": 100311,
+   "PROPIETARIO": "MARTINEZ LTDA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 76001,
+   "NOMBREMUNICIPIO": "CALI",
+   "IDPROPIETARIO": 100313,
+   "PROPIETARIO": "MAURICIO FALLA TELLO  GAZEL",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 76001,
+   "NOMBREMUNICIPIO": "CALI",
+   "IDPROPIETARIO": 100284,
+   "PROPIETARIO": "JUANA RAQUEL ROSERO ZAMBRANO  GAZEL",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 76147,
+   "NOMBREMUNICIPIO": "CARTAGO",
+   "IDPROPIETARIO": 100274,
+   "PROPIETARIO": "JIMENEZ Y MORALES INVERSIONES LTDA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 76364,
+   "NOMBREMUNICIPIO": "JAMUNDi",
+   "IDPROPIETARIO": 100008,
+   "PROPIETARIO": "AMIGAS SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 76001,
+   "NOMBREMUNICIPIO": "CALI",
+   "IDPROPIETARIO": 100288,
+   "PROPIETARIO": "JYP LTDA  JUAN GUILLERMO SANCHEZ OCAMPO  GAZEL",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 76113,
+   "NOMBREMUNICIPIO": "BUGA",
+   "IDPROPIETARIO": 100050,
+   "PROPIETARIO": "COMBUSTIBLES LEON SAS",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 76109,
+   "NOMBREMUNICIPIO": "BUENAVENTURA",
+   "IDPROPIETARIO": 100004,
+   "PROPIETARIO": "ALBERTO CASTILLO Y CIA LTDA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 76147,
+   "NOMBREMUNICIPIO": "CARTAGO",
+   "IDPROPIETARIO": 100345,
+   "PROPIETARIO": "PUNTO VERDE CAQUETA SAS",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 76001,
+   "NOMBREMUNICIPIO": "CALI",
+   "IDPROPIETARIO": 100106,
+   "PROPIETARIO": "EDS EL SAMAN",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 76001,
+   "NOMBREMUNICIPIO": "CALI",
+   "IDPROPIETARIO": 100079,
+   "PROPIETARIO": "DISTRACOM SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 76001,
+   "NOMBREMUNICIPIO": "CALI",
+   "IDPROPIETARIO": 100120,
+   "PROPIETARIO": "EDS SUPERAUTOCENTRO MOBIL EL LIDO SAS",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 5360,
+   "NOMBREMUNICIPIO": "ITAGUI",
+   "IDPROPIETARIO": 100176,
+   "PROPIETARIO": "GAS NATURAL COMPRIMIDO S A  O GNC S A  O GAZEL",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 5001,
+   "NOMBREMUNICIPIO": "MEDELLIN",
+   "IDPROPIETARIO": 100177,
+   "PROPIETARIO": "GAS NATURAL COMPRIMIDO SA O GNC SA O GAZEL",
+   "ESTACIONES": 5
+ },
+ {
+   "CODIGOMUNICIPIO": 5088,
+   "NOMBREMUNICIPIO": "BELLO",
+   "IDPROPIETARIO": 100358,
+   "PROPIETARIO": "SERGIO ANTONIO RAMIREZ",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 5001,
+   "NOMBREMUNICIPIO": "MEDELLIN",
+   "IDPROPIETARIO": 100143,
+   "PROPIETARIO": "ESTACION DE SERVICIO EXPOSICIONES SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 5631,
+   "NOMBREMUNICIPIO": "SABANETA",
+   "IDPROPIETARIO": 100330,
+   "PROPIETARIO": "ORGANIZACION TERPEL SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 5001,
+   "NOMBREMUNICIPIO": "MEDELLIN",
+   "IDPROPIETARIO": 100126,
+   "PROPIETARIO": "EDS ZEUSS LAS BRISAS",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 5615,
+   "NOMBREMUNICIPIO": "RIO NEGRO",
+   "IDPROPIETARIO": 100114,
+   "PROPIETARIO": "EDS LOS SAUCES",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 5266,
+   "NOMBREMUNICIPIO": "ENVIGADO",
+   "IDPROPIETARIO": 100264,
+   "PROPIETARIO": "JADER ALVAREZ GOMEZ",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 5079,
+   "NOMBREMUNICIPIO": "BARBOSA",
+   "IDPROPIETARIO": 100136,
+   "PROPIETARIO": "EPM",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 5088,
+   "NOMBREMUNICIPIO": "BELLO",
+   "IDPROPIETARIO": 100338,
+   "PROPIETARIO": "PLEXA SAS ESP",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 8758,
+   "NOMBREMUNICIPIO": "SOLEDAD",
+   "IDPROPIETARIO": 100330,
+   "PROPIETARIO": "ORGANIZACION TERPEL SA",
+   "ESTACIONES": 2
+ },
+ {
+   "CODIGOMUNICIPIO": 8001,
+   "NOMBREMUNICIPIO": "BARRANQUILLA",
+   "IDPROPIETARIO": 100295,
+   "PROPIETARIO": "LUCIA GIANNUZZI  GAZEL",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 8001,
+   "NOMBREMUNICIPIO": "BARRANQUILLA",
+   "IDPROPIETARIO": 100051,
+   "PROPIETARIO": "COMBUSTIBLES LISER",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 8001,
+   "NOMBREMUNICIPIO": "BARRANQUILLA",
+   "IDPROPIETARIO": 100199,
+   "PROPIETARIO": "GAZEL",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 8001,
+   "NOMBREMUNICIPIO": "BARRANQUILLA",
+   "IDPROPIETARIO": 100043,
+   "PROPIETARIO": "COMBUSTIBLES ALIADOS LTDA COMBAL",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 8758,
+   "NOMBREMUNICIPIO": "SOLEDAD",
+   "IDPROPIETARIO": 100007,
+   "PROPIETARIO": "ALONSO DE JESUS AGUIRRE CARVAJAL   GAZEL",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 8001,
+   "NOMBREMUNICIPIO": "BARRANQUILLA",
+   "IDPROPIETARIO": 100286,
+   "PROPIETARIO": "JULIO GAVIRIA REPRESENTANTE LEGAL",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 8001,
+   "NOMBREMUNICIPIO": "BARRANQUILLA",
+   "IDPROPIETARIO": 100265,
+   "PROPIETARIO": "JAIRO ANTONIO GOMEZ FONTALVO",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 8001,
+   "NOMBREMUNICIPIO": "BARRANQUILLA",
+   "IDPROPIETARIO": 100049,
+   "PROPIETARIO": "COMBUSTIBLES EL RANCHO BARANOA SAS",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 13001,
+   "NOMBREMUNICIPIO": "CARTAGENA",
+   "IDPROPIETARIO": 100009,
+   "PROPIETARIO": "ANIBAL BALADI GEDEON  GAZEL",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 13430,
+   "NOMBREMUNICIPIO": "MAGANGUE",
+   "IDPROPIETARIO": 100190,
+   "PROPIETARIO": "GASES Y COMBUSTIBLES DEL CARIBE LTDA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 15176,
+   "NOMBREMUNICIPIO": "CHIQUINQUIRA",
+   "IDPROPIETARIO": 100119,
+   "PROPIETARIO": "EDS SAN ANTONIO",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 15238,
+   "NOMBREMUNICIPIO": "DUITAMA",
+   "IDPROPIETARIO": 100066,
+   "PROPIETARIO": "COMPRESSED NATURAL GAS COLOMBIA SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 17001,
+   "NOMBREMUNICIPIO": "MANIZALES",
+   "IDPROPIETARIO": 100019,
+   "PROPIETARIO": "AZUL SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 85001,
+   "NOMBREMUNICIPIO": "YOPAL",
+   "IDPROPIETARIO": 100111,
+   "PROPIETARIO": "EDS LLANOGAS",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 20011,
+   "NOMBREMUNICIPIO": "AGUACHICA",
+   "IDPROPIETARIO": 100115,
+   "PROPIETARIO": "EDS MARBELLA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 23001,
+   "NOMBREMUNICIPIO": "MONTERIA",
+   "IDPROPIETARIO": 100077,
+   "PROPIETARIO": "DISCOMBUSTIBLES LIMITADA -  DISCOM LTDA  GAZEL",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 11001,
+   "NOMBREMUNICIPIO": "BOGOTA  D C",
+   "IDPROPIETARIO": 100202,
+   "PROPIETARIO": "GERMAN RODRIGUEZ  GAZEL",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 11001,
+   "NOMBREMUNICIPIO": "BOGOTA  D C",
+   "IDPROPIETARIO": 100243,
+   "PROPIETARIO": "INVERSIONES EN COMBUSTIBLES Y TRANSPORTES SAS ICOTRANS",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 11001,
+   "NOMBREMUNICIPIO": "BOGOTA  D C",
+   "IDPROPIETARIO": 100231,
+   "PROPIETARIO": "INSETRANSA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 11001,
+   "NOMBREMUNICIPIO": "BOGOTA  D C",
+   "IDPROPIETARIO": 100397,
+   "PROPIETARIO": "VANNET SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 25175,
+   "NOMBREMUNICIPIO": "CHIA",
+   "IDPROPIETARIO": 100157,
+   "PROPIETARIO": "ESTANDAR ENERGY COMPANY SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 25754,
+   "NOMBREMUNICIPIO": "SOACHA",
+   "IDPROPIETARIO": 100026,
+   "PROPIETARIO": "BYG LTDA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 11001,
+   "NOMBREMUNICIPIO": "BOGOTA  D C",
+   "IDPROPIETARIO": 100232,
+   "PROPIETARIO": "INVERSIONES ALDEMAR S EN C",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 11001,
+   "NOMBREMUNICIPIO": "BOGOTA  D C",
+   "IDPROPIETARIO": 100001,
+   "PROPIETARIO": "ABA CENTRAL DE COMBUSTIBLES Y LUBRICANTES CIA SEN C",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 25473,
+   "NOMBREMUNICIPIO": "MOSQUERA",
+   "IDPROPIETARIO": 100241,
+   "PROPIETARIO": "INVERSIONES EL CAMINO",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 11001,
+   "NOMBREMUNICIPIO": "BOGOTA  D C",
+   "IDPROPIETARIO": 100237,
+   "PROPIETARIO": "INVERSIONES CARRENO GUTIERREZ LTDA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 25899,
+   "NOMBREMUNICIPIO": "ZIPAQUIRA",
+   "IDPROPIETARIO": 100042,
+   "PROPIETARIO": "COLTRANS Y CO LTDA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 11001,
+   "NOMBREMUNICIPIO": "BOGOTA  D C",
+   "IDPROPIETARIO": 100250,
+   "PROPIETARIO": "INVERSIONES LA GLORIETA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 11001,
+   "NOMBREMUNICIPIO": "BOGOTA  D C",
+   "IDPROPIETARIO": 100319,
+   "PROPIETARIO": "MOVILGAS LTDA - GERARDO JAVIER ALVARADO CUBILLOS",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 44001,
+   "NOMBREMUNICIPIO": "RIOHACHA",
+   "IDPROPIETARIO": 100079,
+   "PROPIETARIO": "DISTRACOM SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 41001,
+   "NOMBREMUNICIPIO": "NEIVA",
+   "IDPROPIETARIO": 100386,
+   "PROPIETARIO": "TERPEL",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 41001,
+   "NOMBREMUNICIPIO": "NEIVA",
+   "IDPROPIETARIO": 100312,
+   "PROPIETARIO": "MASGAS SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 41551,
+   "NOMBREMUNICIPIO": "PITALITO",
+   "IDPROPIETARIO": 100280,
+   "PROPIETARIO": "JOSE FABIO PORTILLA MENESES",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 47001,
+   "NOMBREMUNICIPIO": "SANTA MARTA",
+   "IDPROPIETARIO": 100330,
+   "PROPIETARIO": "ORGANIZACION TERPEL SA",
+   "ESTACIONES": 8
+ },
+ {
+   "CODIGOMUNICIPIO": 50001,
+   "NOMBREMUNICIPIO": "VILLAVICENCIO",
+   "IDPROPIETARIO": 100064,
+   "PROPIETARIO": "COMGASCO SA",
+   "ESTACIONES": 7
+ },
+ {
+   "CODIGOMUNICIPIO": 50001,
+   "NOMBREMUNICIPIO": "VILLAVICENCIO",
+   "IDPROPIETARIO": 100156,
+   "PROPIETARIO": "ESTACIONES DE SERVICIO MONTECARLOS LTDA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 50006,
+   "NOMBREMUNICIPIO": "ACACIAS",
+   "IDPROPIETARIO": 100303,
+   "PROPIETARIO": "MADIGAS HIDROCARBUROS SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 63001,
+   "NOMBREMUNICIPIO": "ARMENIA",
+   "IDPROPIETARIO": 100327,
+   "PROPIETARIO": "OPERADORES DE ESTACIONES DE SERVICIO LTDA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 66170,
+   "NOMBREMUNICIPIO": "DOS QUEBRADAS",
+   "IDPROPIETARIO": 100091,
+   "PROPIETARIO": "DISTRIMETANO DE COLOMBIA LTDA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 66001,
+   "NOMBREMUNICIPIO": "PEREIRA",
+   "IDPROPIETARIO": 100221,
+   "PROPIETARIO": "HERNAN JESUS LOAIZA ACEVEDO",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 66170,
+   "NOMBREMUNICIPIO": "DOS QUEBRADAS",
+   "IDPROPIETARIO": 100341,
+   "PROPIETARIO": "PRIMER TAX SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 68001,
+   "NOMBREMUNICIPIO": "BUCARAMANGA",
+   "IDPROPIETARIO": 100195,
+   "PROPIETARIO": "GASORIENTE",
+   "ESTACIONES": 2
+ },
+ {
+   "CODIGOMUNICIPIO": 68001,
+   "NOMBREMUNICIPIO": "BUCARAMANGA",
+   "IDPROPIETARIO": 100248,
+   "PROPIETARIO": "INVERSIONES LA 27 SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 70215,
+   "NOMBREMUNICIPIO": "COROZAL",
+   "IDPROPIETARIO": 100005,
+   "PROPIETARIO": "ALBERTO TAMARA OLMOS  DISTRIBUIDORA DE COMBUSTIBLES LA MACARENA  GAZEL",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 70001,
+   "NOMBREMUNICIPIO": "SINCELEJO",
+   "IDPROPIETARIO": 100005,
+   "PROPIETARIO": "ALBERTO TAMARA OLMOS  DISTRIBUIDORA DE COMBUSTIBLES LA MACARENA  GAZEL",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 70001,
+   "NOMBREMUNICIPIO": "SINCELEJO",
+   "IDPROPIETARIO": 100092,
+   "PROPIETARIO": "DOBLE 1 SAS NIT 900521998-5",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 73671,
+   "NOMBREMUNICIPIO": "SALDANA",
+   "IDPROPIETARIO": 100117,
+   "PROPIETARIO": "EDS PENAS DEL RIO",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 73001,
+   "NOMBREMUNICIPIO": "IBAGUE",
+   "IDPROPIETARIO": 100347,
+   "PROPIETARIO": "RAMIRO PERDOMO E Y CIA SAS",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 76520,
+   "NOMBREMUNICIPIO": "PALMIRA",
+   "IDPROPIETARIO": 100330,
+   "PROPIETARIO": "ORGANIZACION TERPEL SA",
+   "ESTACIONES": 4
+ },
+ {
+   "CODIGOMUNICIPIO": 76113,
+   "NOMBREMUNICIPIO": "BUGA",
+   "IDPROPIETARIO": 100022,
+   "PROPIETARIO": "BISERTA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 76001,
+   "NOMBREMUNICIPIO": "CALI",
+   "IDPROPIETARIO": 100349,
+   "PROPIETARIO": "RICARDO MARTINEZ ERAZO  ESTACION DE SERVICIO LAS CEIBAS CALI  EU  GAZEL",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 76001,
+   "NOMBREMUNICIPIO": "CALI",
+   "IDPROPIETARIO": 100270,
+   "PROPIETARIO": "JAVIER E SANCHEZ S",
+   "ESTACIONES": 2
+ },
+ {
+   "CODIGOMUNICIPIO": 76001,
+   "NOMBREMUNICIPIO": "CALI",
+   "IDPROPIETARIO": 100209,
+   "PROPIETARIO": "GRANDES SUPERFICIES DE COLOMBIA SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 76001,
+   "NOMBREMUNICIPIO": "CALI",
+   "IDPROPIETARIO": 100024,
+   "PROPIETARIO": "BRIO DE COLOMBOA - BIOMAX",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 76001,
+   "NOMBREMUNICIPIO": "CALI",
+   "IDPROPIETARIO": 100145,
+   "PROPIETARIO": "ESTACION DE SERVICIO HEROES DE ORIENTE SAS",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 5631,
+   "NOMBREMUNICIPIO": "SABANETA",
+   "IDPROPIETARIO": 100401,
+   "PROPIETARIO": "VIRAMO ASOCIADOS",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 5001,
+   "NOMBREMUNICIPIO": "MEDELLIN",
+   "IDPROPIETARIO": 100240,
+   "PROPIETARIO": "INVERSIONES CRIVASI",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 5001,
+   "NOMBREMUNICIPIO": "MEDELLIN",
+   "IDPROPIETARIO": 100191,
+   "PROPIETARIO": "GASES Y COMBUSTIBLES MERCOVIL LTDA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 5360,
+   "NOMBREMUNICIPIO": "ITAGUI",
+   "IDPROPIETARIO": 100079,
+   "PROPIETARIO": "DISTRACOM SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 8001,
+   "NOMBREMUNICIPIO": "BARRANQUILLA",
+   "IDPROPIETARIO": 100330,
+   "PROPIETARIO": "ORGANIZACION TERPEL SA",
+   "ESTACIONES": 16
+ },
+ {
+   "CODIGOMUNICIPIO": 8001,
+   "NOMBREMUNICIPIO": "BARRANQUILLA",
+   "IDPROPIETARIO": 100175,
+   "PROPIETARIO": "GAS NATURAL COMPRIMIDO DE COLOMBIA SA ESP",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 8758,
+   "NOMBREMUNICIPIO": "SOLEDAD",
+   "IDPROPIETARIO": 100095,
+   "PROPIETARIO": "DUAL COMPANY SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 8001,
+   "NOMBREMUNICIPIO": "BARRANQUILLA",
+   "IDPROPIETARIO": 100215,
+   "PROPIETARIO": "GUSTAVO CHAIN  GAZEL",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 8758,
+   "NOMBREMUNICIPIO": "SOLEDAD",
+   "IDPROPIETARIO": 100125,
+   "PROPIETARIO": "EDS VIRGEN DEL CARMEN",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 8758,
+   "NOMBREMUNICIPIO": "SOLEDAD",
+   "IDPROPIETARIO": 100056,
+   "PROPIETARIO": "COMBUSTIBLES VEHICULARES DE COLOMBIA SA - GASVEHICOL SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 8001,
+   "NOMBREMUNICIPIO": "BARRANQUILLA",
+   "IDPROPIETARIO": 100052,
+   "PROPIETARIO": "COMBUSTIBLES SAN MARTIN SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 8758,
+   "NOMBREMUNICIPIO": "SOLEDAD",
+   "IDPROPIETARIO": 100254,
+   "PROPIETARIO": "INVERSIONES OIL GAS SAS",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 8001,
+   "NOMBREMUNICIPIO": "BARRANQUILLA",
+   "IDPROPIETARIO": 100268,
+   "PROPIETARIO": "JAIRO GOMEZ",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 8001,
+   "NOMBREMUNICIPIO": "BARRANQUILLA",
+   "IDPROPIETARIO": 100329,
+   "PROPIETARIO": "OPESE",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 13001,
+   "NOMBREMUNICIPIO": "CARTAGENA",
+   "IDPROPIETARIO": 100330,
+   "PROPIETARIO": "ORGANIZACION TERPEL SA",
+   "ESTACIONES": 9
+ },
+ {
+   "CODIGOMUNICIPIO": 13836,
+   "NOMBREMUNICIPIO": "TURBACO",
+   "IDPROPIETARIO": 100155,
+   "PROPIETARIO": "ESTACION PLAN PAREJO TURBACO SA  GAZEL",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 15001,
+   "NOMBREMUNICIPIO": "TUNJA",
+   "IDPROPIETARIO": 100075,
+   "PROPIETARIO": "DINAGAS",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 15176,
+   "NOMBREMUNICIPIO": "CHIQUINQUIRA",
+   "IDPROPIETARIO": 100380,
+   "PROPIETARIO": "STANDARD ENERGY COMPANY - SENERGYC",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 15238,
+   "NOMBREMUNICIPIO": "DUITAMA",
+   "IDPROPIETARIO": 100193,
+   "PROPIETARIO": "GASMOVIL LTDA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 15516,
+   "NOMBREMUNICIPIO": "PAIPA",
+   "IDPROPIETARIO": 100205,
+   "PROPIETARIO": "GNE SOLUCIONES SAS",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 17380,
+   "NOMBREMUNICIPIO": "LA DORADA",
+   "IDPROPIETARIO": 100330,
+   "PROPIETARIO": "ORGANIZACION TERPEL SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 17001,
+   "NOMBREMUNICIPIO": "MANIZALES",
+   "IDPROPIETARIO": 100091,
+   "PROPIETARIO": "DISTRIMETANO DE COLOMBIA LTDA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 17873,
+   "NOMBREMUNICIPIO": "VILLAMARIA",
+   "IDPROPIETARIO": 100281,
+   "PROPIETARIO": "JOSE FERNANDO BOTERO SANCHEZ",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 23660,
+   "NOMBREMUNICIPIO": "SAHAGUN",
+   "IDPROPIETARIO": 100079,
+   "PROPIETARIO": "DISTRACOM SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 11001,
+   "NOMBREMUNICIPIO": "BOGOTA  D C",
+   "IDPROPIETARIO": 100357,
+   "PROPIETARIO": "SEDETRASN SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 25307,
+   "NOMBREMUNICIPIO": "GIRARDOT",
+   "IDPROPIETARIO": 100213,
+   "PROPIETARIO": "GRUPO G5 SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 11001,
+   "NOMBREMUNICIPIO": "BOGOTA  D C",
+   "IDPROPIETARIO": 100081,
+   "PROPIETARIO": "DISTRIBUCOM LTDA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 25290,
+   "NOMBREMUNICIPIO": "FUSAGASUGA",
+   "IDPROPIETARIO": 100207,
+   "PROPIETARIO": "GNV CONSORCIO GRUPO DE NEGOCIOS VARIOS",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 11001,
+   "NOMBREMUNICIPIO": "BOGOTA  D C",
+   "IDPROPIETARIO": 100006,
+   "PROPIETARIO": "ALFA COMPRESION SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 25290,
+   "NOMBREMUNICIPIO": "FUSAGASUGA",
+   "IDPROPIETARIO": 100325,
+   "PROPIETARIO": "OMEGAS LTDA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 11001,
+   "NOMBREMUNICIPIO": "BOGOTA  D C",
+   "IDPROPIETARIO": 100020,
+   "PROPIETARIO": "BAVARIA SA",
+   "ESTACIONES": 2
+ },
+ {
+   "CODIGOMUNICIPIO": 11001,
+   "NOMBREMUNICIPIO": "BOGOTA  D C",
+   "IDPROPIETARIO": 100056,
+   "PROPIETARIO": "COMBUSTIBLES VEHICULARES DE COLOMBIA SA - GASVEHICOL SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 11001,
+   "NOMBREMUNICIPIO": "BOGOTA  D C",
+   "IDPROPIETARIO": 100138,
+   "PROPIETARIO": "ESTACION DE SERVICIO A GAS LAS FLORES Y JAVIER LEYVA GONZALEZ",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 25307,
+   "NOMBREMUNICIPIO": "GIRARDOT",
+   "IDPROPIETARIO": 100330,
+   "PROPIETARIO": "ORGANIZACION TERPEL SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 25473,
+   "NOMBREMUNICIPIO": "MOSQUERA",
+   "IDPROPIETARIO": 100209,
+   "PROPIETARIO": "GRANDES SUPERFICIES DE COLOMBIA SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 11001,
+   "NOMBREMUNICIPIO": "BOGOTA  D C",
+   "IDPROPIETARIO": 100352,
+   "PROPIETARIO": "RODRIGO CARDONA  GAZEL",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 25754,
+   "NOMBREMUNICIPIO": "SOACHA",
+   "IDPROPIETARIO": 100385,
+   "PROPIETARIO": "TERCERO  GAZEL",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 11001,
+   "NOMBREMUNICIPIO": "BOGOTA  D C",
+   "IDPROPIETARIO": 100199,
+   "PROPIETARIO": "GAZEL",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 25754,
+   "NOMBREMUNICIPIO": "SOACHA",
+   "IDPROPIETARIO": 100330,
+   "PROPIETARIO": "ORGANIZACION TERPEL SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 11001,
+   "NOMBREMUNICIPIO": "BOGOTA  D C",
+   "IDPROPIETARIO": 100396,
+   "PROPIETARIO": "UNION TEMPORAL DE COMBUSTIBLES USME",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 25322,
+   "NOMBREMUNICIPIO": "GUASCA",
+   "IDPROPIETARIO": 100017,
+   "PROPIETARIO": "AUTOSERVICIO LA PORTADA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 11001,
+   "NOMBREMUNICIPIO": "BOGOTA  D C",
+   "IDPROPIETARIO": 100041,
+   "PROPIETARIO": "COLOMBIANA DE HIDROCARBUROS",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 41001,
+   "NOMBREMUNICIPIO": "NEIVA",
+   "IDPROPIETARIO": 100192,
+   "PROPIETARIO": "GASES Y LIQUIDOS LTDA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 47001,
+   "NOMBREMUNICIPIO": "SANTA MARTA",
+   "IDPROPIETARIO": 100223,
+   "PROPIETARIO": "HERNANDEZ DE VASQUEZ ORFILIA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 47001,
+   "NOMBREMUNICIPIO": "SANTA MARTA",
+   "IDPROPIETARIO": 100010,
+   "PROPIETARIO": "ARCAS TRADING SAS",
+   "ESTACIONES": 2
+ },
+ {
+   "CODIGOMUNICIPIO": 50573,
+   "NOMBREMUNICIPIO": "PUERTO LOPEZ",
+   "IDPROPIETARIO": 100318,
+   "PROPIETARIO": "MOVILGAS LTDA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 63130,
+   "NOMBREMUNICIPIO": "CALARCA",
+   "IDPROPIETARIO": 100147,
+   "PROPIETARIO": "ESTACION DE SERVICIO LA METRO SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 63001,
+   "NOMBREMUNICIPIO": "ARMENIA",
+   "IDPROPIETARIO": 100272,
+   "PROPIETARIO": "JEMAY ALCIOME PARRA MOYANO  GAZEL",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 68001,
+   "NOMBREMUNICIPIO": "BUCARAMANGA",
+   "IDPROPIETARIO": 100016,
+   "PROPIETARIO": "AUTOJOL SAS - RL JORGE CASTRO",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 68406,
+   "NOMBREMUNICIPIO": "LEBRIJA",
+   "IDPROPIETARIO": 100100,
+   "PROPIETARIO": "ECOLOGICA CONSTRUCCIONES",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 68001,
+   "NOMBREMUNICIPIO": "BUCARAMANGA",
+   "IDPROPIETARIO": 100331,
+   "PROPIETARIO": "ORGANIZACION TERPEL SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 70001,
+   "NOMBREMUNICIPIO": "SINCELEJO",
+   "IDPROPIETARIO": 100365,
+   "PROPIETARIO": "SERVICENTRO HERNANDEZ LTDA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 70001,
+   "NOMBREMUNICIPIO": "SINCELEJO",
+   "IDPROPIETARIO": 100028,
+   "PROPIETARIO": "CARLOS MARIO RIOS MAZO",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 73001,
+   "NOMBREMUNICIPIO": "IBAGUE",
+   "IDPROPIETARIO": 100040,
+   "PROPIETARIO": "COLOMBIANA DE GAS VEHICULAR  COVEGAS SA",
+   "ESTACIONES": 2
+ },
+ {
+   "CODIGOMUNICIPIO": 73268,
+   "NOMBREMUNICIPIO": "ESPINAL",
+   "IDPROPIETARIO": 100113,
+   "PROPIETARIO": "EDS LOS NARANJOS",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 73001,
+   "NOMBREMUNICIPIO": "IBAGUE",
+   "IDPROPIETARIO": 100032,
+   "PROPIETARIO": "CASAMOTOR SA",
+   "ESTACIONES": 2
+ },
+ {
+   "CODIGOMUNICIPIO": 73001,
+   "NOMBREMUNICIPIO": "IBAGUE",
+   "IDPROPIETARIO": 100088,
+   "PROPIETARIO": "DISTRIBUIDORA DE GNV LOS PITS LTDA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 73001,
+   "NOMBREMUNICIPIO": "IBAGUE",
+   "IDPROPIETARIO": 100064,
+   "PROPIETARIO": "COMGASCO SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 73001,
+   "NOMBREMUNICIPIO": "IBAGUE",
+   "IDPROPIETARIO": 100224,
+   "PROPIETARIO": "HERNANDO ARANGO VISBAL",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 76001,
+   "NOMBREMUNICIPIO": "CALI",
+   "IDPROPIETARIO": 100330,
+   "PROPIETARIO": "ORGANIZACION TERPEL SA",
+   "ESTACIONES": 23
+ },
+ {
+   "CODIGOMUNICIPIO": 76001,
+   "NOMBREMUNICIPIO": "CALI",
+   "IDPROPIETARIO": 100166,
+   "PROPIETARIO": "GABRIEL OSORNO GIL  GAZEL",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 76001,
+   "NOMBREMUNICIPIO": "CALI",
+   "IDPROPIETARIO": 100277,
+   "PROPIETARIO": "JORGE RICARDO NAVIA KLEMPERER  GAZEL",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 76834,
+   "NOMBREMUNICIPIO": "TULUA",
+   "IDPROPIETARIO": 100304,
+   "PROPIETARIO": "MAGIOTA LTDA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 76001,
+   "NOMBREMUNICIPIO": "CALI",
+   "IDPROPIETARIO": 100175,
+   "PROPIETARIO": "GAS NATURAL COMPRIMIDO DE COLOMBIA SA ESP",
+   "ESTACIONES": 2
+ },
+ {
+   "CODIGOMUNICIPIO": 76834,
+   "NOMBREMUNICIPIO": "TULUA",
+   "IDPROPIETARIO": 100384,
+   "PROPIETARIO": "TBASCOMEU - EDS ENTRE RIOS",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 76113,
+   "NOMBREMUNICIPIO": "BUGA",
+   "IDPROPIETARIO": 100388,
+   "PROPIETARIO": "TOTALGAS SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 76520,
+   "NOMBREMUNICIPIO": "PALMIRA",
+   "IDPROPIETARIO": 100087,
+   "PROPIETARIO": "DISTRIBUIDORA DE COMBUSTIBLES SALCEDO HNOS LTDA  GAZEL",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 76001,
+   "NOMBREMUNICIPIO": "CALI",
+   "IDPROPIETARIO": 100402,
+   "PROPIETARIO": "YESID GASCA DURAN",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 76001,
+   "NOMBREMUNICIPIO": "CALI",
+   "IDPROPIETARIO": 100056,
+   "PROPIETARIO": "COMBUSTIBLES VEHICULARES DE COLOMBIA SA - GASVEHICOL SA",
+   "ESTACIONES": 3
+ },
+ {
+   "CODIGOMUNICIPIO": 76001,
+   "NOMBREMUNICIPIO": "CALI",
+   "IDPROPIETARIO": 100201,
+   "PROPIETARIO": "GERMAN ALONSO OSPINA CARDONA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 76001,
+   "NOMBREMUNICIPIO": "CALI",
+   "IDPROPIETARIO": 100326,
+   "PROPIETARIO": "OPERACIONES Y SERVICIOS DE COMBUSTIBLES SAS-OPESE SAS",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 76001,
+   "NOMBREMUNICIPIO": "CALI",
+   "IDPROPIETARIO": 100399,
+   "PROPIETARIO": "VICENTE ALFONSO RAMIREZ DUQUE  GAZEL",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 76109,
+   "NOMBREMUNICIPIO": "BUENAVENTURA",
+   "IDPROPIETARIO": 100217,
+   "PROPIETARIO": "HECTOR JOSE DE VIVERO PEREZ",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 5001,
+   "NOMBREMUNICIPIO": "MEDELLIN",
+   "IDPROPIETARIO": 100245,
+   "PROPIETARIO": "INVERSIONES FLORENCIA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 5088,
+   "NOMBREMUNICIPIO": "BELLO",
+   "IDPROPIETARIO": 100208,
+   "PROPIETARIO": "GNV SAN BUENAVENTURA BELLO SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 5360,
+   "NOMBREMUNICIPIO": "ITAGUI",
+   "IDPROPIETARIO": 100209,
+   "PROPIETARIO": "GRANDES SUPERFICIES DE COLOMBIA SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 5001,
+   "NOMBREMUNICIPIO": "MEDELLIN",
+   "IDPROPIETARIO": 100364,
+   "PROPIETARIO": "SERVICENTRO FERROCARRIL SAS",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 5360,
+   "NOMBREMUNICIPIO": "ITAGUI",
+   "IDPROPIETARIO": 100015,
+   "PROPIETARIO": "AUTOGAS DE COLOMBIA BREASCOL SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 5266,
+   "NOMBREMUNICIPIO": "ENVIGADO",
+   "IDPROPIETARIO": 100330,
+   "PROPIETARIO": "ORGANIZACION TERPEL SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 8001,
+   "NOMBREMUNICIPIO": "BARRANQUILLA",
+   "IDPROPIETARIO": 100316,
+   "PROPIETARIO": "METROPOLITANA DE COMBUSTIBLE LTDA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 8001,
+   "NOMBREMUNICIPIO": "BARRANQUILLA",
+   "IDPROPIETARIO": 100334,
+   "PROPIETARIO": "OTEDS SA",
+   "ESTACIONES": 4
+ },
+ {
+   "CODIGOMUNICIPIO": 8001,
+   "NOMBREMUNICIPIO": "BARRANQUILLA",
+   "IDPROPIETARIO": 100381,
+   "PROPIETARIO": "SUMIENERGETICOS",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 8001,
+   "NOMBREMUNICIPIO": "BARRANQUILLA",
+   "IDPROPIETARIO": 100315,
+   "PROPIETARIO": "METROPOLITA DE COMBUSTIBLE LTDA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 8001,
+   "NOMBREMUNICIPIO": "BARRANQUILLA",
+   "IDPROPIETARIO": 100366,
+   "PROPIETARIO": "SERVICENTRO LAS FLORES  GAZEL",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 8758,
+   "NOMBREMUNICIPIO": "SOLEDAD",
+   "IDPROPIETARIO": 100024,
+   "PROPIETARIO": "BRIO DE COLOMBOA - BIOMAX",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 8001,
+   "NOMBREMUNICIPIO": "BARRANQUILLA",
+   "IDPROPIETARIO": 100249,
+   "PROPIETARIO": "INVERSIONES LA BARONESA Y CIA S EN C",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 13001,
+   "NOMBREMUNICIPIO": "CARTAGENA",
+   "IDPROPIETARIO": 100278,
+   "PROPIETARIO": "JORGE SANDOVAL BARRERA  GAZEL",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 13001,
+   "NOMBREMUNICIPIO": "CARTAGENA",
+   "IDPROPIETARIO": 100011,
+   "PROPIETARIO": "ARTURO ACERO FRANCO  GAZEL",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 13244,
+   "NOMBREMUNICIPIO": "CARMEN DE BOLIVAR",
+   "IDPROPIETARIO": 100096,
+   "PROPIETARIO": "DUARTECNICOS SAS",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 15632,
+   "NOMBREMUNICIPIO": "SABOYA",
+   "IDPROPIETARIO": 100023,
+   "PROPIETARIO": "BRIO - LEMUZ BENITEZ Y CIA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 15001,
+   "NOMBREMUNICIPIO": "TUNJA",
+   "IDPROPIETARIO": 100339,
+   "PROPIETARIO": "PLINIO ARIAS JIMENEZ",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 17001,
+   "NOMBREMUNICIPIO": "MANIZALES",
+   "IDPROPIETARIO": 100321,
+   "PROPIETARIO": "MULTISERVICIOS PANAMERICANA  SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 17001,
+   "NOMBREMUNICIPIO": "MANIZALES",
+   "IDPROPIETARIO": 100140,
+   "PROPIETARIO": "ESTACION DE SERVICIO AVENIDA DEL RIO TEXACO",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 19698,
+   "NOMBREMUNICIPIO": "SANTANDER DE QUILICHAO",
+   "IDPROPIETARIO": 100404,
+   "PROPIETARIO": "ZENCAR OCCIDENTE SA  JORGE CARRILLO REPRESENTANTE LEGAL",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 23001,
+   "NOMBREMUNICIPIO": "MONTERIA",
+   "IDPROPIETARIO": 100330,
+   "PROPIETARIO": "ORGANIZACION TERPEL SA",
+   "ESTACIONES": 2
+ },
+ {
+   "CODIGOMUNICIPIO": 11001,
+   "NOMBREMUNICIPIO": "BOGOTA  D C",
+   "IDPROPIETARIO": 100228,
+   "PROPIETARIO": "IMPORTACIONES DOBERMAN LTDA",
+   "ESTACIONES": 2
+ },
+ {
+   "CODIGOMUNICIPIO": 11001,
+   "NOMBREMUNICIPIO": "BOGOTA  D C",
+   "IDPROPIETARIO": 100395,
+   "PROPIETARIO": "UNIGAS SAS",
+   "ESTACIONES": 2
+ },
+ {
+   "CODIGOMUNICIPIO": 11001,
+   "NOMBREMUNICIPIO": "BOGOTA  D C",
+   "IDPROPIETARIO": 100180,
+   "PROPIETARIO": "GAS NATURAL FENOSA",
+   "ESTACIONES": 40
+ },
+ {
+   "CODIGOMUNICIPIO": 25175,
+   "NOMBREMUNICIPIO": "CHIA",
+   "IDPROPIETARIO": 100180,
+   "PROPIETARIO": "GAS NATURAL FENOSA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 11001,
+   "NOMBREMUNICIPIO": "BOGOTA  D C",
+   "IDPROPIETARIO": 100214,
+   "PROPIETARIO": "GRUPO LOMA LTDA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 25758,
+   "NOMBREMUNICIPIO": "SOPO",
+   "IDPROPIETARIO": 100064,
+   "PROPIETARIO": "COMGASCO SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 11001,
+   "NOMBREMUNICIPIO": "BOGOTA  D C",
+   "IDPROPIETARIO": 100257,
+   "PROPIETARIO": "INVERSIONES RENGIFO ROJAS Y CIA LTDA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 11001,
+   "NOMBREMUNICIPIO": "BOGOTA  D C",
+   "IDPROPIETARIO": 100084,
+   "PROPIETARIO": "DISTRIBUIDORA DE CARBURANTES LTDA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 11001,
+   "NOMBREMUNICIPIO": "BOGOTA  D C",
+   "IDPROPIETARIO": 100267,
+   "PROPIETARIO": "JAIRO AUGUSTO QUIJANO CARRILLO",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 11001,
+   "NOMBREMUNICIPIO": "BOGOTA  D C",
+   "IDPROPIETARIO": 100269,
+   "PROPIETARIO": "JANETT ZUNIGA DIAZ  GAZEL",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 25899,
+   "NOMBREMUNICIPIO": "ZIPAQUIRA",
+   "IDPROPIETARIO": 100129,
+   "PROPIETARIO": "E-GAS SAS",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 25175,
+   "NOMBREMUNICIPIO": "CHIA",
+   "IDPROPIETARIO": 100400,
+   "PROPIETARIO": "VICTOR MANUEL MALAGON PINZON",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 11001,
+   "NOMBREMUNICIPIO": "BOGOTA  D C",
+   "IDPROPIETARIO": 100283,
+   "PROPIETARIO": "JUAN MARTIN LTDA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 11001,
+   "NOMBREMUNICIPIO": "BOGOTA  D C",
+   "IDPROPIETARIO": 100090,
+   "PROPIETARIO": "DISTRILUB LTDA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 41001,
+   "NOMBREMUNICIPIO": "NEIVA",
+   "IDPROPIETARIO": 100041,
+   "PROPIETARIO": "COLOMBIANA DE HIDROCARBUROS",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 47001,
+   "NOMBREMUNICIPIO": "SANTA MARTA",
+   "IDPROPIETARIO": 100103,
+   "PROPIETARIO": "EDS CALLE 22",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 47001,
+   "NOMBREMUNICIPIO": "SANTA MARTA",
+   "IDPROPIETARIO": 100037,
+   "PROPIETARIO": "CMMSA COMBUSTIBLES Y GASES DEL MAGDALENA SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 50313,
+   "NOMBREMUNICIPIO": "GRANADA",
+   "IDPROPIETARIO": 100179,
+   "PROPIETARIO": "GAS NATURAL DEL ARIARI SA ESP",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 50223,
+   "NOMBREMUNICIPIO": "CUMARAL",
+   "IDPROPIETARIO": 100303,
+   "PROPIETARIO": "MADIGAS HIDROCARBUROS SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 66001,
+   "NOMBREMUNICIPIO": "PEREIRA",
+   "IDPROPIETARIO": 100398,
+   "PROPIETARIO": "VELASQUEZ Y QUIRAMA CIA LTDA  GAZEL",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 66001,
+   "NOMBREMUNICIPIO": "PEREIRA",
+   "IDPROPIETARIO": 100178,
+   "PROPIETARIO": "GAS NATURAL DE PEREIRA SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 66001,
+   "NOMBREMUNICIPIO": "PEREIRA",
+   "IDPROPIETARIO": 100152,
+   "PROPIETARIO": "ESTACION DE SERVICIO TODOGAS",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 68001,
+   "NOMBREMUNICIPIO": "BUCARAMANGA",
+   "IDPROPIETARIO": 100388,
+   "PROPIETARIO": "TOTALGAS SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 70001,
+   "NOMBREMUNICIPIO": "SINCELEJO",
+   "IDPROPIETARIO": 100089,
+   "PROPIETARIO": "DISTRIBUIDORES DE COMBUSTIBLES LOS ANGELES",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 70001,
+   "NOMBREMUNICIPIO": "SAN PEDRO",
+   "IDPROPIETARIO": 100234,
+   "PROPIETARIO": "INVERSIONES AVANADE Y CIA SAS - RL CARLOS ALONSO HENAO G",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 73001,
+   "NOMBREMUNICIPIO": "IBAGUE",
+   "IDPROPIETARIO": 100209,
+   "PROPIETARIO": "GRANDES SUPERFICIES DE COLOMBIA SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 76001,
+   "NOMBREMUNICIPIO": "CALI",
+   "IDPROPIETARIO": 100351,
+   "PROPIETARIO": "RODOLFO GOMEZ QUINTERO  GAZEL",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 76001,
+   "NOMBREMUNICIPIO": "CALI",
+   "IDPROPIETARIO": 100164,
+   "PROPIETARIO": "FRANCISCO PUCHINI",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 76001,
+   "NOMBREMUNICIPIO": "CALI",
+   "IDPROPIETARIO": 100296,
+   "PROPIETARIO": "LUIS CARLOS HORMAZA  GAZEL",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 76001,
+   "NOMBREMUNICIPIO": "CALI",
+   "IDPROPIETARIO": 100198,
+   "PROPIETARIO": "GASV SA",
+   "ESTACIONES": 7
+ },
+ {
+   "CODIGOMUNICIPIO": 76001,
+   "NOMBREMUNICIPIO": "CALI",
+   "IDPROPIETARIO": 100027,
+   "PROPIETARIO": "CARLOS ALBERTO BARRAGAN  GAZEL",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 76001,
+   "NOMBREMUNICIPIO": "CALI",
+   "IDPROPIETARIO": 100097,
+   "PROPIETARIO": "DUVEL SA  GAZEL",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 76001,
+   "NOMBREMUNICIPIO": "CALI",
+   "IDPROPIETARIO": 100168,
+   "PROPIETARIO": "GANMEGAN SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 76147,
+   "NOMBREMUNICIPIO": "CARTAGO",
+   "IDPROPIETARIO": 100312,
+   "PROPIETARIO": "MASGAS SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 76113,
+   "NOMBREMUNICIPIO": "BUGA",
+   "IDPROPIETARIO": 100105,
+   "PROPIETARIO": "EDS EL MILAGROSO SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 76892,
+   "NOMBREMUNICIPIO": "YUMBO",
+   "IDPROPIETARIO": 100035,
+   "PROPIETARIO": "CERVECERIA DEL VALLE SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 76834,
+   "NOMBREMUNICIPIO": "TULUA",
+   "IDPROPIETARIO": 100374,
+   "PROPIETARIO": "SIEG SA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 76001,
+   "NOMBREMUNICIPIO": "CALI",
+   "IDPROPIETARIO": 100090,
+   "PROPIETARIO": "DISTRILUB LTDA",
+   "ESTACIONES": 1
+ },
+ {
+   "CODIGOMUNICIPIO": 76147,
+   "NOMBREMUNICIPIO": "CARTAGO",
+   "IDPROPIETARIO": 100010,
+   "PROPIETARIO": "ARCAS TRADING SAS",
+   "ESTACIONES": 1
+ }
+]
+}

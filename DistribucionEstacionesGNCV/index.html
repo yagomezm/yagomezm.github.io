@@ -1,0 +1,509 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Estaciones de Gas</title>
+
+	<style>
+	body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,figure,form,fieldset,input,p,blockquote,th,td,legend {
+    margin: 0;
+    padding: 0;
+	}
+	body {
+	    font-family: 'Cardo', serif;
+	}
+	h1 {
+	    font-family: 'Bevan', serif;
+	    font-size: 2.0em;
+	}
+	p {
+	    line-height: 1.4em;
+	    margin-bottom: 1.0em;
+	}
+	a {
+	    color: #821122;
+	}
+	#content {
+	    width: 1160px;
+	    margin: 0 auto;
+	}
+	#content2 {
+	    width: 1160px;
+	    margin: 0 auto;
+	}
+	.links line {
+	  stroke: #999;
+	  stroke-opacity: 0.6;
+	}
+	.nodes circle {
+	  stroke: #fff;
+	  stroke-width: 1.5px;
+	}
+	text {
+	  font-family: sans-serif;
+	  font-size: 10px;
+	}
+	</style>
+
+<script src='https://d3js.org/d3.v5.min.js'></script>
+</head>
+<body>
+		<div id="content">
+		<h1 align="center">Distribución de estaciones de Gas Natural Comprimido Vehicular (GNCV) por Regiones en Colombia</h1>
+		<p>El uso y aplicación del GNCV (Gas Natural Comprimido Vehicular) en automóviles, buses y camiones en todo el mundo se ha incrementado, debido a los grandes beneficios del gas , no solo en el plano ambiental, sino también en el aspecto económico al igual que el de mantenimiento.
+		Aunque el país solo aporta el 0.2 por ciento a la contaminación mundial, hace parte de los países que se han interesado en contribuir con la conservación de la capa de ozono y ayudar a preservar el medio ambiente. <a href="https://www.eltiempo.com/archivo/documento/MAM-1628346">Continuar Leyendo...</a></p>
+		<p>
+			A continuación, veremos una visualización que permitirá conocer cómo a 23 de agosto de 2017 se encuentra en Colombia la distribución por regiones geográficas de las estaciones de servicio de Gas Natural Comprimido Vehicular.
+		</p>
+		<h3 style="color:#087181">Mueva el mouse sobre los nodos del grafico para comenzar a explorar datos.</h3>
+		<div>
+
+		<div>
+				<svg id="legend">
+					<g transform="translate(0,0)">
+						<rect class="rd1" x="0" y="0" rx="2" ry="2" width="200" height="10" fill='orange'>
+						</rect>
+						<svg width="200px" height="30px"> 
+							<text x="50%" y="70%" alignment-baseline="middle" text-anchor="middle" fill="black" stroke="none">Datos Regiones Geográficas de Colombia
+							</text>	
+						 </svg> 			
+					</g>
+					<g transform="translate(0,30)">
+						<rect class="rd1" x="0" y="0" rx="2" ry="2" width="200" height="10" fill='steelblue'>
+						</rect>
+						<svg width="200px" height="30px"> 
+							<text x="50%" y="70%" alignment-baseline="middle" text-anchor="middle" fill="black" stroke="none">Datos de Propietarios de estaciones
+							</text>	
+						 </svg> 			
+					</g>
+				</svg>
+		</div>			
+
+
+	<svg width="1200" height="900" id="grafico"></svg>
+	<script src='app.js'></script>
+
+
+	<div id="cite">Proyecto bajo <a href="https://opensource.org/licenses/MIT">licencia MIT.</a> Fuente de datos :  <a href="https://bit.ly/2OUZYf9">Datos Abiertos Gobierno Digital</a>; Graficado por: <a href="http://github.com/yagomezm">Yenny Gomez</a> como tarea No 5 del <a href="https://uniandes.edu.co/"> curso de Visual Analytics de los Andes</a> ; 2018 
+	<p> </p>
+	</div>
+
+	<div id="content2">
+		<p class=MsoNormal style='margin-bottom:12.0pt;line-height:normal'><span
+		style='font-size:12.0pt;font-family:"&amp;quot",serif;mso-fareast-font-family:
+		"Times New Roman";mso-bidi-font-family:"Times New Roman";color:#24292E;
+		mso-fareast-language:#580A'>Para lograr esta visualización se trabajó con el
+		Framework de Tamara <span class=SpellE>Munzner</span> y a continuación se
+		describen los pasos realizados:<o:p></o:p></span></p>
+
+		<div style='mso-element:para-border-div;border:none;border-bottom:solid #EAECEF 1.0pt;
+		mso-border-bottom-alt:solid #EAECEF .75pt;padding:0cm 0cm 7.0pt 0cm'>
+
+		<p class=MsoNormal style='margin-top:18.0pt;margin-right:0cm;margin-bottom:
+		12.0pt;margin-left:0cm;line-height:30.0pt;mso-outline-level:1;border:none;
+		mso-border-bottom-alt:solid #EAECEF .75pt;padding:0cm;mso-padding-alt:0cm 0cm 7.0pt 0cm'><b><span
+		style='font-size:24.0pt;font-family:"&amp;quot",serif;mso-fareast-font-family:
+		"Times New Roman";mso-bidi-font-family:"Times New Roman";color:#24292E;
+		mso-font-kerning:18.0pt;mso-fareast-language:#580A'>Abstracción de datos (<span
+		class=SpellE>What</span>)<o:p></o:p></span></b></p>
+
+		</div>
+
+		<p class=MsoNormal style='margin-bottom:12.0pt;line-height:normal'><span
+		style='font-size:12.0pt;font-family:"&amp;quot",serif;mso-fareast-font-family:
+		"Times New Roman";mso-bidi-font-family:"Times New Roman";color:#24292E;
+		mso-fareast-language:#580A'>Tipo de <span class=SpellE>dataset</span>: Networks<o:p></o:p></span></p>
+
+		<p class=MsoNormal style='margin-bottom:12.0pt;line-height:normal'><span
+		style='font-size:12.0pt;font-family:"&amp;quot",serif;mso-fareast-font-family:
+		"Times New Roman";mso-bidi-font-family:"Times New Roman";color:#24292E;
+		mso-fareast-language:#580A'>Tipos de datos: <span class=SpellE>Items</span>
+		(nodos: región y propietarios), links (conexiones entre propietarios de
+		estaciones de GNCV y regiones), Atributos<o:p></o:p></span></p>
+
+		<p class=MsoNormal style='margin-bottom:12.0pt;line-height:normal'><span
+		style='font-size:12.0pt;font-family:"&amp;quot",serif;mso-fareast-font-family:
+		"Times New Roman";mso-bidi-font-family:"Times New Roman";color:#24292E;
+		mso-fareast-language:#580A'>Atributos: <o:p></o:p></span></p>
+
+		<p class=MsoNormal style='margin-bottom:12.0pt;line-height:normal'><span
+		style='font-size:12.0pt;font-family:"&amp;quot",serif;mso-fareast-font-family:
+		"Times New Roman";mso-bidi-font-family:"Times New Roman";color:#24292E;
+		mso-fareast-language:#580A'>Del <span class=SpellE>dataset</span> principal ( (</span><span
+		class=MsoHyperlink><span style='font-size:11.5pt;font-family:"Helvetica",sans-serif;
+		mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi'><a
+		href="https://bit.ly/2OUZYf9">https://bit.ly/2OUZYf9</a></span></span><span
+		style='font-size:11.5pt;font-family:"Helvetica",sans-serif;mso-bidi-font-family:
+		"Times New Roman";mso-bidi-theme-font:minor-bidi;color:#A3AAAE'> </span><span
+		style='font-size:12.0pt;font-family:"&amp;quot",serif;mso-fareast-font-family:
+		"Times New Roman";mso-bidi-font-family:"Times New Roman";color:#24292E;
+		mso-fareast-language:#580A'>)<span style='mso-spacerun:yes'>  </span>con 808 (<span
+		class=SpellE>items</span>) y 8 columnas, se utilizaron <span
+		style='mso-spacerun:yes'> </span>los siguientes campos:<o:p></o:p></span></p>
+
+		<ul type=disc>
+		 <li class=MsoNormal style='color:#24292E;mso-margin-top-alt:auto;mso-margin-bottom-alt:
+		     auto;line-height:normal;mso-list:l5 level1 lfo1;tab-stops:list 36.0pt'><span
+		     class=SpellE><span style='font-size:12.0pt;font-family:"&amp;quot",serif;
+		     mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
+		     mso-fareast-language:#580A'>CodigoDepartamento</span></span><span
+		     style='font-size:12.0pt;font-family:"&amp;quot",serif;mso-fareast-font-family:
+		     "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+		     #580A'>: Ordenado - cuantitativo - secuencial<o:p></o:p></span></li>
+		 <li class=MsoNormal style='color:#24292E;margin-top:3.0pt;mso-margin-bottom-alt:
+		     auto;line-height:normal;mso-list:l5 level1 lfo1;tab-stops:list 36.0pt'><span
+		     class=SpellE><span style='font-size:12.0pt;font-family:"&amp;quot",serif;
+		     mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
+		     mso-fareast-language:#580A'>NombreEstacion</span></span><span
+		     style='font-size:12.0pt;font-family:"&amp;quot",serif;mso-fareast-font-family:
+		     "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+		     #580A'>: Categórico<o:p></o:p></span></li>
+		 <li class=MsoNormal style='color:#24292E;margin-top:3.0pt;mso-margin-bottom-alt:
+		     auto;line-height:normal;mso-list:l5 level1 lfo1;tab-stops:list 36.0pt'><span
+		     style='font-size:12.0pt;font-family:"&amp;quot",serif;mso-fareast-font-family:
+		     "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+		     #580A'>Propietario: Categórico<o:p></o:p></span></li>
+		</ul>
+
+		<p class=MsoNormal style='margin-top:3.0pt;mso-margin-bottom-alt:auto;
+		line-height:normal'><span style='font-size:12.0pt;font-family:"&amp;quot",serif;
+		mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
+		color:#24292E;mso-fareast-language:#580A'>Se utilizó el <span class=SpellE>dataset</span>
+		de municipios y departamentos ( </span><span class=MsoHyperlink><span
+		style='font-size:12.0pt;font-family:"&amp;quot",serif;mso-fareast-font-family:
+		"Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+		#580A'><a href="https://bit.ly/2Obf5vS">https://bit.ly/2Obf5vS</a></span></span><span
+		style='font-size:12.0pt;font-family:"&amp;quot",serif;mso-fareast-font-family:
+		"Times New Roman";mso-bidi-font-family:"Times New Roman";color:#24292E;
+		mso-fareast-language:#580A'>) del cual se derivó el atributo:<o:p></o:p></span></p>
+
+		<ul type=disc>
+		 <li class=MsoNormal style='color:#24292E;mso-margin-top-alt:auto;mso-margin-bottom-alt:
+		     auto;line-height:normal;mso-list:l1 level1 lfo2;tab-stops:list 36.0pt'><span
+		     style='font-size:12.0pt;font-family:"&amp;quot",serif;mso-fareast-font-family:
+		     "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+		     #580A'>Región: Categórico<o:p></o:p></span></li>
+		</ul>
+
+		<p class=MsoNormal style='margin-top:3.0pt;mso-margin-bottom-alt:auto;
+		line-height:normal'><span style='font-size:12.0pt;font-family:"&amp;quot",serif;
+		mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
+		color:#24292E;mso-fareast-language:#580A'>Otros atributos derivados:<o:p></o:p></span></p>
+
+		<p class=MsoNormal style='margin-top:3.0pt;mso-margin-bottom-alt:auto;
+		line-height:normal'><span style='font-size:12.0pt;font-family:"&amp;quot",serif;
+		mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
+		color:#24292E;mso-fareast-language:#580A'>Para los nodos:<o:p></o:p></span></p>
+
+		<p class=MsoListParagraphCxSpFirst style='margin-top:3.0pt;mso-margin-bottom-alt:
+		auto;mso-add-space:auto;text-indent:-18.0pt;line-height:normal;mso-list:l2 level1 lfo5'><![if !supportLists]><span
+		style='font-size:12.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
+		mso-bidi-font-family:Symbol;color:#24292E;mso-fareast-language:#580A'><span
+		style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		</span></span></span><![endif]><span class=SpellE><span style='font-size:12.0pt;
+		font-family:"&amp;quot",serif;mso-fareast-font-family:"Times New Roman";
+		mso-bidi-font-family:"Times New Roman";color:#24292E;mso-fareast-language:#580A'>Tiponodo</span></span><span
+		style='font-size:12.0pt;font-family:"&amp;quot",serif;mso-fareast-font-family:
+		"Times New Roman";mso-bidi-font-family:"Times New Roman";color:#24292E;
+		mso-fareast-language:#580A'>: Categórico (región y propietario)<o:p></o:p></span></p>
+
+		<p class=MsoListParagraphCxSpMiddle style='margin-top:3.0pt;mso-margin-bottom-alt:
+		auto;mso-add-space:auto;text-indent:-18.0pt;line-height:normal;mso-list:l2 level1 lfo5'><![if !supportLists]><span
+		style='font-size:12.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
+		mso-bidi-font-family:Symbol;color:#24292E;mso-fareast-language:#580A'><span
+		style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		</span></span></span><![endif]><span class=GramE><span style='font-size:12.0pt;
+		font-family:"&amp;quot",serif;mso-fareast-font-family:"Times New Roman";
+		mso-bidi-font-family:"Times New Roman";color:#24292E;mso-fareast-language:#580A'>Key
+		:Identificador</span></span><span style='font-size:12.0pt;font-family:"&amp;quot",serif;
+		mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
+		color:#24292E;mso-fareast-language:#580A'> de los nodos<o:p></o:p></span></p>
+
+		<p class=MsoListParagraphCxSpMiddle style='margin-top:3.0pt;mso-margin-bottom-alt:
+		auto;mso-add-space:auto;text-indent:-18.0pt;line-height:normal;mso-list:l2 level1 lfo5'><![if !supportLists]><span
+		style='font-size:12.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
+		mso-bidi-font-family:Symbol;color:#24292E;mso-fareast-language:#580A'><span
+		style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		</span></span></span><![endif]><span style='font-size:12.0pt;font-family:"&amp;quot",serif;
+		mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
+		color:#24292E;mso-fareast-language:#580A'>Nodo: Categórico. Nombre de la región
+		o propietario de una estación de servicio.<o:p></o:p></span></p>
+
+		<p class=MsoListParagraphCxSpLast style='margin-top:3.0pt;mso-margin-bottom-alt:
+		auto;mso-add-space:auto;text-indent:-18.0pt;line-height:normal;mso-list:l2 level1 lfo5'><![if !supportLists]><span
+		style='font-size:12.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
+		mso-bidi-font-family:Symbol;color:#24292E;mso-fareast-language:#580A'><span
+		style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		</span></span></span><![endif]><span class=SpellE><span style='font-size:12.0pt;
+		font-family:"&amp;quot",serif;mso-fareast-font-family:"Times New Roman";
+		mso-bidi-font-family:"Times New Roman";color:#24292E;mso-fareast-language:#580A'>TotalEstaciones</span></span><span
+		style='font-size:12.0pt;font-family:"&amp;quot",serif;mso-fareast-font-family:
+		"Times New Roman";mso-bidi-font-family:"Times New Roman";color:#24292E;
+		mso-fareast-language:#580A'>: Ordenado - cuantitativo – secuencial (Conteo de
+		estaciones por región). <o:p></o:p></span></p>
+
+		<p class=MsoNormal style='margin-top:3.0pt;mso-margin-bottom-alt:auto;
+		line-height:normal'><span style='font-size:12.0pt;font-family:"&amp;quot",serif;
+		mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
+		color:#24292E;mso-fareast-language:#580A'>Para los links (denominados <span
+		class=SpellE>edges</span> en el archivo <span class=SpellE>json</span>):<o:p></o:p></span></p>
+
+		<p class=MsoListParagraphCxSpFirst style='margin-top:3.0pt;mso-margin-bottom-alt:
+		auto;mso-add-space:auto;text-indent:-18.0pt;line-height:normal;mso-list:l3 level1 lfo8'><![if !supportLists]><span
+		style='font-size:12.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
+		mso-bidi-font-family:Symbol;color:#24292E;mso-fareast-language:#580A'><span
+		style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		</span></span></span><![endif]><span class=SpellE><span style='font-size:12.0pt;
+		font-family:"&amp;quot",serif;mso-fareast-font-family:"Times New Roman";
+		mso-bidi-font-family:"Times New Roman";color:#24292E;mso-fareast-language:#580A'>Source</span></span><span
+		style='font-size:12.0pt;font-family:"&amp;quot",serif;mso-fareast-font-family:
+		"Times New Roman";mso-bidi-font-family:"Times New Roman";color:#24292E;
+		mso-fareast-language:#580A'>: Llave del nodo fuente Propietario.<o:p></o:p></span></p>
+
+		<p class=MsoListParagraphCxSpMiddle style='margin-top:3.0pt;mso-margin-bottom-alt:
+		auto;mso-add-space:auto;text-indent:-18.0pt;line-height:normal;mso-list:l3 level1 lfo8'><![if !supportLists]><span
+		style='font-size:12.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
+		mso-bidi-font-family:Symbol;color:#24292E;mso-fareast-language:#580A'><span
+		style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		</span></span></span><![endif]><span style='font-size:12.0pt;font-family:"&amp;quot",serif;
+		mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
+		color:#24292E;mso-fareast-language:#580A'>Target: Llave del nodo destino Región.
+		<o:p></o:p></span></p>
+
+		<p class=MsoListParagraphCxSpLast style='margin-top:3.0pt;mso-margin-bottom-alt:
+		auto;mso-add-space:auto;text-indent:-18.0pt;line-height:normal;mso-list:l2 level1 lfo5'><![if !supportLists]><span
+		style='font-size:12.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
+		mso-bidi-font-family:Symbol;color:#24292E;mso-fareast-language:#580A'><span
+		style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		</span></span></span><![endif]><span style='font-size:12.0pt;font-family:"&amp;quot",serif;
+		mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
+		color:#24292E;mso-fareast-language:#580A'>Estaciones: Ordenado - cuantitativo –
+		secuencial (Conteo de estaciones por propietario). <o:p></o:p></span></p>
+
+		<div style='mso-element:para-border-div;border:none;border-bottom:solid #EAECEF 1.0pt;
+		mso-border-bottom-alt:solid #EAECEF .75pt;padding:0cm 0cm 7.0pt 0cm'>
+
+		<p class=MsoNormal style='margin-top:18.0pt;margin-right:0cm;margin-bottom:
+		12.0pt;margin-left:0cm;line-height:30.0pt;mso-outline-level:1;border:none;
+		mso-border-bottom-alt:solid #EAECEF .75pt;padding:0cm;mso-padding-alt:0cm 0cm 7.0pt 0cm'><b><span
+		style='font-size:24.0pt;font-family:"&amp;quot",serif;mso-fareast-font-family:
+		"Times New Roman";mso-bidi-font-family:"Times New Roman";color:#24292E;
+		mso-font-kerning:18.0pt;mso-fareast-language:#580A'>Abstracción de Tareas (<span
+		class=SpellE>Why</span>)<o:p></o:p></span></b></p>
+
+		</div>
+
+		<p class=MsoNormal style='margin-bottom:12.0pt;line-height:normal'><span
+		style='font-size:12.0pt;font-family:"&amp;quot",serif;mso-fareast-font-family:
+		"Times New Roman";mso-bidi-font-family:"Times New Roman";color:#24292E;
+		mso-fareast-language:#580A'>Tarea Principal<o:p></o:p></span></p>
+
+		<p class=MsoNormal style='margin-bottom:12.0pt;text-align:justify;line-height:
+		normal'><span style='font-size:12.0pt;font-family:"&amp;quot",serif;mso-fareast-font-family:
+		"Times New Roman";mso-bidi-font-family:"Times New Roman";color:#24292E;
+		mso-fareast-language:#580A'>Explorar la topología de la red, encontrando las
+		relaciones entre los nodos: regiones y propietarios y cuáles son los caminos
+		que los <span class=GramE>conectan<span style='mso-spacerun:yes'>  </span>(</span><b
+		style='mso-bidi-font-weight:normal'>Explore – <span class=SpellE>Topology</span></b>).<o:p></o:p></span></p>
+
+		<p class=MsoNormal style='margin-bottom:12.0pt;line-height:normal'><span
+		style='font-size:12.0pt;font-family:"&amp;quot",serif;mso-fareast-font-family:
+		"Times New Roman";mso-bidi-font-family:"Times New Roman";color:#24292E;
+		mso-fareast-language:#580A'>Tareas secundarias:<o:p></o:p></span></p>
+
+		<ol start=1 type=1>
+		 <li class=MsoNormal style='color:#24292E;mso-margin-top-alt:auto;mso-margin-bottom-alt:
+		     auto;text-align:justify;line-height:normal;mso-list:l0 level1 lfo3;
+		     tab-stops:list 36.0pt'><span style='font-size:12.0pt;font-family:"&amp;quot",serif;
+		     mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
+		     mso-fareast-language:#580A'>Localizar los caminos que permiten saber qué
+		     propietarios pertenecen a una región (<span class=SpellE><b
+		     style='mso-bidi-font-weight:normal'>Locate</b></span><b style='mso-bidi-font-weight:
+		     normal'> – <span class=SpellE>Paths</span></b>).<o:p></o:p></span></li>
+		 <li class=MsoNormal style='color:#24292E;mso-margin-top-alt:auto;mso-margin-bottom-alt:
+		     auto;text-align:justify;line-height:normal;mso-list:l0 level1 lfo3;
+		     tab-stops:list 36.0pt'><span style='font-size:12.0pt;font-family:"&amp;quot",serif;
+		     mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
+		     mso-fareast-language:#580A'>Se derivan atributos como el de región para
+		     realizar una mayor agrupación de los propietarios de estaciones, se crea
+		     un id para los nodos y un <span class=SpellE>tiponodo</span> para
+		     identificar si el nodo es “Región” o “Propietario” (<b style='mso-bidi-font-weight:
+		     normal'>Derive – <span class=SpellE>Features</span></b>).<o:p></o:p></span></li>
+		</ol>
+
+		<p class=MsoListParagraph style='margin-bottom:12.0pt;mso-add-space:auto;
+		text-align:justify;text-indent:-18.0pt;line-height:normal;mso-list:l0 level1 lfo3;
+		tab-stops:list 36.0pt'><![if !supportLists]><span style='font-size:12.0pt;
+		font-family:"&amp;quot",serif;mso-fareast-font-family:&amp;quot;mso-bidi-font-family:
+		&amp;quot;color:#24292E;mso-fareast-language:#580A'><span style='mso-list:Ignore'>3.<span
+		style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
+		style='font-size:12.0pt;font-family:"&amp;quot",serif;mso-fareast-font-family:
+		"Times New Roman";mso-bidi-font-family:"Times New Roman";color:#24292E;
+		mso-fareast-language:#580A'>Identificar donde se agrupan la mayoría de los
+		propietarios de estaciones de GNCV de Colombia (<span class=SpellE><b
+		style='mso-bidi-font-weight:normal'>Identify</b></span><b style='mso-bidi-font-weight:
+		normal'> – <span class=SpellE>Clusters</span></b>).<o:p></o:p></span></p>
+
+		<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+		margin-left:36.0pt;text-align:justify;line-height:normal'><span
+		style='font-size:12.0pt;font-family:"&amp;quot",serif;mso-fareast-font-family:
+		"Times New Roman";mso-bidi-font-family:"Times New Roman";color:#24292E;
+		mso-fareast-language:#580A'><o:p>&nbsp;</o:p></span></p>
+
+		<div style='mso-element:para-border-div;border:none;border-bottom:solid #EAECEF 1.0pt;
+		mso-border-bottom-alt:solid #EAECEF .75pt;padding:0cm 0cm 7.0pt 0cm'>
+
+		<p class=MsoNormal style='margin-top:18.0pt;margin-right:0cm;margin-bottom:
+		12.0pt;margin-left:0cm;line-height:30.0pt;mso-outline-level:1;border:none;
+		mso-border-bottom-alt:solid #EAECEF .75pt;padding:0cm;mso-padding-alt:0cm 0cm 7.0pt 0cm'><b><span
+		style='font-size:24.0pt;font-family:"&amp;quot",serif;mso-fareast-font-family:
+		"Times New Roman";mso-bidi-font-family:"Times New Roman";color:#24292E;
+		mso-font-kerning:18.0pt;mso-fareast-language:#580A'>Marcas y Canales (<span
+		class=SpellE>How</span>)<o:p></o:p></span></b></p>
+
+		</div>
+
+		<p class=MsoNormal style='margin-bottom:12.0pt;line-height:normal'><span
+		style='font-size:12.0pt;font-family:"&amp;quot",serif;mso-fareast-font-family:
+		"Times New Roman";mso-bidi-font-family:"Times New Roman";color:#24292E;
+		mso-fareast-language:#580A'>Marcas<o:p></o:p></span></p>
+
+		<p class=MsoListParagraphCxSpFirst style='margin-bottom:12.0pt;mso-add-space:
+		auto;text-align:justify;text-indent:-18.0pt;line-height:normal;mso-list:l4 level1 lfo6'><![if !supportLists]><span
+		style='font-size:12.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
+		mso-bidi-font-family:Symbol;color:#24292E;mso-fareast-language:#580A'><span
+		style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		</span></span></span><![endif]><span style='font-size:12.0pt;font-family:"&amp;quot",serif;
+		mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
+		color:#24292E;mso-fareast-language:#580A'>Líneas que representan la Conexión
+		entre los propietarios de las estaciones de GNCV y las diferentes regiones.<o:p></o:p></span></p>
+
+		<p class=MsoListParagraphCxSpLast style='margin-bottom:12.0pt;mso-add-space:
+		auto;text-align:justify;text-indent:-18.0pt;line-height:normal;mso-list:l4 level1 lfo6'><![if !supportLists]><span
+		style='font-size:12.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
+		mso-bidi-font-family:Symbol;color:#24292E;mso-fareast-language:#580A'><span
+		style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		</span></span></span><![endif]><span style='font-size:12.0pt;font-family:"&amp;quot",serif;
+		mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
+		color:#24292E;mso-fareast-language:#580A'>Puntos que representan los nodos que
+		pueden ser: regiones o propietarios.<o:p></o:p></span></p>
+
+		<p class=MsoNormal style='margin-bottom:12.0pt;line-height:normal'><span
+		style='font-size:12.0pt;font-family:"&amp;quot",serif;mso-fareast-font-family:
+		"Times New Roman";mso-bidi-font-family:"Times New Roman";color:#24292E;
+		mso-fareast-language:#580A'>Canales:<o:p></o:p></span></p>
+
+		<ul type=disc>
+		 <li class=MsoNormal style='color:#24292E;mso-margin-top-alt:auto;mso-margin-bottom-alt:
+		     auto;line-height:normal;mso-list:l6 level1 lfo4;tab-stops:list 36.0pt'><span
+		     style='font-size:12.0pt;font-family:"&amp;quot",serif;mso-fareast-font-family:
+		     "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+		     #580A'>Color <span class=SpellE>hue</span>: para los nodos variable
+		     categórica: región y propietario. <span class=SpellE>Separate</span>, <span
+		     class=SpellE>order</span>.<o:p></o:p></span></li>
+		 <li class=MsoNormal style='color:#24292E;mso-margin-top-alt:auto;mso-margin-bottom-alt:
+		     auto;text-align:justify;line-height:normal;mso-list:l6 level1 lfo4;
+		     tab-stops:list 36.0pt'><span style='font-size:12.0pt;font-family:"&amp;quot",serif;
+		     mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
+		     mso-fareast-language:#580A'>Ancho de la línea que representa la cantidad
+		     de estaciones que tienen un propietario en una región específica.<o:p></o:p></span></li>
+		 <li class=MsoNormal style='color:#24292E;mso-margin-top-alt:auto;mso-margin-bottom-alt:
+		     auto;line-height:normal;mso-list:l6 level1 lfo4;tab-stops:list 36.0pt'><span
+		     style='font-size:12.0pt;font-family:"&amp;quot",serif;mso-fareast-font-family:
+		     "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+		     #580A'>El radio del círculo qué representa el total de estaciones a nivel
+		     nacional de ese propietario.<o:p></o:p></span></li>
+		</ul>
+
+		<div style='mso-element:para-border-div;border:none;border-bottom:solid #EAECEF 1.0pt;
+		mso-border-bottom-alt:solid #EAECEF .75pt;padding:0cm 0cm 7.0pt 0cm'>
+
+		<p class=MsoNormal style='margin-top:18.0pt;margin-right:0cm;margin-bottom:
+		12.0pt;margin-left:0cm;line-height:30.0pt;mso-outline-level:1;border:none;
+		mso-border-bottom-alt:solid #EAECEF .75pt;padding:0cm;mso-padding-alt:0cm 0cm 7.0pt 0cm'><b><span
+		style='font-size:24.0pt;font-family:"&amp;quot",serif;mso-fareast-font-family:
+		"Times New Roman";mso-bidi-font-family:"Times New Roman";color:#24292E;
+		mso-font-kerning:18.0pt;mso-fareast-language:#580A'>Interacciones<o:p></o:p></span></b></p>
+
+		</div>
+
+		<p class=MsoNormal style='margin-bottom:12.0pt;text-align:justify;line-height:
+		normal'><span style='font-size:12.0pt;font-family:"&amp;quot",serif;mso-fareast-font-family:
+		"Times New Roman";mso-bidi-font-family:"Times New Roman";color:#24292E;
+		mso-fareast-language:#580A'>Los nodos de color azul representan las regiones de
+		Colombia: Región Caribe, Región Centro Oriente, Región Centro Sur, Región Eje
+		Cafetero- <span class=SpellE><span class=GramE>Antioquia,Región</span></span>
+		Llano y Región Pacífica, al ubicar el mouse sobre una región se podrán ver
+		todos los propietarios que pertenecen a esa región y el total de propietarios
+		de igual forma al ubicar el mouse en un nodo propietario (nodos anaranjados) se
+		mostraran las regiones en las que tiene estaciones de servicio de GNCV ese
+		propietario.<o:p></o:p></span></p>
+
+		<div style='mso-element:para-border-div;border:none;border-bottom:solid #EAECEF 1.0pt;
+		mso-border-bottom-alt:solid #EAECEF .75pt;padding:0cm 0cm 7.0pt 0cm'>
+
+		<p class=MsoNormal style='margin-top:18.0pt;margin-right:0cm;margin-bottom:
+		12.0pt;margin-left:0cm;line-height:30.0pt;mso-outline-level:1;border:none;
+		mso-border-bottom-alt:solid #EAECEF .75pt;padding:0cm;mso-padding-alt:0cm 0cm 7.0pt 0cm'><span
+		class=SpellE><b><span style='font-size:24.0pt;font-family:"&amp;quot",serif;
+		mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
+		color:#24292E;mso-font-kerning:18.0pt;mso-fareast-language:#580A'>Insights</span></b></span><b><span
+		style='font-size:24.0pt;font-family:"&amp;quot",serif;mso-fareast-font-family:
+		"Times New Roman";mso-bidi-font-family:"Times New Roman";color:#24292E;
+		mso-font-kerning:18.0pt;mso-fareast-language:#580A'><o:p></o:p></span></b></p>
+
+		</div>
+
+		<p class=MsoListParagraphCxSpFirst style='text-align:justify;text-indent:-18.0pt;
+		mso-list:l7 level1 lfo7'><![if !supportLists]><span style='font-size:12.0pt;
+		line-height:107%;font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+		Symbol;color:#24292E;mso-fareast-language:#580A'><span style='mso-list:Ignore'>·<span
+		style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		</span></span></span><![endif]><span style='font-size:12.0pt;line-height:107%;
+		font-family:"&amp;quot",serif;mso-fareast-font-family:"Times New Roman";
+		mso-bidi-font-family:"Times New Roman";color:#24292E;mso-fareast-language:#580A'>Se
+		observa que la mayor agrupación de propietarios de estaciones de GNCV se
+		encuentran en la Región Centro Oriente con 265 estaciones de servicio GNCV y Caribe
+		con 170.<o:p></o:p></span></p>
+
+		<p class=MsoListParagraphCxSpMiddle style='text-align:justify;text-indent:-18.0pt;
+		mso-list:l7 level1 lfo7'><![if !supportLists]><span style='font-size:12.0pt;
+		line-height:107%;font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+		Symbol;color:#24292E;mso-fareast-language:#580A'><span style='mso-list:Ignore'>·<span
+		style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		</span></span></span><![endif]><span style='font-size:12.0pt;line-height:107%;
+		font-family:"&amp;quot",serif;mso-fareast-font-family:"Times New Roman";
+		mso-bidi-font-family:"Times New Roman";color:#24292E;mso-fareast-language:#580A'>Se
+		encuentra que el propietario Organización <span class=SpellE>Terpel</span> S.A
+		con 143 estaciones es el mayor propietario de estaciones con presencia en 5
+		regiones.<o:p></o:p></span></p>
+
+		<p class=MsoListParagraphCxSpMiddle style='text-align:justify;text-indent:-18.0pt;
+		mso-list:l7 level1 lfo7'><![if !supportLists]><span style='font-size:12.0pt;
+		line-height:107%;font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+		Symbol;color:#24292E;mso-fareast-language:#580A'><span style='mso-list:Ignore'>·<span
+		style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		</span></span></span><![endif]><span style='font-size:12.0pt;line-height:107%;
+		font-family:"&amp;quot",serif;mso-fareast-font-family:"Times New Roman";
+		mso-bidi-font-family:"Times New Roman";color:#24292E;mso-fareast-language:#580A'>Las
+		barreras de entrada de competidores en la distribución de GNCV son altas ya que
+		se nota que son pocos los propietarios de estaciones que pueden prestar este
+		servicio en diferentes regiones, característica que resalta en cada región.<o:p></o:p></span></p>
+
+		<p class=MsoListParagraphCxSpLast style='text-align:justify;text-indent:-18.0pt;
+		mso-list:l7 level1 lfo7'><![if !supportLists]><span style='font-size:12.0pt;
+		line-height:107%;font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+		Symbol;color:#24292E;mso-fareast-language:#580A'><span style='mso-list:Ignore'>·<span
+		style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		</span></span></span><![endif]><span style='font-size:12.0pt;line-height:107%;
+		font-family:"&amp;quot",serif;mso-fareast-font-family:"Times New Roman";
+		mso-bidi-font-family:"Times New Roman";color:#24292E;mso-fareast-language:#580A'>El
+		propietario Grandes Superficies de Colombia cuyo objeto social está enfocado en
+		la venta de gran variedad de productos de consumo masivo, es uno de los pocos
+		propietarios de estaciones con cubrimiento en 5 regiones de Colombia: Región
+		Caribe, Región Centro Oriente, Región Centro Sur, Región Eje Cafetero-
+		Antioquia y Región Pacífica.<o:p></o:p></span></p>
+
+	</div>
+</body>
+</html>

@@ -1,0 +1,4757 @@
+{
+"nodes":[
+   {
+      "id": 414,
+      "nodo": "ZENCAR OCCIDENTE SA  JORGE CARRILLO REPRESENTANTE LEGAL",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 413,
+      "nodo": "YESID HERNANDEZ QUINTERO",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 412,
+      "nodo": "YESID GASCA DURAN",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 411,
+      "nodo": "VIRAMO ASOCIADOS",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 410,
+      "nodo": "VICTOR MANUEL MALAGON PINZON",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 409,
+      "nodo": "VICENTE ALFONSO RAMIREZ DUQUE  GAZEL",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 408,
+      "nodo": "VELASQUEZ Y QUIRAMA CIA LTDA  GAZEL",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 407,
+      "nodo": "VANNET SA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 406,
+      "nodo": "UNION TEMPORAL DE COMBUSTIBLES USME",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 405,
+      "nodo": "UNIGAS SAS",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 5
+   },
+   {
+      "id": 404,
+      "nodo": "UNIGAS LTDA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 2
+   },
+   {
+      "id": 403,
+      "nodo": "TRILENIO SA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 402,
+      "nodo": "TRES AM SA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 401,
+      "nodo": "TRASNPORTES GLAMAR LTDA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 400,
+      "nodo": "TRANSPORTES MARTIGONZA  TMG GRUPO EMPRESARIAL",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 399,
+      "nodo": "TRANSAGA SAS",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 398,
+      "nodo": "TOTALGAS SA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 9
+   },
+   {
+      "id": 397,
+      "nodo": "TEXACO",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 396,
+      "nodo": "TERPEL",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 4
+   },
+   {
+      "id": 395,
+      "nodo": "TERCERO  GAZEL",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 8
+   },
+   {
+      "id": 394,
+      "nodo": "TBASCOMEU - EDS ENTRE RIOS",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 393,
+      "nodo": "SUPERGAS RISARALDA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 392,
+      "nodo": "SUPERESTACIONES DE COLOMBIA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 3
+   },
+   {
+      "id": 391,
+      "nodo": "SUMIENERGETICOS",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 390,
+      "nodo": "STANDARD ENERGY COMPANY - SENERGYC",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 4
+   },
+   {
+      "id": 389,
+      "nodo": "SOLUCIONES INTEGRALES DE COMBUSTIBLES SAS",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 388,
+      "nodo": "SODEN LTDA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 387,
+      "nodo": "SOCIEDAD DISTRIBUIDORA DE COMBUSTIBLES SODICOM SA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 386,
+      "nodo": "SIGURGAS",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 385,
+      "nodo": "SIGA OIL SA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 384,
+      "nodo": "SIEG SA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 383,
+      "nodo": "SERVIYARIMA LTDA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 382,
+      "nodo": "SERVITECA LA CEJA - RL LUIS COSME HENAO CORREA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 381,
+      "nodo": "SERVISANTANDER LTDA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 380,
+      "nodo": "SERVINGENIERIA SA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 379,
+      "nodo": "SERVIGAS DEL LLANO SAS",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 378,
+      "nodo": "SERVICIOS GEIJE",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 377,
+      "nodo": "SERVICIOS DE GAS DEL LLANO SAS",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 376,
+      "nodo": "SERVICENTRO LAS FLORES  GAZEL",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 375,
+      "nodo": "SERVICENTRO HERNANDEZ LTDA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 374,
+      "nodo": "SERVICENTRO FERROCARRIL SAS",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 373,
+      "nodo": "SERVICENTRO ESSO PLANETA RICA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 372,
+      "nodo": "SERVICENTRO ESSO LA PRADERA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 371,
+      "nodo": "SERVICENTRO ESSO AVENIDA TERCERA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 370,
+      "nodo": "SERVICENTRO CALIMAR ESSO No 136",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 369,
+      "nodo": "SERVICENTRO AUTOMOTRIZ",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 368,
+      "nodo": "SERGIO ANTONIO RAMIREZ",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 367,
+      "nodo": "SEDETRASN SA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 366,
+      "nodo": "SALOMON SERRANO SUAREZ",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 365,
+      "nodo": "RUGUELO LTDA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 364,
+      "nodo": "ROZO PINZON LILIANA - EDS AUTOMOTRIZ SAN ANTONIO",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 363,
+      "nodo": "ROSA ELENA MADRID ARISTIZABAL",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 362,
+      "nodo": "RODRIGO CARDONA  GAZEL",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 361,
+      "nodo": "RODOLFO GOMEZ QUINTERO  GAZEL",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 360,
+      "nodo": "RIZO ENERGY Y CIA LTDA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 359,
+      "nodo": "RICARDO MARTINEZ ERAZO  ESTACION DE SERVICIO LAS CEIBAS CALI  EU  GAZEL",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 6,
+      "nodo": "Región Pacífico",
+      "tiponodo": "Departamento",
+      "TOTALESTACIONES": 137
+   },
+   {
+      "id": 5,
+      "nodo": "Región Llano",
+      "tiponodo": "Departamento",
+      "TOTALESTACIONES": 39
+   },
+   {
+      "id": 1,
+      "nodo": "Región Eje Cafetero - Antioquia",
+      "tiponodo": "Departamento",
+      "TOTALESTACIONES": 143
+   },
+   {
+      "id": 4,
+      "nodo": "Región Centro Sur",
+      "tiponodo": "Departamento",
+      "TOTALESTACIONES": 49
+   },
+   {
+      "id": 2,
+      "nodo": "Región Centro Oriente",
+      "tiponodo": "Departamento",
+      "TOTALESTACIONES": 265
+   },
+   {
+      "id": 3,
+      "nodo": "Región Caribe",
+      "tiponodo": "Departamento",
+      "TOTALESTACIONES": 170
+   },
+   {
+      "id": 358,
+      "nodo": "RAMIRO PERDOMO Y CIA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 357,
+      "nodo": "RAMIRO PERDOMO E Y CIA SAS",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 356,
+      "nodo": "RAMIREZ ARISTIZABAL Y CIA LTDA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 355,
+      "nodo": "PUNTO VERDE CAQUETA SAS",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 354,
+      "nodo": "PUNTO GAS",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 5
+   },
+   {
+      "id": 353,
+      "nodo": "PROMOTORES Y OPERADORES SA  GAZEL",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 352,
+      "nodo": "PROCOLGAS GNV SA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 3
+   },
+   {
+      "id": 351,
+      "nodo": "PRIMER TAX SA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 350,
+      "nodo": "PLUS OIL SA  JORGE HERNAN MEDINA O  REPRESENTANTE LEGAL",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 349,
+      "nodo": "PLINIO ARIAS JIMENEZ",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 348,
+      "nodo": "PLEXA SAS ESP",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 7
+   },
+   {
+      "id": 347,
+      "nodo": "PETROLMIL",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 346,
+      "nodo": "PEDRO JOSE SANINT ARMEL",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 345,
+      "nodo": "PARDO BOTERO Y CIA LTDA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 344,
+      "nodo": "OTEDS SA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 4
+   },
+   {
+      "id": 343,
+      "nodo": "ORGANZIACION TERPEL",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 342,
+      "nodo": "ORGANIZACION TERPEL SA  - OPESE",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 340,
+      "nodo": "ORGANIZACION TERPEL SA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 141
+   },
+   {
+      "id": 341,
+      "nodo": "ORGANIZACION TERPEL SA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 339,
+      "nodo": "OPESE",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 2
+   },
+   {
+      "id": 338,
+      "nodo": "OPERADORES TECNICOS DE ESTACIONES DE SERVICIO OTEDS SA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 337,
+      "nodo": "OPERADORES DE ESTACIONES DE SERVICIO LTDA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 336,
+      "nodo": "OPERACIONES Y SERVICIOS DE COMBUSTIBLES SAS-OPESE SAS",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 2
+   },
+   {
+      "id": 335,
+      "nodo": "OMEGAS LTDA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 334,
+      "nodo": "OMAR ARISTIZABAL  GAZEL",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 2
+   },
+   {
+      "id": 333,
+      "nodo": "NORMAN GRAJALES VALENCIA- VELASQUEZ ASOCIADOS CIA LTDA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 332,
+      "nodo": "NESTOR GONZALEZ  GAZEL",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 331,
+      "nodo": "MULTISERVICIOS PANAMERICANA  SA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 330,
+      "nodo": "MULTICENTRO DE SERVICIOS AA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 329,
+      "nodo": "MOVILGAS LTDA - GERARDO JAVIER ALVARADO CUBILLOS",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 328,
+      "nodo": "MOVILGAS LTDA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 15
+   },
+   {
+      "id": 327,
+      "nodo": "MOBIL GAS LTDA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 326,
+      "nodo": "METROPOLITANA DE COMBUSTIBLE LTDA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 325,
+      "nodo": "METROPOLITA DE COMBUSTIBLE LTDA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 324,
+      "nodo": "MEGAGAS SAS",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 323,
+      "nodo": "MAURICIO FALLA TELLO  GAZEL",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 322,
+      "nodo": "MASGAS SA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 3
+   },
+   {
+      "id": 321,
+      "nodo": "MARTINEZ LTDA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 320,
+      "nodo": "MARTIN ALONSO TAVERA RODRIGUEZ",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 319,
+      "nodo": "MARTIGO SAS",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 318,
+      "nodo": "MARIO AGRESSOT  GAZEL",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 317,
+      "nodo": "MARiA ARNEDIS LOAIZA MARTINEZ",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 316,
+      "nodo": "MARCO ANTONIO LONDONO SIERRA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 315,
+      "nodo": "MANTILLA Y ROJAS SAS",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 314,
+      "nodo": "MAGIOTA LTDA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 313,
+      "nodo": "MADIGAS HIDROCARBUROS SA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 5
+   },
+   {
+      "id": 312,
+      "nodo": "M JUAN MARTIN LTDA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 311,
+      "nodo": "LUIS VICENTE GUTIERRES GUIZA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 310,
+      "nodo": "LUIS MIGUEL BELLO  CREDI TRANSPORTES SA  GAZEL",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 309,
+      "nodo": "LUIS GAVIRIA  GAZEL",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 2
+   },
+   {
+      "id": 308,
+      "nodo": "LUIS FERNANDO MARIN  GAZEL",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 307,
+      "nodo": "LUIS FERNANDO GRAJALES RUIZ  GAZEL",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 306,
+      "nodo": "LUIS CARLOS HORMAZA  GAZEL",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 305,
+      "nodo": "LUCIA GIANNUZZI  GAZEL",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 304,
+      "nodo": "LUBRICO Y CIA LTDA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 303,
+      "nodo": "LUBRICANTES Y COMBUSTIBLES DEL ORIENTE LTDA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 302,
+      "nodo": "LOS MANGOS SA GASES Y COMBUSTIBLES",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 2
+   },
+   {
+      "id": 301,
+      "nodo": "LLANOGAS SA ESP ANTERIORMENTE PROPIEDAD DE COMGASCO SA ESP",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 300,
+      "nodo": "LEONARDO JACOBO  GAZEL",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 299,
+      "nodo": "LARRANAGA Y BOLANOS LTDA  GAZEL",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 298,
+      "nodo": "JYP LTDA  JUAN GUILLERMO SANCHEZ OCAMPO  GAZEL",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 297,
+      "nodo": "JULIO MORALES  T Y CIA LTDA  GAZEL",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 2
+   },
+   {
+      "id": 296,
+      "nodo": "JULIO GAVIRIA REPRESENTANTE LEGAL",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 295,
+      "nodo": "JULIO CESAR CARDONA  GAZEL",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 294,
+      "nodo": "JUANA RAQUEL ROSERO ZAMBRANO  GAZEL",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 293,
+      "nodo": "JUAN MARTIN LTDA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 292,
+      "nodo": "JOSE HJ RIZO DELGADO",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 291,
+      "nodo": "JOSE FERNANDO BOTERO SANCHEZ",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 290,
+      "nodo": "JOSE FABIO PORTILLA MENESES",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 289,
+      "nodo": "JOSE CAMILO MANZUR  GAZEL",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 288,
+      "nodo": "JORGE SANDOVAL BARRERA  GAZEL",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 287,
+      "nodo": "JORGE RICARDO NAVIA KLEMPERER  GAZEL",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 286,
+      "nodo": "JORGE LUIS GOMEZ  COOP TRANSPORTADORES DE PALMIRA  GAZEL",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 285,
+      "nodo": "JINZA SA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 284,
+      "nodo": "JIMENEZ Y MORALES INVERSIONES LTDA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 283,
+      "nodo": "JESUS AUGUSTO VIDALES D  GAZEL",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 282,
+      "nodo": "JEMAY ALCIOME PARRA MOYANO  GAZEL",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 281,
+      "nodo": "JAVIER GARCIA MAYA  GAZEL",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 280,
+      "nodo": "JAVIER E SANCHEZ S",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 2
+   },
+   {
+      "id": 279,
+      "nodo": "JANETT ZUNIGA DIAZ  GAZEL",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 278,
+      "nodo": "JAIRO GOMEZ",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 277,
+      "nodo": "JAIRO AUGUSTO QUIJANO CARRILLO",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 276,
+      "nodo": "JAIRO ARMANDO LOVERA CAMPOS",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 275,
+      "nodo": "JAIRO ANTONIO GOMEZ FONTALVO",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 274,
+      "nodo": "JADER ALVAREZ GOMEZ",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 273,
+      "nodo": "JACINTO TORRES ARIAS",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 272,
+      "nodo": "INVERSIONES Y SERVICIOS NEAM",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 271,
+      "nodo": "INVERSIONES Y COMBUSTIBLES LA MARIA S EN C",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 270,
+      "nodo": "INVERSIONES VALENCIA RODRIGUEZ Y CIA LTDA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 269,
+      "nodo": "INVERSIONES SUTAGAO SA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 268,
+      "nodo": "INVERSIONES SILVERADO SAS",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 267,
+      "nodo": "INVERSIONES RENGIFO ROJAS Y CIA LTDA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 266,
+      "nodo": "INVERSIONES QUIROGA Y CIA LTDA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 265,
+      "nodo": "INVERSIONES PARMALAT",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 264,
+      "nodo": "INVERSIONES OIL GAS SAS",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 263,
+      "nodo": "INVERSIONES MANGA LTDA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 258,
+      "nodo": "INVERSIONES LA 27 SA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 262,
+      "nodo": "INVERSIONES LA PONDEROSA SA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 261,
+      "nodo": "INVERSIONES LA MILAGROSA SA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 260,
+      "nodo": "INVERSIONES LA GLORIETA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 259,
+      "nodo": "INVERSIONES LA BARONESA Y CIA S EN C",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 257,
+      "nodo": "INVERSIONES HERMANOS COLL SAS",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 256,
+      "nodo": "INVERSIONES GOMEZ MONTANEZ LTDA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 255,
+      "nodo": "INVERSIONES FLORENCIA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 254,
+      "nodo": "INVERSIONES FESTIVAL SA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 253,
+      "nodo": "INVERSIONES EN COMBUSTIBLES Y TRANSPORTES SAS ICOTRANS",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 252,
+      "nodo": "INVERSIONES EL MOCHUELO SA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 251,
+      "nodo": "INVERSIONES EL CAMINO",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 250,
+      "nodo": "INVERSIONES CRIVASI",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 249,
+      "nodo": "INVERSIONES COOPROCONAL SAS",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 248,
+      "nodo": "INVERSIONES COMBGAS SA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 247,
+      "nodo": "INVERSIONES CARRENO GUTIERREZ LTDA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 246,
+      "nodo": "INVERSIONES CALO SA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 245,
+      "nodo": "INVERSIONES BARRAGAN OSPINA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 244,
+      "nodo": "INVERSIONES AVANADE Y CIA SAS - RL CARLOS ALONSO HENAO G",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 243,
+      "nodo": "INVERSIONES ALTOVERO",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 242,
+      "nodo": "INVERSIONES ALDEMAR S EN C",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 241,
+      "nodo": "INSETRANSA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 240,
+      "nodo": "INGO CONSTRUCTORES",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 239,
+      "nodo": "INCOMSA SA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 238,
+      "nodo": "IMPORTACIONES DOBERMAN LTDA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 2
+   },
+   {
+      "id": 237,
+      "nodo": "IMPORGAS SA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 3
+   },
+   {
+      "id": 236,
+      "nodo": "IBAGASES SAS",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 235,
+      "nodo": "HUGO ALBERTO RIVEROS RESTREPO",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 234,
+      "nodo": "HERNANDO ARANGO VISBAL",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 233,
+      "nodo": "HERNANDEZ DE VASQUEZ ORFILIA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 232,
+      "nodo": "HERNAN RODRIGUEZ CHAVEZ  GAZEL",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 2
+   },
+   {
+      "id": 231,
+      "nodo": "HERNAN JESUS LOAIZA ACEVEDO",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 230,
+      "nodo": "HERMANOS SAAVEDRA LTDA  GAZEL",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 229,
+      "nodo": "HELY MARTINEZ RODRIGUEZ",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 228,
+      "nodo": "HELENA REYES MONSALVE",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 227,
+      "nodo": "HECTOR JOSE DE VIVERO PEREZ",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 226,
+      "nodo": "GUSTAVO SALGADO  GAZEL",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 225,
+      "nodo": "GUSTAVO CHAIN  GAZEL",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 224,
+      "nodo": "GRUPO LOMA LTDA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 223,
+      "nodo": "GRUPO G5 SA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 222,
+      "nodo": "GRUPO EDS AUTOGAS SAS",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 221,
+      "nodo": "GRUPO DE EMPRESARIOS DE COMBUSTIBLES SA GREPACOL SA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 220,
+      "nodo": "GRUPO AUTOMOTRIZ EDS AUTOGAS SAS",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 219,
+      "nodo": "GRANDES SUPERFICIES DE COLOMBIA SA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 16
+   },
+   {
+      "id": 218,
+      "nodo": "GNV SAN BUENAVENTURA BELLO SA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 217,
+      "nodo": "GNV CONSORCIO GRUPO DE NEGOCIOS VARIOS",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 216,
+      "nodo": "GNV COLIBRI SA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 215,
+      "nodo": "GNE SOLUCIONES SAS",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 5
+   },
+   {
+      "id": 214,
+      "nodo": "GLORIA PALACIOS  GAZEL",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 213,
+      "nodo": "GISENCO SAS",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 212,
+      "nodo": "GERMAN RODRIGUEZ  GAZEL",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 211,
+      "nodo": "GERMAN ALONSO OSPINA CARDONA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 210,
+      "nodo": "GERARDO JAVIER ALVARADO CUBILLOS",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 209,
+      "nodo": "GAZEL",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 3
+   },
+   {
+      "id": 208,
+      "nodo": "GASV SA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 9
+   },
+   {
+      "id": 207,
+      "nodo": "GASTRONG",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 206,
+      "nodo": "GASPETROIL SA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 2
+   },
+   {
+      "id": 205,
+      "nodo": "GASORIENTE",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 4
+   },
+   {
+      "id": 204,
+      "nodo": "GASOLINERiA DEL CARIBE LTDA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 203,
+      "nodo": "GASMOVIL LTDA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 202,
+      "nodo": "GASES Y LIQUIDOS LTDA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 2
+   },
+   {
+      "id": 201,
+      "nodo": "GASES Y COMBUSTIBLES MERCOVIL LTDA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 200,
+      "nodo": "GASES Y COMBUSTIBLES DEL CARIBE LTDA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 199,
+      "nodo": "GASES JEMA Y O SA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 198,
+      "nodo": "GASES DEL CUSIANA - CUSIANAGAS SA ESP",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 2
+   },
+   {
+      "id": 197,
+      "nodo": "GASES DE OCCIDENTES SA EMPRESA DE SERVICIOS PUBLICOS",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 196,
+      "nodo": "GAS Y COMBUSTIBLE VEHICULAR",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 195,
+      "nodo": "GAS VEHICULAR DE COLOMBIA SA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 194,
+      "nodo": "GAS VEHICULAR COMPRIMIDO DE COLOMBIA SA  MILLER POMAR GARCIA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 193,
+      "nodo": "GAS NATURAL VEHICULAR SAN BUENAVENTURA S A S",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 2
+   },
+   {
+      "id": 192,
+      "nodo": "GAS NATURAL VEHICULAR",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 191,
+      "nodo": "GAS NATURAL SA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 3
+   },
+   {
+      "id": 190,
+      "nodo": "GAS NATURAL FENOSA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 47
+   },
+   {
+      "id": 189,
+      "nodo": "GAS NATURAL DEL ARIARI SA ESP",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 188,
+      "nodo": "GAS NATURAL DE PEREIRA SA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 187,
+      "nodo": "GAS NATURAL COMPRIMIDO SA O GNC SA O GAZEL",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 8
+   },
+   {
+      "id": 186,
+      "nodo": "GAS NATURAL COMPRIMIDO S A  O GNC S A  O GAZEL",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 2
+   },
+   {
+      "id": 185,
+      "nodo": "GAS NATURAL COMPRIMIDO DE COLOMBIA SA ESP",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 5
+   },
+   {
+      "id": 184,
+      "nodo": "GAS NATURAL ANDINO SA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 2
+   },
+   {
+      "id": 183,
+      "nodo": "GAS MASIVO VEHICULAR LTDA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 182,
+      "nodo": "GAS COMPRIMIDO DE COLOMBIA SA ESP",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 181,
+      "nodo": "GAS COMPRIMIDO DE COLOMBIA GCC",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 180,
+      "nodo": "GAS CENTRAL DE LA SABANA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 179,
+      "nodo": "GAS CAUJARAL - GUSTAVO RINCON",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 178,
+      "nodo": "GANMEGAN SA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 177,
+      "nodo": "GAETANO SCOLLO  GAZEL",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 2
+   },
+   {
+      "id": 176,
+      "nodo": "GABRIEL OSORNO GIL  GAZEL",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 175,
+      "nodo": "GABRIEL DIAGO  GAZEL",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 174,
+      "nodo": "FRANCISCO PUCHINI",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 173,
+      "nodo": "FORERO FERNANDEZ JOSE DARiO",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 172,
+      "nodo": "FLORIAN POLANIA ROJAS  GAZEL",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 2
+   },
+   {
+      "id": 171,
+      "nodo": "FERNANDO RAMIREZ GONZALEZ  GAZEL",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 170,
+      "nodo": "FERNANDO JIMENEZ GARCIA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 169,
+      "nodo": "FERNANDO BERNAL NINO  GAZEL",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 168,
+      "nodo": "EXXON MOBIL COLOMBIA - AUTOMARKET LIMIT",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 18
+   },
+   {
+      "id": 167,
+      "nodo": "ESTANDAR ENERGY COMPANY SA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 2
+   },
+   {
+      "id": 166,
+      "nodo": "ESTACIONES DE SERVICIO MONTECARLOS LTDA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 165,
+      "nodo": "ESTACION PLAN PAREJO TURBACO SA  GAZEL",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 164,
+      "nodo": "ESTACION LOS LAGARTOS",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 163,
+      "nodo": "ESTACION DE SERVICIO ZONA FRANCA LTDA  GAZEL",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 162,
+      "nodo": "ESTACION DE SERVICIO TODOGAS",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 161,
+      "nodo": "ESTACION DE SERVICIO SERVICENTRO BARRANQUILLA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 160,
+      "nodo": "ESTACION DE SERVICIO MAZ AUTOS LTDA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 159,
+      "nodo": "ESTACION DE SERVICIO MARIA LUISA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 158,
+      "nodo": "ESTACION DE SERVICIO LA REYNA LTDA  DARIO VILLALOBOS  GAZEL",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 157,
+      "nodo": "ESTACION DE SERVICIO LA METRO SA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 156,
+      "nodo": "ESTACION DE SERVICIO LA GRAN MANZANA LTDA  ORLANDO RESTREPO VASQUES",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 155,
+      "nodo": "ESTACION DE SERVICIO HEROES DE ORIENTE SAS",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 154,
+      "nodo": "ESTACION DE SERVICIO GNV MI ISLA SAS",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 153,
+      "nodo": "ESTACION DE SERVICIO EXPOSICIONES SA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 152,
+      "nodo": "ESTACION DE SERVICIO EDS LA 20 GNV",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 151,
+      "nodo": "ESTACION DE SERVICIO BOLiVAR TERPEL",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 150,
+      "nodo": "ESTACION DE SERVICIO AVENIDA DEL RIO TEXACO",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 149,
+      "nodo": "ESTACION DE SERVICIO AVENIDA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 148,
+      "nodo": "ESTACION DE SERVICIO A GAS LAS FLORES Y JAVIER LEYVA GONZALEZ",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 147,
+      "nodo": "ESSAMA EU",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 146,
+      "nodo": "EPM",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 7
+   },
+   {
+      "id": 145,
+      "nodo": "ENERGiA DEL GAS SAS",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 2
+   },
+   {
+      "id": 144,
+      "nodo": "ENERGIA DE GAS SAS",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 143,
+      "nodo": "ENERCA SA ESP",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 142,
+      "nodo": "EMPRESA DE TRANSPORTES LEBRIJA LTDA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 141,
+      "nodo": "EMPRESA ADMINISTRADORA DE SERVICIOS",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 140,
+      "nodo": "EL SOL OIL SA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 139,
+      "nodo": "E-GAS SAS",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 138,
+      "nodo": "EDUARDO GOMEZ FONTALVO",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 137,
+      "nodo": "EDUARDO BELLINI  BELAYA SA  GAZEL",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 136,
+      "nodo": "EDS ZEUSS LAS BRISAS",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 135,
+      "nodo": "EDS VIRGEN DEL CARMEN",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 134,
+      "nodo": "EDS TOTAL ENERGY SAS - CARLA LILIAN VILLA MONTOYA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 133,
+      "nodo": "EDS TEXACO SU JARDIN",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 132,
+      "nodo": "EDS TEXACO No 12  JOSE MANTILLA PUENTE BOLIVAR SAS",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 131,
+      "nodo": "EDS TEXACO ESTELLA DEL SUR",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 130,
+      "nodo": "EDS SUPERAUTOCENTRO MOBIL EL LIDO SAS",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 129,
+      "nodo": "EDS SAN ANTONIO",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 128,
+      "nodo": "EDS REAL DE MINAS",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 127,
+      "nodo": "EDS PENAS DEL RIO",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 126,
+      "nodo": "EDS MONARCA GNV",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 125,
+      "nodo": "EDS MARBELLA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 124,
+      "nodo": "EDS LOS SAUCES",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 123,
+      "nodo": "EDS LOS NARANJOS",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 122,
+      "nodo": "EDS LOS ANGELES",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 121,
+      "nodo": "EDS LLANOGAS",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 120,
+      "nodo": "EDS LAS BRISAS",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 119,
+      "nodo": "EDS LA RIVIERA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 118,
+      "nodo": "EDS GASLLANOCOL",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 117,
+      "nodo": "EDS EL TERMINAL",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 116,
+      "nodo": "EDS EL SAMAN",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 115,
+      "nodo": "EDS EL MILAGROSO SA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 114,
+      "nodo": "EDS COLISEO SA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 113,
+      "nodo": "EDS CALLE 22",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 112,
+      "nodo": "EDS AUTOMOTRIZ ATLANTICO",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 111,
+      "nodo": "ECOSPETROLEO",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 110,
+      "nodo": "ECOLOGICA CONSTRUCCIONES",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 109,
+      "nodo": "ECHEVERRI OSSA-CIA DISTRIECHE S EN C  GAZEL",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 108,
+      "nodo": "E - GAS",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 107,
+      "nodo": "DUVEL SA  GAZEL",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 106,
+      "nodo": "DUARTECNICOS SAS",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 105,
+      "nodo": "DUAL COMPANY SA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 104,
+      "nodo": "DRUMMOND LTDA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 103,
+      "nodo": "DOMINGO GERMAN BULA SOLANO  GAZEL",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 102,
+      "nodo": "DOBLE 1 SAS NIT 900521998-5",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 101,
+      "nodo": "DISTRIMETANO DE COLOMBIA LTDA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 7
+   },
+   {
+      "id": 100,
+      "nodo": "DISTRILUB LTDA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 2
+   },
+   {
+      "id": 99,
+      "nodo": "DISTRIBUIDORES DE COMBUSTIBLES LOS ANGELES",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 92,
+      "nodo": "DISTRIBUIDORA \"EL VIADUCTO\"",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 98,
+      "nodo": "DISTRIBUIDORA DE GNV LOS PITS LTDA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 97,
+      "nodo": "DISTRIBUIDORA DE COMBUSTIBLES SALCEDO HNOS LTDA  GAZEL",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 96,
+      "nodo": "DISTRIBUIDORA DE COMBUSTIBLES SA - DISCCO",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 95,
+      "nodo": "DISTRIBUIDORA DE COMBUSTIBLES LOS ANGELES SA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 94,
+      "nodo": "DISTRIBUIDORA DE CARBURANTES LTDA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 93,
+      "nodo": "DISTRIBUIDORA COLOMBIANA DE COMBUSTIBLES  SAS -DISCCO SAS",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 91,
+      "nodo": "DISTRIBUCOM LTDA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 90,
+      "nodo": "DISTRIBUCIONES HERNANDEZ GOMEZ LTDA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 89,
+      "nodo": "DISTRACOM SA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 11
+   },
+   {
+      "id": 88,
+      "nodo": "DISENERCOM SA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 87,
+      "nodo": "DISCOMBUSTIBLES LIMITADA -  DISCOM LTDA  GAZEL",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 86,
+      "nodo": "DISCARBURANTES LTDA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 85,
+      "nodo": "DINAGAS",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 84,
+      "nodo": "DIHEGO LTDA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 83,
+      "nodo": "DIEGO ALONSO GOMEZ GALINDO",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 82,
+      "nodo": "DIALOGAR SA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 2
+   },
+   {
+      "id": 81,
+      "nodo": "DAMPA SA GRUPO EMPRESARIAL",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 80,
+      "nodo": "CURE CARRILLO S EN C S - RL MONICA PATRICIA CARRILLO FRAGOSO",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 79,
+      "nodo": "CRUZ DE MAYO LTDA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 78,
+      "nodo": "CORALGAS LTDA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 77,
+      "nodo": "COPEC Y CIA LTDA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 76,
+      "nodo": "COMPRESSED NATURAL GAS COLOMBIA SA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 3
+   },
+   {
+      "id": 75,
+      "nodo": "COMPANiA DE NEGOCIOS INTERNACIONALES EU",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 74,
+      "nodo": "COMGASCO SA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 12
+   },
+   {
+      "id": 73,
+      "nodo": "COMERCIALIZADORA PIE DE LA POPA SA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 72,
+      "nodo": "COMERCIALIZADORA INTERNACIONAL ARCAS SAS",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 71,
+      "nodo": "COMERCIALIZADORA HENAYGO SA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 70,
+      "nodo": "COMERCIALIZADORA DE COMBUSTIBLES LA ESTRELLA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 69,
+      "nodo": "COMERCIALIZADORA DE BIENES Y SERVICIOS SA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 68,
+      "nodo": "COMBUSTIBLES Y SERVICIOS",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 67,
+      "nodo": "COMBUSTIBLES Y GASES DE COLOMBIA SA - COMGASCOL",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 3
+   },
+   {
+      "id": 66,
+      "nodo": "COMBUSTIBLES VEHICULARES DE COLOMBIA SA - GASVEHICOL SA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 9
+   },
+   {
+      "id": 65,
+      "nodo": "COMBUSTIBLES UNION GOMEZ SAS",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 64,
+      "nodo": "COMBUSTIBLES UNIGAS SAS",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 4
+   },
+   {
+      "id": 63,
+      "nodo": "COMBUSTIBLES UNIDOS SA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 62,
+      "nodo": "COMBUSTIBLES SAN MARTIN SA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 61,
+      "nodo": "COMBUSTIBLES LISER",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 60,
+      "nodo": "COMBUSTIBLES LEON SAS",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 59,
+      "nodo": "COMBUSTIBLES EL RANCHO BARANOA SAS",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 58,
+      "nodo": "COMBUSTIBLES DEL CAFE",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 57,
+      "nodo": "COMBUSTIBLES DE COLOMBIA SA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 4
+   },
+   {
+      "id": 56,
+      "nodo": "COMBUSTIBLES CAPITAL SAS",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 55,
+      "nodo": "COMBUSTIBLES CAPITAL",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 54,
+      "nodo": "COMBUSTIBLES BARBOSA LTDA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 53,
+      "nodo": "COMBUSTIBLES ALIADOS LTDA COMBAL",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 52,
+      "nodo": "COLTRANS Y CO LTDA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 51,
+      "nodo": "COLOMBIANA DE HIDROCARBUROS",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 2
+   },
+   {
+      "id": 50,
+      "nodo": "COLOMBIANA DE GAS VEHICULAR  COVEGAS SA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 4
+   },
+   {
+      "id": 49,
+      "nodo": "COLIGAS SA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 48,
+      "nodo": "COEXITO SAS",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 47,
+      "nodo": "CMMSA COMBUSTIBLES Y GASES DEL MAGDALENA SA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 46,
+      "nodo": "CERVECERiA UNION SA - RL JAVIER MARIN MONTEALEGRE",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 45,
+      "nodo": "CERVECERIA DEL VALLE SA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 44,
+      "nodo": "CENTROABASTOS",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 43,
+      "nodo": "CENCOSUD",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 42,
+      "nodo": "CASAMOTOR SA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 3
+   },
+   {
+      "id": 41,
+      "nodo": "CARMILE INVERSIONES LOPEZ Y CIA SCA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 40,
+      "nodo": "CARLOS ROMERO DUENAS  GAZEL",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 39,
+      "nodo": "CARLOS QUIROZ GARCIA EU",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 38,
+      "nodo": "CARLOS MARIO RIOS MAZO",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 37,
+      "nodo": "CARLOS ALBERTO BARRAGAN  GAZEL",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 36,
+      "nodo": "BYG LTDA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 35,
+      "nodo": "BRIOGAS SA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 34,
+      "nodo": "BRIO DE COLOMBOA - BIOMAX",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 2
+   },
+   {
+      "id": 33,
+      "nodo": "BRIO - LEMUZ BENITEZ Y CIA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 32,
+      "nodo": "BISERTA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 31,
+      "nodo": "BIBIANA ROCIO GOMEZ JARAMILLO",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 30,
+      "nodo": "BAVARIA SA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 4
+   },
+   {
+      "id": 29,
+      "nodo": "AZUL SA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 28,
+      "nodo": "AYN COMBUSTIBLES CIA LTDA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 27,
+      "nodo": "AUTOSERVICIO LA PORTADA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 26,
+      "nodo": "AUTOJOL SAS - RL JORGE CASTRO",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 25,
+      "nodo": "AUTOGAS DE COLOMBIA BREASCOL SA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 3
+   },
+   {
+      "id": 24,
+      "nodo": "AUTOCENTRO MOBIL LA CORDIALIDAD - RL ELVIRA PATRICIA HENRIQUEZ ALVAREZ",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 23,
+      "nodo": "AUTOCENTRO CAPRI LTDA  GUILLERMO FRANCO  GAZEL",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 22,
+      "nodo": "ASTRID ROCIO BLANCO E HIJOS SOCIEDAD LTDA  GAZEL",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 21,
+      "nodo": "ARTURO ACERO FRANCO  GAZEL",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 20,
+      "nodo": "ARCAS TRADING SAS",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 3
+   },
+   {
+      "id": 19,
+      "nodo": "ANIBAL BALADI GEDEON  GAZEL",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 18,
+      "nodo": "AMIGAS SA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 17,
+      "nodo": "ALONSO DE JESUS AGUIRRE CARVAJAL   GAZEL",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 16,
+      "nodo": "ALFA COMPRESION SA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 15,
+      "nodo": "ALBERTO TAMARA OLMOS  DISTRIBUIDORA DE COMBUSTIBLES LA MACARENA  GAZEL",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 3
+   },
+   {
+      "id": 14,
+      "nodo": "ALBERTO CASTILLO Y CIA LTDA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 13,
+      "nodo": "ADRIANA CONCHA MENDOZA",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 12,
+      "nodo": "ADOLFO ENRIQUE GARCIA DELGADO",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   },
+   {
+      "id": 11,
+      "nodo": "ABA CENTRAL DE COMBUSTIBLES Y LUBRICANTES CIA SEN C",
+      "tiponodo": "Propietario",
+      "TOTALESTACIONES": 1
+   }
+],
+    "edges":[
+    {
+   "source": 1,
+   "target": 186,
+   "ESTACIONES": 2
+ },
+ {
+   "source": 1,
+   "target": 368,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 1,
+   "target": 302,
+   "ESTACIONES": 2
+ },
+ {
+   "source": 1,
+   "target": 378,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 1,
+   "target": 402,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 1,
+   "target": 133,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 1,
+   "target": 382,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 1,
+   "target": 222,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 179,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 204,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 74,
+   "ESTACIONES": 2
+ },
+ {
+   "source": 3,
+   "target": 63,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 376,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 365,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 296,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 372,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 108,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 275,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 73,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 215,
+   "ESTACIONES": 5
+ },
+ {
+   "source": 5,
+   "target": 121,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 87,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 387,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 373,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 405,
+   "ESTACIONES": 4
+ },
+ {
+   "source": 2,
+   "target": 253,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 77,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 91,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 398,
+   "ESTACIONES": 2
+ },
+ {
+   "source": 2,
+   "target": 237,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 277,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 139,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 89,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 4,
+   "target": 366,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 47,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 20,
+   "ESTACIONES": 2
+ },
+ {
+   "source": 5,
+   "target": 301,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 5,
+   "target": 208,
+   "ESTACIONES": 2
+ },
+ {
+   "source": 5,
+   "target": 101,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 5,
+   "target": 379,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 1,
+   "target": 50,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 1,
+   "target": 282,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 1,
+   "target": 231,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 1,
+   "target": 109,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 1,
+   "target": 162,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 369,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 151,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 110,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 4,
+   "target": 67,
+   "ESTACIONES": 2
+ },
+ {
+   "source": 6,
+   "target": 174,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 6,
+   "target": 356,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 6,
+   "target": 261,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 6,
+   "target": 280,
+   "ESTACIONES": 2
+ },
+ {
+   "source": 6,
+   "target": 67,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 6,
+   "target": 116,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 1,
+   "target": 255,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 1,
+   "target": 411,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 1,
+   "target": 89,
+   "ESTACIONES": 4
+ },
+ {
+   "source": 1,
+   "target": 183,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 1,
+   "target": 246,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 399,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 185,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 354,
+   "ESTACIONES": 5
+ },
+ {
+   "source": 3,
+   "target": 175,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 209,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 22,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 338,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 89,
+   "ESTACIONES": 5
+ },
+ {
+   "source": 3,
+   "target": 65,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 259,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 319,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 129,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 1,
+   "target": 101,
+   "ESTACIONES": 5
+ },
+ {
+   "source": 1,
+   "target": 150,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 1,
+   "target": 170,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 4,
+   "target": 327,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 5,
+   "target": 143,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 5,
+   "target": 198,
+   "ESTACIONES": 2
+ },
+ {
+   "source": 2,
+   "target": 40,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 184,
+   "ESTACIONES": 2
+ },
+ {
+   "source": 2,
+   "target": 86,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 388,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 88,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 81,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 180,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 94,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 219,
+   "ESTACIONES": 6
+ },
+ {
+   "source": 2,
+   "target": 362,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 279,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 312,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 13,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 269,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 268,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 4,
+   "target": 396,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 4,
+   "target": 322,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 350,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 5,
+   "target": 328,
+   "ESTACIONES": 6
+ },
+ {
+   "source": 5,
+   "target": 189,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 1,
+   "target": 181,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 1,
+   "target": 171,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 1,
+   "target": 351,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 385,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 128,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 192,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 120,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 4,
+   "target": 74,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 4,
+   "target": 127,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 4,
+   "target": 96,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 4,
+   "target": 234,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 6,
+   "target": 176,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 6,
+   "target": 159,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 6,
+   "target": 219,
+   "ESTACIONES": 3
+ },
+ {
+   "source": 6,
+   "target": 41,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 1,
+   "target": 330,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 1,
+   "target": 201,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 1,
+   "target": 216,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 1,
+   "target": 126,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 1,
+   "target": 348,
+   "ESTACIONES": 2
+ },
+ {
+   "source": 1,
+   "target": 395,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 1,
+   "target": 46,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 1,
+   "target": 396,
+   "ESTACIONES": 2
+ },
+ {
+   "source": 3,
+   "target": 325,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 135,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 364,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 316,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 64,
+   "ESTACIONES": 4
+ },
+ {
+   "source": 1,
+   "target": 147,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 1,
+   "target": 82,
+   "ESTACIONES": 2
+ },
+ {
+   "source": 1,
+   "target": 346,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 4,
+   "target": 328,
+   "ESTACIONES": 9
+ },
+ {
+   "source": 5,
+   "target": 66,
+   "ESTACIONES": 2
+ },
+ {
+   "source": 6,
+   "target": 398,
+   "ESTACIONES": 8
+ },
+ {
+   "source": 3,
+   "target": 230,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 281,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 226,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 238,
+   "ESTACIONES": 2
+ },
+ {
+   "source": 2,
+   "target": 194,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 352,
+   "ESTACIONES": 3
+ },
+ {
+   "source": 2,
+   "target": 168,
+   "ESTACIONES": 15
+ },
+ {
+   "source": 2,
+   "target": 392,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 36,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 75,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 66,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 145,
+   "ESTACIONES": 2
+ },
+ {
+   "source": 2,
+   "target": 406,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 410,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 4,
+   "target": 202,
+   "ESTACIONES": 2
+ },
+ {
+   "source": 4,
+   "target": 42,
+   "ESTACIONES": 3
+ },
+ {
+   "source": 1,
+   "target": 58,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 205,
+   "ESTACIONES": 4
+ },
+ {
+   "source": 2,
+   "target": 249,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 4,
+   "target": 358,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 4,
+   "target": 273,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 4,
+   "target": 149,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 4,
+   "target": 236,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 6,
+   "target": 294,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 6,
+   "target": 348,
+   "ESTACIONES": 5
+ },
+ {
+   "source": 6,
+   "target": 299,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 6,
+   "target": 107,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 6,
+   "target": 359,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 6,
+   "target": 161,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 6,
+   "target": 285,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 6,
+   "target": 160,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 6,
+   "target": 45,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 6,
+   "target": 353,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 6,
+   "target": 155,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 6,
+   "target": 89,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 1,
+   "target": 218,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 1,
+   "target": 272,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 1,
+   "target": 336,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 1,
+   "target": 25,
+   "ESTACIONES": 3
+ },
+ {
+   "source": 1,
+   "target": 196,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 1,
+   "target": 274,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 1,
+   "target": 363,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 1,
+   "target": 213,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 61,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 111,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 263,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 66,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 264,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 17,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 187,
+   "ESTACIONES": 3
+ },
+ {
+   "source": 3,
+   "target": 257,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 34,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 182,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 270,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 200,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 76,
+   "ESTACIONES": 3
+ },
+ {
+   "source": 2,
+   "target": 404,
+   "ESTACIONES": 2
+ },
+ {
+   "source": 2,
+   "target": 390,
+   "ESTACIONES": 3
+ },
+ {
+   "source": 3,
+   "target": 254,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 212,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 185,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 223,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 252,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 55,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 193,
+   "ESTACIONES": 2
+ },
+ {
+   "source": 2,
+   "target": 167,
+   "ESTACIONES": 2
+ },
+ {
+   "source": 2,
+   "target": 74,
+   "ESTACIONES": 2
+ },
+ {
+   "source": 2,
+   "target": 16,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 11,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 27,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 329,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 4,
+   "target": 340,
+   "ESTACIONES": 3
+ },
+ {
+   "source": 5,
+   "target": 229,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 5,
+   "target": 377,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 1,
+   "target": 92,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 1,
+   "target": 78,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 1,
+   "target": 199,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 1,
+   "target": 393,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 403,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 228,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 44,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 99,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 375,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 38,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 4,
+   "target": 207,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 4,
+   "target": 219,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 6,
+   "target": 306,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 6,
+   "target": 37,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 6,
+   "target": 97,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 6,
+   "target": 66,
+   "ESTACIONES": 3
+ },
+ {
+   "source": 6,
+   "target": 50,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 6,
+   "target": 211,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 6,
+   "target": 115,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 6,
+   "target": 14,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 6,
+   "target": 130,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 1,
+   "target": 243,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 1,
+   "target": 187,
+   "ESTACIONES": 5
+ },
+ {
+   "source": 1,
+   "target": 49,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 1,
+   "target": 146,
+   "ESTACIONES": 6
+ },
+ {
+   "source": 1,
+   "target": 131,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 1,
+   "target": 240,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 1,
+   "target": 168,
+   "ESTACIONES": 2
+ },
+ {
+   "source": 3,
+   "target": 105,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 173,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 168,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 271,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 289,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 163,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 340,
+   "ESTACIONES": 35
+ },
+ {
+   "source": 5,
+   "target": 405,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 125,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 318,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 169,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 35,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 217,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 43,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 332,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 347,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 260,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 313,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 293,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 100,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 220,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 4,
+   "target": 237,
+   "ESTACIONES": 2
+ },
+ {
+   "source": 3,
+   "target": 206,
+   "ESTACIONES": 2
+ },
+ {
+   "source": 3,
+   "target": 101,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 5,
+   "target": 134,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 5,
+   "target": 401,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 1,
+   "target": 157,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 1,
+   "target": 333,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 1,
+   "target": 156,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 258,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 26,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 341,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 154,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 4,
+   "target": 50,
+   "ESTACIONES": 2
+ },
+ {
+   "source": 4,
+   "target": 321,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 6,
+   "target": 185,
+   "ESTACIONES": 2
+ },
+ {
+   "source": 6,
+   "target": 178,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 6,
+   "target": 322,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 6,
+   "target": 209,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 6,
+   "target": 304,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 6,
+   "target": 235,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 6,
+   "target": 152,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 6,
+   "target": 28,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 6,
+   "target": 195,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 6,
+   "target": 409,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 6,
+   "target": 137,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 6,
+   "target": 400,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 6,
+   "target": 355,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 6,
+   "target": 384,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 6,
+   "target": 227,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 1,
+   "target": 124,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 305,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 262,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 62,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 112,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 59,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 283,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 360,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 165,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 288,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 21,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 203,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 1,
+   "target": 29,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 1,
+   "target": 331,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 6,
+   "target": 317,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 104,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 214,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 80,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 191,
+   "ESTACIONES": 3
+ },
+ {
+   "source": 2,
+   "target": 367,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 190,
+   "ESTACIONES": 46
+ },
+ {
+   "source": 2,
+   "target": 276,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 242,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 267,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 335,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 148,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 397,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 380,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 386,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 140,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 51,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 210,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 90,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 69,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 4,
+   "target": 51,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 4,
+   "target": 31,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 72,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 5,
+   "target": 74,
+   "ESTACIONES": 7
+ },
+ {
+   "source": 1,
+   "target": 334,
+   "ESTACIONES": 2
+ },
+ {
+   "source": 1,
+   "target": 93,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 1,
+   "target": 337,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 1,
+   "target": 295,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 1,
+   "target": 408,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 142,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 244,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 4,
+   "target": 123,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 4,
+   "target": 245,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 4,
+   "target": 185,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 6,
+   "target": 23,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 6,
+   "target": 208,
+   "ESTACIONES": 7
+ },
+ {
+   "source": 6,
+   "target": 298,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 6,
+   "target": 117,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 6,
+   "target": 412,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 6,
+   "target": 172,
+   "ESTACIONES": 2
+ },
+ {
+   "source": 6,
+   "target": 336,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 6,
+   "target": 60,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 1,
+   "target": 71,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 1,
+   "target": 153,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 1,
+   "target": 308,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 340,
+   "ESTACIONES": 39
+ },
+ {
+   "source": 3,
+   "target": 232,
+   "ESTACIONES": 2
+ },
+ {
+   "source": 3,
+   "target": 344,
+   "ESTACIONES": 4
+ },
+ {
+   "source": 3,
+   "target": 225,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 53,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 24,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 339,
+   "ESTACIONES": 2
+ },
+ {
+   "source": 3,
+   "target": 343,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 297,
+   "ESTACIONES": 2
+ },
+ {
+   "source": 3,
+   "target": 292,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 39,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 389,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 85,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 6,
+   "target": 414,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 6,
+   "target": 340,
+   "ESTACIONES": 34
+ },
+ {
+   "source": 3,
+   "target": 95,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 103,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 57,
+   "ESTACIONES": 4
+ },
+ {
+   "source": 2,
+   "target": 241,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 407,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 164,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 265,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 303,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 251,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 322,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 247,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 371,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 52,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 209,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 413,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 144,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 233,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 5,
+   "target": 166,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 1,
+   "target": 188,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 1,
+   "target": 197,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 119,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 54,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 79,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 396,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 12,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 102,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 4,
+   "target": 66,
+   "ESTACIONES": 2
+ },
+ {
+   "source": 6,
+   "target": 323,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 6,
+   "target": 314,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 6,
+   "target": 177,
+   "ESTACIONES": 2
+ },
+ {
+   "source": 6,
+   "target": 18,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 6,
+   "target": 32,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 6,
+   "target": 286,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 6,
+   "target": 239,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 6,
+   "target": 395,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 6,
+   "target": 221,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 6,
+   "target": 370,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 6,
+   "target": 146,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 6,
+   "target": 100,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 6,
+   "target": 20,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 1,
+   "target": 340,
+   "ESTACIONES": 32
+ },
+ {
+   "source": 1,
+   "target": 250,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 1,
+   "target": 392,
+   "ESTACIONES": 2
+ },
+ {
+   "source": 1,
+   "target": 122,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 1,
+   "target": 219,
+   "ESTACIONES": 5
+ },
+ {
+   "source": 1,
+   "target": 136,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 1,
+   "target": 374,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 1,
+   "target": 190,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 326,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 309,
+   "ESTACIONES": 2
+ },
+ {
+   "source": 3,
+   "target": 132,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 311,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 345,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 391,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 248,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 219,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 138,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 114,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 30,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 278,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 19,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 106,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 33,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 349,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 1,
+   "target": 291,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 5,
+   "target": 313,
+   "ESTACIONES": 4
+ },
+ {
+   "source": 3,
+   "target": 15,
+   "ESTACIONES": 3
+ },
+ {
+   "source": 2,
+   "target": 68,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 224,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 395,
+   "ESTACIONES": 6
+ },
+ {
+   "source": 2,
+   "target": 256,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 30,
+   "ESTACIONES": 3
+ },
+ {
+   "source": 2,
+   "target": 141,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 324,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 56,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 4,
+   "target": 290,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 4,
+   "target": 342,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 3,
+   "target": 113,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 5,
+   "target": 390,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 5,
+   "target": 70,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 5,
+   "target": 118,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 5,
+   "target": 84,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 1,
+   "target": 300,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 1,
+   "target": 307,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 383,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 320,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 381,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 2,
+   "target": 315,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 4,
+   "target": 98,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 4,
+   "target": 357,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 6,
+   "target": 361,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 6,
+   "target": 284,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 6,
+   "target": 287,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 6,
+   "target": 310,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 6,
+   "target": 394,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 6,
+   "target": 266,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 6,
+   "target": 158,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 6,
+   "target": 83,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 6,
+   "target": 34,
+   "ESTACIONES": 1
+ },
+ {
+   "source": 6,
+   "target": 48,
+   "ESTACIONES": 1
+ }
+]
+}
+
