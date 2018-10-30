@@ -196,7 +196,8 @@
                             .attr('stroke', '#CDCDCD')
                             .attr('stroke-width', 1)
                             .attr('fill', 'none')
-                            .style('Stroke-dasharray','10 10');
+                            .style('Stroke-dasharray','10 10')
+	    		    .style("pointer-events", "none");
 			
             var labelt = chart1.selectAll('text.lt').data(months);
             labelt.enter().append('svg:text').attr('class', 'lt');
