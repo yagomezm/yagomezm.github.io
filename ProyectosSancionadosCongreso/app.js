@@ -60,9 +60,7 @@ function update(source) {
   // Update the nodes...
   var node = svg.selectAll('g.node')
       .data(nodes, function(d) {return d.id || (d.id = ++i); });
-             // hover text for the node
-  node.append("title")
-     .text(function(d) { return d.data.Título; });
+
 
   // Enter any new modes at the parent's previous position.
   var nodeEnter = node.enter().append('g')
@@ -102,7 +100,9 @@ function update(source) {
       })
       .text(function(d) { return d.data.name; });
 
-
+             // hover text for the node
+  nodeEnter.append("title")
+     .text(function(d) { return d.data.Título; });
 
   // UPDATE
   var nodeUpdate = nodeEnter.merge(node);
