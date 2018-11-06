@@ -19,55 +19,54 @@
     </p>
     
     <h3 style="color:#087181">Mueva el mouse sobre los nodos del gráfico para comenzar a explorar datos.</h3>
-  </div>
-    <div id="TreeGraph"></div>
+  
+    <div id="TreeGraph" ></div>
 
-
-     <div id="cite">Proyecto bajo <a href="https://opensource.org/licenses/MIT">licencia MIT.</a> Fuente de datos :  <a href="https://www.congresovisible.org">Congreso Visible</a>; Graficado por: <a href="http://github.com/yagomezm">Yenny Gomez</a> como bono del <a href="https://uniandes.edu.co/"> curso de Visual Analytics de los Andes</a> ; 2018 
-        <p> </p>
+         <div id="cite">Proyecto bajo <a href="https://opensource.org/licenses/MIT">licencia MIT.</a> Fuente de datos :  <a href="https://www.congresovisible.org">Congreso Visible</a>; Graficado por: <a href="http://github.com/yagomezm">Yenny Gomez</a> como bono del <a href="https://uniandes.edu.co/"> curso de Visual Analytics de los Andes</a> ; 2018 
+        
     </div>
-    
+   </div> 
     <div id="content2">
 
-    <p style="margin-bottom: 12.0pt; line-height: normal;"><span style="font-size: 12.0pt; font-family: '&amp;quot',serif; color: #24292e;">Para lograr esta visualizaci&oacute;n se trabaj&oacute; con el Framework de Tamara Munzner y a continuaci&oacute;n se describen los pasos realizados:</span></p>
+    <p>Para lograr esta visualizaci&oacute;n se trabaj&oacute; con el Framework de Tamara Munzner y a continuaci&oacute;n se describen los pasos realizados:</p>
       <p style="line-height: 30.0pt; border: none; padding: 0cm; margin: 18.0pt 0cm 12.0pt 0cm;"><strong><span style="font-size: 24.0pt; font-family: '&amp;quot',serif; color: #24292e;">Abstracci&oacute;n de datos (What)</span></strong></p>
-      <p style="margin-bottom: 12.0pt; line-height: normal;"><span style="font-size: 12.0pt; font-family: '&amp;quot',serif; color: #24292e;">Tipo de dataset: Trees</span></p>
-      <p style="margin-bottom: 12.0pt; line-height: normal;"><span style="font-size: 12.0pt; font-family: '&amp;quot',serif; color: #24292e;">Tipos de datos: Items (nodos: tipos de proyectos,temas y t&iacute;tulos de los proyectos), links (conexiones entre las jerarqu&iacute;as tipo proyecto los temas que han sido sancionados y los proyectos de cada tema trabajado), Atributos</span></p>
-      <p style="margin-bottom: 12.0pt; line-height: normal;"><span style="font-size: 12.0pt; font-family: '&amp;quot',serif; color: #24292e;">Atributos: </span></p>
-      <p style="margin-bottom: 12.0pt; line-height: normal;"><span style="font-size: 12.0pt; font-family: '&amp;quot',serif; color: #24292e;">Los atributos utilizados fueron:</span></p>
+      <p>Tipo de dataset: Trees</p>
+      <p>Tipos de datos: Items (nodos: tipos de proyectos,temas y t&iacute;tulos de los proyectos), links (conexiones entre las jerarqu&iacute;as tipo proyecto los temas que han sido sancionados y los proyectos de cada tema trabajado), Atributos</p>
+      <p>Atributos:</p>
+      <p>Los atributos utilizados fueron:</p>
       <ul>
-      <li style="color: #24292e; line-height: normal; tab-stops: list 36.0pt;"><span style="font-size: 12.0pt; font-family: '&amp;quot',serif;">Tipo de proyecto: Categ&oacute;rico</span></li>
-      <li style="color: #24292e; margin-top: 3.0pt; line-height: normal; tab-stops: list 36.0pt;"><span style="font-size: 12.0pt; font-family: '&amp;quot',serif;">Temas: Categ&oacute;rico</span></li>
-      <li style="color: #24292e; margin-top: 3.0pt; line-height: normal; tab-stops: list 36.0pt;"><span style="font-size: 12.0pt; font-family: '&amp;quot',serif;">Id_proyecto: Ordenado &ndash; Cuantitativo</span></li>
-      <li style="color: #24292e; margin-top: 3.0pt; line-height: normal; tab-stops: list 36.0pt;"><span style="font-size: 12.0pt; font-family: '&amp;quot',serif;">T&iacute;tulo Proyecto: Categ&oacute;rico.</span></li>
+      <li>Tipo de proyecto: Categ&oacute;rico</li>
+      <li>Temas: Categ&oacute;rico</li>
+      <li>Id_proyecto: Ordenado &ndash; Cuantitativo</li>
+      <li>T&iacute;tulo Proyecto: Categ&oacute;rico.</li>
       </ul>
       <p style="line-height: 30.0pt; border: none; padding: 0cm; margin: 18.0pt 0cm 12.0pt 0cm;"><strong><span style="font-size: 24.0pt; font-family: '&amp;quot',serif; color: #24292e;">Abstracci&oacute;n de Tareas (Why)</span></strong></p>
-      <p style="margin-bottom: 12.0pt; line-height: normal;"><span style="font-size: 12.0pt; font-family: '&amp;quot',serif; color: #24292e;">Tarea Principal</span></p>
-      <p style="margin-bottom: 12.0pt; text-align: justify; line-height: normal;"><span style="font-size: 12.0pt; font-family: '&amp;quot',serif; color: #24292e;">Explorar caracter&iacute;sticas de los tipos de proyectos que fueron sancionados en el per&iacute;odo 2014 a 2018 por el Congreso de Colombia&nbsp; (<strong>Explore &ndash; Features</strong>)</span></p>
-      <p style="margin-bottom: 12.0pt; line-height: normal;"><span style="font-size: 12.0pt; font-family: '&amp;quot',serif; color: #24292e;">Tareas secundarias:</span></p>
+      <p>Tarea Principal</p>
+      <p>Explorar caracter&iacute;sticas de los tipos de proyectos que fueron sancionados en el per&iacute;odo 2014 a 2018 por el Congreso de Colombia&nbsp; (<strong>Explore &ndash; Features</strong>)</span></p>
+      <p>Tareas secundarias:</p>
       <ol>
-      <li style="color: #24292e; text-align: justify; line-height: normal; tab-stops: list 36.0pt;"><span style="font-size: 12.0pt; font-family: '&amp;quot',serif;">Resumir caracter&iacute;sticas de los atributos de los proyectos trabajados en el Congreso. (<strong>Summarize &ndash; Features</strong>).</span></li>
-      <li style="color: #24292e; text-align: justify; line-height: normal; tab-stops: list 36.0pt;"><span style="font-size: 12.0pt; font-family: '&amp;quot',serif;">Encontrar cuales son los tipos de proyectos que tienen mayor cobertura en cuanto temas (<strong>Browse &ndash; Features</strong>)</span></li>
-      <li style="color: #24292e; text-align: justify; line-height: normal; tab-stops: list 36.0pt;"><span style="font-size: 12.0pt; font-family: '&amp;quot',serif;">Permite localizar los temas trabajados en un tipo espec&iacute;fico de proyecto (<strong>Locate &ndash; Features</strong>)</span></li>
+      <li>Resumir caracter&iacute;sticas de los atributos de los proyectos trabajados en el Congreso. (<strong>Summarize &ndash; Features</strong>).</span></li>
+      <li>Encontrar cuales son los tipos de proyectos que tienen mayor cobertura en cuanto temas (<strong>Browse &ndash; Features</strong>)</span></li>
+      <li>Permite localizar los temas trabajados en un tipo espec&iacute;fico de proyecto (<strong>Locate &ndash; Features</strong>)</span></li>
       </ol>
       <p style="margin-left: 36.0pt; text-align: justify; line-height: normal;"><span style="font-size: 12.0pt; font-family: '&amp;quot',serif; color: #24292e;">&nbsp;</span></p>
       <p style="line-height: 30.0pt; border: none; padding: 0cm; margin: 18.0pt 0cm 12.0pt 0cm;"><strong><span style="font-size: 24.0pt; font-family: '&amp;quot',serif; color: #24292e;">Marcas y Canales (How)</span></strong></p>
-      <p style="margin-bottom: 12.0pt; line-height: normal;"><span style="font-size: 12.0pt; font-family: '&amp;quot',serif; color: #24292e;">Marcas</span></p>
+      <p>Marcas</p>
       <ul>
-      <li style="margin-bottom: 12.0pt; text-align: justify; text-indent: -18.0pt; line-height: normal;"><span style="font-size: 12.0pt; font-family: '&amp;quot',serif; color: #24292e;">&nbsp; &nbsp; &nbsp;L&iacute;neas que representan la Conexi&oacute;n entre los tipos de proyectos y los temas.</span></li>
-      <li style="margin-bottom: 12.0pt; text-align: justify; text-indent: -18.0pt; line-height: normal;"><span style="font-size: 12.0pt; font-family: '&amp;quot',serif; color: #24292e;">&nbsp; &nbsp; Puntos que representan los nodos que pueden ser: tipos de proyecto y temas trabajados en un proyecto, el proyecto.</span></li>
+      <li>&nbsp; &nbsp; &nbsp;L&iacute;neas que representan la Conexi&oacute;n entre los tipos de proyectos y los temas.</li>
+      <li>&nbsp; &nbsp; Puntos que representan los nodos que pueden ser: tipos de proyecto y temas trabajados en un proyecto, el proyecto.</li>
       </ul>
-      <p style="margin-bottom: 12.0pt; line-height: normal;"><span style="font-size: 12.0pt; font-family: '&amp;quot',serif; color: #24292e;">Canales:</span></p>
+      <p>Canales:</p>
       <ul>
-      <li style="color: #24292e; line-height: normal; tab-stops: list 36.0pt;"><span style="font-size: 12.0pt; font-family: '&amp;quot',serif;">Regi&oacute;n espacial: posici&oacute;n horizontal de los nodos, nivel de profundidad de una categor&iacute;a. Separate, order, align.</span></li>
-      <li style="color: #24292e; line-height: normal; tab-stops: list 36.0pt;"><span style="font-size: 12.0pt; font-family: '&amp;quot',serif;">Posici&oacute;n vertical : agrupaci&oacute;n por tipos de proyectos y temas.Separate</span></li>
+      <li>Regi&oacute;n espacial: posici&oacute;n horizontal de los nodos, nivel de profundidad de una categor&iacute;a. Separate, order, align.</li>
+      <li>Posici&oacute;n vertical : agrupaci&oacute;n por tipos de proyectos y temas.Separate</li>
       </ul>
       <p style="line-height: 30.0pt; border: none; padding: 0cm; margin: 18.0pt 0cm 12.0pt 0cm;"><strong><span style="font-size: 24.0pt; font-family: '&amp;quot',serif; color: #24292e;">Interacciones</span></strong></p>
-      <p style="margin-bottom: 12.0pt; text-align: justify; line-height: normal;"><span style="font-size: 12.0pt; font-family: '&amp;quot',serif; color: #24292e;">Podr&aacute; ubicarse en cada nodo para ver la informaci&oacute;n referente a una categor&iacute;a, al ubicar el mouse en un nodo se mostrar&aacute; el n&uacute;mero de proyectos, en la hoja se podr&aacute; observar el id del proyecto y al ubicar el mouse permitir&aacute; ver el nombre del proyecto.</span></p>
+      <p>Podr&aacute; ubicarse en cada nodo para ver la informaci&oacute;n referente a una categor&iacute;a, al ubicar el mouse en un nodo se mostrar&aacute; el n&uacute;mero de proyectos, en la hoja se podr&aacute; observar el id del proyecto y al ubicar el mouse permitir&aacute; ver el nombre del proyecto.</p>
       <p style="line-height: 30.0pt; border: none; padding: 0cm; margin: 18.0pt 0cm 12.0pt 0cm;"><strong><span style="font-size: 24.0pt; font-family: '&amp;quot',serif; color: #24292e;">Insights</span></strong></p>
-      <ul>
-      <li style="text-align: justify; text-indent: -18.0pt;"><span style="font-size: 12.0pt; line-height: 107%; font-family: '&amp;quot',serif; color: #24292e;">&nbsp; &nbsp; &nbsp;Se observa que los proyectos de Ley son aquellos que tienen una mayor cobertura en cuanto a temas, ya que estos proyectos deben mantener como filosof&iacute;a profesional la mejora de la calidad de la vida de los ciudadanos.</span></li>
-      <li style="text-align: justify; text-indent: -18.0pt;"><span style="font-size: 12.0pt; line-height: 107%; font-family: '&amp;quot',serif; color: #24292e;">&nbsp; &nbsp; &nbsp;El tema de &ldquo;Implementaci&oacute;n de Paz&rdquo;, es uno de los que m&aacute;s se trabaja desde los 3 tipos de proyectos, tanto para establecerlo como una Ley Estatutaria qu&eacute; es primordial en nuestra constituci&oacute;n, hasta buscar crear proyectos que permitan que el tema de Paz sea Ley que busque mejorar la calidad de vida de los ciudadanos, as&iacute; mismo mediante proyectos de acto legislativo siempre se est&aacute; trabajando el tema para realizar adiciones, derogaciones en textos de la constituci&oacute;n que hablen del tema</span></li>
+      <ul style="font-family: '&amp;quot',serif; color: #24292e;">
+      <li>&nbsp; &nbsp; &nbsp;Se observa que los proyectos de Ley son aquellos que tienen una mayor cobertura en cuanto a temas, ya que estos proyectos deben mantener como filosof&iacute;a profesional la mejora de la calidad de la vida de los ciudadanos.</li>
+      <li>&nbsp; &nbsp; &nbsp;El tema de &ldquo;Implementaci&oacute;n de Paz&rdquo;, es uno de los que m&aacute;s se trabaja desde los 3 tipos de proyectos, tanto para establecerlo como una Ley Estatutaria qu&eacute; es primordial en nuestra constituci&oacute;n, hasta buscar crear proyectos que permitan que el tema de Paz sea Ley que busque mejorar la calidad de vida de los ciudadanos, as&iacute; mismo mediante proyectos de acto legislativo siempre se est&aacute; trabajando el tema para realizar adiciones, derogaciones en textos de la constituci&oacute;n que hablen del tema</li>
       </ul>
       <p><span style="font-size: 12.0pt; line-height: 107%; font-family: '&amp;quot',serif; color: #24292e;">&nbsp;</span></p>
       <p>&nbsp;</p>

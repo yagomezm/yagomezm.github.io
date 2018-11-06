@@ -1,28 +1,30 @@
 .node circle {
   fill: #fff;
   stroke: #A20B2F;
-  stroke-width: 2px;
+  stroke-width: 4px;
 }
 
 .node text {
-  font: 12px sans-serif;
+  font: 14px sans-serif;
 }
 
 .link {
   fill: none;
   stroke: #A2A65A;
-  stroke-width: 2px;
+  stroke-width: 4px;
 }
-  body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,figure,form,fieldset,input,p,blockquote,th,td,legend {
+  div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,figure,form,fieldset,input,p,blockquote,th,td,legend {
     margin: 0;
     padding: 0;
   }
   body {
       font-family: 'Cardo', serif;
+      margin: 50;
+      padding: 0;
   }
   h1 {
       font-family: 'Bevan', serif;
-      font-size: 2.0em;
+      font-size: 2.8em;
   }
   p {
       line-height: 1.4em;
@@ -34,14 +36,18 @@
   #content {
     width: 2000px;
     margin: 0 auto;
+    font-size: 1.8em;
+
 }
   #content2 {
     width: 2000px;
     margin: 0 auto;
+    font-size: 1.8em;
+
 }
 #cite {
     font-size: 0.8em;
-    text-align: right;
+    text-align: left;
     margin-top: 10px;
     padding-bottom: 20px;
 }
