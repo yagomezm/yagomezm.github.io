@@ -1,0 +1,74 @@
+.node circle {
+  fill: #fff;
+  stroke: #A20B2F;
+  stroke-width: 2px;
+}
+
+.node text {
+  font: 12px sans-serif;
+}
+
+.link {
+  fill: none;
+  stroke: #A2A65A;
+  stroke-width: 2px;
+}
+  body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,figure,form,fieldset,input,p,blockquote,th,td,legend {
+    margin: 0;
+    padding: 0;
+  }
+  body {
+      font-family: 'Cardo', serif;
+  }
+  h1 {
+      font-family: 'Bevan', serif;
+      font-size: 2.0em;
+  }
+  p {
+      line-height: 1.4em;
+      margin-bottom: 1.0em;
+  }
+  a {
+      color: #821122;
+  }
+  #content {
+    width: 2000px;
+    margin: 0 auto;
+}
+  #content2 {
+    width: 2000px;
+    margin: 0 auto;
+}
+#cite {
+    font-size: 0.8em;
+    text-align: right;
+    margin-top: 10px;
+    padding-bottom: 20px;
+}
+/* h1 {
+    font-family:verdana;    
+    color: #2E86C1;
+   } 
+
+h2
+   {
+    font-family:verdana;   
+    color: #2E86C1; 
+   } 
+
+   h3 
+   {
+    font-family:verdana;   
+    color: #2E86C1; 
+   } 
+
+   h5
+   {
+    font-family:verdana; 
+    color: #2E86C1; 
+   } 
+
+   p
+   {
+      font-family:courier;
+    }*/

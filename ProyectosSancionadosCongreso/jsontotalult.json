@@ -1,0 +1,772 @@
+{									
+    "name": "Congreso 2014-2018",				"Título":"Cantidad Proyectos: 178",					
+    "children": [									
+      {									
+        "name": "Proyecto_Acto_Legislativo",			"Título":"Cantidad Proyectos: 10",						
+        "children": [									
+	          {								
+				"name": "Conflicto_armado",		"Título":"Cantidad Proyectos: 1",			
+				"children": [					
+							{		
+								"name": "8196"	,"Título":"Por_medio_del_cual_se_establecen_instrumentos_jurídicos_para_los_desarrollos_normativos_necesarios_para_facilitar_y_asegurar_la_implementación_del_Acuerdo_Final_para_la_Terminación_del_Conflicto_y_la_Construcción_de_una_Paz_estable_y_duradera"
+							}		
+				]},					
+				{					
+				"name": "Implementación_paz",		"Título":"Cantidad Proyectos: 5",			
+				"children": [					
+							{		
+								"name": "8760"	,"Título":"Por_medio_del_cual_se_crea_un_título_de_disposiciones_transitorias_de_la_Constitución_aplicables_a_los_agentes_del_Estado_para_la_terminación_del_conflicto_armado_y_la_construcción_de_una_paz_estable_y_duradera_y_se_dictan_otras_disposiciones"
+							},		
+							{		
+								"name": "8763"	,"Título":"Por_medio_del_cual_se_adiciona_un_artículo_transitorio_a_la_constitución_con_el_propósito_de_dar_estabilidad_y_seguridad_jurídica_al_acuerdo_final_para_la_terminación_del_conflicto_y_la_construcción_de_una_paz_estable_y_duradera"
+							},		
+							{		
+								"name": "8767"	,"Título":"Por_medio_del_cual_se_regula_parcialmente_el_componente_de_reincorporación_política_del_acuerdo_final_para_la_terminación_del_conflicto_y_la_construcción_de_una_paz_estable_y_duradera"
+							},		
+							{		
+								"name": "8795"	,"Título":"Por_el_cual_se_adiciona_el_artículo_361_de_la_Constitución_Política"
+							},		
+							{		
+								"name": "8815"	,"Título":"Por_medio_del_cual_se_dictan_disposiciones_para_asegurar_el_monopolio_legítimo_de_la_fuerza_y_del_uso_de_las_armas_por_parte_del_Estado"
+							}		
+				]},					
+				{					
+				"name": "Justicia",		"Título":"Cantidad Proyectos: 1",			
+				"children": [					
+							{		
+								"name": "8791"	,"Título":"Por_medio_del_cual_se_modifican_los_artículos_186;_235_y_251_de_la_Constitución_Política_y_se_implementa_el_derecho_a_impugnar_las_sentencias_condenatorias"
+							}		
+				]},					
+				{					
+				"name": "Ordenamiento_Territorial",		"Título":"Cantidad Proyectos: 1",			
+				"children": [					
+							{		
+								"name": "8978"	,"Título":"Por_el_cual_se_modifican_los_artículos_328_y_356_de_la_Constitución_Política_[Buenaventura_y_Tumaco_como_distritos]"
+							}		
+				]},					
+				{					
+				"name": "Rama_Ejecutiva",		"Título":"Cantidad Proyectos: 1",			
+				"children": [					
+							{		
+								"name": "7791"	,"Título":"Por_medio_del_cual_se_adopta_una_reforma_de_equilibrio_de_poderes_y_reajuste_institucional_y_se_dictan_otras_disposiciones"
+							}		
+				]},					
+				{					
+				"name": "Seguridad;_defensa_y_fuerza_pública",		"Título":"Cantidad Proyectos: 1",			
+				"children": [					
+							{		
+								"name": "7852"	,"Título":"_Por_el_cual_se_reforma_el_artículo_221_de_la_Constitución_Política_de_Colombia"
+							}		
+				]					
+									
+		  		}					
+		]							
+      },	 								
+									
+	  								
+	  { 								
+        "name": "Ley_Estatutaria",			"Título":"Cantidad Proyectos: 4",						
+        "children": [									
+          { 									
+			"name": "Conflicto_armado",		"Título":"Cantidad Proyectos: 1",				
+			"children": [						
+				{					
+					"name": "8194"		,"Título":"Por_medio_de_la_cual_se_regula_el_Plebiscito_por_la_Paz"		
+				}					
+			] },			{			
+			"name": "Familia",		"Título":"Cantidad Proyectos: 1",				
+			"children": [						
+				{					
+					"name": "8069"		,"Título":"Por_la_cual_se_modifica_la_Ley_Estatutaria_1622_de_2013_y_se_dictan_otras_disposiciones"		
+				}					
+			] },			{			
+			"name": "Implementación_paz",		"Título":"Cantidad Proyectos: 1",				
+			"children": [						
+				{					
+					"name": "8768"		,"Título":"Por_medio_de_la_cual_se_adopta_el_Estatuto_de_la_Oposición_Política_y_algunos_derechos_a_las_agrupaciones_políticas_independientes"		
+				}					
+			] },			{			
+			"name": "Justicia",		"Título":"Cantidad Proyectos: 1",				
+			"children": [						
+				{					
+					"name": "7787"		,"Título":"Por_el_cual_se_modifican_los_artículos_15_y_16_de_la_Ley_270_de_1996;_Estatutaria_de_la_Administración_de_Justicia"		
+				}					
+			] 						
+		}							
+									
+		]							
+									
+	},								
+		  							
+      									
+      { 									
+        "name": "Proyecto_de_Ley",			"Título":"Cantidad Proyectos: 164",						
+        "children": [									
+          { 									
+			"name": "Administración_pública",			"Título":"Cantidad Proyectos: 3",			
+			"children": [						
+						{			
+							"name": "8192"	,"Título":"Por_medio_de_la_cual_se_modifica_la_edad_máxima_para_el_retiro_forzoso_de_las_personas_que_desempeñan_funciones_públicas"	
+						},			
+						{			
+							"name": "8518"	,"Título":"Por_la_cual_se_adicionan;_modifican_y_dictan_disposiciones_orientadas_afortalecer_la_contratación_pública_en_Colombia"	
+						},			
+						{			
+							"name": "8521"	,"Título":"Por_medio_del_cual_se_establece_el_régimen_de_inhabilidades_a_quienes_hayan_sido_condenados_por_delitos_sexuales_contra_menores;_se_crea_el_registro_de_inhabilidades_y_se_dictan_otras_disposiciones"	
+						}			
+			]						
+			},						
+			{						
+			"name": "Agropecuario_y_agrícola",			"Título":"Cantidad Proyectos: 2",			
+			"children": [						
+						{			
+							"name": "7970"	,"Título":"Por_la_cual_se_crean_y_se_desarrollan_las_Zonas_de_Interés_de_Desarrollo_Rural;_Económico_y_Social_(Zidres);_y_se_adicionan_los_artículos_31_y_52_de_la_Ley_160_de_1994"	
+						},			
+						{			
+							"name": "8200"	,"Título":"Por_medio_de_la_cual_se_establecen_medidas_en_contra_de_la_pesca_ilegal_y_el_delito_de_ilícita_actividad_de_pesca_en_el_territorio_colombiano"	
+						}			
+						]			
+			},						
+			{						
+			"name":"Bienestar_y_pobreza",			"Título":"Cantidad Proyectos: 3",			
+			"children": [						
+						{			
+							"name": "7646"	,"Título":"Por_la_cual_se_convierte_en_política_de_Estado_el_Programa_de_Cero_a_Siempre"	
+						},			
+						{			
+							"name": "7853"	,"Título":"Por_medio_del_cual_se_establece_la_Red_para_la_Superación_de_la_Pobreza_Extrema_?_Red_Unidos_y_se_dictan_otras_disposiciones"	
+						},			
+						{			
+							"name": "8204"	,"Título":"Por_medio_de_la_cual_se_establecen_medidas_de_protección_al_adulto_mayor_en_Colombia;_se_modifican_las_Leyes_1251_de_2008;_1315_de_2009_y_599_de_2000;_se_penaliza_el_maltrato_intrafamiliar_por_abandono_y_se_dictan_otras_disposiciones"	
+						}			
+						]			
+			},						
+			{						
+			"name":"Celebraciones;_honores_y_monumentos",			"Título":"Cantidad Proyectos: 45",			
+			"children": [						
+						{			
+							"name": "7702"	,"Título":"Por_medio_de_la_cual_se_declara_Patrimonio_Inmaterial;_Cultural;_Artístico;_Dancístico_y_Folclórico_de_la_Nación;_el_desfile_el_Salsódromo_que_se_realiza_dentro_del_marco_de_la_Feria_de_Cali;_y_se_dictan_otras_disposiciones"	
+						},			
+						{			
+							"name": "7807"	,"Título":"Por_medio_de_la_cual_se_declara_patrimonio_cultural_inmaterial_de_la_Nación_la_celebración_de_la_Semana_Santa_en_Tunja_(Boyacá)_y_se_dictan_otras_disposiciones"	
+						},			
+						{			
+							"name": "7812"	,"Título":"Por_medio_de_la_cual_la_Nación_se_vincula_a_la_celebración_de_los_setenta_(70)_años_de_existencia_de_la_Universidad_de_Caldas_y_se_autoriza_en_su_homenaje_la_financiación_del_centro_cultural_universitario_en_sus_etapas_II_y_III"	
+						},			
+						{			
+							"name": "7850"	,"Título":"Por_la_cual_la_Nación_y_el_Congreso_de_la_República_se_asocian_y_rinden_homenaje_al_municipio_de_San_Antonio;_en_el_departamento_del_Tolima;_con_motivo_de_la_conmemoración_de_los_cien_años_de_su_fundación_y_se_autorizan_apropiaciones_presupuestales_para_la_ejecución_de_obras_de_inversión_social"	
+						},			
+						{			
+							"name": "7851"	,"Título":"Por_medio_de_la_cual_la_Nación_se_asocia_a_la_conmemoración_de_los_145_años_de_haber_sido_erigido_como_municipio;_Ciudad_Bolívar_en_el_departamento_de_Antioquia"	
+						},			
+						{			
+							"name": "7859"	,"Título":"Por_medio_de_la_cual_la_Nación_se_asocia_a_la_conmemoración_del_bicentenario_del_sitio_de_Cartagena_de_Indias-_Ciudad_Heroica_y_exalta_la_memoria_de_los_cartageneros_que_resistieron_105_días"	
+						},			
+						{			
+							"name": "7864"	,"Título":"Por_medio_de_la_cual_la_Nación_se_vincula_a_la_celebración_de_los_60_años_de_la_Universidad_del_Tolima;_se_autorizan_apropiaciones_presupuestales;_se_modifica_la_Ley_664_de_2001_y_se_dictan_otras_disposiciones"	
+						},			
+						{			
+							"name": "7937"	,"Título":"Por_la_cual_la_Nación_y_el_Congreso_de_la_República_se_asocian_y_rinden_homenaje_al_municipio_de_Pensilvania_en_el_departamento_de_Caldas;_con_motivo_de_la_conmemoración_de_los_150_años_de_su_fundación_y_se_dictan_otras_disposiciones"	
+						},			
+						{			
+							"name": "7959"	,"Título":"Por_medio_de_la_cual_la_Nación_rinde_homenaje_y_exalta_la_vida_del_ilustre_ciudadano_Carlos_Gaviria_Díaz"	
+						},			
+						{			
+							"name": "7968"	,"Título":"Por_medio_de_la_cual_la_Nación_rinde_honores_a_la_memoria_del_periodista_Enrique_Santos_Castillo"	
+						},			
+						{			
+							"name": "8055"	,"Título":"Por_medio_de_la_cual_la_Nación_se_asocia_a_la_conmemoración_de_los_cincuenta_(50)_años_de_vida_administrativa_del_departamento_del_Quindío;_rinde_público_homenaje_a_sus_habitantes_y_se_dictan_otras_disposiciones"	
+						},			
+						{			
+							"name": "8124"	,"Título":"Por_medio_de_la_cual_se_declara_patrimonio_cultural_inmaterial_de_la_Nación_la_celebración_de_la_semana_santa_de_la_parroquia_Santa_Gertrudis_la_Magna_de_Envigado;_Antioquia_y_se_dictan_otras_disposiciones"	
+						},			
+						{			
+							"name": "8152"	,"Título":"por_medio_de_la_cual_se_conmemoran_los_200_años_del_fallecimiento_de_Francisco_José_de_Caldas;_y_se_dictan_varias_disposiciones_para_celebrar_dicha_fecha"	
+						},			
+						{			
+							"name": "8189"	,"Título":"Proyecto_mediante_el_cual_se_declara_patrimonio_cultural_de_la_Nación_al_?Torneo_Internacional_de_Contrapunteo_y_Voz_Recia;_Cimarrón_de_Oro"	
+						},			
+						{			
+							"name": "8201"	,"Título":"Por_la_cual_la_Nación_declara_patrimonio_histórico_y_cultural_al_municipio_de_Trinidad_del_departamento_de_Casanare;_exaltando_su_condición_de_cuartel_general_de_la_Campaña_Libertadora"	
+						},			
+						{			
+							"name": "8210"	,"Título":"Por_medio_de_la_cual_se_declara_como_patrimonio_genético_nacional_la_raza_autóctona_del_caballo_de_paso_fino_colombiano_y_se_dictan_otras_disposiciones"	
+						},			
+						{			
+							"name": "8331"	,"Título":"Por_medio_de_la_cual_se_crea_el_reconocimiento_por_la_paz;_Diana_Turbay"	
+						},			
+						{			
+							"name": "8354"	,"Título":"Por_medio_de_la_cual_la_Nación_se_asocia_a_la_conmemoración_de_los_400_años_de_fundación_de_la_ciudad_de_Barbacoas;_departamento_de_Nariño"	
+						},			
+						{			
+							"name": "8359"	,"Título":"Por_medio_de_la_cual_la_Nación_se_asocia_y_rinde_homenaje_a_la_vida_y_obra_al_honrar_la_memoria;_del_juglar;_Gilberto_Alejandro_Durán_Díaz_Alejo_Durán_al_cumplir_los_100_años_de_su_natalicio_y_se_dictan_otras_disposiciones"	
+						},			
+						{			
+							"name": "8361"	,"Título":"Por_medio_de_la_cual_se_conmemora_el_bicentenario_de_algunos_de_los_próceres_de_la_independencia_fallecidos_desde_1816_hasta_1819;_y_se_dictan_varias_disposiciones_para_celebrar_sus_aportes_a_la_República"	
+						},			
+						{			
+							"name": "8436"	,"Título":"Por_medio_de_la_cual_la_Nación_se_une_a_la_celebración_de_los_50_años_de_fundación_del_departamento_de_Sucre_y_rinde_homenaje_a_los_sucreños"	
+						},			
+						{			
+							"name": "8439"	,"Título":"Por_la_cual_se_declara_Patrimonio_Folclórico;_Cultural_e_Inmaterial_de_la_Nación_el_Encuentro_Nacional_de_Bandas_en_el_municipio_de_Sincelejo_(Sucre)_y_se_vincula_a_la_celebración_de_los_31_años_del_encuentro_y_se_dictan_otras_disposiciones"	
+						},			
+						{			
+							"name": "8449"	,"Título":"Por_medio_de_la_cual_se_declara_patrimonio_histórico;_y_cultural_de_la_Nación_a_La_Casa_del_Telegrafista_en_Aracataca;_Magdalena?;_y_se_dictan_otras_disposiciones"	
+						},			
+						{			
+							"name": "8461"	,"Título":"Por_la_cual_la_Nación_se_vincula_a_la_celebración_de_los_cincuenta_y_cinco_(55)_años_de_existencia_de_la_Universidad_del_Magdalena_y_se_dictan_otras_disposiciones"	
+						},			
+						{			
+							"name": "8514"	,"Título":"Por_medio_de_la_cual_la_Nación_rinde_honores_y_se_vincula_con_el_municipio_de_Chaparral_(Tolima)_a_la_celebración_del_bicentenario_del_natalicio_del_insigne_ideólogo_liberal;_estadista;_periodista;_escritor_colombiano;_dos_veces_presidente_de_los_Estados_Unidos_de_Colombia_a_nombre_del_Partido_Liberal;_señor_Manuel_Murillo_Toro;_y_se_autoriza_la_realización_de_obras_de_infraestructura_física_y_tecnológica_en_su_nombre"	
+						},			
+						{			
+							"name": "8516"	,"Título":"Por_medio_de_la_cual_la_Nación_se_asocia_y_rinde_homenaje_al_municipio_de_Pitalito_en_el_departamento_del_Huila_con_motivo_de_la_celebración_del_bicentenario_de_su_fundación_y_se_dictan_otras_disposiciones"	
+						},			
+						{			
+							"name": "8541"	,"Título":"Por_medio_de_la_cual_la_Nación_se_asocia_a_la_celebración_de_los_ciento_cincuenta_(150)_años_de_la_fundación_del_municipio_de_Casabianca_-_Tolima;_se_rinde_homenaje_a_sus_habitantes_y_se_dictan_otras_disposiciones"	
+						},			
+						{			
+							"name": "8548"	,"Título":"Por_medio_de_la_cual_la_Nación_y_el_Congreso_de_la_República_se_vinculan_a_la_celebración_de_los_100_años_de_fundación_del_municipio_de_Belén_de_los_Andaquíes_en_el_departamento_del_Caquetá_y_se_dictan_otras_disposiciones"	
+						},			
+						{			
+							"name": "8597"	,"Título":"Por_medio_de_la_cual_la_Nación_se_asocia_a_la_conmemoración_de_los_400_años_de_la_fundación_del_municipio_de_San_Jerónimo_en_el_Departamento_de_Antioquia_y_se_dictan_otras_disposiciones"	
+						},			
+						{			
+							"name": "8603"	,"Título":"Por_medio_de_la_cual_se_declara_el_25_de_octubre_como_el_día_nacional_de_las_personas_de_talla_baja"	
+						},			
+						{			
+							"name": "8617"	,"Título":"Por_medio_de_la_cual_se_rinde_honores_a_la_memoria_y_obra_del_expresidente_Julio_Cesar_Turbay_Ayala;_con_ocasión_del_primer_centenario_de_su_natalicio"	
+						},			
+						{			
+							"name": "8675"	,"Título":"Por_medio_de_la_cual_se_reconoce_como_patrimonio_cultural_inmaterial_de_la_Nación_el_Festival_Nacional_del_Son_Francisco_?Pacho?_Rada;_del_municipio_de_Ariguaní_?departamento_del_Magdalena_y_se_dictan_otras_disposiciones"	
+						},			
+						{			
+							"name": "8702"	,"Título":"Por_medio_de_la_cual_la_Nación_se_vincula_a_la_conmemoración_y_rinde_homenaje_público_al_municipio_de_Pinchote;_departamento_de_Santander;_con_motivo_de_la_celebración_de_los_235_años_de_su_fundación"	
+						},			
+						{			
+							"name": "8705"	,"Título":"Por_medio_de_la_cual_se_crea_una_instancia_que_coordine_y_promueva_programas_y_actividades_que_se_desarrollen_en_las_zonas_del_Paisaje_Cultural_Cafetero_Colombiano_(PCCC)_y_se_fortalezcan_las_estrategias_y_criterios_que_la_UNESCO_definió_para_inscribirlo_en_la_lista_de_patrimonio_mundial"	
+						},			
+						{			
+							"name": "8709"	,"Título":"Por_medio_de_la_cual_la_Nación_se_asocia_a_la_conmemoración_de_los_cincuenta_(50)_años_de_vida_político-_administrativa_del_Departamento_del_Cesar;_rinde_público_homenaje_a_sus_habitantes_y_se_dictan_otras_disposiciones"	
+						},			
+						{			
+							"name": "8722"	,"Título":"Por_medio_de_la_cual_la_Nación_se_asocia_a_la_conmemoración_de_los_doscientos_(200)_años_de_vida_administrativa_del_municipio_de_Guarne_?_Antioquia;_rinde_público_homenaje_a_sus_habitantes_y_se_dictan_otras_disposiciones"	
+						},			
+						{			
+							"name": "8730"	,"Título":"Por_medio_de_la_cual_se_declara_patrimonio_pedagógico_de_la_Nación_al_Instituto_Pedagógico_Nacional_(IPN)_Escuela_Laboratorio_y_Centro_de_Práctica_de_la_Universidad_Pedagógica_Nacional;_en_el_Distrito_Capital_de_Bogotá_y_se_dictan_otras_disposiciones"	
+						},			
+						{			
+							"name": "8734"	,"Título":"Por_medio_de_la_cual_la_Nación_se_vincula_a_la_celebración_del_bicentenario_de_la_campaña_libertadora_de_1819;_y_se_dictan_otras_disposiciones"	
+						},			
+						{			
+							"name": "8739"	,"Título":"Por_medio_de_la_cual_se_conmemora_el_bicentenario_del_sacrificio_de_la_heroína_Nacional_Policarpa_Salavarrieta_y_se_dictan_varias_disposiciones_para_celebrar_sus_aportes_a_la_República"	
+						},			
+						{			
+							"name": "8756"	,"Título":"Por_medio_de_la_cual_la_Nación_se_asocia_a_la_exaltación_de_la_obra_artística_de_la_maestra_Cecilia_Vargas_Muñoz_por_sus_aportes_a_la_cultura_colombiana"	
+						},			
+						{			
+							"name": "8792"	,"Título":"Por_medio_del_cual_se_declara_como_patrimonio_cultural_y_deportivo_de_la_Nación_al_Estadio_Eduardo_Santos_?semillero_del_fútbol_colombiano?_ubicado_en_el_distrito_turístico;_cultural_e_histórico_de_Santa_Marta_y_se_dictan_otras_disposiciones"	
+						},			
+						{			
+							"name": "8831"	,"Título":"Por_el_cual_se_hace_el_reconocimiento_a_la_cultura;_tradición_e_identidad_llanera_y_se_insta_a_las_autoridades_locales_administrativas_a_desarrollar_un_plan_especial_de_salvaguarda_al_patrimonio_cultural_llanero"	
+						},			
+						{			
+							"name": "8845"	,"Título":"Por_la_cual_la_Nación_rinde_público_homenaje_y_se_vincula_a_la_celebración_del_sesquicentenario_de_fundación_de_la_Universidad_Nacional_de_Colombia_y_se_dictan_otras_disposiciones"	
+						},			
+						{			
+							"name": "8870"	,"Título":"Por_medio_de_la_cual_se_declara_patrimonio_cultural_de_la_Nación;_?el_Festival_Internacional;_Ipiales_Cuna_de_Grandes_Tríos?;_celebrado_en_el_municipio_de_Ipiales_-_departamento_de_Nariño"	
+						},			
+						{			
+							"name": "9016"	,"Título":"Por_medio_de_la_cual_la_Nación_se_vincula_a_la_conmemoración_de_los_70_años_de_existencia_de_la_Universidad_Industrial_de_Santander;_y_en_su_homenaje;_se_autoriza_financiar_proyectos_de_infraestructura;_dotación;_investigación_y_extensión_para_la_paz"	
+						}			
+						]			
+			},						
+			{						
+			"name":"Comercio;_industria_y_turismo",			"Título":"Cantidad Proyectos: 2",			
+			"children": [						
+						{			
+							"name": "8153"	,"Título":"Por_medio_del_cual_se_establece_la_entrega_de_informe_anual_sobre_el_desarrollo;_avance_y_consolidación_de_los_acuerdos_comerciales_suscritos_por_Colombia"	
+						},			
+						{			
+							"name": "8649"	,"Título":"Por_medio_del_cual_se_crean_y_desarrollan_las_Sociedades_Comerciales_de_Beneficio_e_Interés_Colectivo_?_BIC"	
+						}			
+						]			
+			},						
+			{						
+			"name":"Comunicaciones;_medios_y_tecnologías_de_la_información",			"Título":"Cantidad Proyectos: 2",			
+			"children": [						
+						{			
+							"name": "8454"	,"Título":"Por_la_cual_se_dictan_normas_de_fomento_a_la_ciencia;_tecnología_e_innovación_mediante_la_creación_de_empresas_de_base_tecnológica_(spin_offs)"	
+						},			
+						{			
+							"name": "8470"	,"Título":"Por_la_cual_se_promueve_y_fomenta_la_producción_y_comunicación_de_contenidos_digitales;_se_crea_la_Semana_Nacional_de_Contenidos_Digitales;_y_se_dictan_otras_disposiciones"	
+						}			
+						]			
+			},						
+			{						
+			"name":"Conflicto_armado",			"Título":"Cantidad Proyectos: 2",			
+			"children": [						
+						{			
+							"name": "7867"	,"Título":"Por_medio_de_la_cual_se_prorroga_la_Ley_418_de_1997;_prorrogada_y_modificada_por_las_Leyes_548_de_1999;782_de_2002;1106_de_2006_y_1421_de_2010"	
+						},			
+						{			
+							"name": "8301"	,"Título":"Por_medio_de_la_cual_se_modifica_el_artículo_8°_de_la_Ley_418_de_1997;_prorrogada_y_modificada_por_las_Leyes_548_de_1999;_782_de_2002;_1106_de_2006;_1421_de_2010_y_1738_de_2014"	
+						}			
+						]			
+			},						
+			{						
+			"name":"Corrupción",		"Título":"Cantidad Proyectos: 1",				
+			"children": [						
+						{			
+							"name": "7895"	,"Título":"Por_la_cual_se_dictan_normas_sobre_la_responsabilidad_de_las_personas_jurídicas_por_actos_de_corrupción_transnacional_y_se_dictan_otras_disposiciones_en_materia_de_lucha_contra_la_corrupción"	
+						}			
+						]			
+			},						
+			{						
+			"name":"Derechos_de_autor",		"Título":"Cantidad Proyectos: 2",				
+			"children": [						
+						{			
+							"name": "8333"	,"Título":"Por_la_cual_se_modifica_el_artículo_98_de_la_Ley_23_de_1982_sobre_derechos_de_autor;_se_establece_una_remuneración_por_comunicación_pública_a_los_autores_de_obras_cinematográficas_o_Ley_Pepe_Sánchez"	
+						},			
+						{			
+							"name": "9291"	,"Título":"Por_la_cual_se_modifica_la_ley_23_de_1982_y_se_establecen_otras_disposiciones_en_materia_de_derecho_de_autor_y_derechos_conexos"	
+						}			
+						]			
+			},						
+			{						
+			"name":"Derechos_Fundamentales",			"Título":"Cantidad Proyectos: 1",			
+			"children": [						
+						{			
+							"name": "8811"	,"Título":"Por_medio_de_la_cual_se_modifican_algunos_artículos_de_la_Ley_1098_de_2006;_?Por_la_cual_se_expide_el_código_de_la_infancia_y_la_adolescencia?_y_se_dictan_otras_disposiciones"	
+						}			
+						]			
+			},						
+			{						
+			"name":"Economía",			"Título":"Cantidad Proyectos: 11",			
+			"children": [						
+						{			
+							"name": "7709"	,"Título":"Por_medio_de_la_cual_se_dictan_normas_en_materia_de_costos_de_los_servicios_financieros;_reportes_en_centrales_de_riesgo_y_se_dictan_otras_disposiciones"	
+						},			
+						{			
+							"name": "7860"	,"Título":"Por_la_cual_se_decreta_el_Presupuesto_del_Sistema_General_de_Regalías_para_el_bienio_del_1°_de_enero_de_2015_al_31_de_diciembre_de_2016"	
+						},			
+						{			
+							"name": "7980"	,"Título":"Por_medio_de_la_cual_se_adiciona_un_parágrafo_al_artículo_102_de_la_Ley_50_de_1990_y_se_dictan_otras_disposiciones"	
+						},			
+						{			
+							"name": "8206"	,"Título":"Por_la_cual_se_amplían_las_autorizaciones_conferidas_al_Gobierno_nacional_para_celebrar_operaciones_de_crédito_público_externo_e_interno_y_operaciones_asimiladas_a_las_anteriores;_así_como_para_garantizar_obligaciones_de_pago_de_otras_entidades_y_se_dictan_disposiciones_sobre_emisión_de_títulos_de_Tesorería_TES_Clase_?B?_con_el_fin_de_atender_la_eventual_liquidación_de_la_Caja_Nacional_de_Previsión_Social_de_Comunicaciones;_Caprecom"	
+						},			
+						{			
+							"name": "8241"	,"Título":"Por_la_cual_se_dictan_medidas_relacionadas_con_los_contratos_de_depósito_de_dinero"	
+						},			
+						{			
+							"name": "8337"	,"Título":"Por_medio_de_la_cual_se_adoptan_medidas_en_relación_con_los_deudores_de_los_programas_PRAN_y_Fonsa"	
+						},			
+						{			
+							"name": "8425"	,"Título":"Por_la_cual_se_modifica_parcialmente_la_Ley_1527_de_2012;_Por_medio_de_la_cual_se_establece_un_marco_general_para_la_libranza_o_descuento_directo_y_se_dictan_otras_disposiciones"	
+						},			
+						{			
+							"name": "8625"	,"Título":"Por_el_cual_se_dictan_normas_para_fortalecer_la_regulación_y_supervisión_de_los_conglomerados_financieros_y_los_mecanismos_de_resolución_de_entidades_financieras"	
+						},			
+						{			
+							"name": "8718"	,"Título":"Proyecto_de_ley_por_medio_del_cual_se_modifica_y_adiciona_la_Ley_1708_de_2014_?_Código_de_Extinción_de_Dominio-_y_se_dictan_otras_disposiciones"	
+						},			
+						{			
+							"name": "8942"	,"Título":"Por_medio_del_cual_se_crea_el_?Fondo_para_el_Desarrollo_Integral_del_Distrito_Especial_de_Buenaventura?_y_se_adoptan_medidas_para_promover_el_desarrollo_integral_del_distrito_especial;_industrial;_portuario;_biodiverso_y_ecoturístico_de_Buenaventura"	
+						},			
+						{			
+							"name": "9284"	,"Título":"Por_la_cual_se_regula_lo_previsto_en_el_parágrafo_5_del_artículo_361_de_la_Constitución_Política_relativo_a_los_programas_y_proyectos_de_inversión_que_se_financiarán_con_recursos_del_Fondo_de_Ciencia;_Tecnología_e_Innovación_del_Sistema_General_de_Regalías"	
+						}			
+						]			
+			},						
+			{						
+			"name":"Educación;_cultura;_ciencia_y_tecnología",				"Título":"Cantidad Proyectos: 9",		
+			"children": [						
+						{			
+							"name": "7861"	,"Título":"Por_medio_de_la_cual_se_regula_el_cobro_del_gasto_pre-jurídico_en_los_créditos_educativos_del_Icetex"	
+						},			
+						{			
+							"name": "7890"	,"Título":"Por_medio_del_cual_se_definen_y_regulan_las_cuentas_abandonadas_y_se_destinan_recursos_adicionales_para_la_educación_en_Colombia"	
+						},			
+						{			
+							"name": "7893"	,"Título":"Por_medio_de_la_cual_se_establece_la_tasa_real_de_0%_de_intereses_en_los_créditos_educativos_otorgados_por_el_Fondo_Nacional_del_Ahorro_para_estudiantes_de_estratos_1;_2_y_3"	
+						},			
+						{			
+							"name": "7915"	,"Título":"Por_la_cual_se_desarrolla_parcialmente_el_artículo_67_y_los_numerales_21;_22_y_26_del_artículo_189_de_la_Constitución_Política;_se_regula_la_inspección_y_vigilancia_de_la_educación_superior_y_se_dictan_otras_disposiciones_[Vigilancia_de_la_educación_superior]"	
+						},			
+						{			
+							"name": "8033"	,"Título":"Por_el_cual_se_crea_el_Sistema_Nacional_de_Información_de_Becas_y_Créditos_Educativos_(SNIBCE)"	
+						},			
+						{			
+							"name": "8181"	,"Título":"Por_el_cual_se_exceptúa_la_destinación_específica_de_que_trata_el_parágrafo_del_artículo_212_de_la_Ley_115_de_1994_de_un_área_de_terreno_denominada_?La_Casona?;_donde_funcionó_el_antiguo_colegio_San_José_de_Alcántara_de_Guanentá"	
+						},			
+						{			
+							"name": "8234"	,"Título":"Por_medio_de_la_cual_se_fomenta_la_economía_creativa;_Ley_Naranja"	
+						},			
+						{			
+							"name": "8392"	,"Título":"Por_el_cual_se_modifica_parcialmente_la_Ley_General_de_Educación;_Ley_115_de_1994;_y_se_dictan_otras_disposiciones"	
+						},			
+						{			
+							"name": "8847"	,"Título":"Por_medio_de_la_cual_se_crea_la_contribución_solidaria_a_la_educación_superior_y_se_dictan_otras_disposiciones_sobre_los_mecanismos_y_las_estrategias_para_lograr_la_financiación_sostenible_de_la_educación_superior"	
+						}			
+						]			
+			},						
+			{						
+			"name":"Estampillas",		"Título":"Cantidad Proyectos:7",				
+			"children": [						
+						{			
+							"name": "8046"	,"Título":"Por_medio_de_la_cual_se_modifica_la_Ley_648_de_2001_y_se_dictan_otras_disposiciones"	
+						},			
+						{			
+							"name": "8250"	,"Título":"Por_medio_de_la_cual_se_modifica_la_Ley_367_de_1997"	
+						},			
+						{			
+							"name": "8302"	,"Título":"Por_medio_de_la_cual_se_renueva_la_emisión_de_la_estampilla_Pro-Universidad_Industrial_de_Santander_creada_mediante_Ley_85_de_1993;_modificada_por_la_Ley_1216_de_2008;_y_se_dictan_otras_disposiciones-_[Renovación_estampilla_Pro-Universidad_Industrial_de_Santander]"	
+						},			
+						{			
+							"name": "8334"	,"Título":"Por_la_cual_se_modifica_el_artículo_49_de_la_Ley_191_de_1995"	
+						},			
+						{			
+							"name": "8547"	,"Título":"Por_medio_de_la_cual_se_autoriza_a_las_Asambleas_Departamentales_y_los_Concejos_Distritales_para_la_emisión_de_la_estampilla_pro_?electrificación_rural_y_otras;_contempladas_en_la_Ley_1059_del_26_de_julio_del_2006_que_modifica_la_Ley_23_de_enero_24_de_1986"	
+						},			
+						{			
+							"name": "8629"	,"Título":"Por_medio_de_la_cual_prorroga_y_modifica_la_Ley_426_de_1998_que_autoriza_la_emisión_de_estampillas_para_Universidad_de_Caldas;_Universidad_Nacional_sede_Manizales_y_Universidad_Tecnológica_de_Pereira"	
+						},			
+						{			
+							"name": "8689"	,"Título":"Por_medio_de_la_cual_se_modifican_la_Ley_71_de_1986_y_la_Ley_1423_de_2010;_y_se_dictan_otras_disposiciones"	
+						}			
+						]			
+			},						
+			{						
+			"name":"Familia",		"Título":"Cantidad Proyectos:4",				
+			"children": [						
+						{			
+							"name": "8064"	,"Título":"Por_medio_del_cual_se_adopta_la_estrategia_salas_amigas_de_la_familia_lactante_del_entorno_laboral_en_entidades_públicas_y_empresas_privadas_y_se_dictan_otras_disposiciones"	
+						},			
+						{			
+							"name": "8089"	,"Título":"Por_medio_del_cual_se_modifica_la_Ley_1361_del_año_2009_para_adicionar_y_complementar_las_medidas_de_protección_de_la_familia_y_se_dictan_otras_disposiciones"	
+						},			
+						{			
+							"name": "8562"	,"Título":"Por_el_cual_se_brinda_condiciones_para_mejorar_la_calidad_de_vida_del_adulto_mayor_en_Colombia"	
+						},			
+						{			
+							"name": "8579"	,"Título":"Por_medio_de_la_cual_se_modifica_el_artículo_1025_del_Código_Civil"	
+						}			
+						]			
+			},						
+			{						
+			"name":"Implementación_paz",			"Título":"Cantidad Proyectos:5",			
+			"children": [						
+						{			
+							"name": "8755"	,"Título":"Por_medio_de_la_cual_se_dictan_disposiciones_sobre_amnistía;_indulto_y_tratamientos_penales_especiales"	
+						},			
+						{			
+							"name": "8762"	,"Título":"Por_medio_de_la_cual_se_adiciona_un_artículo__transitorio_a_la_Ley_5ª_de_1992"	
+						},			
+						{			
+							"name": "8772"	,"Título":"Por_medio_de_la_cual_se_crea_el_Sistema_Nacional_de_Innovación_Agropecuaria_y_se_dictan_otras_disposiciones"	
+						},			
+						{			
+							"name": "8868"	,"Título":"Por_medio_del_cual_se_exceptúa_a_la_Unidad_Nacional_de_Protección_de_lo_dispuesto_en_el_artículo_92_de_la_Ley_617_de_2000"	
+						},			
+						{			
+							"name": "9307"	,"Título":"Por_medio_de_la_cual_se_adoptan_unas_Reglas_de_Procedimiento_para_la_Jurisdicción_Especial_para_la_Paz"	
+						}			
+						]			
+			},						
+			{						
+			"name":"Impuestos",		"Título":"Cantidad Proyectos:3",				
+			"children": [						
+						{			
+							"name": "7857"	,"Título":"Por_medio_de_la_cual_se_modifica_el_Estatuto_Tributario;_la_Ley_1607_de_2012;_se_crean_mecanismos_de_lucha_contra_la_evasión_y_se_dictan_otras_disposiciones"	
+						},			
+						{			
+							"name": "8254"	,"Título":"Por_medio_de_la_cual_se_fija_el_régimen_propio_del_monopolio_rentístico_de_licores_destilados;_se_modifica_el_impuesto_al_consumo_de_licores;_vinos;_aperitivos_y_similares;_y_se_dictan_otras_disposiciones"	
+						},			
+						{			
+							"name": "8698"	,"Título":"Por_medio_de_la_cual_se_adopta_una_reforma_tributaria_estructural;_se_fortalecen_los_mecanismos_para_la_lucha_contra_la_evasión_y_la_elusión_fiscal;_y_se_dictan_otras_disposiciones"	
+						}			
+						]			
+			},						
+			{						
+			"name":"Infraestructura",		"Título":"Cantidad Proyectos:1",				
+			"children": [						
+						{			
+							"name": "7908"	,"Título":"Por_la_cual_se_adoptan_medidas_y_disposiciones_para_los_proyectos_de_infraestructura_de_transporte;_agua_potable_y_saneamiento_básico;_y_los_demás_sectores_que_requieran_expropiación_en_proyectos_de_inversión_que_adelante_el_Estado_y_se_dictan_otras_disposiciones"	
+						}			
+						]			
+			},						
+			{						
+			"name":"Justicia",		"Título":"Cantidad Proyectos:5",				
+			"children": [						
+						{			
+							"name": "7655"	,"Título":"Por_medio_de_la_cual_se_crea_el_artículo_116_A;_se_modifican_los_artículos_68_A;_104;_113;_359_y_374_de_la_Ley_599_de_2000_y_se_modifica_el_artículo_351_de_la_Ley_906_de_2004"	
+						},			
+						{			
+							"name": "7795"	,"Título":"Por_medio_de_la_cual_se_modifican_el_Código_Civil;_la_Ley_84_de_1989;_el_Código_Penal;_el_Código_de_Procedimiento_Penal_y_se_dictan_otras_disposiciones"	
+						},			
+						{			
+							"name": "7882"	,"Título":"Por_medio_de_la_cual_se_modifica_parcialmente_la_Ley_906_de_2004_en_relación_con_las_medidas_de_aseguramiento_privativas_de_la_libertad"	
+						},			
+						{			
+							"name": "8107"	,"Título":"Por_medio_del_cual_se_definen_las_contravenciones_penales;_se_establece_un_procedimiento_especial_abreviado_para_ellas_y_se_regula_la_figura_del_acusador_privado"	
+						},			
+						{			
+							"name": "8345"	,"Título":"Por_medio_de_la_cual_se_modifican_algunas_disposiciones_de_la_Ley_1760_de_2015"	
+						}			
+						]			
+			},						
+			{						
+			"name":"Laboral",		"Título":"Cantidad Proyectos:3",				
+			"children": [						
+						{			
+							"name": "8252"	,"Título":"Por_medio_de_la_cual_se_promueve_el_empleo_y_el_emprendimiento_juvenil;_se_genera_medidas_para_superar_barreras_de_acceso_al_mercado_de_trabajo_y_se_dictan_otras_disposiciones"	
+						},			
+						{			
+							"name": "8287"	,"Título":"Por_medio_de_la_cual_se_modifican_los_artículos_160;_161_del_Código_Sustantivo_del_Trabajo_y_se_dictan_otras_disposiciones"	
+						},			
+						{			
+							"name": "8955"	,"Título":"Orgánica_por_medio_de_la_cual_se_exceptúa_al_Ministerio_del_Trabajo;_al_Instituto_Nacional_Penitenciario_y_Carcelario_(Inpec);_al_Congreso_de_la_República_-_Cámara_de_Representantes_y_Senado_de_la_República;_a_la_Unidad_Administrativa_Especial_de_Aeronáutica_Civil_(UAEAC)_y_al_Departamento_Administrativo_para_la_Prosperidad_Social_(DPS);_de_lo_dispuesto_en_el_artículo_92_de_la_Ley_617_de_2000__[Permite_modificaciones_a_la_planta_de_personal_de_algunas_entidades_del_Estado]"	
+						}			
+						]			
+			},						
+			{						
+			"name":"Mujer",		"Título":"Cantidad Proyectos:2",				
+			"children": [						
+						{			
+							"name": "8102"	,"Título":"Por_medio_del_cual_se_incentiva_la_adecuada_atención_y_cuidado_de_la_primera_infancia;_se_modifican_los_artículos_236_y_239_del_Código_Sustantivo_del_Trabajo_y_se_dictan_otras_disposiciones"	
+						},			
+						{			
+							"name": "8396"	,"Título":"Por_medio_de_la_cual_se_establecen_criterios_de_equidad_de_géneros_en_la_adjudicación_de_las_tierras_baldías;_vivienda_rural;_proyectos_productivos;_se_modifica_la_Ley_160_de_1994_y_se_dictan_otras_disposiciones"	
+						}			
+						]			
+			},						
+			{						
+			"name":"Notariado_y_registro",			"Título":"Cantidad Proyectos:1",			
+			"children": [						
+						{			
+							"name": "8289"	,"Título":"Por_medio_de_la_cual_se_expiden_normas_en_materia_de_formalización;_titulación_y_reconocimiento_de_las_edificaciones_de_los_asentamientos_humanos;_de_predios_urbanos_y_se_dictan_otras_disposiciones"	
+						}			
+						]			
+			},						
+			{						
+			"name":"Ordenamiento_Territorial",			"Título":"Cantidad Proyectos:2",			
+			"children": [						
+						{			
+							"name": "8657"	,"Título":"Por_medio_de_la_cual_se_otorga_la_categoría_de_Distrito_Portuario;_Agroindustrial_y_Turístico_a_Turbo;_Antioquia"	
+						},			
+						{			
+							"name": "8717"	,"Título":"Por_medio_de_la_cual_se_decreta_al_municipio_de_Santa_Cruz_de_Mompóx;_del_departamento_de_Bolívar;_como_distrito_especial;_turístico;_cultural_e_histórico_de_Colombia"	
+						}			
+						]			
+			},						
+			{						
+			"name":"Organismos_de_Control_y_Ministerio_público",				"Título":"Cantidad Proyectos:1",		
+			"children": [						
+						{			
+							"name": "8104"	,"Título":"Por_la_cual_se_modifican_parcialmente_los_Decretos-ley_267_y_271_de_2000_y_se_crea_la_dependencia_denominada_?Centro_de_Estudios_Fiscales_(CEF)?_de_la_Contraloría_General_de_la_República;_se_establecen_sus_funciones_y_se_dictan_otras_disposiciones"	
+						}			
+						]			
+			},						
+			{						
+			"name":"Organización_Electoral_y_elecciones",				"Título":"Cantidad Proyectos:1",		
+			"children": [						
+						{			
+							"name": "8030"	,"Título":"Proyecto_mediante_el_cual_se_modifica_la_Ley_599_de_2000_y_se_dictan_otras_disposiciones_para_proteger_los_mecanismos_de_participación_democrática"	
+						}			
+						]			
+			},						
+			{						
+			"name":"Plan_Nacional_de_Desarrollo",			"Título":"Cantidad Proyectos:1",			
+			"children": [						
+						{			
+							"name": "7930"	,"Título":"Por_la_cual_se_expide_el_Plan_Nacional_de_Desarrollo_2014_-2018_?Todos_por_un_nuevo_país?_[Plan_Nacional_de_Desarrollo_2014_-_2018]"	
+						}			
+						]			
+			},						
+			{						
+			"name":"Política_Internacional",			"Título":"Cantidad Proyectos:14",			
+			"children": [						
+						{			
+							"name": "7731"	,"Título":"Por_medio_de_la_cual_se_aprueba_el_«Tratado_sobre_el_Comercio_de_Armas»;_adoptado_por_la_Asamblea_General_de_las_Naciones_Unidas_mediante_Resolución_67/234_b_de_2_de_abril_de_2013_y_suscrito_en_la_ciudad_de_Nueva_York;_el_24_de_septiembre_de_2013"	
+						},			
+						{			
+							"name": "7802"	,"Título":"Por_medio_de_la_cual_se_aprueba_el_?Protocolo_adicional_al_Acuerdo_Marco_de_la_Alianza_del_Pacífico?;_firmado_en_Cartagena_de_Indias;_República_de_Colombia;_el_10_de_febrero_de_2014"	
+						},			
+						{			
+							"name": "7803"	,"Título":"Por_medio_de_la_cual_se_aprueba_el_?Acuerdo_de_Libre_Comercio_entre_la_República_de_Colombia_y_la_República_de_Corea?;_firmado_en_Seúl;_el_21_de_febrero_de_2013"	
+						},			
+						{			
+							"name": "7987"	,"Título":"Por_medio_de_la_cual_se_aprueba_el_?Acuerdo_marco_entre_las_Naciones_Unidas_y_el_gobierno_de_la_República_de_Colombia_relativo_a_las_contribuciones_al_Sistema_de_Acuerdos_de_Fuerzas_de_Reserva_de_las_Naciones_Unidas_para_las_operaciones_de_mantenimiento_de_la_paz?;_suscrito_en_la_ciudad_de_Nueva_York_el_26_de_enero_de_2015"	
+						},			
+						{			
+							"name": "8154"	,"Título":"Por_medio_de_la_cual_se_aprueba_el_?Protocolo_de_enmienda_al_Convenio_de_Integración_Cinematográfica_Iberoamericana?;_suscrito_en_la_ciudad_de_Córdoba;_España;_el_28_de_noviembre_de_2007"	
+						},			
+						{			
+							"name": "8209"	,"Título":"Por_medio_de_la_cual_se_aprueba_el_?Acuerdo_entre_la_República_de_Colombia_y_la_Organización_del_Tratado_del_Atlántico_Norte_sobre_Cooperación_y_Seguridad_de_Información?;_suscrito_en_Bruselas_el_25_de_junio_de_2013"	
+						},			
+						{			
+							"name": "8245"	,"Título":"Por_medio_de_la_cual_se_aprueba_el_?Acuerdo_entre_el_gobierno_de_la_República_de_Colombia_y_el_gobierno_de_la_República_Francesa_sobre_el_fomento_y_protección_recíprocos_de_inversiones?;_suscrito_en_la_ciudad_de_Bogotá;_a_los_10_días_del_mes_de_julio_de_2014"	
+						},			
+						{			
+							"name": "8274"	,"Título":"Por_medio_de_la_cual_se_aprueba_el_?Tratado_de_Libre_Comercio_entre_la_República_de_Colombia_y_el_Estado_de_Israel?;_hecho_en_Jerusalén;_Israel;_el_30_de_septiembre_de_2013_y_el_?canje_de_notas_entre_la_República_de_Colombia_y_el_Estado_de_Israel;_por_medio_de_la_cual_se_corrigen_errores_técnicos_del_Tratado_de_Libre_Comercio_entre_la_República_de_Colombia_y_el_Estado_de_Israel;_efectuado_el_13_de_noviembre_de_2015"	
+						},			
+						{			
+							"name": "8458"	,"Título":"Por_medio_de_la_cual_se_aprueba_el_Protocolo_al_Tratado_antártico_sobre_protección_del_medio_ambiente;_su_apéndice_y_sus_Anexos_I;_II;_III;_Y_IV;_hecho_en_Madrid_el_04_de_octubre_de_1991;_su_Anexo_V_adoptado_en_Bonn;_el_17_de_octubre_de_1991;_y_su_Anexo_VI;_adoptado_en_Estocolmo;_el_17_de_junio_de_2005"	
+						},			
+						{			
+							"name": "8459"	,"Título":"Por_medio_de_la_cual_se_aprueba_el_Acuerdo_para_el_establecimiento_del_Fondo_de_Cooperación_de_la_Alianza_del_Pacifico;_suscrito_en_Cali_república_de_Colombia_el_22_de_mayo_de_2013"	
+						},			
+						{			
+							"name": "8653"	,"Título":"Por_medio_de_la_cual_se_aprueba_el_Acuerdo_de_París;_adoptado_el_12_de_diciembre_de_2015;_en_París;_Francia"	
+						},			
+						{			
+							"name": "8678"	,"Título":"Por_medio_de_la_cual_se_aprueba_el_protocolo_de_enmienda_del_acuerdo_de_Marrakech_por_el_cual_se_establece_la_Organización_Mundial_del_Comercio_adoptado_por_el_Consejo_General_de_la_Organización_Mundial_del_Comercio_en_Ginebra;_Suiza;_el_27_de_noviembre_de_2014"	
+						},			
+						{			
+							"name": "8685"	,"Título":"Por_medio_de_la_cual_se_aprueba_el_Convenio_de_Minamata_sobre_el_mercurio;_hecho_en_Kumamoto;_Japón;_el_10_de_octubre_de_2013"	
+						},			
+						{			
+							"name": "8731"	,"Título":"Por_medio_de_la_cual_se_aprueba_el_?primer_protocolo_modificatorio_del_protocolo_adicional_al_Acuerdo_Marco_de_la_Alianza_del_Pacífico?;_firmado_en_Paracas;_Ica;_República_del_Perú;_el_03_de_julio_de_2015;_y_el_?segundo_protocolo_modificatorio_del_protocolo_adicional_al_Acuerdo_Marco_de_la_Alianza_del_Pacífico?;_firmado_en_Puerto_Varas;_República_de_Chile;_el_01_de_julio_de_2016?"	
+						}			
+						]			
+			},						
+			{						
+			"name":"Presupuesto",		"Título":"Cantidad Proyectos:5",				
+			"children": [						
+						{			
+							"name": "7688"	,"Título":"Por_la_cual_se_decreta_el_Presupuesto_de_Rentas_y_Recursos_de_Capital_y_Ley_de_Apropiaciones_para_la_vigencia_fiscal_del_1°_de_enero_al_31_de_diciembre_de_2015"	
+						},			
+						{			
+							"name": "8068"	,"Título":"Por_la_cual_se_decreta_el_Presupuesto_de_Rentas_y_Recursos_de_Capital_y_Ley_de_Apropiaciones_para_la_vigencia_fiscal_del_1°_de_enero_al_31_de_diciembre_de_2016"	
+						},			
+						{			
+							"name": "8475"	,"Título":"Por_la_cual_se_decreta_el_Presupuesto_de_rentas_y_recursos_de_capital_y_ley_de_apropiaciones_para_la_vigencia_fiscal_del_1_de_enero_al_31_de_diciembre_de_2017"	
+						},			
+						{			
+							"name": "8800"	,"Título":"Por_la_cual_se_efectúan_unas_modificaciones_al_Presupuesto_General_de_la_Nación_para_la_vigencia_fiscal_de_2017"	
+						},			
+						{			
+							"name": "8903"	,"Título":"Por_la_cual_se_decreta_el_Presupuesto_de_Rentas_y_Recursos_de_Capital_y_Ley_de_Apropiaciones_para_la_vigencia_fiscal_del_1°_de_enero_al_31_de_diciembre_de_2018"	
+						}			
+						]			
+			},						
+			{						
+			"name":"Profesiones",		"Título":"Cantidad Proyectos:3",				
+			"children": [						
+						{			
+							"name": "7869"	,"Título":"Por la cual se establece el procedimiento disciplinario que deberá seguirse para tramitar y decidir los asuntos disciplinarios que conoce el Consejo Profesional Nacional de Arquitectura y sus Profesiones Auxiliares"	
+						},			
+						{			
+							"name": "8529"	,"Título":"Por_medio_de_la_cual_se_dictan_disposiciones_relacionadas_con_el_ejercicio_de_la_profesión_de_abogado"	
+						},			
+						{			
+							"name": "8861"	,"Título":"Por_medio_de_la_cual_se_reglamenta_el_sistema_de_residencias_médicas_en_Colombia;_su_mecanismo_de_financiación_y_se_dictan_otras_disposiciones"	
+						}			
+						]			
+			},						
+			{						
+			"name":"Rama_Judicial",		"Título":"Cantidad Proyectos:2",				
+			"children": [						
+						{			
+							"name": "7896"	,"Título":"Por_medio_de_la_cual_se_establecen_Alternativas_de_Financiamiento_para_la_Rama_Judicial"	
+						},			
+						{			
+							"name": "9280"	,"Título":"Por_medio_de_la_cual_se_fortalecen_la_investigación_y_judicialización_de_organizaciones_criminales_y_se_adoptan_medidas_para_su_sujeción_a_la_justicia"	
+						}			
+						]			
+			},						
+			{						
+			"name":"Rama_Legislativa",		"Título":"Cantidad Proyectos:6",				
+			"children": [						
+						{			
+							"name": "8010"	,"Título":"Por_la_cual_se_modifica_y_adiciona_la_Ley_5ª_de_1992;_se_crea_la_Comisión_Legal_para_la_Protección_de_los_Derechos_de_las_Comunidades_Negras_o_Población_Afrocolombiana_del_Congreso_de_la_República_de_Colombia_y_se_dictan_otras_disposiciones"	
+						},			
+						{			
+							"name": "8235"	,"Título":"Por_medio_de_la_cual_se_expide_el_Código_de_Ética_y_Disciplinario_del_Congresista_y_se_dictan_otras_disposiciones"	
+						},			
+						{			
+							"name": "8648"	,"Título":"Por_medio_de_la_cual_se_dictan_el_régimen_de_remuneración;_prestacional_y_seguridad_social_de_los_miembros_de_las_asambleas_departamentales_y_se_dictan_otras_disposiciones"	
+						},			
+						{			
+							"name": "8848"	,"Título":"Por_el_cual_se_establece_el_procedimiento_de_pérdida_de_la_investidura_de_los_congresistas;_se_consagra_la_doble_instancia;_el_término_de_caducidad;_entre_otras_disposiciones"	
+						},			
+						{			
+							"name": "9290"	,"Título":"Orgánica_Por_medio_de_la_cual_se_adicionan_dos_parágrafos_al_artículo_2_de_la_Ley_3°_de_1992;_modificado_por_la_Ley_754_de_2002_y_se_dictan_otras_disposiciones"	
+						},			
+						{			
+							"name": "9295"	,"Título":"Por_la_cual_se_establecen_las_reglas_de_la_convocatoria_pública_previa_a_la_elección_del_Contralor_General_de_la_República_por_el_Congreso_de_la_República"	
+						}			
+						]			
+			},						
+			{						
+			"name":"Seguridad;_defensa_y_fuerza_pública",				"Título":"Cantidad Proyectos:5",		
+			"children": [						
+						{			
+							"name": "7846"	,"Título":"Por_la_cual_se_expide_el_Código_Nacional_de_Policía_y_Convivencia"	
+						},			
+						{			
+							"name": "8175"	,"Título":"Por_la_cual_se_reglamenta_el_servicio_de_reclutamiento;_control_de_reservas_y_la_movilización"	
+						},			
+						{			
+							"name": "8243"	,"Título":"Por_medio_de_la_cual_se_modifican_algunos_artículos_de_los_Decretos_Ley_1790_y_1791_de_2000;_modificados_por_la_Ley_1405_de_2010_y_se_dictan_otras_disposiciones"	
+						},			
+						{			
+							"name": "8263"	,"Título":"Por_la_cual_se_establecen_las_normas_de_conducta_del_militar_colombiano_y_se_expide_el_Código_Disciplinario_Militar"	
+						},			
+						{			
+							"name": "8415"	,"Título":"Por_la_cual_se_dictan_disposiciones_relacionadas_con_las_cooperativas_especializadas_de_vigilancia_y_seguridad_privada_y_se_busca_mejorar_las_condiciones_en_las_que_los_vigilantes_prestan_el_servicio_de_vigilancia_y_seguridad_privada"	
+						}			
+						]			
+			},						
+			{						
+			"name":"Seguridad_Social_y_salud",			"Título":"Cantidad Proyectos:6",			
+			"children": [						
+						{			
+							"name": "7631"	,"Título":"Por_la_cual_se_dictan_disposiciones_que_regulan_la_operación_del_Sistema_General_de_Seguridad_Social_en_Salud_y_se_dictan_otras_disposiciones"	
+						},			
+						{			
+							"name": "7790"	,"Título":"Por_medio_de_la_cual_se_reglamenta_el_Acto_Legislativo_02_de_2009"	
+						},			
+						{			
+							"name": "7805"	,"Título":"Por_medio_de_la_cual_se_modifican_la_Ley_73_de_1988_y_la_Ley_919_de_2004_en_materia_de_donación_de_componentes_anatómicos_y_se_dictan_otras_disposiciones"	
+						},			
+						{			
+							"name": "7958"	,"Título":"Por_medio_del_cual_se_prohíbe_los_procedimientos_médicos_y_quirúrgicos_estéticos_para_menores_de_edad_y_se_dictan_otras_disposiciones"	
+						},			
+						{			
+							"name": "8016"	,"Título":"Por_medio_del_cual_se_garantiza_el_acceso_en_condiciones_de_universalidad_al_derecho_prestacional_de_pago_de_prima_de_servicios_para_trabajadores_y_trabajadoras_domésticos"	
+						},			
+						{			
+							"name": "8207"	,"Título":"Por_medio_del_cual_se_regula_el_uso_del_desfibrilador_externo_automático_(DEA)_en_transportes_asistenciales;_lugares_de_alta_afluencia_de_público;_y_se_dictan_otras_disposiciones"	
+						}			
+						]			
+			},						
+			{						
+			"name":"Tránsito_y_transporte",			"Título":"Cantidad Proyectos:3",			
+			"children": [						
+						{			
+							"name": "8105"	,"Título":"Por_medio_del_cual_se_otorgan_incentivos_para_promover_el_uso_de_la_bicicleta_en_el_territorio_nacional_y_se_modifica_el_Código_Nacional_de_Transito"	
+						},			
+						{			
+							"name": "8218"	,"Título":"Por_medio_de_la_cual_se_regula_la_instalación_y_puesta_en_marcha_de_sistemas_automáticos;_semiautomáticos_y_otros_medios_tecnológicos_para_la_detección_de_infracciones_y_se_dictan_otras_disposiciones"	
+						},			
+						{			
+							"name": "8964"	,"Título":"Por_la_cual_se_autoriza_a_la_Nación_-_Ministerio_de_Hacienda_y_Crédito_Público-_capitalizar_al_Servicio_Aéreo_a_Territorios_Nacionales_S"	
+						}			
+						]			
+			},						
+			{						
+			"name":"Vivienda",			"Título":"Cantidad Proyectos:1",			
+			"children": [						
+						{			
+							"name": "7829"	,"Título":"Por_la_cual_se_establecen_medidas_enfocadas_a_la_protección_del_comprador_de_vivienda;_el_incremento_de_la_seguridad_de_las_edificaciones_y_el_fortalecimiento_de_la_función_pública_que_ejercen_los_curadores_urbanos"	
+						}			
+			]						
+									
+		  }         							
+        ]									
+      }									
+									
+    ]									
+}									
