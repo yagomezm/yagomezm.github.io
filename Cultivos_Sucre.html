@@ -49,12 +49,13 @@ H1.titulo {text-align: center;}
 <script>
 function dashboard(id, fData){
     var barColor = 'steelblue';
-    function segColor(c){ return {Algodon:"#807dba", Arroz:"#e58214", Frijol:"#FA58F4", Habichuela:"#E2A9F3", Maiz:"#308055", Melon:"#450050", Patilla:"#F5BCA9", Pepino:"#45abdd"}[c]; }
+    function segColor(c){ return {Algodon:"#807dba", Arroz:"#F5BCA9", Frijol:"#FA58F4", Habichuela:"#E2A9F3", Maiz:"#308055", Melon:"#BE56CF", Patilla:"#e58214", Pepino:"#45abdd"}[c]; }
     
-    // compute total for each anio.
+    // compute total for each año.
     fData.forEach(function(d){d.total=d.prod.Algodon+d.prod.Arroz+d.prod.Frijol+d.prod.Habichuela+d.prod.Maiz+d.prod.Melon+d.prod.Patilla+d.prod.Pepino;});
     
-    // function to handle histogram.
+
+    //  --------------------------function to handle histogram. --------------------------
     function histoGram(fD){
         var hG={},    hGDim = {t: 60, r: 0, b: 30, l: 0};
         hGDim.w = 500 - hGDim.l - hGDim.r, 
@@ -104,11 +105,15 @@ function dashboard(id, fData){
             .attr("x", function(d) { return x(d[0]); })
             .attr("y", function(d) { return y(d[1]); })
             //.attr("width", x.rangeBand()) //cambiado
-			.attr("width", x.bandwidth()-10) 
+			.attr("width", x.bandwidth()-10) //Al gusto de Yenny
             .attr("height", function(d) { return hGDim.h - y(d[1]); })
             .attr('fill',barColor)
+            .attr("opacity", 1)
             .on("mouseover",mouseover)// mouseover is defined below.
-            .on("mouseout",mouseout);// mouseout is defined below.
+            .on("mouseout",mouseout)// mouseout is defined below.
+            .append("title").text(function(e) 
+             {return e[0]+" : Total= "+ e[1];})
+            ;
             
         //Create the frequency labels above the rectangles.
         bars.append("text").text(function(d){ return d3.format(",")(d[1])})
@@ -123,12 +128,16 @@ function dashboard(id, fData){
                 nD = d3.keys(st.prod).map(function(s){ return {type:s, prod:st.prod[s]};});
                
             // call update functions of pie-chart and legend.    
+            d3.select("caption").text("Producción del año " + d[0]);
+            d3.select('text#TitPie').text("Producción del año " + d[0]);
             pC.update(nD);
             leg.update(nD);
         }
         
         function mouseout(d){    // utility function to be called on mouseout.
-            // reset the pie-chart and legend.    
+            // reset the pie-chart and legend.
+            d3.select("caption").text("Producción total de 2011 - 2015");   
+            d3.select('text#TitPie').text("Producción total de 2011 - 2015");  
             pC.update(tF);
             leg.update(tF);
         }
@@ -144,7 +153,8 @@ function dashboard(id, fData){
             bars.select("rect").transition().duration(500)
                 .attr("y", function(d) {return y(d[1]); })
                 .attr("height", function(d) { return hGDim.h - y(d[1]); })
-                .attr("fill", color);
+                .attr("fill", color)
+                .attr("opacity",1);
 
 				// transition the frequency labels location and change value.
             bars.select("text").transition().duration(500)
@@ -153,8 +163,10 @@ function dashboard(id, fData){
         }        
         return hG;
     }
+
+
     
-    // function to handle pieChart.
+    // --------------------------function to handle pieChart. --------------------------
     function pieChart(pD){
         var pC ={},    pieDim ={w:250, h: 250};
         pieDim.r = Math.min(pieDim.w, pieDim.h) / 2;
@@ -168,8 +180,10 @@ function dashboard(id, fData){
 		/* Cambiado
         var arc = d3.svg.arc().outerRadius(pieDim.r - 10).innerRadius(0);
         */
+        piesvg.append('text').attr('id','TitPie').text('Producción total de 2011 - 2015').attr('x',-pieDim.w/2+15).attr('y',-pieDim.h/2+12);
+
 		var arc = d3.arc()
-			.outerRadius(pieDim.r - 10)
+			.outerRadius(pieDim.r - 15)
 			.innerRadius(0);
 			
         // create a function to compute the pie slice angles.
@@ -182,8 +196,12 @@ function dashboard(id, fData){
         piesvg.selectAll("path").data(pie(pD)).enter().append("path").attr("d", arc)
             .each(function(d) { this._current = d; })
             .style("fill", function(d) { return segColor(d.data.type); })
-            .on("mouseover",mouseover).on("mouseout",mouseout);
-
+            .attr("opacity",0.8)
+            .on("mouseover",mouseover).on("mouseout",mouseout)
+            .append("title").text(function(d) 
+                {return d.data.type;})
+            ;
+         
         // create function to update pie-chart. This will be used by histogram.
         pC.update = function(nD){
 		    const t = d3.transition().duration(500);
@@ -195,12 +213,13 @@ function dashboard(id, fData){
             // call the update function of histogram with new data.
             hG.update(fData.map(function(v){ 
                 return [v.Anio,v.prod[d.data.type]];}),segColor(d.data.type));
-        }
+            d3.select("h3").text("Producción de " + d.data.type + " por año" ).style("color",segColor(d.data.type));}
         //Utility function to be called on mouseout a pie slice.
         function mouseout(d){
             // call the update function of histogram with all data.
             hG.update(fData.map(function(v){
                 return [v.Anio,v.total];}), barColor);
+            d3.select("h3").text("PRODUCCION TOTAL POR AÑOS").style("color","black") ;
         }
         // Animating the pie-slice requiring a custom function which specifies
         // how the intermediate paths should be drawn.
@@ -212,20 +231,30 @@ function dashboard(id, fData){
         return pC;
     }
     
-    // function to handle legend.
+    //  --------------------------function to handle legend. --------------------------
     function legend(lD){
         var leg = {};
-            
+     
         // create table for legend.
         var legend = d3.select(id).append("table").attr('class','legend');
-        
+                      
+           legend.append("caption").text("Producción total de 2011 - 2015");
         // create one row per segment.
-        var tr = legend.append("tbody").selectAll("tr").data(lD).enter().append("tr");
+        var tr = legend.append("tbody").selectAll("tr").data(lD).enter().append("tr")
+            //.each(function(d) { this._current = d; })
+            .on("mouseover",mouseoverl)
+            .on("mouseout",mouseoutl);
             
         // create the first column for each segment.
-        tr.append("td").append("svg").attr("width", '16').attr("height", '16').append("rect")
+        tr.append("td")
+            .append("svg")
+            .attr("width", '16')
+            .attr("height", '16')
+            .append("rect")
+            .attr("opacity",0.8)
             .attr("width", '16').attr("height", '16')
-			.attr("fill",function(d){ return segColor(d.type); });
+			.attr("fill",function(d){ return segColor(d.type); })
+             ;
             
         // create the second column for each segment.
         tr.append("td").text(function(d){ return d.type;});
@@ -252,6 +281,22 @@ function dashboard(id, fData){
         
         function getLegend(d,aD){ // Utility function to compute percentage.
             return d3.format("%")(d.prod/d3.sum(aD.map(function(v){ return v.prod; })));
+        }
+        // Utility function to be called on mouseover a legend.
+        function mouseoverl(k){
+            // call the update function of histogram with new data.
+            hG.update(fData.map(function(v){ 
+                return [v.Anio,v.prod[k.type]];}),segColor(k.type));
+            d3.select("h3").text("Producción de " + k.type + " por año" )
+            .style("color",segColor(k.type));
+                d3.select(this).attr("bgcolor",segColor(k.type)).style("opacity","0.8")}
+        //Utility function to be called on mouseout a legend.
+        function mouseoutl(k){
+            // call the update function of histogram with all data.
+            hG.update(fData.map(function(v){
+                return [v.Anio,v.total];}), barColor);
+            d3.select("h3").text("PRODUCCION TOTAL POR AÑOS").style("color","black") ;
+             d3.select(this).attr("bgcolor","transparent").style("opacity","1")
         }
 
         return leg;
