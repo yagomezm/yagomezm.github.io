@@ -8,8 +8,7 @@ var margin = {top: 20, right: 10, bottom: 30, left: 180},
 
 // append the svg object to the body of the page
 // appends a 'group' element to 'svg'
-// moves the 'group' element to the top left margin
-//var svg = d3.select("body").append("svg")
+
 var svg = d3.select("#TreeGraph").append("svg")
     .attr("width", width + margin.right + margin.left)
     .attr("height", height + margin.top + margin.bottom)
