@@ -14,12 +14,12 @@
   stroke-width: 4px;
 }
   div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,figure,form,fieldset,input,p,blockquote,th,td,legend {
-    margin: 50;
+    margin: 10px;
     padding: 0;
   }
   body {
       font-family: 'Cardo', serif;
-      margin: 50;
+      margin: 50px;
       padding: 0;
   }
   h1 {
