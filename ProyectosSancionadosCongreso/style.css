@@ -14,7 +14,7 @@
   stroke-width: 4px;
 }
   div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,figure,form,fieldset,input,p,blockquote,th,td,legend {
-    margin: 10px;
+    margin: 50px;
     padding: 0;
   }
   body {
