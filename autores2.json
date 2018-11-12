@@ -1,0 +1,1628 @@
+[
+ {
+   "id": 1,
+   "nodo": " Ministra de Comercio Industria y Turismo María Lorena Gutiérrez Botero",
+   "total_items": 1,
+   "tiponodo": "Ministerio"
+ },
+ {
+   "id": 2,
+   "nodo": " Pinzon de Jimenez Esperanza ",
+   "total_items": 4,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 3,
+   "nodo": "Abril Tarache  Jorge Camilo ",
+   "total_items": 1,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 4,
+   "nodo": "Agudelo García Ana Paola",
+   "total_items": 3,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 5,
+   "nodo": "Agudelo Zapata Iván Darío",
+   "total_items": 1,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 6,
+   "nodo": "Aguilar Hurtado Nerthink Mauricio",
+   "total_items": 4,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 7,
+   "nodo": "Álvarez Montenegro Javier Tato",
+   "total_items": 1,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 8,
+   "nodo": "Amín Escaf Miguel ",
+   "total_items": 2,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 9,
+   "nodo": "Amin Hernandez Jaime Alejandro",
+   "total_items": 5,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 10,
+   "nodo": "Amín Saleme Fabio Raúl ",
+   "total_items": 2,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 11,
+   "nodo": "Anaya Martinez Fredy Antonio",
+   "total_items": 1,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 12,
+   "nodo": "Andrade Casama    Luis Evelis    ",
+   "total_items": 1,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 13,
+   "nodo": "Andrade Serrano Hernán Francisco",
+   "total_items": 7,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 14,
+   "nodo": "Arango Torres Jair",
+   "total_items": 1,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 15,
+   "nodo": "Araújo Rumié  Fernando Nicolás ",
+   "total_items": 9,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 16,
+   "nodo": "Asprilla Reyes  Inti Raúl ",
+   "total_items": 1,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 17,
+   "nodo": "Barguil Assis David Alejandro",
+   "total_items": 3,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 18,
+   "nodo": "Baron Neira Leon Rigoberto",
+   "total_items": 7,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 19,
+   "nodo": "Barrera Rueda Lina Maria",
+   "total_items": 7,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 20,
+   "nodo": "Barreras Montealegre Roy Leonardo",
+   "total_items": 6,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 21,
+   "nodo": "Barreto Castillo  Miguel Ángel ",
+   "total_items": 3,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 22,
+   "nodo": "Benavides Solarte Diela Liliana",
+   "total_items": 2,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 23,
+   "nodo": "Benedetti Villaneda Armando Alberto",
+   "total_items": 2,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 24,
+   "nodo": "Benjumea Moreno  Eduar Luis ",
+   "total_items": 1,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 25,
+   "nodo": "Besaile Fayad Musa Abraham",
+   "total_items": 1,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 26,
+   "nodo": "Blanco Álvarez Germán Alcides",
+   "total_items": 5,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 27,
+   "nodo": "Blel Scaff  Nadia Georgette ",
+   "total_items": 1,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 28,
+   "nodo": "Bonilla Soto Carlos Julio",
+   "total_items": 2,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 29,
+   "nodo": "Bravo Montaño Guillermina",
+   "total_items": 4,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 30,
+   "nodo": "Bravo Realpe Oscar Fernando",
+   "total_items": 2,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 31,
+   "nodo": "Buenahora Febres Jaime",
+   "total_items": 3,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 32,
+   "nodo": "Burgos Ramirez Didier",
+   "total_items": 1,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 33,
+   "nodo": "Bustamante Garcia Everth",
+   "total_items": 5,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 34,
+   "nodo": "Cabal Molina María Fernanda",
+   "total_items": 5,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 35,
+   "nodo": "Cabello Florez Tatiana",
+   "total_items": 5,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 36,
+   "nodo": "Cabrales Castillo  Daniel Alberto  ",
+   "total_items": 7,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 37,
+   "nodo": "Cabrera Baez Angel Custodio ",
+   "total_items": 5,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 38,
+   "nodo": "Caicedo Sastoque José Edilberto",
+   "total_items": 1,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 39,
+   "nodo": "Cárdenas Morán John Jairo",
+   "total_items": 1,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 40,
+   "nodo": "Carlosama Lopez German Bernardo",
+   "total_items": 2,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 41,
+   "nodo": "Carrasquilla Torres Silvio José",
+   "total_items": 1,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 42,
+   "nodo": "Carrillo Mendoza  Wilmer Ramiro ",
+   "total_items": 1,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 43,
+   "nodo": "Casado de Lopez Arleth Patricia",
+   "total_items": 3,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 44,
+   "nodo": "Castañeda Serrano  Orlando ",
+   "total_items": 8,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 45,
+   "nodo": "Castiblanco Parra  Jairo Enrique ",
+   "total_items": 2,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 46,
+   "nodo": "Castilla Salazar Jesús Alberto",
+   "total_items": 1,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 47,
+   "nodo": "Castillo Garcia Nancy Denise",
+   "total_items": 1,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 48,
+   "nodo": "Castillo Suárez  Fabián Gerardo  ",
+   "total_items": 1,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 49,
+   "nodo": "Celis Carrillo Bernabe",
+   "total_items": 1,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 50,
+   "nodo": "Cepeda Castro Iván",
+   "total_items": 2,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 51,
+   "nodo": "Cepeda Sarabia Efraín José",
+   "total_items": 3,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 52,
+   "nodo": "Chacón Camargo Alejandro Carlos",
+   "total_items": 1,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 53,
+   "nodo": "Chamorro Cruz Jimmy",
+   "total_items": 3,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 54,
+   "nodo": "Clavijo Clavijo Orlando Alfonso",
+   "total_items": 2,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 55,
+   "nodo": "Contento Sanz  Elda Lucy ",
+   "total_items": 1,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 56,
+   "nodo": "Contralor General de la República Edgardo Maya Villazón",
+   "total_items": 1,
+   "tiponodo": "Contralor"
+ },
+ {
+   "id": 57,
+   "nodo": "Córdoba Manyoma  Nilton ",
+   "total_items": 2,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 58,
+   "nodo": "Córdoba Mena Wilson",
+   "total_items": 4,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 59,
+   "nodo": "Correa Borrero Susana",
+   "total_items": 8,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 60,
+   "nodo": "Correa Mojica Carlos Arturo",
+   "total_items": 2,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 61,
+   "nodo": "Correa Velez Victor Javier",
+   "total_items": 3,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 62,
+   "nodo": "Corzo Román Juan Manuel",
+   "total_items": 1,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 63,
+   "nodo": "Crissien Borrero Eduardo Alfonso",
+   "total_items": 1,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 64,
+   "nodo": "Cristo Bustos  Andrés ",
+   "total_items": 1,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 65,
+   "nodo": "Cuello Baute Alfredo Ape",
+   "total_items": 3,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 66,
+   "nodo": "Cuenca Chaux Carlos Alberto",
+   "total_items": 5,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 67,
+   "nodo": "Cuero Valencia  Carlos Alberto ",
+   "total_items": 3,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 68,
+   "nodo": "Curi Osorio  Marta Cecilia ",
+   "total_items": 1,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 69,
+   "nodo": "de la Peña Márquez Fernando",
+   "total_items": 1,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 70,
+   "nodo": "del Río Cabarcas  Alonso José",
+   "total_items": 2,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 71,
+   "nodo": "Delgado Martinez  Javier Mauricio ",
+   "total_items": 1,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 72,
+   "nodo": "Delgado Ruiz Edinson",
+   "total_items": 2,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 73,
+   "nodo": "Deluque Zuleta Alfredo Rafael",
+   "total_items": 7,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 74,
+   "nodo": "Diaz Barrera Marcos Yohan",
+   "total_items": 1,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 75,
+   "nodo": "Díaz Lozano Elbert",
+   "total_items": 3,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 76,
+   "nodo": "Diazgranados Abadia Eduardo Agaton",
+   "total_items": 3,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 77,
+   "nodo": "Director Departamento Nacional de Planeación DNP Simón Gaviria",
+   "total_items": 1,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 78,
+   "nodo": "Duque Garcia Luis Fernando",
+   "total_items": 3,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 79,
+   "nodo": "Duque Márquez  Ivan ",
+   "total_items": 10,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 80,
+   "nodo": "Duran Carrillo Antenor",
+   "total_items": 1,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 81,
+   "nodo": "Echeverry Alvarán  Nicolás Albeiro",
+   "total_items": 3,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 82,
+   "nodo": "Elias Vidal Bernardo Miguel ",
+   "total_items": 1,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 83,
+   "nodo": "Elizalde Gomez   Rafael  ",
+   "total_items": 2,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 84,
+   "nodo": "Enríquez Maya Carlos Eduardo",
+   "total_items": 2,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 85,
+   "nodo": "Enriquez Rosero Manuel Mesias",
+   "total_items": 2,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 86,
+   "nodo": "Estupiñán Calvache Hernán Gustavo",
+   "total_items": 1,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 87,
+   "nodo": "Fernández Alcocer Mario Alberto",
+   "total_items": 1,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 88,
+   "nodo": "Fiscal General de la Nación (E)",
+   "total_items": 1,
+   "tiponodo": "Fiscal"
+ },
+ {
+   "id": 89,
+   "nodo": "Fiscal General de la Nación Eduardo Montealegre Lynett",
+   "total_items": 1,
+   "tiponodo": "Fiscal"
+ },
+ {
+   "id": 90,
+   "nodo": "Fiscal General de la Nación Néstor Humberto Martínez",
+   "total_items": 1,
+   "tiponodo": "Fiscal"
+ },
+ {
+   "id": 91,
+   "nodo": "Florez Asprilla Jose Bernardo",
+   "total_items": 1,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 92,
+   "nodo": "Gaitán Pulido  Ángel María ",
+   "total_items": 1,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 93,
+   "nodo": "Galan Pachon  Carlos Fernando ",
+   "total_items": 2,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 94,
+   "nodo": "Galan Pachon Juan Manuel",
+   "total_items": 6,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 95,
+   "nodo": "Gallón Arango Luis Horacio",
+   "total_items": 1,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 96,
+   "nodo": "Galvis Méndez Daira de Jesús",
+   "total_items": 1,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 97,
+   "nodo": "García Burgos Nora María",
+   "total_items": 2,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 98,
+   "nodo": "García Gómez Juan Carlos",
+   "total_items": 2,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 99,
+   "nodo": "Garcia Jacquier  Pierre Eugenio  ",
+   "total_items": 5,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 100,
+   "nodo": "García Realpe Guillermo",
+   "total_items": 2,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 101,
+   "nodo": "Garcia Romero Teresita",
+   "total_items": 1,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 102,
+   "nodo": "García Zuccardi Andrés ",
+   "total_items": 8,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 103,
+   "nodo": "Gaviria Vélez  José Obdulio  ",
+   "total_items": 6,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 104,
+   "nodo": "Giraldo Arboleda Atilano Alonso",
+   "total_items": 1,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 105,
+   "nodo": "Gnecco Zuleta José Alfredo",
+   "total_items": 2,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 106,
+   "nodo": "Gómez Amín Mauricio ",
+   "total_items": 1,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 107,
+   "nodo": "González Duarte  Kelyn Johana  ",
+   "total_items": 1,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 108,
+   "nodo": "González García Harry Giovanny",
+   "total_items": 5,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 109,
+   "nodo": "Gonzalez Medina  Hugo Hernan ",
+   "total_items": 5,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 110,
+   "nodo": "Guerra de la Espriella  María del Rosario ",
+   "total_items": 11,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 111,
+   "nodo": "Guerra de la Espriella Antonio del Cristo",
+   "total_items": 1,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 112,
+   "nodo": "Guerra de la Rosa Orlando Anibal ",
+   "total_items": 3,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 113,
+   "nodo": "Guerrero Montaño Nicolas Daniel",
+   "total_items": 4,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 114,
+   "nodo": "Guevara Villabón Carlos Eduardo",
+   "total_items": 5,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 115,
+   "nodo": "Henríquez Pinedo  Honorio Miguel  ",
+   "total_items": 6,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 116,
+   "nodo": "Hernández Casas  José Elver ",
+   "total_items": 2,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 117,
+   "nodo": "Holguín Moreno Paola Andrea ",
+   "total_items": 6,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 118,
+   "nodo": "Hoyos Giraldo Germán Darío",
+   "total_items": 1,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 119,
+   "nodo": "Hoyos Mejía Samuel Alejandro",
+   "total_items": 3,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 120,
+   "nodo": "Hoyos Salazar   Federico Eduardo",
+   "total_items": 3,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 121,
+   "nodo": "Hurtado Perez Oscar de Jesus",
+   "total_items": 5,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 122,
+   "nodo": "Jiménez López Carlos Abraham",
+   "total_items": 4,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 123,
+   "nodo": "Lara Restrepo Rodrigo",
+   "total_items": 5,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 124,
+   "nodo": "Lemos Uribe Juan Felipe",
+   "total_items": 6,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 125,
+   "nodo": "Lizcano Arango Oscar Mauricio ",
+   "total_items": 8,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 126,
+   "nodo": "Lopez Florez  Ines Cecilia ",
+   "total_items": 3,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 127,
+   "nodo": "Lopez Gil  Alvaro ",
+   "total_items": 4,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 128,
+   "nodo": "Lopez Hernandez  Claudia Nayibe ",
+   "total_items": 5,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 129,
+   "nodo": "López Maya Alexánder",
+   "total_items": 1,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 130,
+   "nodo": "Losada Vargas Juan Carlos",
+   "total_items": 4,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 131,
+   "nodo": "Lozada Polanco  Jaime Felipe ",
+   "total_items": 6,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 132,
+   "nodo": "Lozano Correa Angélica",
+   "total_items": 4,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 133,
+   "nodo": "Macías Tovar  Ernesto ",
+   "total_items": 10,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 134,
+   "nodo": "Martínez Aristizábal Maritza",
+   "total_items": 3,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 135,
+   "nodo": "Martinez Rosales  Rosmery",
+   "total_items": 2,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 136,
+   "nodo": "Marulanda Muñoz Norbey",
+   "total_items": 1,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 137,
+   "nodo": "Mejía Mejía   Carlos Felipe  ",
+   "total_items": 7,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 138,
+   "nodo": "Mendez Bechara Raymundo Elias",
+   "total_items": 1,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 139,
+   "nodo": "Merheg Marún Juan Samy",
+   "total_items": 4,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 140,
+   "nodo": "Mesa Betancur José Ignacio",
+   "total_items": 1,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 141,
+   "nodo": "Ministra de Comercio Industria y Turismo Cecilia Álvarez-Correa Glen",
+   "total_items": 5,
+   "tiponodo": "Ministerio"
+ },
+ {
+   "id": 142,
+   "nodo": "Ministra de Comercio Industria y Turismo María Claudia Lacouture",
+   "total_items": 5,
+   "tiponodo": "Ministerio"
+ },
+ {
+   "id": 143,
+   "nodo": "Ministra de Cultura Mariana Garcés Córdoba",
+   "total_items": 1,
+   "tiponodo": "Ministerio"
+ },
+ {
+   "id": 144,
+   "nodo": "Ministra de Educación Nacional Gina Parody",
+   "total_items": 1,
+   "tiponodo": "Ministerio"
+ },
+ {
+   "id": 145,
+   "nodo": "Ministra de Educación Nacional Yaneth Giha",
+   "total_items": 1,
+   "tiponodo": "Ministerio"
+ },
+ {
+   "id": 146,
+   "nodo": "Ministra de Justicia y del Derecho (E)",
+   "total_items": 1,
+   "tiponodo": "Ministerio"
+ },
+ {
+   "id": 147,
+   "nodo": "Ministra de Relaciones Exteriores María Angela Holguín",
+   "total_items": 13,
+   "tiponodo": "Ministerio"
+ },
+ {
+   "id": 148,
+   "nodo": "Ministra de Transporte Natalia Abello Vives",
+   "total_items": 1,
+   "tiponodo": "Ministerio"
+ },
+ {
+   "id": 149,
+   "nodo": "Ministra de Vivienda Ciudad y Territorio Elsa Noguera",
+   "total_items": 1,
+   "tiponodo": "Ministerio"
+ },
+ {
+   "id": 150,
+   "nodo": "Ministra del Trabajo Griselda Janeth Restrepo Gallego",
+   "total_items": 1,
+   "tiponodo": "Ministerio"
+ },
+ {
+   "id": 151,
+   "nodo": "Ministro de Agricultura y Desarrollo Rural Aurelio Iragorri Valencia",
+   "total_items": 4,
+   "tiponodo": "Ministerio"
+ },
+ {
+   "id": 152,
+   "nodo": "Ministro de Ambiente y Desarrollo Sostenible Luis Gilberto Murillo",
+   "total_items": 3,
+   "tiponodo": "Ministerio"
+ },
+ {
+   "id": 153,
+   "nodo": "Ministro de Defensa Nacional Juan Carlos Pinzón",
+   "total_items": 4,
+   "tiponodo": "Ministerio"
+ },
+ {
+   "id": 154,
+   "nodo": "Ministro de Defensa Nacional Luis Carlos Villegas Echeverry",
+   "total_items": 7,
+   "tiponodo": "Ministerio"
+ },
+ {
+   "id": 155,
+   "nodo": "Ministro de Hacienda y Crédito Público Mauricio Cárdenas Santamaría",
+   "total_items": 15,
+   "tiponodo": "Ministerio"
+ },
+ {
+   "id": 156,
+   "nodo": "Ministro de Justicia y del Derecho Enrique Gil Botero",
+   "total_items": 3,
+   "tiponodo": "Ministerio"
+ },
+ {
+   "id": 157,
+   "nodo": "Ministro de Justicia y del Derecho Jorge Eduardo Londoño Ulloa",
+   "total_items": 3,
+   "tiponodo": "Ministerio"
+ },
+ {
+   "id": 158,
+   "nodo": "Ministro de Justicia y del Derecho Yesid Reyes Alvarado",
+   "total_items": 5,
+   "tiponodo": "Ministerio"
+ },
+ {
+   "id": 159,
+   "nodo": "Ministro de Minas y Energía Germán Arce Zapata",
+   "total_items": 4,
+   "tiponodo": "Ministerio"
+ },
+ {
+   "id": 160,
+   "nodo": "Ministro de Minas y Energía Tomás González Estrada",
+   "total_items": 1,
+   "tiponodo": "Ministerio"
+ },
+ {
+   "id": 161,
+   "nodo": "Ministro de Salud y Protección Social Alejandro Gaviria Uribe",
+   "total_items": 1,
+   "tiponodo": "Ministerio"
+ },
+ {
+   "id": 162,
+   "nodo": "Ministro de Trabajo Luis Eduardo Garzón",
+   "total_items": 1,
+   "tiponodo": "Ministerio"
+ },
+ {
+   "id": 163,
+   "nodo": "Ministro de Transporte Jorge Eduardo Rojas",
+   "total_items": 2,
+   "tiponodo": "Ministerio"
+ },
+ {
+   "id": 164,
+   "nodo": "Ministro de Vivienda Luis Felipe Henao Cardona",
+   "total_items": 2,
+   "tiponodo": "Ministerio"
+ },
+ {
+   "id": 165,
+   "nodo": "Ministro del Interior Guillermo Rivera Flórez",
+   "total_items": 5,
+   "tiponodo": "Ministerio"
+ },
+ {
+   "id": 166,
+   "nodo": "Ministro del Interior Juan Fernando Cristo Bustos",
+   "total_items": 18,
+   "tiponodo": "Ministerio"
+ },
+ {
+   "id": 167,
+   "nodo": "Molano Piñeros  Rubén Darío",
+   "total_items": 3,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 168,
+   "nodo": "Molina Figueroa Jhon Eduardo",
+   "total_items": 1,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 169,
+   "nodo": "Molina Triana Alfredo Guillermo",
+   "total_items": 3,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 170,
+   "nodo": "Mora Jaramillo Manuel Guillermo",
+   "total_items": 1,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 171,
+   "nodo": "Morales Diz Martin Emilio",
+   "total_items": 1,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 172,
+   "nodo": "Morales Hoyos Viviane Aleyda",
+   "total_items": 1,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 173,
+   "nodo": "Moreno Marmolejo   Luz Adriana  ",
+   "total_items": 6,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 174,
+   "nodo": "Moreno Villamizar  Christian José",
+   "total_items": 5,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 175,
+   "nodo": "Motoa Solarte Carlos Fernando",
+   "total_items": 2,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 176,
+   "nodo": "Muñoz Zapata Jorge",
+   "total_items": 1,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 177,
+   "nodo": "Name Cardozo José David",
+   "total_items": 4,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 178,
+   "nodo": "Name Vásquez Iván Leonidas",
+   "total_items": 1,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 179,
+   "nodo": "Navarro Wolff   Antonio Jose ",
+   "total_items": 3,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 180,
+   "nodo": "Navas Talero Carlos Germán ",
+   "total_items": 3,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 181,
+   "nodo": "Niño Avendaño Senen",
+   "total_items": 2,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 182,
+   "nodo": "Orjuela Gomez  Pedro Jesus ",
+   "total_items": 1,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 183,
+   "nodo": "Oros Ortiz  Nery ",
+   "total_items": 1,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 184,
+   "nodo": "Ortiz Nova  Sandra Liliana ",
+   "total_items": 5,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 185,
+   "nodo": "Osorio Aguiar Carlos Edward",
+   "total_items": 4,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 186,
+   "nodo": "Osorio Botello Hector  Javier",
+   "total_items": 1,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 187,
+   "nodo": "Ospina Gomez  Jorge Ivan ",
+   "total_items": 2,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 188,
+   "nodo": "Ospina Quintero  Oscar ",
+   "total_items": 2,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 189,
+   "nodo": "Padauí Álvarez Hernando José",
+   "total_items": 2,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 190,
+   "nodo": "Palau Salazar  Rafael Eduardo ",
+   "total_items": 2,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 191,
+   "nodo": "Paredes Aguirre Myriam Alicia",
+   "total_items": 1,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 192,
+   "nodo": "Paz Cardona  Ana Cristina ",
+   "total_items": 4,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 193,
+   "nodo": "Pedraza Gutierrez Jorge Hernando",
+   "total_items": 3,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 194,
+   "nodo": "Pedraza Ortega Telesforo",
+   "total_items": 5,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 195,
+   "nodo": "Penagos Giraldo Hernán",
+   "total_items": 5,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 196,
+   "nodo": "Perdomo Andrade Flora",
+   "total_items": 5,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 197,
+   "nodo": "Pereira Caballero Pedrito Tomás",
+   "total_items": 2,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 198,
+   "nodo": "Pérez Pineda  Oscar Darío ",
+   "total_items": 4,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 199,
+   "nodo": "Piedrahita Lyons  Sara Elena ",
+   "total_items": 4,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 200,
+   "nodo": "Pinto Hernández Miguel Ángel",
+   "total_items": 2,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 201,
+   "nodo": "Prada Artunduaga Álvaro Hernán ",
+   "total_items": 6,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 202,
+   "nodo": "Presidente Sala Penal de la Corte Suprema de Justicia Eugenio Fernández",
+   "total_items": 1,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 203,
+   "nodo": "Prieto Riveros Jorge Elieser",
+   "total_items": 4,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 204,
+   "nodo": "Prieto Soto Eugenio Enrique",
+   "total_items": 1,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 205,
+   "nodo": "Pulgar Daza  Eduardo Enrique ",
+   "total_items": 1,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 206,
+   "nodo": "Quintero Romero  Eloy Chichi  ",
+   "total_items": 2,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 207,
+   "nodo": "Ramírez Cortés Ciro Alejandro ",
+   "total_items": 6,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 208,
+   "nodo": "Ramirez Valencia Leon Dario",
+   "total_items": 2,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 209,
+   "nodo": "Ramos Maya  Alfredo ",
+   "total_items": 9,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 210,
+   "nodo": "Rangel Suarez Alfredo",
+   "total_items": 4,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 211,
+   "nodo": "Restrepo Arango Margarita María",
+   "total_items": 4,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 212,
+   "nodo": "Restrepo Escobar Juan Carlos",
+   "total_items": 3,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 213,
+   "nodo": "Restrepo Salazar Antonio",
+   "total_items": 2,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 214,
+   "nodo": "Rincon Herrera  Ana Maria  ",
+   "total_items": 3,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 215,
+   "nodo": "Rivera Peña  Juan Carlos ",
+   "total_items": 2,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 216,
+   "nodo": "Roa Sarmiento Humphrey",
+   "total_items": 4,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 217,
+   "nodo": "Robledo Castillo Jorge Enrique",
+   "total_items": 1,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 218,
+   "nodo": "Robledo Gómez Ángela María",
+   "total_items": 2,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 219,
+   "nodo": "Rodriguez Hernandez Cristobal ",
+   "total_items": 2,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 220,
+   "nodo": "Rodriguez Merchan  Marco Sergio ",
+   "total_items": 1,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 221,
+   "nodo": "Rodríguez Pinzón  Ciro Antonio ",
+   "total_items": 3,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 222,
+   "nodo": "Rodríguez Rengifo Roosvelt",
+   "total_items": 1,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 223,
+   "nodo": "Rodríguez Rodríguez Edward David",
+   "total_items": 5,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 224,
+   "nodo": "Rojas Gonzalez Clara Leticia",
+   "total_items": 2,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 225,
+   "nodo": "Rojas Vergara Candelaria Patricia ",
+   "total_items": 1,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 226,
+   "nodo": "Roldán Avendaño John Jairo",
+   "total_items": 2,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 227,
+   "nodo": "Romero Piñeros Rafael",
+   "total_items": 3,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 228,
+   "nodo": "Rosado Aragon Alvaro Gustavo",
+   "total_items": 1,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 229,
+   "nodo": "Rozo Rodriguez Jorge Enrique",
+   "total_items": 1,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 230,
+   "nodo": "Salazar Pelaez  Mauricio ",
+   "total_items": 1,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 231,
+   "nodo": "Sanabria Astudillo  Heriberto",
+   "total_items": 5,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 232,
+   "nodo": "Sánchez León Óscar Hernán",
+   "total_items": 2,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 233,
+   "nodo": "Santos Marin Guillermo Antonio",
+   "total_items": 1,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 234,
+   "nodo": "Santos Ramirez Jose Neftali",
+   "total_items": 1,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 235,
+   "nodo": "Serpa Uribe  Horacio ",
+   "total_items": 1,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 236,
+   "nodo": "Serrano Perez Jaime Enrique",
+   "total_items": 2,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 237,
+   "nodo": "Sierra Grajales Luis Emilio",
+   "total_items": 2,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 238,
+   "nodo": "Sierra Ramos  Fernando ",
+   "total_items": 5,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 239,
+   "nodo": "Soto Jaramillo Carlos Enrique",
+   "total_items": 2,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 240,
+   "nodo": "Suarez Melo  Leopoldo ",
+   "total_items": 1,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 241,
+   "nodo": "Suarez Mira Olga Lucia",
+   "total_items": 1,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 242,
+   "nodo": "Tamayo Marulanda  Jorge Eliécer ",
+   "total_items": 3,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 243,
+   "nodo": "Tamayo Tamayo Fernando Eustacio",
+   "total_items": 1,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 244,
+   "nodo": "Torres Monsalvo Efrain Antonio",
+   "total_items": 2,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 245,
+   "nodo": "Tous de la Ossa  Eduardo Jose \"Joche\"",
+   "total_items": 2,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 246,
+   "nodo": "Tovar Rey  Nohora Stella  ",
+   "total_items": 6,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 247,
+   "nodo": "Triana Vargas   Maria Eugenia  ",
+   "total_items": 5,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 248,
+   "nodo": "Uribe Muñoz  Alirio ",
+   "total_items": 1,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 249,
+   "nodo": "Uribe Vélez Álvaro",
+   "total_items": 10,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 250,
+   "nodo": "Urrego Carvajal  Luis Fernando ",
+   "total_items": 2,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 251,
+   "nodo": "Valencia González Santiago",
+   "total_items": 5,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 252,
+   "nodo": "Valencia Laserna Paloma Susana ",
+   "total_items": 9,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 253,
+   "nodo": "Vanegas Osorio  Albeiro ",
+   "total_items": 2,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 254,
+   "nodo": "Varón Cotrino Germán",
+   "total_items": 3,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 255,
+   "nodo": "Vega de Plazas Thania",
+   "total_items": 4,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 256,
+   "nodo": "Vega Quiroz  Doris Clemencia ",
+   "total_items": 2,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 257,
+   "nodo": "Velasco Cháves Luis Fernando",
+   "total_items": 3,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 258,
+   "nodo": "Velasquez Nieto Olga Lucia",
+   "total_items": 3,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 259,
+   "nodo": "Velasquez Ramirez Argenis ",
+   "total_items": 2,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 260,
+   "nodo": "Vicefiscal General de la Nación María Paulina Riveros Dueñas",
+   "total_items": 1,
+   "tiponodo": "Fiscal"
+ },
+ {
+   "id": 261,
+   "nodo": "Viceministra de Relaciones Exteriores Patty Londoño Jaramillo",
+   "total_items": 1,
+   "tiponodo": "Ministerio"
+ },
+ {
+   "id": 262,
+   "nodo": "Villadiego Villadiego Sandra Elena",
+   "total_items": 2,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 263,
+   "nodo": "Villalba Hodwalker  Martha Patricia ",
+   "total_items": 2,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 264,
+   "nodo": "Villalba Mosquera Rodrigo",
+   "total_items": 3,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 265,
+   "nodo": "Villamil Benavides Angelo Antonio",
+   "total_items": 1,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 266,
+   "nodo": "Yepes Alzate Arturo",
+   "total_items": 2,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 267,
+   "nodo": "Yepes Martínez Jaime Armando",
+   "total_items": 2,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 268,
+   "nodo": "Zabaraín D'arce Armando Antonio",
+   "total_items": 1,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 269,
+   "nodo": "Zambrano Eraso Bérner León",
+   "total_items": 3,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 270,
+   "nodo": "Zorro Africano Gloria Betty",
+   "total_items": 1,
+   "tiponodo": "Camara"
+ },
+ {
+   "id": 271,
+   "nodo": "Zuluaga Henao Maria Regina",
+   "total_items": 3,
+   "tiponodo": "Camara"
+ }
+]

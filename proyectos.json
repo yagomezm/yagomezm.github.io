@@ -1,0 +1,6132 @@
+{
+   "nodes":[
+ {
+   "id": 1,
+   "nodo": " Ministra de Comercio Industria y Turismo María Lorena Gutiérrez Botero",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 2,
+   "nodo": " Pinzon de Jimenez Esperanza ",
+   "total_items": 4,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 3,
+   "nodo": "Abril Tarache  Jorge Camilo ",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 4,
+   "nodo": "Agudelo García Ana Paola",
+   "total_items": 3,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 5,
+   "nodo": "Agudelo Zapata Iván Darío",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 6,
+   "nodo": "Aguilar Hurtado Nerthink Mauricio",
+   "total_items": 4,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 7,
+   "nodo": "Álvarez Montenegro Javier Tato",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 8,
+   "nodo": "Amín Escaf Miguel ",
+   "total_items": 2,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 9,
+   "nodo": "Amin Hernandez Jaime Alejandro",
+   "total_items": 5,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 10,
+   "nodo": "Amín Saleme Fabio Raúl ",
+   "total_items": 2,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 11,
+   "nodo": "Anaya Martinez Fredy Antonio",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 12,
+   "nodo": "Andrade Casama    Luis Evelis    ",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 13,
+   "nodo": "Andrade Serrano Hernán Francisco",
+   "total_items": 7,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 14,
+   "nodo": "Arango Torres Jair",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 15,
+   "nodo": "Araújo Rumié  Fernando Nicolás ",
+   "total_items": 9,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 16,
+   "nodo": "Asprilla Reyes  Inti Raúl ",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 17,
+   "nodo": "Barguil Assis David Alejandro",
+   "total_items": 3,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 18,
+   "nodo": "Baron Neira Leon Rigoberto",
+   "total_items": 7,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 19,
+   "nodo": "Barrera Rueda Lina Maria",
+   "total_items": 7,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 20,
+   "nodo": "Barreras Montealegre Roy Leonardo",
+   "total_items": 6,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 21,
+   "nodo": "Barreto Castillo  Miguel Ángel ",
+   "total_items": 3,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 22,
+   "nodo": "Benavides Solarte Diela Liliana",
+   "total_items": 2,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 23,
+   "nodo": "Benedetti Villaneda Armando Alberto",
+   "total_items": 2,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 24,
+   "nodo": "Benjumea Moreno  Eduar Luis ",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 25,
+   "nodo": "Besaile Fayad Musa Abraham",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 26,
+   "nodo": "Blanco Álvarez Germán Alcides",
+   "total_items": 5,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 27,
+   "nodo": "Blel Scaff  Nadia Georgette ",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 28,
+   "nodo": "Bonilla Soto Carlos Julio",
+   "total_items": 2,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 29,
+   "nodo": "Bravo Montaño Guillermina",
+   "total_items": 4,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 30,
+   "nodo": "Bravo Realpe Oscar Fernando",
+   "total_items": 2,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 31,
+   "nodo": "Buenahora Febres Jaime",
+   "total_items": 3,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 32,
+   "nodo": "Burgos Ramirez Didier",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 33,
+   "nodo": "Bustamante Garcia Everth",
+   "total_items": 5,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 34,
+   "nodo": "Cabal Molina María Fernanda",
+   "total_items": 5,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 35,
+   "nodo": "Cabello Florez Tatiana",
+   "total_items": 5,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 36,
+   "nodo": "Cabrales Castillo  Daniel Alberto  ",
+   "total_items": 7,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 37,
+   "nodo": "Cabrera Baez Angel Custodio ",
+   "total_items": 5,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 38,
+   "nodo": "Caicedo Sastoque José Edilberto",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 39,
+   "nodo": "Cárdenas Morán John Jairo",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 40,
+   "nodo": "Carlosama Lopez German Bernardo",
+   "total_items": 2,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 41,
+   "nodo": "Carrasquilla Torres Silvio José",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 42,
+   "nodo": "Carrillo Mendoza  Wilmer Ramiro ",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 43,
+   "nodo": "Casado de Lopez Arleth Patricia",
+   "total_items": 3,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 44,
+   "nodo": "Castañeda Serrano  Orlando ",
+   "total_items": 8,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 45,
+   "nodo": "Castiblanco Parra  Jairo Enrique ",
+   "total_items": 2,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 46,
+   "nodo": "Castilla Salazar Jesús Alberto",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 47,
+   "nodo": "Castillo Garcia Nancy Denise",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 48,
+   "nodo": "Castillo Suárez  Fabián Gerardo  ",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 49,
+   "nodo": "Celis Carrillo Bernabe",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 50,
+   "nodo": "Cepeda Castro Iván",
+   "total_items": 2,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 51,
+   "nodo": "Cepeda Sarabia Efraín José",
+   "total_items": 3,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 52,
+   "nodo": "Chacón Camargo Alejandro Carlos",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 53,
+   "nodo": "Chamorro Cruz Jimmy",
+   "total_items": 3,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 54,
+   "nodo": "Clavijo Clavijo Orlando Alfonso",
+   "total_items": 2,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 55,
+   "nodo": "Contento Sanz  Elda Lucy ",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 56,
+   "nodo": "Contralor General de la República Edgardo Maya Villazón",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 57,
+   "nodo": "Córdoba Manyoma  Nilton ",
+   "total_items": 2,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 58,
+   "nodo": "Córdoba Mena Wilson",
+   "total_items": 4,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 59,
+   "nodo": "Correa Borrero Susana",
+   "total_items": 8,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 60,
+   "nodo": "Correa Mojica Carlos Arturo",
+   "total_items": 2,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 61,
+   "nodo": "Correa Velez Victor Javier",
+   "total_items": 3,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 62,
+   "nodo": "Corzo Román Juan Manuel",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 63,
+   "nodo": "Crissien Borrero Eduardo Alfonso",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 64,
+   "nodo": "Cristo Bustos  Andrés ",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 65,
+   "nodo": "Cuello Baute Alfredo Ape",
+   "total_items": 3,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 66,
+   "nodo": "Cuenca Chaux Carlos Alberto",
+   "total_items": 5,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 67,
+   "nodo": "Cuero Valencia  Carlos Alberto ",
+   "total_items": 3,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 68,
+   "nodo": "Curi Osorio  Marta Cecilia ",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 69,
+   "nodo": "de la Peña Márquez Fernando",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 70,
+   "nodo": "del Río Cabarcas  Alonso José",
+   "total_items": 2,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 71,
+   "nodo": "Delgado Martinez  Javier Mauricio ",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 72,
+   "nodo": "Delgado Ruiz Edinson",
+   "total_items": 2,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 73,
+   "nodo": "Deluque Zuleta Alfredo Rafael",
+   "total_items": 7,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 74,
+   "nodo": "Diaz Barrera Marcos Yohan",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 75,
+   "nodo": "Díaz Lozano Elbert",
+   "total_items": 3,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 76,
+   "nodo": "Diazgranados Abadia Eduardo Agaton",
+   "total_items": 3,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 77,
+   "nodo": "Director Departamento Nacional de Planeación DNP Simón Gaviria",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 78,
+   "nodo": "Duque Garcia Luis Fernando",
+   "total_items": 3,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 79,
+   "nodo": "Duque Márquez  Ivan ",
+   "total_items": 10,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 80,
+   "nodo": "Duran Carrillo Antenor",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 81,
+   "nodo": "Echeverry Alvarán  Nicolás Albeiro",
+   "total_items": 3,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 82,
+   "nodo": "Elias Vidal Bernardo Miguel ",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 83,
+   "nodo": "Elizalde Gomez   Rafael  ",
+   "total_items": 2,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 84,
+   "nodo": "Enríquez Maya Carlos Eduardo",
+   "total_items": 2,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 85,
+   "nodo": "Enriquez Rosero Manuel Mesias",
+   "total_items": 2,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 86,
+   "nodo": "Estupiñán Calvache Hernán Gustavo",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 87,
+   "nodo": "Fernández Alcocer Mario Alberto",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 88,
+   "nodo": "Fiscal General de la Nación (E)",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 89,
+   "nodo": "Fiscal General de la Nación Eduardo Montealegre Lynett",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 90,
+   "nodo": "Fiscal General de la Nación Néstor Humberto Martínez",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 91,
+   "nodo": "Florez Asprilla Jose Bernardo",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 92,
+   "nodo": "Gaitán Pulido  Ángel María ",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 93,
+   "nodo": "Galan Pachon  Carlos Fernando ",
+   "total_items": 2,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 94,
+   "nodo": "Galan Pachon Juan Manuel",
+   "total_items": 6,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 95,
+   "nodo": "Gallón Arango Luis Horacio",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 96,
+   "nodo": "Galvis Méndez Daira de Jesús",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 97,
+   "nodo": "García Burgos Nora María",
+   "total_items": 2,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 98,
+   "nodo": "García Gómez Juan Carlos",
+   "total_items": 2,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 99,
+   "nodo": "Garcia Jacquier  Pierre Eugenio  ",
+   "total_items": 5,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 100,
+   "nodo": "García Realpe Guillermo",
+   "total_items": 2,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 101,
+   "nodo": "Garcia Romero Teresita",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 102,
+   "nodo": "García Zuccardi Andrés ",
+   "total_items": 8,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 103,
+   "nodo": "Gaviria Vélez  José Obdulio  ",
+   "total_items": 6,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 104,
+   "nodo": "Giraldo Arboleda Atilano Alonso",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 105,
+   "nodo": "Gnecco Zuleta José Alfredo",
+   "total_items": 2,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 106,
+   "nodo": "Gómez Amín Mauricio ",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 107,
+   "nodo": "González Duarte  Kelyn Johana  ",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 108,
+   "nodo": "González García Harry Giovanny",
+   "total_items": 5,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 109,
+   "nodo": "Gonzalez Medina  Hugo Hernan ",
+   "total_items": 5,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 110,
+   "nodo": "Guerra de la Espriella  María del Rosario ",
+   "total_items": 11,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 111,
+   "nodo": "Guerra de la Espriella Antonio del Cristo",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 112,
+   "nodo": "Guerra de la Rosa Orlando Anibal ",
+   "total_items": 3,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 113,
+   "nodo": "Guerrero Montaño Nicolas Daniel",
+   "total_items": 4,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 114,
+   "nodo": "Guevara Villabón Carlos Eduardo",
+   "total_items": 5,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 115,
+   "nodo": "Henríquez Pinedo  Honorio Miguel  ",
+   "total_items": 6,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 116,
+   "nodo": "Hernández Casas  José Elver ",
+   "total_items": 2,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 117,
+   "nodo": "Holguín Moreno Paola Andrea ",
+   "total_items": 6,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 118,
+   "nodo": "Hoyos Giraldo Germán Darío",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 119,
+   "nodo": "Hoyos Mejía Samuel Alejandro",
+   "total_items": 3,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 120,
+   "nodo": "Hoyos Salazar   Federico Eduardo",
+   "total_items": 3,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 121,
+   "nodo": "Hurtado Perez Oscar de Jesus",
+   "total_items": 5,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 122,
+   "nodo": "Jiménez López Carlos Abraham",
+   "total_items": 4,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 123,
+   "nodo": "Lara Restrepo Rodrigo",
+   "total_items": 5,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 124,
+   "nodo": "Lemos Uribe Juan Felipe",
+   "total_items": 6,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 125,
+   "nodo": "Lizcano Arango Oscar Mauricio ",
+   "total_items": 8,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 126,
+   "nodo": "Lopez Florez  Ines Cecilia ",
+   "total_items": 3,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 127,
+   "nodo": "Lopez Gil  Alvaro ",
+   "total_items": 4,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 128,
+   "nodo": "Lopez Hernandez  Claudia Nayibe ",
+   "total_items": 5,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 129,
+   "nodo": "López Maya Alexánder",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 130,
+   "nodo": "Losada Vargas Juan Carlos",
+   "total_items": 4,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 131,
+   "nodo": "Lozada Polanco  Jaime Felipe ",
+   "total_items": 6,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 132,
+   "nodo": "Lozano Correa Angélica",
+   "total_items": 4,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 133,
+   "nodo": "Macías Tovar  Ernesto ",
+   "total_items": 10,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 134,
+   "nodo": "Martínez Aristizábal Maritza",
+   "total_items": 3,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 135,
+   "nodo": "Martinez Rosales  Rosmery",
+   "total_items": 2,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 136,
+   "nodo": "Marulanda Muñoz Norbey",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 137,
+   "nodo": "Mejía Mejía   Carlos Felipe  ",
+   "total_items": 7,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 138,
+   "nodo": "Mendez Bechara Raymundo Elias",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 139,
+   "nodo": "Merheg Marún Juan Samy",
+   "total_items": 4,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 140,
+   "nodo": "Mesa Betancur José Ignacio",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 141,
+   "nodo": "Ministra de Comercio Industria y Turismo Cecilia Álvarez-Correa Glen",
+   "total_items": 5,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 142,
+   "nodo": "Ministra de Comercio Industria y Turismo María Claudia Lacouture",
+   "total_items": 5,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 143,
+   "nodo": "Ministra de Cultura Mariana Garcés Córdoba",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 144,
+   "nodo": "Ministra de Educación Nacional Gina Parody",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 145,
+   "nodo": "Ministra de Educación Nacional Yaneth Giha",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 146,
+   "nodo": "Ministra de Justicia y del Derecho (E)",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 147,
+   "nodo": "Ministra de Relaciones Exteriores María Angela Holguín",
+   "total_items": 13,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 148,
+   "nodo": "Ministra de Transporte Natalia Abello Vives",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 149,
+   "nodo": "Ministra de Vivienda Ciudad y Territorio Elsa Noguera",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 150,
+   "nodo": "Ministra del Trabajo Griselda Janeth Restrepo Gallego",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 151,
+   "nodo": "Ministro de Agricultura y Desarrollo Rural Aurelio Iragorri Valencia",
+   "total_items": 4,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 152,
+   "nodo": "Ministro de Ambiente y Desarrollo Sostenible Luis Gilberto Murillo",
+   "total_items": 3,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 153,
+   "nodo": "Ministro de Defensa Nacional Juan Carlos Pinzón",
+   "total_items": 4,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 154,
+   "nodo": "Ministro de Defensa Nacional Luis Carlos Villegas Echeverry",
+   "total_items": 7,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 155,
+   "nodo": "Ministro de Hacienda y Crédito Público Mauricio Cárdenas Santamaría",
+   "total_items": 15,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 156,
+   "nodo": "Ministro de Justicia y del Derecho Enrique Gil Botero",
+   "total_items": 3,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 157,
+   "nodo": "Ministro de Justicia y del Derecho Jorge Eduardo Londoño Ulloa",
+   "total_items": 3,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 158,
+   "nodo": "Ministro de Justicia y del Derecho Yesid Reyes Alvarado",
+   "total_items": 5,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 159,
+   "nodo": "Ministro de Minas y Energía Germán Arce Zapata",
+   "total_items": 4,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 160,
+   "nodo": "Ministro de Minas y Energía Tomás González Estrada",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 161,
+   "nodo": "Ministro de Salud y Protección Social Alejandro Gaviria Uribe",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 162,
+   "nodo": "Ministro de Trabajo Luis Eduardo Garzón",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 163,
+   "nodo": "Ministro de Transporte Jorge Eduardo Rojas",
+   "total_items": 2,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 164,
+   "nodo": "Ministro de Vivienda Luis Felipe Henao Cardona",
+   "total_items": 2,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 165,
+   "nodo": "Ministro del Interior Guillermo Rivera Flórez",
+   "total_items": 5,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 166,
+   "nodo": "Ministro del Interior Juan Fernando Cristo Bustos",
+   "total_items": 18,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 167,
+   "nodo": "Molano Piñeros  Rubén Darío",
+   "total_items": 3,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 168,
+   "nodo": "Molina Figueroa Jhon Eduardo",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 169,
+   "nodo": "Molina Triana Alfredo Guillermo",
+   "total_items": 3,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 170,
+   "nodo": "Mora Jaramillo Manuel Guillermo",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 171,
+   "nodo": "Morales Diz Martin Emilio",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 172,
+   "nodo": "Morales Hoyos Viviane Aleyda",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 173,
+   "nodo": "Moreno Marmolejo   Luz Adriana  ",
+   "total_items": 6,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 174,
+   "nodo": "Moreno Villamizar  Christian José",
+   "total_items": 5,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 175,
+   "nodo": "Motoa Solarte Carlos Fernando",
+   "total_items": 2,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 176,
+   "nodo": "Muñoz Zapata Jorge",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 177,
+   "nodo": "Name Cardozo José David",
+   "total_items": 4,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 178,
+   "nodo": "Name Vásquez Iván Leonidas",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 179,
+   "nodo": "Navarro Wolff   Antonio Jose ",
+   "total_items": 3,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 180,
+   "nodo": "Navas Talero Carlos Germán ",
+   "total_items": 3,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 181,
+   "nodo": "Niño Avendaño Senen",
+   "total_items": 2,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 182,
+   "nodo": "Orjuela Gomez  Pedro Jesus ",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 183,
+   "nodo": "Oros Ortiz  Nery ",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 184,
+   "nodo": "Ortiz Nova  Sandra Liliana ",
+   "total_items": 5,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 185,
+   "nodo": "Osorio Aguiar Carlos Edward",
+   "total_items": 4,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 186,
+   "nodo": "Osorio Botello Hector  Javier",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 187,
+   "nodo": "Ospina Gomez  Jorge Ivan ",
+   "total_items": 2,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 188,
+   "nodo": "Ospina Quintero  Oscar ",
+   "total_items": 2,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 189,
+   "nodo": "Padauí Álvarez Hernando José",
+   "total_items": 2,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 190,
+   "nodo": "Palau Salazar  Rafael Eduardo ",
+   "total_items": 2,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 191,
+   "nodo": "Paredes Aguirre Myriam Alicia",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 192,
+   "nodo": "Paz Cardona  Ana Cristina ",
+   "total_items": 4,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 193,
+   "nodo": "Pedraza Gutierrez Jorge Hernando",
+   "total_items": 3,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 194,
+   "nodo": "Pedraza Ortega Telesforo",
+   "total_items": 5,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 195,
+   "nodo": "Penagos Giraldo Hernán",
+   "total_items": 5,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 196,
+   "nodo": "Perdomo Andrade Flora",
+   "total_items": 5,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 197,
+   "nodo": "Pereira Caballero Pedrito Tomás",
+   "total_items": 2,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 198,
+   "nodo": "Pérez Pineda  Oscar Darío ",
+   "total_items": 4,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 199,
+   "nodo": "Piedrahita Lyons  Sara Elena ",
+   "total_items": 4,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 200,
+   "nodo": "Pinto Hernández Miguel Ángel",
+   "total_items": 2,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 201,
+   "nodo": "Prada Artunduaga Álvaro Hernán ",
+   "total_items": 6,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 202,
+   "nodo": "Presidente Sala Penal de la Corte Suprema de Justicia Eugenio Fernández",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 203,
+   "nodo": "Prieto Riveros Jorge Elieser",
+   "total_items": 4,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 204,
+   "nodo": "Prieto Soto Eugenio Enrique",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 205,
+   "nodo": "Pulgar Daza  Eduardo Enrique ",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 206,
+   "nodo": "Quintero Romero  Eloy Chichi  ",
+   "total_items": 2,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 207,
+   "nodo": "Ramírez Cortés Ciro Alejandro ",
+   "total_items": 6,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 208,
+   "nodo": "Ramirez Valencia Leon Dario",
+   "total_items": 2,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 209,
+   "nodo": "Ramos Maya  Alfredo ",
+   "total_items": 9,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 210,
+   "nodo": "Rangel Suarez Alfredo",
+   "total_items": 4,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 211,
+   "nodo": "Restrepo Arango Margarita María",
+   "total_items": 4,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 212,
+   "nodo": "Restrepo Escobar Juan Carlos",
+   "total_items": 3,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 213,
+   "nodo": "Restrepo Salazar Antonio",
+   "total_items": 2,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 214,
+   "nodo": "Rincon Herrera  Ana Maria  ",
+   "total_items": 3,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 215,
+   "nodo": "Rivera Peña  Juan Carlos ",
+   "total_items": 2,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 216,
+   "nodo": "Roa Sarmiento Humphrey",
+   "total_items": 4,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 217,
+   "nodo": "Robledo Castillo Jorge Enrique",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 218,
+   "nodo": "Robledo Gómez Ángela María",
+   "total_items": 2,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 219,
+   "nodo": "Rodriguez Hernandez Cristobal ",
+   "total_items": 2,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 220,
+   "nodo": "Rodriguez Merchan  Marco Sergio ",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 221,
+   "nodo": "Rodríguez Pinzón  Ciro Antonio ",
+   "total_items": 3,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 222,
+   "nodo": "Rodríguez Rengifo Roosvelt",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 223,
+   "nodo": "Rodríguez Rodríguez Edward David",
+   "total_items": 5,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 224,
+   "nodo": "Rojas Gonzalez Clara Leticia",
+   "total_items": 2,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 225,
+   "nodo": "Rojas Vergara Candelaria Patricia ",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 226,
+   "nodo": "Roldán Avendaño John Jairo",
+   "total_items": 2,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 227,
+   "nodo": "Romero Piñeros Rafael",
+   "total_items": 3,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 228,
+   "nodo": "Rosado Aragon Alvaro Gustavo",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 229,
+   "nodo": "Rozo Rodriguez Jorge Enrique",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 230,
+   "nodo": "Salazar Pelaez  Mauricio ",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 231,
+   "nodo": "Sanabria Astudillo  Heriberto",
+   "total_items": 5,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 232,
+   "nodo": "Sánchez León Óscar Hernán",
+   "total_items": 2,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 233,
+   "nodo": "Santos Marin Guillermo Antonio",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 234,
+   "nodo": "Santos Ramirez Jose Neftali",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 235,
+   "nodo": "Serpa Uribe  Horacio ",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 236,
+   "nodo": "Serrano Perez Jaime Enrique",
+   "total_items": 2,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 237,
+   "nodo": "Sierra Grajales Luis Emilio",
+   "total_items": 2,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 238,
+   "nodo": "Sierra Ramos  Fernando ",
+   "total_items": 5,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 239,
+   "nodo": "Soto Jaramillo Carlos Enrique",
+   "total_items": 2,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 240,
+   "nodo": "Suarez Melo  Leopoldo ",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 241,
+   "nodo": "Suarez Mira Olga Lucia",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 242,
+   "nodo": "Tamayo Marulanda  Jorge Eliécer ",
+   "total_items": 3,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 243,
+   "nodo": "Tamayo Tamayo Fernando Eustacio",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 244,
+   "nodo": "Torres Monsalvo Efrain Antonio",
+   "total_items": 2,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 245,
+   "nodo": "Tous de la Ossa  Eduardo Jose \"Joche\"",
+   "total_items": 2,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 246,
+   "nodo": "Tovar Rey  Nohora Stella  ",
+   "total_items": 6,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 247,
+   "nodo": "Triana Vargas   Maria Eugenia  ",
+   "total_items": 5,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 248,
+   "nodo": "Uribe Muñoz  Alirio ",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 249,
+   "nodo": "Uribe Vélez Álvaro",
+   "total_items": 10,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 250,
+   "nodo": "Urrego Carvajal  Luis Fernando ",
+   "total_items": 2,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 251,
+   "nodo": "Valencia González Santiago",
+   "total_items": 5,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 252,
+   "nodo": "Valencia Laserna Paloma Susana ",
+   "total_items": 9,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 253,
+   "nodo": "Vanegas Osorio  Albeiro ",
+   "total_items": 2,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 254,
+   "nodo": "Varón Cotrino Germán",
+   "total_items": 3,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 255,
+   "nodo": "Vega de Plazas Thania",
+   "total_items": 4,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 256,
+   "nodo": "Vega Quiroz  Doris Clemencia ",
+   "total_items": 2,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 257,
+   "nodo": "Velasco Cháves Luis Fernando",
+   "total_items": 3,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 258,
+   "nodo": "Velasquez Nieto Olga Lucia",
+   "total_items": 3,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 259,
+   "nodo": "Velasquez Ramirez Argenis ",
+   "total_items": 2,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 260,
+   "nodo": "Vicefiscal General de la Nación María Paulina Riveros Dueñas",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 261,
+   "nodo": "Viceministra de Relaciones Exteriores Patty Londoño Jaramillo",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 262,
+   "nodo": "Villadiego Villadiego Sandra Elena",
+   "total_items": 2,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 263,
+   "nodo": "Villalba Hodwalker  Martha Patricia ",
+   "total_items": 2,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 264,
+   "nodo": "Villalba Mosquera Rodrigo",
+   "total_items": 3,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 265,
+   "nodo": "Villamil Benavides Angelo Antonio",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 266,
+   "nodo": "Yepes Alzate Arturo",
+   "total_items": 2,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 267,
+   "nodo": "Yepes Martínez Jaime Armando",
+   "total_items": 2,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 268,
+   "nodo": "Zabaraín D'arce Armando Antonio",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 269,
+   "nodo": "Zambrano Eraso Bérner León",
+   "total_items": 3,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 270,
+   "nodo": "Zorro Africano Gloria Betty",
+   "total_items": 1,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 271,
+   "nodo": "Zuluaga Henao Maria Regina",
+   "total_items": 3,
+   "tiponodo": "autor"
+ },
+ {
+   "id": 7631,
+   "nodo": "Por la cual se dictan disposiciones que regulan la operación del Sistema General de Seguridad Social en Salud y se dictan otras disposiciones. [Regulación del Sistema de Seguridad Social]",
+   "tema_proyecto": "Seguridad Social y salud",
+   "total_items": 7,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 7646,
+   "nodo": "Por la cual se convierte en política de Estado el Programa de Cero a Siempre. [Programa de Cero a Siempre]",
+   "tema_proyecto": "Bienestar y pobreza",
+   "total_items": 12,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 7655,
+   "nodo": "Por medio de la cual se crea el artículo 116 A se modifican los artículos 68 A 104 113 359 y 374 de la Ley 599 de 2000 y se modifica el artículo 351 de la Ley 906 de 2004. [Aumenta penalización ataques con ácido]",
+   "tema_proyecto": "Justicia",
+   "total_items": 3,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 7688,
+   "nodo": "Por la cual se decreta el Presupuesto de Rentas y Recursos de Capital y Ley de Apropiaciones para la vigencia fiscal del 1° de enero al 31 de diciembre de 2015. [Presupuesto general de la Nación 2015]",
+   "tema_proyecto": "Presupuesto",
+   "total_items": 1,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 7702,
+   "nodo": "Por medio de la cual se declara Patrimonio Inmaterial Cultural Artístico Dancístico y Folclórico de la Nación el desfile el Salsódromo que se realiza dentro del marco de la Feria de Cali y se dictan otras disposiciones. [Salsódromo como patrimonio cultural]\"",
+   "tema_proyecto": "Celebraciones honores y monumentos",
+   "total_items": 1,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 7709,
+   "nodo": "Por medio de la cual se dictan normas en materia de costos de los servicios financieros reportes en centrales de riesgo y se dictan otras disposiciones. [Costos de servicios financieros]",
+   "tema_proyecto": "Economía",
+   "total_items": 16,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 7731,
+   "nodo": "Por medio de la cual se aprueba el «Tratado sobre el Comercio de Armas» adoptado por la Asamblea General de las Naciones Unidas mediante Resolución 67/234 b de 2 de abril de 2013 y suscrito en la ciudad de Nueva York el 24 de septiembre de 2013. [Tratado sobre el Comercio de Armas]",
+   "tema_proyecto": "Política Internacional",
+   "total_items": 2,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 7787,
+   "nodo": "Por el cual se modifican los artículos 15 y 16 de la Ley 270 de 1996 Estatutaria de la Administración de Justicia. [Magistrados de descongestión en la Corte Suprema de Justicia]",
+   "tema_proyecto": "Justicia",
+   "total_items": 52,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 7790,
+   "nodo": "Por medio de la cual se reglamenta el Acto Legislativo 02 de 2009. [Cannabis medicinal marihuana medicinal]",
+   "tema_proyecto": "Seguridad Social y salud",
+   "total_items": 1,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 7791,
+   "nodo": "Por medio del cual se adopta una reforma de equilibrio de poderes y reajuste institucional y se dictan otras disposiciones. [Equilibrio de poderes]",
+   "tema_proyecto": "Rama Ejecutiva",
+   "total_items": 2,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 7795,
+   "nodo": "Por medio de la cual se modifican el Código Civil la Ley 84 de 1989 el Código Penal el Código de Procedimiento Penal y se dictan otras disposiciones. [Tipifica como punible el maltrato animal maltrato animal]",
+   "tema_proyecto": "Justicia",
+   "total_items": 2,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 7802,
+   "nodo": "Por medio de la cual se aprueba el “Protocolo adicional al Acuerdo Marco de la Alianza del Pacífico” firmado en Cartagena de Indias República de Colombia el 10 de febrero de 2014. [Protocolo adicional al Acuerdo Marco de la Alianza del Pacífico]",
+   "tema_proyecto": "Política Internacional",
+   "total_items": 4,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 7803,
+   "nodo": "Por medio de la cual se aprueba el “Acuerdo de Libre Comercio entre la República de Colombia y la República de Corea” firmado en Seúl el 21 de febrero de 2013. [TLC con Corea]",
+   "tema_proyecto": "Política Internacional",
+   "total_items": 2,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 7805,
+   "nodo": "Por medio de la cual se modifican la Ley 73 de 1988 y la Ley 919 de 2004 en materia de donación de componentes anatómicos y se dictan otras disposiciones.[Donación de órganos]",
+   "tema_proyecto": "Seguridad Social y salud",
+   "total_items": 1,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 7807,
+   "nodo": "Por medio de la cual se declara patrimonio cultural inmaterial de la Nación la celebración de la Semana Santa en Tunja (Boyacá) y se dictan otras disposiciones. [Celebración Semana Santa de Tunja]",
+   "tema_proyecto": "Celebraciones honores y monumentos",
+   "total_items": 1,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 7812,
+   "nodo": "Por medio de la cual la Nación se vincula a la celebración de los setenta (70) años de existencia de la Universidad de Caldas y se autoriza en su homenaje la financiación del centro cultural universitario en sus etapas II y III. [70 años de la Universidad de Caldas]",
+   "tema_proyecto": "Celebraciones honores y monumentos",
+   "total_items": 2,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 7829,
+   "nodo": "Por la cual se establecen medidas enfocadas a la protección del comprador de vivienda el incremento de la seguridad de las edificaciones y el fortalecimiento de la función pública que ejercen los curadores urbanos. [Reglamentación curadurías urbanas] ",
+   "tema_proyecto": "Vivienda",
+   "total_items": 1,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 7846,
+   "nodo": "Por la cual se expide el Código Nacional de Policía y Convivencia. [Código de policía]",
+   "tema_proyecto": "Seguridad defensa y fuerza pública",
+   "total_items": 10,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 7850,
+   "nodo": "Por la cual la Nación y el Congreso de la República se asocian y rinden homenaje al municipio de San Antonio en el departamento del Tolima con motivo de la conmemoración de los cien años de su fundación y se autorizan apropiaciones presupuestales para la ejecución de obras de inversión social. [Centenario de San Antonio Tolima]",
+   "tema_proyecto": "Celebraciones honores y monumentos",
+   "total_items": 1,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 7851,
+   "nodo": "Por medio de la cual la Nación se asocia a la conmemoración de los 145 años de haber sido erigido como municipio Ciudad Bolívar en el departamento de Antioquia. [145 años de Ciudad Bolívar Antioquia]",
+   "tema_proyecto": "Celebraciones honores y monumentos",
+   "total_items": 1,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 7852,
+   "nodo": " Por el cual se reforma el artículo 221 de la Constitución Política de Colombia. [Justicia penal militar]",
+   "tema_proyecto": "Seguridad defensa y fuerza pública",
+   "total_items": 11,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 7853,
+   "nodo": "Por medio del cual se establece la Red para la Superación de la Pobreza Extrema – Red Unidos y se dictan otras disposiciones. [Red para la Superación de la Pobreza Extrema Red Unidos]",
+   "tema_proyecto": "Bienestar y pobreza",
+   "total_items": 2,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 7857,
+   "nodo": "Por medio de la cual se modifica el Estatuto Tributario la Ley 1607 de 2012 se crean mecanismos de lucha contra la evasión y se dictan otras disposiciones. [Reforma tributaria]",
+   "tema_proyecto": "Impuestos",
+   "total_items": 1,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 7859,
+   "nodo": "Por medio de la cual la Nación se asocia a la conmemoración del bicentenario del sitio de Cartagena de Indias- Ciudad Heroica y exalta la memoria de los cartageneros que resistieron 105 días. [Bicentenario sitio de Cartagena Bolívar]",
+   "tema_proyecto": "Celebraciones honores y monumentos",
+   "total_items": 1,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 7860,
+   "nodo": "Por la cual se decreta el Presupuesto del Sistema General de Regalías para el bienio del 1° de enero de 2015 al 31 de diciembre de 2016. [Presupuesto del Sistema General de Regalías 2015 – 2016]",
+   "tema_proyecto": "Economía",
+   "total_items": 2,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 7861,
+   "nodo": "Por medio de la cual se regula el cobro del gasto pre-jurídico en los créditos educativos del Icetex. [Cobro pre jurídico de créditos del Icetex]",
+   "tema_proyecto": "Educación cultura ciencia y tecnología",
+   "total_items": 1,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 7864,
+   "nodo": "Por medio de la cual la Nación se vincula a la celebración de los 60 años de la Universidad del Tolima se autorizan apropiaciones presupuestales se modifica la Ley 664 de 2001 y se dictan otras disposiciones. [60 años Universidad del Tolima]",
+   "tema_proyecto": "Celebraciones honores y monumentos",
+   "total_items": 4,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 7867,
+   "nodo": "Por medio de la cual se prorroga la Ley 418 de 1997 prorrogada y modificada por las Leyes 548 de 1999782 de 20021106 de 2006 y 1421 de 2010. [Prórroga Ley 418 de 1197 de justicia y paz]",
+   "tema_proyecto": "Conflicto armado",
+   "total_items": 1,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 7869,
+   "nodo": "Por la cual se establece el procedimiento disciplinario que deberá seguirse para tramitar y decidir los asuntos disciplinarios que conoce el Consejo Profesional Nacional de Arquitectura y sus Profesiones Auxiliares. [Consejo Profesional Nacional de Arquitectura]",
+   "tema_proyecto": "Profesiones",
+   "total_items": 1,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 7882,
+   "nodo": "Por medio de la cual se modifica parcialmente la Ley 906 de 2004 en relación con las medidas de aseguramiento privativas de la libertad. [Regulación detención preventiva]",
+   "tema_proyecto": "Justicia",
+   "total_items": 2,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 7890,
+   "nodo": "Por medio del cual se definen y regulan las cuentas abandonadas y se destinan recursos adicionales para la educación en Colombia. [Saldos de cuentas abandonadas para educación]",
+   "tema_proyecto": "Educación cultura ciencia y tecnología",
+   "total_items": 2,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 7893,
+   "nodo": "Por medio de la cual se establece la tasa real de 0% de intereses en los créditos educativos otorgados por el Fondo Nacional del Ahorro para estudiantes de estratos 1 2 y 3. [Créditos educativos otorgados por el Fondo Nacional del Ahorro sin intereses]",
+   "tema_proyecto": "Educación cultura ciencia y tecnología",
+   "total_items": 8,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 7895,
+   "nodo": "Por la cual se dictan normas sobre la responsabilidad de las personas jurídicas por actos de corrupción transnacional y se dictan otras disposiciones en materia de lucha contra la corrupción. [Lucha contra la corrupción]",
+   "tema_proyecto": "Corrupción",
+   "total_items": 1,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 7896,
+   "nodo": "Por medio de la cual se establecen Alternativas de Financiamiento para la Rama Judicial. [Financiamiento para la Rama Judicial]",
+   "tema_proyecto": "Rama Judicial",
+   "total_items": 1,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 7908,
+   "nodo": "Por la cual se adoptan medidas y disposiciones para los proyectos de infraestructura de transporte agua potable y saneamiento básico y los demás sectores que requieran expropiación en proyectos de inversión que adelante el Estado y se dictan otras disposiciones. [Ley de infraestructura expropiación predios]",
+   "tema_proyecto": "Infraestructura",
+   "total_items": 2,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 7915,
+   "nodo": "Por la cual se desarrolla parcialmente el artículo 67 y los numerales 21 22 y 26 del artículo 189 de la Constitución Política se regula la inspección y vigilancia de la educación superior y se dictan otras disposiciones [Vigilancia de la educación superior]",
+   "tema_proyecto": "Educación cultura ciencia y tecnología",
+   "total_items": 7,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 7930,
+   "nodo": "Por la cual se expide el Plan Nacional de Desarrollo 2014 -2018 “Todos por un nuevo país” [Plan Nacional de Desarrollo 2014 - 2018]",
+   "tema_proyecto": "Plan Nacional de Desarrollo",
+   "total_items": 1,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 7937,
+   "nodo": "Por la cual la Nación y el Congreso de la República se asocian y rinden homenaje al municipio de Pensilvania en el departamento de Caldas con motivo de la conmemoración de los 150 años de su fundación y se dictan otras disposiciones. [150 años de Pensilvania Caldas]",
+   "tema_proyecto": "Celebraciones honores y monumentos",
+   "total_items": 1,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 7958,
+   "nodo": "Por medio del cual se prohíbe los procedimientos médicos y quirúrgicos estéticos para menores de edad y se dictan otras disposiciones. [Prohíbe cirugías estéticas a menores de edad]",
+   "tema_proyecto": "Seguridad Social y salud",
+   "total_items": 4,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 7959,
+   "nodo": "Por medio de la cual la Nación rinde homenaje y exalta la vida del ilustre ciudadano Carlos Gaviria Díaz. [Homenaje a Carlos Gaviria Díaz]",
+   "tema_proyecto": "Celebraciones honores y monumentos",
+   "total_items": 12,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 7968,
+   "nodo": "Por medio de la cual la Nación rinde honores a la memoria del periodista Enrique Santos Castillo. [Honores a Enrique Santos Castillo]",
+   "tema_proyecto": "Celebraciones honores y monumentos",
+   "total_items": 36,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 7970,
+   "nodo": "Por la cual se crean y se desarrollan las Zonas de Interés de Desarrollo Rural Económico y Social (Zidres) y se adicionan los artículos 31 y 52 de la Ley 160 de 1994. [Zonas de Interés de Desarrollo Rural Económico y Social Zidres]",
+   "tema_proyecto": "Agropecuario y agrícola",
+   "total_items": 1,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 7980,
+   "nodo": "Por medio de la cual se adiciona un parágrafo al artículo 102 de la Ley 50 de 1990 y se dictan otras disposiciones. [Cesantías para educación superior]",
+   "tema_proyecto": "Economía",
+   "total_items": 13,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 7987,
+   "nodo": "Por medio de la cual se aprueba el “Acuerdo marco entre las Naciones Unidas y el gobierno de la República de Colombia relativo a las contribuciones al Sistema de Acuerdos de Fuerzas de Reserva de las Naciones Unidas para las operaciones de mantenimiento de la paz”, suscrito en la ciudad de Nueva York el 26 de enero de 2015. [Acuerdo ONU mantenimiento de la paz]",
+   "tema_proyecto": "Política Internacional",
+   "total_items": 2,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8010,
+   "nodo": "Por la cual se modifica y adiciona la Ley 5ª de 1992 se crea la Comisión Legal para la Protección de los Derechos de las Comunidades Negras o Población Afrocolombiana del Congreso de la República de Colombia y se dictan otras disposiciones. [Comisión Legal para la Protección de los Derechos de las Comunidades Negras o Población Afrocolombiana]",
+   "tema_proyecto": "Rama Legislativa",
+   "total_items": 1,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8016,
+   "nodo": "Por medio del cual se garantiza el acceso en condiciones de universalidad al derecho prestacional de pago de prima de servicios para trabajadores y trabajadoras domésticos. [Prima de servicios para trabajadores domésticos]",
+   "tema_proyecto": "Seguridad Social y salud",
+   "total_items": 11,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8030,
+   "nodo": "Proyecto mediante el cual se modifica la Ley 599 de 2000 y se dictan otras disposiciones para proteger los mecanismos de participación democrática. [Delitos electorales]",
+   "tema_proyecto": "Organización Electoral y elecciones",
+   "total_items": 1,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8033,
+   "nodo": "Por el cual se crea el Sistema Nacional de Información de Becas y Créditos Educativos (SNIBCE). [Sistema Nacional de Información de Becas y Créditos Educativos]",
+   "tema_proyecto": "Educación cultura ciencia y tecnología",
+   "total_items": 1,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8046,
+   "nodo": "Por medio de la cual se modifica la Ley 648 de 2001 y se dictan otras disposiciones. [Estampilla Universidad Distrital Universidad Nacional]",
+   "tema_proyecto": "Estampillas",
+   "total_items": 2,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8055,
+   "nodo": "Por medio de la cual la Nación se asocia a la conmemoración de los cincuenta (50) años de vida administrativa del departamento del Quindío rinde público homenaje a sus habitantes y se dictan otras disposiciones. [50 años del departamento de Quindío]",
+   "tema_proyecto": "Celebraciones honores y monumentos",
+   "total_items": 1,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8064,
+   "nodo": "Por medio del cual se adopta la estrategia salas amigas de la familia lactante del entorno laboral en entidades públicas y empresas privadas y se dictan otras disposiciones. [Salas amigas de la familia lactante]",
+   "tema_proyecto": "Familia",
+   "total_items": 1,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8068,
+   "nodo": "Por la cual se decreta el Presupuesto de Rentas y Recursos de Capital y Ley de Apropiaciones para la vigencia fiscal del 1° de enero al 31 de diciembre de 2016. [Presupuesto general de la Nación 2016]",
+   "tema_proyecto": "Presupuesto",
+   "total_items": 1,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8069,
+   "nodo": "Por la cual se modifica la Ley Estatutaria 1622 de 2013 y se dictan otras disposiciones. [Estatuto de ciudadanía juvenil]",
+   "tema_proyecto": "Familia",
+   "total_items": 17,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8089,
+   "nodo": "Por medio del cual se modifica la Ley 1361 del año 2009 para adicionar y complementar las medidas de protección de la familia y se dictan otras disposiciones. [Protección de la familia]",
+   "tema_proyecto": "Familia",
+   "total_items": 1,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8102,
+   "nodo": "Por medio del cual se incentiva la adecuada atención y cuidado de la primera infancia se modifican los artículos 236 y 239 del Código Sustantivo del Trabajo y se dictan otras disposiciones. [Ampliación licencia de maternidad]",
+   "tema_proyecto": "Mujer",
+   "total_items": 2,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8104,
+   "nodo": "Por la cual se modifican parcialmente los Decretos-ley 267 y 271 de 2000 y se crea la dependencia denominada “Centro de Estudios Fiscales (CEF)” de la Contraloría General de la República se establecen sus funciones y se dictan otras disposiciones. [Centro de Estudios Fiscales (CEF)]",
+   "tema_proyecto": "Organismos de Control y Ministerio público",
+   "total_items": 1,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8105,
+   "nodo": "Por medio del cual se otorgan incentivos para promover el uso de la bicicleta en el territorio nacional y se modifica el Código Nacional de Transito. [Incentivos al uso de la bicicleta]",
+   "tema_proyecto": "Tránsito y transporte",
+   "total_items": 3,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8107,
+   "nodo": "Por medio del cual se definen las contravenciones penales se establece un procedimiento especial abreviado para ellas y se regula la figura del acusador privado. [Contravenciones penales pequeñas causas]",
+   "tema_proyecto": "Justicia",
+   "total_items": 1,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8124,
+   "nodo": "Por medio de la cual se declara patrimonio cultural inmaterial de la Nación la celebración de la semana santa de la parroquia Santa Gertrudis la Magna de Envigado Antioquia y se dictan otras disposiciones. [Parroquia Santa Gertrudis la Magna de Envigado como patrimonio cultural]",
+   "tema_proyecto": "Celebraciones honores y monumentos",
+   "total_items": 1,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8152,
+   "nodo": "por medio de la cual se conmemoran los 200 años del fallecimiento de Francisco José de Caldas y se dictan varias disposiciones para celebrar dicha fecha. [200 años del fallecimiento de Francisco José de Caldas]",
+   "tema_proyecto": "Celebraciones honores y monumentos",
+   "total_items": 37,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8153,
+   "nodo": "Por medio del cual se establece la entrega de informe anual sobre el desarrollo avance y consolidación de los acuerdos comerciales suscritos por Colombia. [Informes anuales sobre avances de TLCs]",
+   "tema_proyecto": "Comercio industria y turismo",
+   "total_items": 37,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8154,
+   "nodo": "Por medio de la cual se aprueba el “Protocolo de enmienda al Convenio de Integración Cinematográfica Iberoamericana” suscrito en la ciudad de Córdoba España el 28 de noviembre de 2007. [Enmienda al Convenio de Integración Cinematográfica Iberoamericana]",
+   "tema_proyecto": "Política Internacional",
+   "total_items": 2,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8175,
+   "nodo": "Por la cual se reglamenta el servicio de reclutamiento control de reservas y la movilización. [Reclutamiento y movilización de FFAA]",
+   "tema_proyecto": "Seguridad defensa y fuerza pública",
+   "total_items": 2,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8181,
+   "nodo": "Por el cual se exceptúa la destinación específica de que trata el parágrafo del artículo 212 de la Ley 115 de 1994 de un área de terreno denominada “La Casona” donde funcionó el antiguo colegio San José de Alcántara de Guanentá. [Predio La Casona destinado a cultura]",
+   "tema_proyecto": "Educación cultura ciencia y tecnología",
+   "total_items": 1,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8189,
+   "nodo": "Proyecto mediante el cual se declara patrimonio cultural de la Nación al “Torneo Internacional de Contrapunteo y Voz Recia Cimarrón de Oro. [Torneo Cimarrón de Oro como patrimonio nacional]",
+   "tema_proyecto": "Celebraciones honores y monumentos",
+   "total_items": 1,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8192,
+   "nodo": "Por medio de la cual se modifica la edad máxima para el retiro forzoso de las personas que desempeñan funciones públicas. [Edad máxima de retiro forzoso de servidores públicos]",
+   "tema_proyecto": "Administración pública",
+   "total_items": 31,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8194,
+   "nodo": "Por medio de la cual se regula el Plebiscito por la Paz. [Plebiscito por la Paz]",
+   "tema_proyecto": "Conflicto armado",
+   "total_items": 1,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8196,
+   "nodo": "Por medio del cual se establecen instrumentos jurídicos para los desarrollos normativos necesarios para facilitar y asegurar la implementación del Acuerdo Final para la Terminación del Conflicto y la Construcción de una Paz estable y duradera. [Instrumentos jurídicos para la paz]",
+   "tema_proyecto": "Conflicto armado",
+   "total_items": 1,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8200,
+   "nodo": "Por medio de la cual se establecen medidas en contra de la pesca ilegal y el delito de ilícita actividad de pesca en el territorio colombiano. [Lucha contra la pesca ilegal]",
+   "tema_proyecto": "Agropecuario y agrícola",
+   "total_items": 1,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8201,
+   "nodo": "Por la cual la Nación declara patrimonio histórico y cultural al municipio de Trinidad del departamento de Casanare exaltando su condición de cuartel general de la Campaña Libertadora. [Trinidad Casanare como patrimonio]",
+   "tema_proyecto": "Celebraciones honores y monumentos",
+   "total_items": 1,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8204,
+   "nodo": "Por medio de la cual se establecen medidas de protección al adulto mayor en Colombia se modifican las Leyes 1251 de 2008 1315 de 2009 y 599 de 2000 se penaliza el maltrato intrafamiliar por abandono y se dictan otras disposiciones. [Protección adulto mayor]",
+   "tema_proyecto": "Bienestar y pobreza",
+   "total_items": 3,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8206,
+   "nodo": "Por la cual se amplían las autorizaciones conferidas al Gobierno nacional para celebrar operaciones de crédito público externo e interno y operaciones asimiladas a las anteriores así como para garantizar obligaciones de pago de otras entidades y se dictan disposiciones sobre emisión de títulos de Tesorería TES Clase “B” con el fin de atender la eventual liquidación de la Caja Nacional de Previsión Social de Comunicaciones Caprecom. [Ampliar cupo de endeudamiento]",
+   "tema_proyecto": "Economía",
+   "total_items": 1,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8207,
+   "nodo": "Por medio del cual se regula el uso del desfibrilador externo automático (DEA) en transportes asistenciales lugares de alta afluencia de público y se dictan otras disposiciones. [Regula el uso del desfibrilador]",
+   "tema_proyecto": "Seguridad Social y salud",
+   "total_items": 8,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8209,
+   "nodo": "Por medio de la cual se aprueba el “Acuerdo entre la República de Colombia y la Organización del Tratado del Atlántico Norte sobre Cooperación y Seguridad de Información” suscrito en Bruselas el 25 de junio de 2013. [Acuerdo OTAN sobre seguridad de información]",
+   "tema_proyecto": "Política Internacional",
+   "total_items": 2,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8210,
+   "nodo": "Por medio de la cual se declara como patrimonio genético nacional la raza autóctona del caballo de paso fino colombiano y se dictan otras disposiciones. [Raza del caballo de paso fino como patrimonio genético]",
+   "tema_proyecto": "Celebraciones honores y monumentos",
+   "total_items": 10,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8218,
+   "nodo": "Por medio de la cual se regula la instalación y puesta en marcha de sistemas automáticos semiautomáticos y otros medios tecnológicos para la detección de infracciones y se dictan otras disposiciones. [Reglamentación fotomultas]",
+   "tema_proyecto": "Tránsito y transporte",
+   "total_items": 4,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8234,
+   "nodo": "Por medio de la cual se fomenta la economía creativa Ley Naranja. [Economía creativa Ley naranja]",
+   "tema_proyecto": "Educación cultura ciencia y tecnología",
+   "total_items": 16,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8235,
+   "nodo": "Por medio de la cual se expide el Código de Ética y Disciplinario del Congresista y se dictan otras disposiciones. [Código de Ética y Disciplinario del Congresista]",
+   "tema_proyecto": "Rama Legislativa",
+   "total_items": 23,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8241,
+   "nodo": "Por la cual se dictan medidas relacionadas con los contratos de depósito de dinero. [Mecanismos gratuitos de retiro del dinero]",
+   "tema_proyecto": "Economía",
+   "total_items": 10,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8243,
+   "nodo": "Por medio de la cual se modifican algunos artículos de los Decretos Ley 1790 y 1791 de 2000 modificados por la Ley 1405 de 2010 y se dictan otras disposiciones. [Elimina el grado de teniente general]",
+   "tema_proyecto": "Seguridad defensa y fuerza pública",
+   "total_items": 1,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8245,
+   "nodo": "Por medio de la cual se aprueba el “Acuerdo entre el gobierno de la República de Colombia y el gobierno de la República Francesa sobre el fomento y protección recíprocos de inversiones” suscrito en la ciudad de Bogotá a los 10 días del mes de julio de 2014. [Acuerdo con Francia sobre protección recíproca de inversiones]",
+   "tema_proyecto": "Política Internacional",
+   "total_items": 2,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8250,
+   "nodo": "Por medio de la cual se modifica la Ley 367 de 1997. [Estampilla Universidad Surcolombiana]",
+   "tema_proyecto": "Estampillas",
+   "total_items": 8,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8252,
+   "nodo": "Por medio de la cual se promueve el empleo y el emprendimiento juvenil se genera medidas para superar barreras de acceso al mercado de trabajo y se dictan otras disposiciones. [Empleo juvenil]",
+   "tema_proyecto": "Laboral",
+   "total_items": 13,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8254,
+   "nodo": "Por medio de la cual se fija el régimen propio del monopolio rentístico de licores destilados se modifica el impuesto al consumo de licores vinos aperitivos y similares y se dictan otras disposiciones. [Impuestos a licores]",
+   "tema_proyecto": "Impuestos",
+   "total_items": 2,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8263,
+   "nodo": "Por la cual se establecen las normas de conducta del militar colombiano y se expide el Código Disciplinario Militar. [Código Disciplinario Militar]",
+   "tema_proyecto": "Seguridad defensa y fuerza pública",
+   "total_items": 1,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8274,
+   "nodo": "Por medio de la cual se aprueba el “Tratado de Libre Comercio entre la República de Colombia y el Estado de Israel” hecho en Jerusalén Israel el 30 de septiembre de 2013 y el “canje de notas entre la República de Colombia y el Estado de Israel por medio de la cual se corrigen errores técnicos del Tratado de Libre Comercio entre la República de Colombia y el Estado de Israel efectuado el 13 de noviembre de 2015. [Tratado de Libre Comercio entre Colombia e Israel]",
+   "tema_proyecto": "Política Internacional",
+   "total_items": 2,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8287,
+   "nodo": "Por medio de la cual se modifican los artículos 160 161 del Código Sustantivo del Trabajo y se dictan otras disposiciones. [Horas extras]",
+   "tema_proyecto": "Laboral",
+   "total_items": 4,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8289,
+   "nodo": "Por medio de la cual se expiden normas en materia de formalización titulación y reconocimiento de las edificaciones de los asentamientos humanos de predios urbanos y se dictan otras disposiciones. [Titulación de predios urbanos]",
+   "tema_proyecto": "Notariado y registro",
+   "total_items": 1,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8301,
+   "nodo": "Por medio de la cual se modifica el artículo 8° de la Ley 418 de 1997 prorrogada y modificada por las Leyes 548 de 1999 782 de 2002 1106 de 2006 1421 de 2010 y 1738 de 2014. [Prórroga Ley 418 de 1997]",
+   "tema_proyecto": "Conflicto armado",
+   "total_items": 1,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8302,
+   "nodo": "Por medio de la cual se renueva la emisión de la estampilla Pro-Universidad Industrial de Santander creada mediante Ley 85 de 1993 modificada por la Ley 1216 de 2008 y se dictan otras disposiciones- [Renovación estampilla Pro-Universidad Industrial de Santander]",
+   "tema_proyecto": "Estampillas",
+   "total_items": 3,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8331,
+   "nodo": "Por medio de la cual se crea el reconocimiento por la paz Diana Turbay. [Reconocimiento Diana Turbay]",
+   "tema_proyecto": "Celebraciones honores y monumentos",
+   "total_items": 1,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8333,
+   "nodo": "Por la cual se modifica el artículo 98 de la Ley 23 de 1982 \"sobre derechos de autor\" se establece una remuneración por comunicación pública a los autores de obras cinematográficas o Ley Pepe Sánchez. [Derechos de autor ley Pepe Sánchez]",
+   "tema_proyecto": "Derechos de autor",
+   "total_items": 1,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8334,
+   "nodo": "Por la cual se modifica el artículo 49 de la Ley 191 de 1995. [Renovación estampillas “Pro-desarrollo fronterizo\"]",
+   "tema_proyecto": "Estampillas",
+   "total_items": 11,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8337,
+   "nodo": "Por medio de la cual se adoptan medidas en relación con los deudores de los programas PRAN y Fonsa. [Alivio para deudores de los programas PRAN y Fonsa]",
+   "tema_proyecto": "Economía",
+   "total_items": 1,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8345,
+   "nodo": "Por medio de la cual se modifican algunas disposiciones de la Ley 1760 de 2015. [Medidas de aseguramiento privativas de la libertad]",
+   "tema_proyecto": "Justicia",
+   "total_items": 3,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8354,
+   "nodo": "Por medio de la cual la Nación se asocia a la conmemoración de los 400 años de fundación de la ciudad de Barbacoas departamento de Nariño. [400 años de Barbacoas Nariño]",
+   "tema_proyecto": "Celebraciones honores y monumentos",
+   "total_items": 1,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8359,
+   "nodo": "Por medio de la cual la Nación se asocia y rinde homenaje a la vida y obra al honrar la memoria del juglar Gilberto Alejandro Durán Díaz \"Alejo Durán\" al cumplir los 100 años de su natalicio y se dictan otras disposiciones. [Centenario de Alejo Durán]",
+   "tema_proyecto": "Celebraciones honores y monumentos",
+   "total_items": 1,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8361,
+   "nodo": "Por medio de la cual se conmemora el bicentenario de algunos de los próceres de la independencia fallecidos desde 1816 hasta 1819 y se dictan varias disposiciones para celebrar sus aportes a la República. [Bicentenario de los próceres de la independencia]",
+   "tema_proyecto": "Celebraciones honores y monumentos",
+   "total_items": 1,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8392,
+   "nodo": "Por el cual se modifica parcialmente la Ley General de Educación Ley 115 de 1994 y se dictan otras disposiciones. [Cátedra obligatoria de historia]",
+   "tema_proyecto": "Educación cultura ciencia y tecnología",
+   "total_items": 1,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8396,
+   "nodo": "Por medio de la cual se establecen criterios de equidad de géneros en la adjudicación de las tierras baldías vivienda rural proyectos productivos se modifica la Ley 160 de 1994 y se dictan otras disposiciones. [Equidad de géneros en la adjudicación de baldíos vivienda rural y proyectos productivos]",
+   "tema_proyecto": "Mujer",
+   "total_items": 3,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8415,
+   "nodo": "Por la cual se dictan disposiciones relacionadas con las cooperativas especializadas de vigilancia y seguridad privada y se busca mejorar las condiciones en las que los vigilantes prestan el servicio de vigilancia y seguridad privada. [Ley del vigilante]",
+   "tema_proyecto": "Seguridad defensa y fuerza pública",
+   "total_items": 3,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8425,
+   "nodo": "Por la cual se modifica parcialmente la Ley 1527 de 2012 \"Por medio de la cual se establece un marco general para la libranza o descuento directo y se dictan otras disposiciones. [Libranza]",
+   "tema_proyecto": "Economía",
+   "total_items": 1,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8436,
+   "nodo": "Por medio de la cual la Nación se une a la celebración de los 50 años de fundación del departamento de Sucre y rinde homenaje a los sucreños. [50 años de fundación del departamento de Sucre]",
+   "tema_proyecto": "Celebraciones honores y monumentos",
+   "total_items": 1,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8439,
+   "nodo": "Por la cual se declara Patrimonio Folclórico Cultural e Inmaterial de la Nación el Encuentro Nacional de Bandas en el municipio de Sincelejo (Sucre) y se vincula a la celebración de los 31 años del encuentro y se dictan otras disposiciones. [Encuentro Nacional de Bandas en el municipio de Sincelejo Sucre como patrimonio]",
+   "tema_proyecto": "Celebraciones honores y monumentos",
+   "total_items": 1,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8449,
+   "nodo": "Por medio de la cual se declara patrimonio histórico y cultural de la Nación a La Casa del Telegrafista en Aracataca Magdalena” y se dictan otras disposiciones. [La Casa del Telegrafista en Aracataca Magdalena como patrimonio]",
+   "tema_proyecto": "Celebraciones honores y monumentos",
+   "total_items": 1,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8454,
+   "nodo": "Por la cual se dictan normas de fomento a la ciencia tecnología e innovación mediante la creación de empresas de base tecnológica (spin offs). [Empresas de base tecnológica spin offs]",
+   "tema_proyecto": "Comunicaciones medios y tecnologías de la información",
+   "total_items": 1,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8458,
+   "nodo": "Por medio de la cual se aprueba el \"Protocolo al Tratado antártico sobre protección del medio ambiente su apéndice y sus Anexos I II III Y IV\" hecho en Madrid el 04 de octubre de 1991 su \"Anexo V\" adoptado en Bonn el 17 de octubre de 1991 y su \"Anexo VI\" adoptado en Estocolmo el 17 de junio de 2005. [Tratado antártico sobre protección del medio ambiente]",
+   "tema_proyecto": "Política Internacional",
+   "total_items": 4,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8459,
+   "nodo": "Por medio de la cual se aprueba el \"Acuerdo para el establecimiento del Fondo de Cooperación de la Alianza del Pacifico\" suscrito en Cali república de Colombia el 22 de mayo de 2013. [Acuerdo para el establecimiento del Fondo de Cooperación de la Alianza del Pacifico]",
+   "tema_proyecto": "Política Internacional",
+   "total_items": 2,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8461,
+   "nodo": "Por la cual la Nación se vincula a la celebración de los cincuenta y cinco (55) años de existencia de la Universidad del Magdalena y se dictan otras disposiciones. [55 años Universidad Magdalena]",
+   "tema_proyecto": "Celebraciones honores y monumentos",
+   "total_items": 1,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8470,
+   "nodo": "Por la cual se promueve y fomenta la producción y comunicación de contenidos digitales se crea la Semana Nacional de Contenidos Digitales y se dictan otras disposiciones. [Semana Nacional del Blogger]",
+   "tema_proyecto": "Comunicaciones medios y tecnologías de la información",
+   "total_items": 1,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8475,
+   "nodo": "Por la cual se decreta el Presupuesto de rentas y recursos de capital y ley de apropiaciones para la vigencia fiscal del 1 de enero al 31 de diciembre de 2017. “Para la nueva economía”. [Presupuesto general de la Nación 2017]",
+   "tema_proyecto": "Presupuesto",
+   "total_items": 1,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8514,
+   "nodo": "Por medio de la cual la Nación rinde honores y se vincula con el municipio de Chaparral (Tolima) a la celebración del bicentenario del natalicio del insigne ideólogo liberal estadista periodista escritor colombiano dos veces presidente de los Estados Unidos de Colombia a nombre del Partido Liberal señor Manuel Murillo Toro y se autoriza la realización de obras de infraestructura física y tecnológica en su nombre. [Bicentenario de Manuel Murillo Toro]",
+   "tema_proyecto": "Celebraciones honores y monumentos",
+   "total_items": 2,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8516,
+   "nodo": "Por medio de la cual la Nación se asocia y rinde homenaje al municipio de Pitalito en el departamento del Huila con motivo de la celebración del bicentenario de su fundación y se dictan otras disposiciones. [Bicentenario de Pitalito Huila]",
+   "tema_proyecto": "Celebraciones honores y monumentos",
+   "total_items": 10,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8518,
+   "nodo": "Por la cual se adicionan modifican y dictan disposiciones orientadas afortalecer la contratación pública en Colombia. [Contratación pública]",
+   "tema_proyecto": "Administración pública",
+   "total_items": 1,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8521,
+   "nodo": "Por medio del cual se establece el régimen de inhabilidades a quienes hayan sido condenados por delitos sexuales contra menores se crea el registro de inhabilidades y se dictan otras disposiciones. [Régimen de inhabilidades a condenados por delitos sexuales contra menores]",
+   "tema_proyecto": "Administración pública",
+   "total_items": 1,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8529,
+   "nodo": "Por medio de la cual se dictan disposiciones relacionadas con el ejercicio de la profesión de abogado. [Profesión de abogado]",
+   "tema_proyecto": "Profesiones",
+   "total_items": 4,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8541,
+   "nodo": "Por medio de la cual la Nación se asocia a la celebración de los ciento cincuenta (150) años de la fundación del municipio de Casabianca - Tolima, se rinde homenaje a sus habitantes y se dictan otras disposiciones. [150 años de Casabianca Tolima]",
+   "tema_proyecto": "Celebraciones honores y monumentos",
+   "total_items": 1,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8547,
+   "nodo": "Por medio de la cual se autoriza a las Asambleas Departamentales y los Concejos Distritales para la emisión de la estampilla pro –electrificación rural y otras contempladas en la Ley 1059 del 26 de julio del 2006 que modifica la Ley 23 de enero 24 de 1986. [Estampilla Pro electrificación rural]",
+   "tema_proyecto": "Estampillas",
+   "total_items": 15,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8548,
+   "nodo": "Por medio de la cual la Nación y el Congreso de la República se vinculan a la celebración de los 100 años de fundación del municipio de Belén de los Andaquíes en el departamento del Caquetá y se dictan otras disposiciones. [100 años de Belén de los Andaquíes Caquetá]",
+   "tema_proyecto": "Celebraciones honores y monumentos",
+   "total_items": 2,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8562,
+   "nodo": "Por el cual se brinda condiciones para mejorar la calidad de vida del adulto mayor en Colombia. [Protección adulto mayor]",
+   "tema_proyecto": "Familia",
+   "total_items": 6,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8579,
+   "nodo": "Por medio de la cual se modifica el artículo 1025 del Código Civil. [Indignidad sucesoral]",
+   "tema_proyecto": "Familia",
+   "total_items": 8,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8597,
+   "nodo": "Por medio de la cual la Nación se asocia a la conmemoración de los 400 años de la fundación del municipio de San Jerónimo en el Departamento de Antioquia y se dictan otras disposiciones. [400 años de San Jerónimo Antioquia]",
+   "tema_proyecto": "Celebraciones honores y monumentos",
+   "total_items": 2,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8603,
+   "nodo": "Por medio de la cual se declara el 25 de octubre como el día nacional de las personas de talla baja. [Día nacional de las personas de talla baja]",
+   "tema_proyecto": "Celebraciones honores y monumentos",
+   "total_items": 3,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8617,
+   "nodo": "Por medio de la cual se rinde honores a la memoria y obra del expresidente Julio Cesar Turbay Ayala con ocasión del primer centenario de su natalicio. [Centenario de Julio Cesar Turbay Ayala]",
+   "tema_proyecto": "Celebraciones honores y monumentos",
+   "total_items": 21,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8625,
+   "nodo": "Por el cual se dictan normas para fortalecer la regulación y supervisión de los conglomerados financieros y los mecanismos de resolución de entidades financieras. [Regulación y supervisión de conglomerados financieros]",
+   "tema_proyecto": "Economía",
+   "total_items": 1,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8629,
+   "nodo": "Por medio de la cual prorroga y modifica la Ley 426 de 1998 que autoriza la emisión de estampillas para Universidad de Caldas Universidad Nacional sede Manizales y Universidad Tecnológica de Pereira. [Estampilla universidades Eje Cafetero]",
+   "tema_proyecto": "Estampillas",
+   "total_items": 7,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8648,
+   "nodo": "Por medio de la cual se dictan el régimen de remuneración prestacional y seguridad social de los miembros de las asambleas departamentales y se dictan otras disposiciones. [Régimen prestacional de diputados]",
+   "tema_proyecto": "Rama Legislativa",
+   "total_items": 1,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8649,
+   "nodo": "Por medio del cual se crean y desarrollan las Sociedades Comerciales de Beneficio e Interés Colectivo – BIC. [Sociedades Comerciales de Beneficio e Interés Colectivo BIC]",
+   "tema_proyecto": "Comercio industria y turismo",
+   "total_items": 20,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8653,
+   "nodo": "Por medio de la cual se aprueba el \"Acuerdo de París\" adoptado el 12 de diciembre de 2015 en París Francia. [Cambio climático Acuerdo de París]",
+   "tema_proyecto": "Política Internacional",
+   "total_items": 8,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8657,
+   "nodo": "Por medio de la cual se otorga la categoría de Distrito Portuario Agroindustrial y Turístico a Turbo Antioquia. [Turbo como Distrito portuario agroindustrial y turístico]",
+   "tema_proyecto": "Ordenamiento Territorial",
+   "total_items": 1,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8675,
+   "nodo": "Por medio de la cual se reconoce como patrimonio cultural inmaterial de la Nación el Festival Nacional del Son Francisco “Pacho” Rada del municipio de Ariguaní –departamento del Magdalena y se dictan otras disposiciones. [Festival Nacional del Son Francisco “Pacho” Rada de Ariguaní Magdalena]",
+   "tema_proyecto": "Celebraciones honores y monumentos",
+   "total_items": 1,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8678,
+   "nodo": "Por medio de la cual se aprueba el protocolo de enmienda del acuerdo de Marrakech por el cual se establece la Organización Mundial del Comercio adoptado por el Consejo General de la Organización Mundial del Comercio en Ginebra Suiza el 27 de noviembre de 2014. [Protocolo de enmienda a la Organización Mundial del Comercio]",
+   "tema_proyecto": "Política Internacional",
+   "total_items": 2,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8685,
+   "nodo": "Por medio de la cual se aprueba el Convenio de Minamata sobre el mercurio hecho en Kumamoto Japón el 10 de octubre de 2013. [Convenio de Minamata sobre el mercurio]",
+   "tema_proyecto": "Política Internacional",
+   "total_items": 5,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8689,
+   "nodo": "Por medio de la cual se modifican la Ley 71 de 1986 y la Ley 1423 de 2010 y se dictan otras disposiciones. [Estampilla pro Universidad de La Guajira]",
+   "tema_proyecto": "Estampillas",
+   "total_items": 2,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8698,
+   "nodo": "Por medio de la cual se adopta una reforma tributaria estructural se fortalecen los mecanismos para la lucha contra la evasión y la elusión fiscal y se dictan otras disposiciones. [Reforma tributaria estructural]",
+   "tema_proyecto": "Impuestos",
+   "total_items": 1,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8702,
+   "nodo": "Por medio de la cual la Nación se vincula a la conmemoración y rinde homenaje público al municipio de Pinchote departamento de Santander con motivo de la celebración de los 235 años de su fundación. [235 años de Pinchote Santander]",
+   "tema_proyecto": "Celebraciones honores y monumentos",
+   "total_items": 1,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8705,
+   "nodo": "Por medio de la cual se crea una instancia que coordine y promueva programas y actividades que se desarrollen en las zonas del Paisaje Cultural Cafetero Colombiano (PCCC) y se fortalezcan las estrategias y criterios que la UNESCO definió para inscribirlo en la lista de patrimonio mundial. [Paisaje Cultural Cafetero Colombiano]",
+   "tema_proyecto": "Celebraciones honores y monumentos",
+   "total_items": 1,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8709,
+   "nodo": "Por medio de la cual la Nación se asocia a la conmemoración de los cincuenta (50) años de vida político- administrativa del Departamento del Cesar rinde público homenaje a sus habitantes y se dictan otras disposiciones. [50 años del departamento del Cesar]",
+   "tema_proyecto": "Celebraciones honores y monumentos",
+   "total_items": 1,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8717,
+   "nodo": "Por medio de la cual se decreta al municipio de Santa Cruz de Mompóx del departamento de Bolívar como distrito especial turístico cultural e histórico de Colombia. [Mompóx Bolívar como distrito especial]",
+   "tema_proyecto": "Ordenamiento Territorial",
+   "total_items": 6,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8718,
+   "nodo": "Proyecto de ley por medio del cual se modifica y adiciona la Ley 1708 de 2014 – Código de Extinción de Dominio- y se dictan otras disposiciones. [Extinción de dominio]",
+   "tema_proyecto": "Economía",
+   "total_items": 2,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8722,
+   "nodo": "Por medio de la cual la Nación se asocia a la conmemoración de los doscientos (200) años de vida administrativa del municipio de Guarne – Antioquia rinde público homenaje a sus habitantes y se dictan otras disposiciones. [200 años de Guarne Antioquia]",
+   "tema_proyecto": "Celebraciones honores y monumentos",
+   "total_items": 1,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8730,
+   "nodo": "Por medio de la cual se declara patrimonio pedagógico de la Nación al Instituto Pedagógico Nacional (IPN) Escuela Laboratorio y Centro de Práctica de la Universidad Pedagógica Nacional en el Distrito Capital de Bogotá y se dictan otras disposiciones. [Instituto Pedagógico Nacional (IPN) como patrimonio pedagógico]",
+   "tema_proyecto": "Celebraciones honores y monumentos",
+   "total_items": 2,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8731,
+   "nodo": "Por medio de la cual se aprueba el ‘primer protocolo modificatorio del protocolo adicional al Acuerdo Marco de la Alianza del Pacífico’ firmado en Paracas Ica República del Perú el 03 de julio de 2015 y el ‘segundo protocolo modificatorio del protocolo adicional al Acuerdo Marco de la Alianza del Pacífico’ firmado en Puerto Varas República de Chile el 01 de julio de 2016”. [Protocolo modificatorio de la Alianza Pacífico]",
+   "tema_proyecto": "Política Internacional",
+   "total_items": 2,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8734,
+   "nodo": "Por medio de la cual la Nación se vincula a la celebración del bicentenario de la campaña libertadora de 1819 y se dictan otras disposiciones. [Bicentenario de la campaña libertadora]",
+   "tema_proyecto": "Celebraciones honores y monumentos",
+   "total_items": 10,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8739,
+   "nodo": "Por medio de la cual se conmemora el bicentenario del sacrificio de la heroína Nacional Policarpa Salavarrieta y se dictan varias disposiciones para celebrar sus aportes a la República. [Bicentenario de Policarpa Salavarrieta]",
+   "tema_proyecto": "Celebraciones honores y monumentos",
+   "total_items": 1,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8755,
+   "nodo": "Por medio de la cual se dictan disposiciones sobre amnistía indulto y tratamientos penales especiales. [Amnistía]",
+   "tema_proyecto": "Implementación paz",
+   "total_items": 3,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8756,
+   "nodo": "Por medio de la cual la Nación se asocia a la exaltación de la obra artística de la maestra Cecilia Vargas Muñoz por sus aportes a la cultura colombiana. [Honores a la maestra Cecilia Vargas Muñoz]",
+   "tema_proyecto": "Celebraciones honores y monumentos",
+   "total_items": 2,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8760,
+   "nodo": "Por medio del cual se crea un título de disposiciones transitorias de la Constitución aplicables a los agentes del Estado para la terminación del conflicto armado y la construcción de una paz estable y duradera y se dictan otras disposiciones. [Jurisdicción Especial para la Paz JEP]",
+   "tema_proyecto": "Implementación paz",
+   "total_items": 3,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8762,
+   "nodo": "Por medio de la cual se adiciona un artículo  transitorio a la Ley 5ª de 1992. [Voceros de las Farc - Ep]",
+   "tema_proyecto": "Implementación paz",
+   "total_items": 1,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8763,
+   "nodo": "Por medio del cual se adiciona un artículo transitorio a la constitución con el propósito de dar estabilidad y seguridad jurídica al acuerdo final para la terminación del conflicto y la construcción de una paz estable y duradera. [Seguridad jurídica]",
+   "tema_proyecto": "Implementación paz",
+   "total_items": 1,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8767,
+   "nodo": "Por medio del cual se regula parcialmente el componente de reincorporación política del acuerdo final para la terminación del conflicto y la construcción de una paz estable y duradera. [Reincorporación política]",
+   "tema_proyecto": "Implementación paz",
+   "total_items": 1,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8768,
+   "nodo": "Por medio de la cual se adopta el Estatuto de la Oposición Política y algunos derechos a las agrupaciones políticas independientes. [Estatuto de la Oposición]",
+   "tema_proyecto": "Implementación paz",
+   "total_items": 1,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8772,
+   "nodo": "Por medio de la cual se crea el Sistema Nacional de Innovación Agropecuaria y se dictan otras disposiciones. [Sistema Nacional de Innovación Agropecuaria]",
+   "tema_proyecto": "Implementación paz",
+   "total_items": 2,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8791,
+   "nodo": "Por medio del cual se modifican los artículos 186 235 y 251 de la Constitución Política y se implementa el derecho a impugnar las sentencias condenatorias. [Doble instancia segunda instancia para aforados]",
+   "tema_proyecto": "Justicia",
+   "total_items": 16,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8792,
+   "nodo": "Por medio del cual se declara como patrimonio cultural y deportivo de la Nación al Estadio Eduardo Santos “semillero del fútbol colombiano” ubicado en el distrito turístico cultural e histórico de Santa Marta y se dictan otras disposiciones. [Estadio Eduardo Santos como patrimonio]",
+   "tema_proyecto": "Celebraciones honores y monumentos",
+   "total_items": 1,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8795,
+   "nodo": "Por el cual se adiciona el artículo 361 de la Constitución Política. [Sistema General de Regalías y la implementación]",
+   "tema_proyecto": "Implementación paz",
+   "total_items": 3,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8800,
+   "nodo": "Por la cual se efectúan unas modificaciones al Presupuesto General de la Nación para la vigencia fiscal de 2017. [Adición presupuestal]",
+   "tema_proyecto": "Presupuesto",
+   "total_items": 1,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8811,
+   "nodo": "Por medio de la cual se modifican algunos artículos de la Ley 1098 de 2006 “Por la cual se expide el código de la infancia y la adolescencia” y se dictan otras disposiciones. [Derechos de los menores reduce tiempos de adopción]",
+   "tema_proyecto": "Derechos Fundamentales",
+   "total_items": 1,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8815,
+   "nodo": "Por medio del cual se dictan disposiciones para asegurar el monopolio legítimo de la fuerza y del uso de las armas por parte del Estado. [Sobre el monopolio legítimo de la fuerza]",
+   "tema_proyecto": "Implementación paz",
+   "total_items": 1,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8831,
+   "nodo": "Por el cual se hace el reconocimiento a la cultura tradición e identidad llanera y se insta a las autoridades locales administrativas a desarrollar un plan especial de salvaguarda al patrimonio cultural llanero. [Patrimonio cultural llanero]",
+   "tema_proyecto": "Celebraciones honores y monumentos",
+   "total_items": 1,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8845,
+   "nodo": "Por la cual la Nación rinde público homenaje y se vincula a la celebración del sesquicentenario de fundación de la Universidad Nacional de Colombia y se dictan otras disposiciones. [150 años de la Universidad Nacional de Colombia]",
+   "tema_proyecto": "Celebraciones honores y monumentos",
+   "total_items": 5,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8847,
+   "nodo": "Por medio de la cual se crea la contribución solidaria a la educación superior y se dictan otras disposiciones sobre los mecanismos y las estrategias para lograr la financiación sostenible de la educación superior. [Sistema de Financiación Contingente al Ingreso financiación sostenible de la educación superior]",
+   "tema_proyecto": "Educación cultura ciencia y tecnología",
+   "total_items": 9,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8848,
+   "nodo": "Por el cual se establece el procedimiento de pérdida de la investidura de los congresistas se consagra la doble instancia el término de caducidad entre otras disposiciones. [Pérdida investidura doble instancia]",
+   "tema_proyecto": "Rama Legislativa",
+   "total_items": 5,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8861,
+   "nodo": "Por medio de la cual se reglamenta el sistema de residencias médicas en Colombia su mecanismo de financiación y se dictan otras disposiciones. [Reglamentación residencias médicas] ",
+   "tema_proyecto": "Profesiones",
+   "total_items": 1,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8868,
+   "nodo": "Por medio del cual se exceptúa a la Unidad Nacional de Protección de lo dispuesto en el artículo 92 de la Ley 617 de 2000. [Autoriza ampliar planta de personal de la UNP]",
+   "tema_proyecto": "Implementación paz",
+   "total_items": 1,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8870,
+   "nodo": "Por medio de la cual se declara patrimonio cultural de la Nación “el Festival Internacional Ipiales Cuna de Grandes Tríos” celebrado en el municipio de Ipiales - departamento de Nariño. [Festival Internacional Ipiales Cuna de Grandes Tríos como patrimonio cultural]",
+   "tema_proyecto": "Celebraciones honores y monumentos",
+   "total_items": 1,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8903,
+   "nodo": "Por la cual se decreta el Presupuesto de Rentas y Recursos de Capital y Ley de Apropiaciones para la vigencia fiscal del 1° de enero al 31 de diciembre de 2018. [Presupuesto General de la Nación 2018]",
+   "tema_proyecto": "Presupuesto",
+   "total_items": 1,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8942,
+   "nodo": "Por medio del cual se crea el “Fondo para el Desarrollo Integral del Distrito Especial de Buenaventura” y se adoptan medidas para promover el desarrollo integral del distrito especial industrial portuario biodiverso y ecoturístico de Buenaventura. [Fondo para el Desarrollo Integral del Distrito Especial de Buenaventura]",
+   "tema_proyecto": "Economía",
+   "total_items": 1,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8955,
+   "nodo": "Orgánica por medio de la cual se exceptúa al Ministerio del Trabajo al Instituto Nacional Penitenciario y Carcelario (Inpec) al Congreso de la República - Cámara de Representantes y Senado de la República a la Unidad Administrativa Especial de Aeronáutica Civil (UAEAC) y al Departamento Administrativo para la Prosperidad Social (DPS) de lo dispuesto en el artículo 92 de la Ley 617 de 2000  [Permite modificaciones a la planta de personal de algunas entidades del Estado]",
+   "tema_proyecto": "Laboral",
+   "total_items": 1,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8964,
+   "nodo": "Por la cual se autoriza a la Nación - Ministerio de Hacienda y Crédito Público- capitalizar al Servicio Aéreo a Territorios Nacionales S.A. – Satena [Capitalización de Satena]",
+   "tema_proyecto": "Tránsito y transporte",
+   "total_items": 1,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 8978,
+   "nodo": "Por el cual se modifican los artículos 328 y 356 de la Constitución Política [Buenaventura y Tumaco como distritos]",
+   "tema_proyecto": "Ordenamiento Territorial",
+   "total_items": 18,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 9016,
+   "nodo": "Por medio de la cual la Nación se vincula a la conmemoración de los 70 años de existencia de la Universidad Industrial de Santander y en su homenaje se autoriza financiar proyectos de infraestructura dotación investigación y extensión para la paz. [70 años de la UIS]",
+   "tema_proyecto": "Celebraciones honores y monumentos",
+   "total_items": 10,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 9280,
+   "nodo": "Por medio de la cual se fortalecen la investigación y judicialización de organizaciones criminales y se adoptan medidas para su sujeción a la justicia. [Sujeción a la justicia para bandas criminales] ",
+   "tema_proyecto": "Rama Judicial",
+   "total_items": 1,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 9284,
+   "nodo": "Por la cual se regula lo previsto en el parágrafo 5 del artículo 361 de la Constitución Política relativo a los programas y proyectos de inversión que se financiarán con recursos del Fondo de Ciencia Tecnología e Innovación del Sistema General de Regalías. [Regalías ciencia y tecnología]",
+   "tema_proyecto": "Economía",
+   "total_items": 1,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 9290,
+   "nodo": "Orgánica Por medio de la cual se adicionan dos parágrafos al artículo 2 de la Ley 3° de 1992 modificado por la Ley 754 de 2002 y se dictan otras disposiciones. [Composición comisiones del Congreso]",
+   "tema_proyecto": "Rama Legislativa",
+   "total_items": 8,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 9291,
+   "nodo": "Por la cual se modifica la ley 23 de 1982 y se establecen otras disposiciones en materia de derecho de autor y derechos conexos. [Derechos de autor]",
+   "tema_proyecto": "Derechos de autor",
+   "total_items": 2,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 9295,
+   "nodo": "Por la cual se establecen las reglas de la convocatoria pública previa a la elección del Contralor General de la República por el Congreso de la República. [Reglas elección Contralor General de la República]",
+   "tema_proyecto": "Rama Legislativa",
+   "total_items": 1,
+   "tiponodo": "proyecto"
+ },
+ {
+   "id": 9307,
+   "nodo": "Por medio de la cual se adoptan unas Reglas de Procedimiento para la Jurisdicción Especial para la Paz. [Reglas de Procedimiento para la JEP]",
+   "tema_proyecto": "Implementación paz",
+   "total_items": 1,
+   "tiponodo": "proyecto"
+ }
+],
+"edges": [
+
+     {
+   "source": 4,
+   "target": 7655
+ },
+ {
+   "source": 114,
+   "target": 7655
+ },
+ {
+   "source": 29,
+   "target": 7655
+ },
+ {
+   "source": 169,
+   "target": 7646
+ },
+ {
+   "source": 245,
+   "target": 7646
+ },
+ {
+   "source": 185,
+   "target": 7646
+ },
+ {
+   "source": 124,
+   "target": 7646
+ },
+ {
+   "source": 199,
+   "target": 7646
+ },
+ {
+   "source": 73,
+   "target": 7646
+ },
+ {
+   "source": 113,
+   "target": 7646
+ },
+ {
+   "source": 174,
+   "target": 7646
+ },
+ {
+   "source": 75,
+   "target": 7646
+ },
+ {
+   "source": 263,
+   "target": 7646
+ },
+ {
+   "source": 242,
+   "target": 7646
+ },
+ {
+   "source": 76,
+   "target": 7646
+ },
+ {
+   "source": 110,
+   "target": 7631
+ },
+ {
+   "source": 209,
+   "target": 7631
+ },
+ {
+   "source": 115,
+   "target": 7631
+ },
+ {
+   "source": 133,
+   "target": 7631
+ },
+ {
+   "source": 59,
+   "target": 7631
+ },
+ {
+   "source": 252,
+   "target": 7631
+ },
+ {
+   "source": 249,
+   "target": 7631
+ },
+ {
+   "source": 17,
+   "target": 7709
+ },
+ {
+   "source": 19,
+   "target": 7709
+ },
+ {
+   "source": 21,
+   "target": 7709
+ },
+ {
+   "source": 22,
+   "target": 7709
+ },
+ {
+   "source": 26,
+   "target": 7709
+ },
+ {
+   "source": 30,
+   "target": 7709
+ },
+ {
+   "source": 54,
+   "target": 7709
+ },
+ {
+   "source": 65,
+   "target": 7709
+ },
+ {
+   "source": 81,
+   "target": 7709
+ },
+ {
+   "source": 98,
+   "target": 7709
+ },
+ {
+   "source": 112,
+   "target": 7709
+ },
+ {
+   "source": 116,
+   "target": 7709
+ },
+ {
+   "source": 126,
+   "target": 7709
+ },
+ {
+   "source": 127,
+   "target": 7709
+ },
+ {
+   "source": 131,
+   "target": 7709
+ },
+ {
+   "source": 197,
+   "target": 7709
+ },
+ {
+   "source": 231,
+   "target": 7702
+ },
+ {
+   "source": 155,
+   "target": 7688
+ },
+ {
+   "source": 153,
+   "target": 7731
+ },
+ {
+   "source": 147,
+   "target": 7731
+ },
+ {
+   "source": 125,
+   "target": 7787
+ },
+ {
+   "source": 20,
+   "target": 7787
+ },
+ {
+   "source": 25,
+   "target": 7787
+ },
+ {
+   "source": 82,
+   "target": 7787
+ },
+ {
+   "source": 85,
+   "target": 7787
+ },
+ {
+   "source": 118,
+   "target": 7787
+ },
+ {
+   "source": 134,
+   "target": 7787
+ },
+ {
+   "source": 170,
+   "target": 7787
+ },
+ {
+   "source": 171,
+   "target": 7787
+ },
+ {
+   "source": 177,
+   "target": 7787
+ },
+ {
+   "source": 239,
+   "target": 7787
+ },
+ {
+   "source": 53,
+   "target": 7787
+ },
+ {
+   "source": 205,
+   "target": 7787
+ },
+ {
+   "source": 102,
+   "target": 7787
+ },
+ {
+   "source": 8,
+   "target": 7787
+ },
+ {
+   "source": 37,
+   "target": 7787
+ },
+ {
+   "source": 32,
+   "target": 7787
+ },
+ {
+   "source": 222,
+   "target": 7787
+ },
+ {
+   "source": 262,
+   "target": 7787
+ },
+ {
+   "source": 124,
+   "target": 7787
+ },
+ {
+   "source": 173,
+   "target": 7787
+ },
+ {
+   "source": 253,
+   "target": 7787
+ },
+ {
+   "source": 263,
+   "target": 7787
+ },
+ {
+   "source": 63,
+   "target": 7787
+ },
+ {
+   "source": 244,
+   "target": 7787
+ },
+ {
+   "source": 68,
+   "target": 7787
+ },
+ {
+   "source": 70,
+   "target": 7787
+ },
+ {
+   "source": 45,
+   "target": 7787
+ },
+ {
+   "source": 195,
+   "target": 7787
+ },
+ {
+   "source": 39,
+   "target": 7787
+ },
+ {
+   "source": 174,
+   "target": 7787
+ },
+ {
+   "source": 91,
+   "target": 7787
+ },
+ {
+   "source": 31,
+   "target": 7787
+ },
+ {
+   "source": 199,
+   "target": 7787
+ },
+ {
+   "source": 245,
+   "target": 7787
+ },
+ {
+   "source": 138,
+   "target": 7787
+ },
+ {
+   "source": 38,
+   "target": 7787
+ },
+ {
+   "source": 169,
+   "target": 7787
+ },
+ {
+   "source": 214,
+   "target": 7787
+ },
+ {
+   "source": 73,
+   "target": 7787
+ },
+ {
+   "source": 55,
+   "target": 7787
+ },
+ {
+   "source": 76,
+   "target": 7787
+ },
+ {
+   "source": 42,
+   "target": 7787
+ },
+ {
+   "source": 185,
+   "target": 7787
+ },
+ {
+   "source": 113,
+   "target": 7787
+ },
+ {
+   "source": 75,
+   "target": 7787
+ },
+ {
+   "source": 242,
+   "target": 7787
+ },
+ {
+   "source": 267,
+   "target": 7787
+ },
+ {
+   "source": 190,
+   "target": 7787
+ },
+ {
+   "source": 183,
+   "target": 7787
+ },
+ {
+   "source": 208,
+   "target": 7787
+ },
+ {
+   "source": 269,
+   "target": 7787
+ },
+ {
+   "source": 94,
+   "target": 7790
+ },
+ {
+   "source": 158,
+   "target": 7791
+ },
+ {
+   "source": 166,
+   "target": 7791
+ },
+ {
+   "source": 130,
+   "target": 7795
+ },
+ {
+   "source": 230,
+   "target": 7795
+ },
+ {
+   "source": 123,
+   "target": 7805
+ },
+ {
+   "source": 184,
+   "target": 7807
+ },
+ {
+   "source": 155,
+   "target": 7802
+ },
+ {
+   "source": 147,
+   "target": 7802
+ },
+ {
+   "source": 141,
+   "target": 7802
+ },
+ {
+   "source": 151,
+   "target": 7802
+ },
+ {
+   "source": 141,
+   "target": 7803
+ },
+ {
+   "source": 261,
+   "target": 7803
+ },
+ {
+   "source": 195,
+   "target": 7812
+ },
+ {
+   "source": 173,
+   "target": 7812
+ },
+ {
+   "source": 164,
+   "target": 7829
+ },
+ {
+   "source": 185,
+   "target": 7850
+ },
+ {
+   "source": 254,
+   "target": 7846
+ },
+ {
+   "source": 128,
+   "target": 7846
+ },
+ {
+   "source": 177,
+   "target": 7846
+ },
+ {
+   "source": 20,
+   "target": 7846
+ },
+ {
+   "source": 94,
+   "target": 7846
+ },
+ {
+   "source": 30,
+   "target": 7846
+ },
+ {
+   "source": 194,
+   "target": 7846
+ },
+ {
+   "source": 75,
+   "target": 7846
+ },
+ {
+   "source": 60,
+   "target": 7846
+ },
+ {
+   "source": 153,
+   "target": 7846
+ },
+ {
+   "source": 26,
+   "target": 7851
+ },
+ {
+   "source": 155,
+   "target": 7860
+ },
+ {
+   "source": 160,
+   "target": 7860
+ },
+ {
+   "source": 125,
+   "target": 7853
+ },
+ {
+   "source": 173,
+   "target": 7853
+ },
+ {
+   "source": 197,
+   "target": 7859
+ },
+ {
+   "source": 153,
+   "target": 7852
+ },
+ {
+   "source": 134,
+   "target": 7852
+ },
+ {
+   "source": 94,
+   "target": 7852
+ },
+ {
+   "source": 51,
+   "target": 7852
+ },
+ {
+   "source": 177,
+   "target": 7852
+ },
+ {
+   "source": 37,
+   "target": 7852
+ },
+ {
+   "source": 195,
+   "target": 7852
+ },
+ {
+   "source": 253,
+   "target": 7852
+ },
+ {
+   "source": 244,
+   "target": 7852
+ },
+ {
+   "source": 31,
+   "target": 7852
+ },
+ {
+   "source": 60,
+   "target": 7852
+ },
+ {
+   "source": 123,
+   "target": 7861
+ },
+ {
+   "source": 155,
+   "target": 7857
+ },
+ {
+   "source": 267,
+   "target": 7864
+ },
+ {
+   "source": 116,
+   "target": 7864
+ },
+ {
+   "source": 139,
+   "target": 7864
+ },
+ {
+   "source": 21,
+   "target": 7864
+ },
+ {
+   "source": 166,
+   "target": 7867
+ },
+ {
+   "source": 194,
+   "target": 7869
+ },
+ {
+   "source": 158,
+   "target": 7882
+ },
+ {
+   "source": 89,
+   "target": 7882
+ },
+ {
+   "source": 125,
+   "target": 7890
+ },
+ {
+   "source": 173,
+   "target": 7890
+ },
+ {
+   "source": 158,
+   "target": 7895
+ },
+ {
+   "source": 193,
+   "target": 7893
+ },
+ {
+   "source": 19,
+   "target": 7893
+ },
+ {
+   "source": 216,
+   "target": 7893
+ },
+ {
+   "source": 131,
+   "target": 7893
+ },
+ {
+   "source": 65,
+   "target": 7893
+ },
+ {
+   "source": 221,
+   "target": 7893
+ },
+ {
+   "source": 126,
+   "target": 7893
+ },
+ {
+   "source": 17,
+   "target": 7893
+ },
+ {
+   "source": 158,
+   "target": 7896
+ },
+ {
+   "source": 164,
+   "target": 7908
+ },
+ {
+   "source": 148,
+   "target": 7908
+ },
+ {
+   "source": 144,
+   "target": 7915
+ },
+ {
+   "source": 177,
+   "target": 7915
+ },
+ {
+   "source": 221,
+   "target": 7915
+ },
+ {
+   "source": 204,
+   "target": 7915
+ },
+ {
+   "source": 65,
+   "target": 7915
+ },
+ {
+   "source": 102,
+   "target": 7915
+ },
+ {
+   "source": 87,
+   "target": 7915
+ },
+ {
+   "source": 155,
+   "target": 7930
+ },
+ {
+   "source": 195,
+   "target": 7937
+ },
+ {
+   "source": 125,
+   "target": 7958
+ },
+ {
+   "source": 187,
+   "target": 7958
+ },
+ {
+   "source": 124,
+   "target": 7958
+ },
+ {
+   "source": 173,
+   "target": 7958
+ },
+ {
+   "source": 181,
+   "target": 7959
+ },
+ {
+   "source": 129,
+   "target": 7959
+ },
+ {
+   "source": 217,
+   "target": 7959
+ },
+ {
+   "source": 50,
+   "target": 7959
+ },
+ {
+   "source": 46,
+   "target": 7959
+ },
+ {
+   "source": 20,
+   "target": 7959
+ },
+ {
+   "source": 12,
+   "target": 7959
+ },
+ {
+   "source": 13,
+   "target": 7959
+ },
+ {
+   "source": 256,
+   "target": 7959
+ },
+ {
+   "source": 252,
+   "target": 7959
+ },
+ {
+   "source": 128,
+   "target": 7959
+ },
+ {
+   "source": 203,
+   "target": 7959
+ },
+ {
+   "source": 269,
+   "target": 7968
+ },
+ {
+   "source": 266,
+   "target": 7968
+ },
+ {
+   "source": 127,
+   "target": 7968
+ },
+ {
+   "source": 215,
+   "target": 7968
+ },
+ {
+   "source": 268,
+   "target": 7968
+ },
+ {
+   "source": 259,
+   "target": 7968
+ },
+ {
+   "source": 28,
+   "target": 7968
+ },
+ {
+   "source": 81,
+   "target": 7968
+ },
+ {
+   "source": 17,
+   "target": 7968
+ },
+ {
+   "source": 214,
+   "target": 7968
+ },
+ {
+   "source": 238,
+   "target": 7968
+ },
+ {
+   "source": 194,
+   "target": 7968
+ },
+ {
+   "source": 104,
+   "target": 7968
+ },
+ {
+   "source": 4,
+   "target": 7968
+ },
+ {
+   "source": 47,
+   "target": 7968
+ },
+ {
+   "source": 66,
+   "target": 7968
+ },
+ {
+   "source": 83,
+   "target": 7968
+ },
+ {
+   "source": 247,
+   "target": 7968
+ },
+ {
+   "source": 29,
+   "target": 7968
+ },
+ {
+   "source": 188,
+   "target": 7968
+ },
+ {
+   "source": 192,
+   "target": 7968
+ },
+ {
+   "source": 61,
+   "target": 7968
+ },
+ {
+   "source": 248,
+   "target": 7968
+ },
+ {
+   "source": 180,
+   "target": 7968
+ },
+ {
+   "source": 40,
+   "target": 7968
+ },
+ {
+   "source": 70,
+   "target": 7968
+ },
+ {
+   "source": 216,
+   "target": 7968
+ },
+ {
+   "source": 250,
+   "target": 7968
+ },
+ {
+   "source": 225,
+   "target": 7968
+ },
+ {
+   "source": 131,
+   "target": 7968
+ },
+ {
+   "source": 126,
+   "target": 7968
+ },
+ {
+   "source": 22,
+   "target": 7968
+ },
+ {
+   "source": 196,
+   "target": 7968
+ },
+ {
+   "source": 19,
+   "target": 7968
+ },
+ {
+   "source": 122,
+   "target": 7968
+ },
+ {
+   "source": 234,
+   "target": 7968
+ },
+ {
+   "source": 166,
+   "target": 7970
+ },
+ {
+   "source": 209,
+   "target": 7980
+ },
+ {
+   "source": 59,
+   "target": 7980
+ },
+ {
+   "source": 117,
+   "target": 7980
+ },
+ {
+   "source": 79,
+   "target": 7980
+ },
+ {
+   "source": 249,
+   "target": 7980
+ },
+ {
+   "source": 252,
+   "target": 7980
+ },
+ {
+   "source": 33,
+   "target": 7980
+ },
+ {
+   "source": 44,
+   "target": 7980
+ },
+ {
+   "source": 15,
+   "target": 7980
+ },
+ {
+   "source": 103,
+   "target": 7980
+ },
+ {
+   "source": 133,
+   "target": 7980
+ },
+ {
+   "source": 115,
+   "target": 7980
+ },
+ {
+   "source": 110,
+   "target": 7980
+ },
+ {
+   "source": 147,
+   "target": 7987
+ },
+ {
+   "source": 153,
+   "target": 7987
+ },
+ {
+   "source": 16,
+   "target": 8016
+ },
+ {
+   "source": 132,
+   "target": 8016
+ },
+ {
+   "source": 184,
+   "target": 8016
+ },
+ {
+   "source": 188,
+   "target": 8016
+ },
+ {
+   "source": 192,
+   "target": 8016
+ },
+ {
+   "source": 218,
+   "target": 8016
+ },
+ {
+   "source": 179,
+   "target": 8016
+ },
+ {
+   "source": 128,
+   "target": 8016
+ },
+ {
+   "source": 178,
+   "target": 8016
+ },
+ {
+   "source": 203,
+   "target": 8016
+ },
+ {
+   "source": 187,
+   "target": 8016
+ },
+ {
+   "source": 223,
+   "target": 8030
+ },
+ {
+   "source": 58,
+   "target": 8033
+ },
+ {
+   "source": 72,
+   "target": 8010
+ },
+ {
+   "source": 224,
+   "target": 8064
+ },
+ {
+   "source": 259,
+   "target": 8069
+ },
+ {
+   "source": 128,
+   "target": 8069
+ },
+ {
+   "source": 105,
+   "target": 8069
+ },
+ {
+   "source": 166,
+   "target": 8069
+ },
+ {
+   "source": 203,
+   "target": 8069
+ },
+ {
+   "source": 199,
+   "target": 8069
+ },
+ {
+   "source": 251,
+   "target": 8069
+ },
+ {
+   "source": 114,
+   "target": 8069
+ },
+ {
+   "source": 73,
+   "target": 8069
+ },
+ {
+   "source": 102,
+   "target": 8069
+ },
+ {
+   "source": 99,
+   "target": 8069
+ },
+ {
+   "source": 174,
+   "target": 8069
+ },
+ {
+   "source": 207,
+   "target": 8069
+ },
+ {
+   "source": 10,
+   "target": 8069
+ },
+ {
+   "source": 61,
+   "target": 8069
+ },
+ {
+   "source": 4,
+   "target": 8069
+ },
+ {
+   "source": 185,
+   "target": 8069
+ },
+ {
+   "source": 213,
+   "target": 8055
+ },
+ {
+   "source": 258,
+   "target": 8046
+ },
+ {
+   "source": 169,
+   "target": 8046
+ },
+ {
+   "source": 155,
+   "target": 8068
+ },
+ {
+   "source": 41,
+   "target": 8089
+ },
+ {
+   "source": 79,
+   "target": 8102
+ },
+ {
+   "source": 35,
+   "target": 8102
+ },
+ {
+   "source": 132,
+   "target": 8105
+ },
+ {
+   "source": 128,
+   "target": 8105
+ },
+ {
+   "source": 102,
+   "target": 8105
+ },
+ {
+   "source": 56,
+   "target": 8104
+ },
+ {
+   "source": 158,
+   "target": 8107
+ },
+ {
+   "source": 26,
+   "target": 8124
+ },
+ {
+   "source": 9,
+   "target": 8152
+ },
+ {
+   "source": 79,
+   "target": 8152
+ },
+ {
+   "source": 133,
+   "target": 8152
+ },
+ {
+   "source": 271,
+   "target": 8152
+ },
+ {
+   "source": 15,
+   "target": 8152
+ },
+ {
+   "source": 33,
+   "target": 8152
+ },
+ {
+   "source": 67,
+   "target": 8152
+ },
+ {
+   "source": 119,
+   "target": 8152
+ },
+ {
+   "source": 207,
+   "target": 8152
+ },
+ {
+   "source": 18,
+   "target": 8152
+ },
+ {
+   "source": 120,
+   "target": 8152
+ },
+ {
+   "source": 103,
+   "target": 8152
+ },
+ {
+   "source": 210,
+   "target": 8152
+ },
+ {
+   "source": 58,
+   "target": 8152
+ },
+ {
+   "source": 110,
+   "target": 8152
+ },
+ {
+   "source": 2,
+   "target": 8152
+ },
+ {
+   "source": 251,
+   "target": 8152
+ },
+ {
+   "source": 252,
+   "target": 8152
+ },
+ {
+   "source": 255,
+   "target": 8152
+ },
+ {
+   "source": 36,
+   "target": 8152
+ },
+ {
+   "source": 238,
+   "target": 8152
+ },
+ {
+   "source": 167,
+   "target": 8152
+ },
+ {
+   "source": 246,
+   "target": 8152
+ },
+ {
+   "source": 59,
+   "target": 8152
+ },
+ {
+   "source": 201,
+   "target": 8152
+ },
+ {
+   "source": 211,
+   "target": 8152
+ },
+ {
+   "source": 34,
+   "target": 8152
+ },
+ {
+   "source": 35,
+   "target": 8152
+ },
+ {
+   "source": 44,
+   "target": 8152
+ },
+ {
+   "source": 99,
+   "target": 8152
+ },
+ {
+   "source": 109,
+   "target": 8152
+ },
+ {
+   "source": 117,
+   "target": 8152
+ },
+ {
+   "source": 137,
+   "target": 8152
+ },
+ {
+   "source": 198,
+   "target": 8152
+ },
+ {
+   "source": 209,
+   "target": 8152
+ },
+ {
+   "source": 223,
+   "target": 8152
+ },
+ {
+   "source": 249,
+   "target": 8152
+ },
+ {
+   "source": 59,
+   "target": 8153
+ },
+ {
+   "source": 211,
+   "target": 8153
+ },
+ {
+   "source": 58,
+   "target": 8153
+ },
+ {
+   "source": 207,
+   "target": 8153
+ },
+ {
+   "source": 238,
+   "target": 8153
+ },
+ {
+   "source": 246,
+   "target": 8153
+ },
+ {
+   "source": 9,
+   "target": 8153
+ },
+ {
+   "source": 18,
+   "target": 8153
+ },
+ {
+   "source": 33,
+   "target": 8153
+ },
+ {
+   "source": 34,
+   "target": 8153
+ },
+ {
+   "source": 35,
+   "target": 8153
+ },
+ {
+   "source": 110,
+   "target": 8153
+ },
+ {
+   "source": 120,
+   "target": 8153
+ },
+ {
+   "source": 209,
+   "target": 8153
+ },
+ {
+   "source": 249,
+   "target": 8153
+ },
+ {
+   "source": 109,
+   "target": 8153
+ },
+ {
+   "source": 44,
+   "target": 8153
+ },
+ {
+   "source": 79,
+   "target": 8153
+ },
+ {
+   "source": 2,
+   "target": 8153
+ },
+ {
+   "source": 255,
+   "target": 8153
+ },
+ {
+   "source": 271,
+   "target": 8153
+ },
+ {
+   "source": 167,
+   "target": 8153
+ },
+ {
+   "source": 99,
+   "target": 8153
+ },
+ {
+   "source": 103,
+   "target": 8153
+ },
+ {
+   "source": 133,
+   "target": 8153
+ },
+ {
+   "source": 137,
+   "target": 8153
+ },
+ {
+   "source": 223,
+   "target": 8153
+ },
+ {
+   "source": 15,
+   "target": 8153
+ },
+ {
+   "source": 36,
+   "target": 8153
+ },
+ {
+   "source": 67,
+   "target": 8153
+ },
+ {
+   "source": 117,
+   "target": 8153
+ },
+ {
+   "source": 119,
+   "target": 8153
+ },
+ {
+   "source": 198,
+   "target": 8153
+ },
+ {
+   "source": 201,
+   "target": 8153
+ },
+ {
+   "source": 210,
+   "target": 8153
+ },
+ {
+   "source": 251,
+   "target": 8153
+ },
+ {
+   "source": 252,
+   "target": 8153
+ },
+ {
+   "source": 147,
+   "target": 8154
+ },
+ {
+   "source": 143,
+   "target": 8154
+ },
+ {
+   "source": 6,
+   "target": 8175
+ },
+ {
+   "source": 247,
+   "target": 8175
+ },
+ {
+   "source": 19,
+   "target": 8181
+ },
+ {
+   "source": 203,
+   "target": 8189
+ },
+ {
+   "source": 15,
+   "target": 8192
+ },
+ {
+   "source": 18,
+   "target": 8192
+ },
+ {
+   "source": 34,
+   "target": 8192
+ },
+ {
+   "source": 35,
+   "target": 8192
+ },
+ {
+   "source": 36,
+   "target": 8192
+ },
+ {
+   "source": 67,
+   "target": 8192
+ },
+ {
+   "source": 79,
+   "target": 8192
+ },
+ {
+   "source": 103,
+   "target": 8192
+ },
+ {
+   "source": 109,
+   "target": 8192
+ },
+ {
+   "source": 117,
+   "target": 8192
+ },
+ {
+   "source": 119,
+   "target": 8192
+ },
+ {
+   "source": 120,
+   "target": 8192
+ },
+ {
+   "source": 137,
+   "target": 8192
+ },
+ {
+   "source": 167,
+   "target": 8192
+ },
+ {
+   "source": 198,
+   "target": 8192
+ },
+ {
+   "source": 2,
+   "target": 8192
+ },
+ {
+   "source": 201,
+   "target": 8192
+ },
+ {
+   "source": 207,
+   "target": 8192
+ },
+ {
+   "source": 209,
+   "target": 8192
+ },
+ {
+   "source": 211,
+   "target": 8192
+ },
+ {
+   "source": 223,
+   "target": 8192
+ },
+ {
+   "source": 238,
+   "target": 8192
+ },
+ {
+   "source": 246,
+   "target": 8192
+ },
+ {
+   "source": 249,
+   "target": 8192
+ },
+ {
+   "source": 251,
+   "target": 8192
+ },
+ {
+   "source": 271,
+   "target": 8192
+ },
+ {
+   "source": 58,
+   "target": 8192
+ },
+ {
+   "source": 219,
+   "target": 8192
+ },
+ {
+   "source": 227,
+   "target": 8192
+ },
+ {
+   "source": 231,
+   "target": 8192
+ },
+ {
+   "source": 113,
+   "target": 8192
+ },
+ {
+   "source": 20,
+   "target": 8194
+ },
+ {
+   "source": 166,
+   "target": 8196
+ },
+ {
+   "source": 15,
+   "target": 8207
+ },
+ {
+   "source": 44,
+   "target": 8207
+ },
+ {
+   "source": 79,
+   "target": 8207
+ },
+ {
+   "source": 110,
+   "target": 8207
+ },
+ {
+   "source": 133,
+   "target": 8207
+ },
+ {
+   "source": 209,
+   "target": 8207
+ },
+ {
+   "source": 249,
+   "target": 8207
+ },
+ {
+   "source": 252,
+   "target": 8207
+ },
+ {
+   "source": 29,
+   "target": 8204
+ },
+ {
+   "source": 114,
+   "target": 8204
+ },
+ {
+   "source": 232,
+   "target": 8204
+ },
+ {
+   "source": 3,
+   "target": 8201
+ },
+ {
+   "source": 151,
+   "target": 8200
+ },
+ {
+   "source": 155,
+   "target": 8206
+ },
+ {
+   "source": 147,
+   "target": 8209
+ },
+ {
+   "source": 154,
+   "target": 8209
+ },
+ {
+   "source": 62,
+   "target": 8210
+ },
+ {
+   "source": 237,
+   "target": 8210
+ },
+ {
+   "source": 97,
+   "target": 8210
+ },
+ {
+   "source": 139,
+   "target": 8210
+ },
+ {
+   "source": 231,
+   "target": 8210
+ },
+ {
+   "source": 19,
+   "target": 8210
+ },
+ {
+   "source": 131,
+   "target": 8210
+ },
+ {
+   "source": 208,
+   "target": 8210
+ },
+ {
+   "source": 124,
+   "target": 8210
+ },
+ {
+   "source": 173,
+   "target": 8210
+ },
+ {
+   "source": 111,
+   "target": 8218
+ },
+ {
+   "source": 125,
+   "target": 8218
+ },
+ {
+   "source": 13,
+   "target": 8218
+ },
+ {
+   "source": 6,
+   "target": 8218
+ },
+ {
+   "source": 9,
+   "target": 8234
+ },
+ {
+   "source": 35,
+   "target": 8234
+ },
+ {
+   "source": 36,
+   "target": 8234
+ },
+ {
+   "source": 44,
+   "target": 8234
+ },
+ {
+   "source": 59,
+   "target": 8234
+ },
+ {
+   "source": 79,
+   "target": 8234
+ },
+ {
+   "source": 99,
+   "target": 8234
+ },
+ {
+   "source": 109,
+   "target": 8234
+ },
+ {
+   "source": 110,
+   "target": 8234
+ },
+ {
+   "source": 115,
+   "target": 8234
+ },
+ {
+   "source": 209,
+   "target": 8234
+ },
+ {
+   "source": 211,
+   "target": 8234
+ },
+ {
+   "source": 238,
+   "target": 8234
+ },
+ {
+   "source": 249,
+   "target": 8234
+ },
+ {
+   "source": 252,
+   "target": 8234
+ },
+ {
+   "source": 102,
+   "target": 8234
+ },
+ {
+   "source": 179,
+   "target": 8235
+ },
+ {
+   "source": 13,
+   "target": 8235
+ },
+ {
+   "source": 18,
+   "target": 8235
+ },
+ {
+   "source": 44,
+   "target": 8235
+ },
+ {
+   "source": 37,
+   "target": 8235
+ },
+ {
+   "source": 85,
+   "target": 8235
+ },
+ {
+   "source": 64,
+   "target": 8235
+ },
+ {
+   "source": 101,
+   "target": 8235
+ },
+ {
+   "source": 212,
+   "target": 8235
+ },
+ {
+   "source": 193,
+   "target": 8235
+ },
+ {
+   "source": 176,
+   "target": 8235
+ },
+ {
+   "source": 182,
+   "target": 8235
+ },
+ {
+   "source": 215,
+   "target": 8235
+ },
+ {
+   "source": 31,
+   "target": 8235
+ },
+ {
+   "source": 121,
+   "target": 8235
+ },
+ {
+   "source": 130,
+   "target": 8235
+ },
+ {
+   "source": 247,
+   "target": 8235
+ },
+ {
+   "source": 192,
+   "target": 8235
+ },
+ {
+   "source": 2,
+   "target": 8235
+ },
+ {
+   "source": 213,
+   "target": 8235
+ },
+ {
+   "source": 242,
+   "target": 8235
+ },
+ {
+   "source": 29,
+   "target": 8235
+ },
+ {
+   "source": 114,
+   "target": 8235
+ },
+ {
+   "source": 180,
+   "target": 8241
+ },
+ {
+   "source": 26,
+   "target": 8241
+ },
+ {
+   "source": 184,
+   "target": 8241
+ },
+ {
+   "source": 109,
+   "target": 8241
+ },
+ {
+   "source": 54,
+   "target": 8241
+ },
+ {
+   "source": 130,
+   "target": 8241
+ },
+ {
+   "source": 124,
+   "target": 8241
+ },
+ {
+   "source": 270,
+   "target": 8241
+ },
+ {
+   "source": 192,
+   "target": 8241
+ },
+ {
+   "source": 114,
+   "target": 8241
+ },
+ {
+   "source": 154,
+   "target": 8243
+ },
+ {
+   "source": 147,
+   "target": 8245
+ },
+ {
+   "source": 141,
+   "target": 8245
+ },
+ {
+   "source": 131,
+   "target": 8250
+ },
+ {
+   "source": 196,
+   "target": 8250
+ },
+ {
+   "source": 201,
+   "target": 8250
+ },
+ {
+   "source": 214,
+   "target": 8250
+ },
+ {
+   "source": 43,
+   "target": 8250
+ },
+ {
+   "source": 133,
+   "target": 8250
+ },
+ {
+   "source": 13,
+   "target": 8250
+ },
+ {
+   "source": 264,
+   "target": 8250
+ },
+ {
+   "source": 162,
+   "target": 8252
+ },
+ {
+   "source": 10,
+   "target": 8252
+ },
+ {
+   "source": 61,
+   "target": 8252
+ },
+ {
+   "source": 73,
+   "target": 8252
+ },
+ {
+   "source": 106,
+   "target": 8252
+ },
+ {
+   "source": 121,
+   "target": 8252
+ },
+ {
+   "source": 127,
+   "target": 8252
+ },
+ {
+   "source": 130,
+   "target": 8252
+ },
+ {
+   "source": 132,
+   "target": 8252
+ },
+ {
+   "source": 174,
+   "target": 8252
+ },
+ {
+   "source": 190,
+   "target": 8252
+ },
+ {
+   "source": 218,
+   "target": 8252
+ },
+ {
+   "source": 227,
+   "target": 8252
+ },
+ {
+   "source": 141,
+   "target": 8254
+ },
+ {
+   "source": 135,
+   "target": 8254
+ },
+ {
+   "source": 154,
+   "target": 8263
+ },
+ {
+   "source": 147,
+   "target": 8274
+ },
+ {
+   "source": 141,
+   "target": 8274
+ },
+ {
+   "source": 108,
+   "target": 8287
+ },
+ {
+   "source": 226,
+   "target": 8287
+ },
+ {
+   "source": 121,
+   "target": 8287
+ },
+ {
+   "source": 40,
+   "target": 8287
+ },
+ {
+   "source": 200,
+   "target": 8289
+ },
+ {
+   "source": 166,
+   "target": 8301
+ },
+ {
+   "source": 6,
+   "target": 8302
+ },
+ {
+   "source": 19,
+   "target": 8302
+ },
+ {
+   "source": 247,
+   "target": 8302
+ },
+ {
+   "source": 73,
+   "target": 8331
+ },
+ {
+   "source": 195,
+   "target": 8337
+ },
+ {
+   "source": 174,
+   "target": 8334
+ },
+ {
+   "source": 73,
+   "target": 8334
+ },
+ {
+   "source": 52,
+   "target": 8334
+ },
+ {
+   "source": 80,
+   "target": 8334
+ },
+ {
+   "source": 66,
+   "target": 8334
+ },
+ {
+   "source": 69,
+   "target": 8334
+ },
+ {
+   "source": 206,
+   "target": 8334
+ },
+ {
+   "source": 184,
+   "target": 8334
+ },
+ {
+   "source": 221,
+   "target": 8334
+ },
+ {
+   "source": 269,
+   "target": 8334
+ },
+ {
+   "source": 57,
+   "target": 8334
+ },
+ {
+   "source": 224,
+   "target": 8333
+ },
+ {
+   "source": 166,
+   "target": 8345
+ },
+ {
+   "source": 146,
+   "target": 8345
+ },
+ {
+   "source": 88,
+   "target": 8345
+ },
+ {
+   "source": 100,
+   "target": 8354
+ },
+ {
+   "source": 105,
+   "target": 8359
+ },
+ {
+   "source": 257,
+   "target": 8361
+ },
+ {
+   "source": 113,
+   "target": 8439
+ },
+ {
+   "source": 96,
+   "target": 8396
+ },
+ {
+   "source": 134,
+   "target": 8396
+ },
+ {
+   "source": 97,
+   "target": 8396
+ },
+ {
+   "source": 172,
+   "target": 8392
+ },
+ {
+   "source": 5,
+   "target": 8454
+ },
+ {
+   "source": 236,
+   "target": 8449
+ },
+ {
+   "source": 102,
+   "target": 8415
+ },
+ {
+   "source": 125,
+   "target": 8415
+ },
+ {
+   "source": 257,
+   "target": 8415
+ },
+ {
+   "source": 102,
+   "target": 8470
+ },
+ {
+   "source": 72,
+   "target": 8425
+ },
+ {
+   "source": 147,
+   "target": 8458
+ },
+ {
+   "source": 152,
+   "target": 8458
+ },
+ {
+   "source": 154,
+   "target": 8458
+ },
+ {
+   "source": 159,
+   "target": 8458
+ },
+ {
+   "source": 110,
+   "target": 8436
+ },
+ {
+   "source": 147,
+   "target": 8459
+ },
+ {
+   "source": 142,
+   "target": 8459
+ },
+ {
+   "source": 78,
+   "target": 8461
+ },
+ {
+   "source": 233,
+   "target": 8514
+ },
+ {
+   "source": 92,
+   "target": 8514
+ },
+ {
+   "source": 66,
+   "target": 8516
+ },
+ {
+   "source": 108,
+   "target": 8516
+ },
+ {
+   "source": 112,
+   "target": 8516
+ },
+ {
+   "source": 123,
+   "target": 8516
+ },
+ {
+   "source": 131,
+   "target": 8516
+ },
+ {
+   "source": 186,
+   "target": 8516
+ },
+ {
+   "source": 196,
+   "target": 8516
+ },
+ {
+   "source": 201,
+   "target": 8516
+ },
+ {
+   "source": 13,
+   "target": 8516
+ },
+ {
+   "source": 264,
+   "target": 8516
+ },
+ {
+   "source": 155,
+   "target": 8475
+ },
+ {
+   "source": 108,
+   "target": 8548
+ },
+ {
+   "source": 250,
+   "target": 8548
+ },
+ {
+   "source": 21,
+   "target": 8541
+ },
+ {
+   "source": 100,
+   "target": 8547
+ },
+ {
+   "source": 265,
+   "target": 8547
+ },
+ {
+   "source": 196,
+   "target": 8547
+ },
+ {
+   "source": 136,
+   "target": 8547
+ },
+ {
+   "source": 121,
+   "target": 8547
+ },
+ {
+   "source": 57,
+   "target": 8547
+ },
+ {
+   "source": 240,
+   "target": 8547
+ },
+ {
+   "source": 66,
+   "target": 8547
+ },
+ {
+   "source": 83,
+   "target": 8547
+ },
+ {
+   "source": 28,
+   "target": 8547
+ },
+ {
+   "source": 24,
+   "target": 8547
+ },
+ {
+   "source": 258,
+   "target": 8547
+ },
+ {
+   "source": 220,
+   "target": 8547
+ },
+ {
+   "source": 112,
+   "target": 8547
+ },
+ {
+   "source": 108,
+   "target": 8547
+ },
+ {
+   "source": 27,
+   "target": 8521
+ },
+ {
+   "source": 163,
+   "target": 8518
+ },
+ {
+   "source": 247,
+   "target": 8702
+ },
+ {
+   "source": 249,
+   "target": 8562
+ },
+ {
+   "source": 137,
+   "target": 8562
+ },
+ {
+   "source": 133,
+   "target": 8562
+ },
+ {
+   "source": 115,
+   "target": 8562
+ },
+ {
+   "source": 110,
+   "target": 8562
+ },
+ {
+   "source": 15,
+   "target": 8562
+ },
+ {
+   "source": 180,
+   "target": 8529
+ },
+ {
+   "source": 132,
+   "target": 8529
+ },
+ {
+   "source": 122,
+   "target": 8529
+ },
+ {
+   "source": 254,
+   "target": 8529
+ },
+ {
+   "source": 48,
+   "target": 8579
+ },
+ {
+   "source": 122,
+   "target": 8579
+ },
+ {
+   "source": 34,
+   "target": 8579
+ },
+ {
+   "source": 201,
+   "target": 8579
+ },
+ {
+   "source": 223,
+   "target": 8579
+ },
+ {
+   "source": 189,
+   "target": 8579
+ },
+ {
+   "source": 229,
+   "target": 8579
+ },
+ {
+   "source": 123,
+   "target": 8579
+ },
+ {
+   "source": 121,
+   "target": 8597
+ },
+ {
+   "source": 226,
+   "target": 8597
+ },
+ {
+   "source": 198,
+   "target": 8603
+ },
+ {
+   "source": 266,
+   "target": 8603
+ },
+ {
+   "source": 14,
+   "target": 8603
+ },
+ {
+   "source": 93,
+   "target": 8617
+ },
+ {
+   "source": 255,
+   "target": 8617
+ },
+ {
+   "source": 252,
+   "target": 8617
+ },
+ {
+   "source": 249,
+   "target": 8617
+ },
+ {
+   "source": 246,
+   "target": 8617
+ },
+ {
+   "source": 210,
+   "target": 8617
+ },
+ {
+   "source": 209,
+   "target": 8617
+ },
+ {
+   "source": 137,
+   "target": 8617
+ },
+ {
+   "source": 133,
+   "target": 8617
+ },
+ {
+   "source": 117,
+   "target": 8617
+ },
+ {
+   "source": 115,
+   "target": 8617
+ },
+ {
+   "source": 110,
+   "target": 8617
+ },
+ {
+   "source": 103,
+   "target": 8617
+ },
+ {
+   "source": 79,
+   "target": 8617
+ },
+ {
+   "source": 59,
+   "target": 8617
+ },
+ {
+   "source": 44,
+   "target": 8617
+ },
+ {
+   "source": 36,
+   "target": 8617
+ },
+ {
+   "source": 33,
+   "target": 8617
+ },
+ {
+   "source": 18,
+   "target": 8617
+ },
+ {
+   "source": 15,
+   "target": 8617
+ },
+ {
+   "source": 9,
+   "target": 8617
+ },
+ {
+   "source": 155,
+   "target": 8625
+ },
+ {
+   "source": 139,
+   "target": 8629
+ },
+ {
+   "source": 239,
+   "target": 8629
+ },
+ {
+   "source": 212,
+   "target": 8629
+ },
+ {
+   "source": 78,
+   "target": 8629
+ },
+ {
+   "source": 237,
+   "target": 8629
+ },
+ {
+   "source": 125,
+   "target": 8629
+ },
+ {
+   "source": 137,
+   "target": 8629
+ },
+ {
+   "source": 9,
+   "target": 8649
+ },
+ {
+   "source": 15,
+   "target": 8649
+ },
+ {
+   "source": 18,
+   "target": 8649
+ },
+ {
+   "source": 33,
+   "target": 8649
+ },
+ {
+   "source": 36,
+   "target": 8649
+ },
+ {
+   "source": 44,
+   "target": 8649
+ },
+ {
+   "source": 59,
+   "target": 8649
+ },
+ {
+   "source": 103,
+   "target": 8649
+ },
+ {
+   "source": 110,
+   "target": 8649
+ },
+ {
+   "source": 115,
+   "target": 8649
+ },
+ {
+   "source": 117,
+   "target": 8649
+ },
+ {
+   "source": 133,
+   "target": 8649
+ },
+ {
+   "source": 137,
+   "target": 8649
+ },
+ {
+   "source": 209,
+   "target": 8649
+ },
+ {
+   "source": 210,
+   "target": 8649
+ },
+ {
+   "source": 246,
+   "target": 8649
+ },
+ {
+   "source": 249,
+   "target": 8649
+ },
+ {
+   "source": 252,
+   "target": 8649
+ },
+ {
+   "source": 255,
+   "target": 8649
+ },
+ {
+   "source": 79,
+   "target": 8649
+ },
+ {
+   "source": 166,
+   "target": 8648
+ },
+ {
+   "source": 155,
+   "target": 8653
+ },
+ {
+   "source": 147,
+   "target": 8653
+ },
+ {
+   "source": 151,
+   "target": 8653
+ },
+ {
+   "source": 152,
+   "target": 8653
+ },
+ {
+   "source": 163,
+   "target": 8653
+ },
+ {
+   "source": 149,
+   "target": 8653
+ },
+ {
+   "source": 142,
+   "target": 8653
+ },
+ {
+   "source": 159,
+   "target": 8653
+ },
+ {
+   "source": 95,
+   "target": 8657
+ },
+ {
+   "source": 76,
+   "target": 8675
+ },
+ {
+   "source": 147,
+   "target": 8678
+ },
+ {
+   "source": 142,
+   "target": 8678
+ },
+ {
+   "source": 73,
+   "target": 8689
+ },
+ {
+   "source": 228,
+   "target": 8689
+ },
+ {
+   "source": 159,
+   "target": 8685
+ },
+ {
+   "source": 161,
+   "target": 8685
+ },
+ {
+   "source": 152,
+   "target": 8685
+ },
+ {
+   "source": 142,
+   "target": 8685
+ },
+ {
+   "source": 147,
+   "target": 8685
+ },
+ {
+   "source": 155,
+   "target": 8698
+ },
+ {
+   "source": 206,
+   "target": 8709
+ },
+ {
+   "source": 34,
+   "target": 8717
+ },
+ {
+   "source": 99,
+   "target": 8717
+ },
+ {
+   "source": 207,
+   "target": 8717
+ },
+ {
+   "source": 36,
+   "target": 8717
+ },
+ {
+   "source": 133,
+   "target": 8717
+ },
+ {
+   "source": 15,
+   "target": 8717
+ },
+ {
+   "source": 110,
+   "target": 8705
+ },
+ {
+   "source": 81,
+   "target": 8722
+ },
+ {
+   "source": 157,
+   "target": 8718
+ },
+ {
+   "source": 260,
+   "target": 8718
+ },
+ {
+   "source": 93,
+   "target": 8730
+ },
+ {
+   "source": 94,
+   "target": 8730
+ },
+ {
+   "source": 142,
+   "target": 8731
+ },
+ {
+   "source": 147,
+   "target": 8731
+ },
+ {
+   "source": 168,
+   "target": 8734
+ },
+ {
+   "source": 184,
+   "target": 8734
+ },
+ {
+   "source": 227,
+   "target": 8734
+ },
+ {
+   "source": 207,
+   "target": 8734
+ },
+ {
+   "source": 219,
+   "target": 8734
+ },
+ {
+   "source": 181,
+   "target": 8734
+ },
+ {
+   "source": 216,
+   "target": 8734
+ },
+ {
+   "source": 45,
+   "target": 8734
+ },
+ {
+   "source": 18,
+   "target": 8734
+ },
+ {
+   "source": 193,
+   "target": 8734
+ },
+ {
+   "source": 232,
+   "target": 8739
+ },
+ {
+   "source": 157,
+   "target": 8755
+ },
+ {
+   "source": 166,
+   "target": 8755
+ },
+ {
+   "source": 154,
+   "target": 8755
+ },
+ {
+   "source": 196,
+   "target": 8756
+ },
+ {
+   "source": 264,
+   "target": 8756
+ },
+ {
+   "source": 166,
+   "target": 8762
+ },
+ {
+   "source": 154,
+   "target": 8760
+ },
+ {
+   "source": 166,
+   "target": 8760
+ },
+ {
+   "source": 157,
+   "target": 8760
+ },
+ {
+   "source": 166,
+   "target": 8763
+ },
+ {
+   "source": 166,
+   "target": 8767
+ },
+ {
+   "source": 166,
+   "target": 8768
+ },
+ {
+   "source": 151,
+   "target": 8772
+ },
+ {
+   "source": 166,
+   "target": 8772
+ },
+ {
+   "source": 216,
+   "target": 8791
+ },
+ {
+   "source": 231,
+   "target": 8791
+ },
+ {
+   "source": 84,
+   "target": 8791
+ },
+ {
+   "source": 175,
+   "target": 8791
+ },
+ {
+   "source": 13,
+   "target": 8791
+ },
+ {
+   "source": 23,
+   "target": 8791
+ },
+ {
+   "source": 194,
+   "target": 8791
+ },
+ {
+   "source": 8,
+   "target": 8791
+ },
+ {
+   "source": 125,
+   "target": 8791
+ },
+ {
+   "source": 20,
+   "target": 8791
+ },
+ {
+   "source": 78,
+   "target": 8791
+ },
+ {
+   "source": 212,
+   "target": 8791
+ },
+ {
+   "source": 202,
+   "target": 8791
+ },
+ {
+   "source": 90,
+   "target": 8791
+ },
+ {
+   "source": 166,
+   "target": 8791
+ },
+ {
+   "source": 156,
+   "target": 8791
+ },
+ {
+   "source": 236,
+   "target": 8792
+ },
+ {
+   "source": 77,
+   "target": 8795
+ },
+ {
+   "source": 159,
+   "target": 8795
+ },
+ {
+   "source": 155,
+   "target": 8795
+ },
+ {
+   "source": 155,
+   "target": 8800
+ },
+ {
+   "source": 254,
+   "target": 8811
+ },
+ {
+   "source": 166,
+   "target": 8815
+ },
+ {
+   "source": 246,
+   "target": 8831
+ },
+ {
+   "source": 53,
+   "target": 8847
+ },
+ {
+   "source": 262,
+   "target": 8847
+ },
+ {
+   "source": 135,
+   "target": 8847
+ },
+ {
+   "source": 23,
+   "target": 8847
+ },
+ {
+   "source": 43,
+   "target": 8847
+ },
+ {
+   "source": 37,
+   "target": 8847
+ },
+ {
+   "source": 145,
+   "target": 8847
+ },
+ {
+   "source": 123,
+   "target": 8847
+ },
+ {
+   "source": 102,
+   "target": 8847
+ },
+ {
+   "source": 194,
+   "target": 8848
+ },
+ {
+   "source": 156,
+   "target": 8848
+ },
+ {
+   "source": 231,
+   "target": 8848
+ },
+ {
+   "source": 26,
+   "target": 8848
+ },
+ {
+   "source": 98,
+   "target": 8848
+ },
+ {
+   "source": 37,
+   "target": 8845
+ },
+ {
+   "source": 107,
+   "target": 8845
+ },
+ {
+   "source": 258,
+   "target": 8845
+ },
+ {
+   "source": 241,
+   "target": 8845
+ },
+ {
+   "source": 43,
+   "target": 8845
+ },
+ {
+   "source": 199,
+   "target": 8861
+ },
+ {
+   "source": 86,
+   "target": 8870
+ },
+ {
+   "source": 166,
+   "target": 8868
+ },
+ {
+   "source": 71,
+   "target": 8978
+ },
+ {
+   "source": 79,
+   "target": 8978
+ },
+ {
+   "source": 13,
+   "target": 8978
+ },
+ {
+   "source": 175,
+   "target": 8978
+ },
+ {
+   "source": 165,
+   "target": 8978
+ },
+ {
+   "source": 51,
+   "target": 8978
+ },
+ {
+   "source": 179,
+   "target": 8978
+ },
+ {
+   "source": 139,
+   "target": 8978
+ },
+ {
+   "source": 191,
+   "target": 8978
+ },
+ {
+   "source": 256,
+   "target": 8978
+ },
+ {
+   "source": 53,
+   "target": 8978
+ },
+ {
+   "source": 50,
+   "target": 8978
+ },
+ {
+   "source": 20,
+   "target": 8978
+ },
+ {
+   "source": 257,
+   "target": 8978
+ },
+ {
+   "source": 84,
+   "target": 8978
+ },
+ {
+   "source": 243,
+   "target": 8978
+ },
+ {
+   "source": 7,
+   "target": 8978
+ },
+ {
+   "source": 94,
+   "target": 8978
+ },
+ {
+   "source": 150,
+   "target": 8955
+ },
+ {
+   "source": 165,
+   "target": 8942
+ },
+ {
+   "source": 155,
+   "target": 8903
+ },
+ {
+   "source": 154,
+   "target": 8964
+ },
+ {
+   "source": 235,
+   "target": 9016
+ },
+ {
+   "source": 51,
+   "target": 9016
+ },
+ {
+   "source": 6,
+   "target": 9016
+ },
+ {
+   "source": 200,
+   "target": 9016
+ },
+ {
+   "source": 11,
+   "target": 9016
+ },
+ {
+   "source": 49,
+   "target": 9016
+ },
+ {
+   "source": 19,
+   "target": 9016
+ },
+ {
+   "source": 74,
+   "target": 9016
+ },
+ {
+   "source": 59,
+   "target": 9016
+ },
+ {
+   "source": 94,
+   "target": 9016
+ },
+ {
+   "source": 156,
+   "target": 9280
+ },
+ {
+   "source": 251,
+   "target": 9290
+ },
+ {
+   "source": 108,
+   "target": 9290
+ },
+ {
+   "source": 127,
+   "target": 9290
+ },
+ {
+   "source": 124,
+   "target": 9290
+ },
+ {
+   "source": 66,
+   "target": 9290
+ },
+ {
+   "source": 140,
+   "target": 9290
+ },
+ {
+   "source": 189,
+   "target": 9290
+ },
+ {
+   "source": 122,
+   "target": 9290
+ },
+ {
+   "source": 155,
+   "target": 9284
+ },
+ {
+   "source": 165,
+   "target": 9291
+ },
+ {
+   "source": 1,
+   "target": 9291
+ },
+ {
+   "source": 165,
+   "target": 9295
+ },
+ {
+   "source": 165,
+   "target": 9307
+ }
+
+ ]
+}
