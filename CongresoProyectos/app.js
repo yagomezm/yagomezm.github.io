@@ -4,12 +4,11 @@ d3.json("jsontotalult.json").then(function(tdat) {
 // Set the dimensions and margins of the diagram
 var margin = {top: 20, right: 10, bottom: 30, left: 180},
     width = 2048 - margin.left - margin.right,
-    height = 800 - margin.top - margin.bottom;
+    height =1024 - margin.top - margin.bottom;
 
 // append the svg object to the body of the page
 // appends a 'group' element to 'svg'
-// moves the 'group' element to the top left margin
-//var svg = d3.select("body").append("svg")
+
 var svg = d3.select("#TreeGraph").append("svg")
     .attr("width", width + margin.right + margin.left)
     .attr("height", height + margin.top + margin.bottom)
@@ -60,9 +59,7 @@ function update(source) {
   // Update the nodes...
   var node = svg.selectAll('g.node')
       .data(nodes, function(d) {return d.id || (d.id = ++i); });
-             // hover text for the node
-  node.append("title")
-     .text(function(d) { return d.data.Título; });
+
 
   // Enter any new modes at the parent's previous position.
   var nodeEnter = node.enter().append('g')
@@ -102,7 +99,9 @@ function update(source) {
       })
       .text(function(d) { return d.data.name; });
 
-
+             // hover text for the node
+  nodeEnter.append("title")
+     .text(function(d) { return d.data.Título; });
 
   // UPDATE
   var nodeUpdate = nodeEnter.merge(node);
